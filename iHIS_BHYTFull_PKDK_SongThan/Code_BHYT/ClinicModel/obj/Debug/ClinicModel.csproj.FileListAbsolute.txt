@@ -162,3 +162,7 @@ D:\iHIS_BHYTFull_PKDK_SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel
 D:\iHIS_BHYTFull_PKDK_SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.csprojResolveAssemblyReference.cache
 D:\iHIS_BHYTFull_PKDK_SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.dll
 D:\iHIS_BHYTFull_PKDK_SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.pdb
+D:\GitHub\PKDK SongThan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\bin\Debug\ClinicModel.dll
+D:\GitHub\PKDK SongThan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\bin\Debug\ClinicModel.pdb
+D:\GitHub\PKDK SongThan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.dll
+D:\GitHub\PKDK SongThan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.pdb
