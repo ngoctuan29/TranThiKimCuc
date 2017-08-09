@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<Result>
+  <Table1>
+    <SurgeriesCode>PT000000000001</SurgeriesCode>
+    <PatientCode>16001651</PatientCode>
+    <DateOn>28/11/2016</DateOn>
+    <TimeOn>18:29</TimeOn>
+    <DateOut>28/11/2016</DateOut>
+    <TimeOut>18:29</TimeOut>
+    <ICD10On>-1</ICD10On>
+    <ICD10Out>-1</ICD10Out>
+    <PhuongPhap>Bình thường </PhuongPhap>
+    <TinhHinh>Chủ động</TinhHinh>
+    <TaiBien>Không     </TaiBien>
+    <Content>{\rtf1\deff0{\fonttbl{\f0 Calibri;}{\f1 Times New Roman;}}{\colortbl ;\red0\green0\blue255 ;}{\*\defchp \fs22}{\stylesheet {\ql\fs22 Normal;}{\*\cs1\f1\fs20 Default Paragraph Font;}{\*\cs2\sbasedon1\f1\fs20 Line Number;}{\*\cs3\ul\fs22\cf1 Hyperlink;}{\*\ts4\tsrowd\fs22\ql\tscellpaddfl3\tscellpaddl108\tscellpaddfb3\tscellpaddfr3\tscellpaddr108\tscellpaddft3\tsvertalt\cltxlrtb Normal Table;}{\*\ts5\tsrowd\sbasedon4\fs22\ql\trbrdrt\brdrs\brdrw10\trbrdrl\brdrs\brdrw10\trbrdrb\brdrs\brdrw10\trbrdrr\brdrs\brdrw10\trbrdrh\brdrs\brdrw10\trbrdrv\brdrs\brdrw10\tscellpaddfl3\tscellpaddl108\tscellpaddfr3\tscellpaddr108\tsvertalt\cltxlrtb Table Simple 1;}}{\*\listoverridetable}\nouicompat\splytwnine\htmautsp\sectd\pard\plain\ql{\lang1033\langfe1033\f1\fs20\cf0 dfdfsdfsdfd}\f1\fs20\par}</Content>
+    <Note>f</Note>
+    <ObjectName>Thu Phí</ObjectName>
+    <ServiceName>Nắn, bó bột xương đùi/ chậu/ cột sống (bột liền)</ServiceName>
+    <PatientName>Đỗ Trọng Vinh</PatientName>
+    <PatientGenderName>Nam</PatientGenderName>
+    <PatientBirthyear>1990</PatientBirthyear>
+    <PatientAge>26</PatientAge>
+    <PatientAddress>352 Nguyễn Văn Quá, Phường Bình Thắng, Thị xã Dĩ An, Tỉnh Bình Dương</PatientAddress>
+    <MedicalHistory>Tien su benh</MedicalHistory>
+    <Allergy>Di ung benh</Allergy>
+    <DepartmentName>3. Phòng Khám Nội</DepartmentName>
+    <DepartmentName1>6. Phòng Tiểu Phẫu 02</DepartmentName1>
+    <EmployeeNameUpd>BS. BÙI THỊ ĐẾN</EmployeeNameUpd>
+    <ListEmployeeSurgical>Bác sĩ: BS CK1. NGUYỄN VIẾT THỊNH          - Bác sĩ: Ths.BS. LÊ QUỐC BẢO          - Bác sĩ: BS. BÙI THỊ ĐẾN          - </ListEmployeeSurgical>
+    <DiagnosisCustomOn>ff</DiagnosisCustomOn>
+    <DiagnosisCustomOut>f</DiagnosisCustomOut>
+  </Table1>
+  <Table3>
+    <RowID>132611</RowID>
+    <PatientCode>16001651</PatientCode>
+    <Pulse>120</Pulse>
+    <Temperature>36</Temperature>
+    <BloodPressure>89</BloodPressure>
+    <Weight>65</Weight>
+    <CreateDate>2016-11-28T18:29:57.493+07:00</CreateDate>
+    <EmployeeCode>NV00009</EmployeeCode>
+    <RefID>161883</RefID>
+    <ReferenceCode>PT000000000001</ReferenceCode>
+    <BloodPressure1>90</BloodPressure1>
+    <Hight>168</Hight>
+  </Table3>
+</Result>

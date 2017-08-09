@@ -1,0 +1,161 @@
+<?xml version="1.0" standalone="yes"?>
+<Report>
+  <Table1>
+    <ExportVendorCode>HT1</ExportVendorCode>
+    <ExportDate>25/06/2015</ExportDate>
+    <RepositoryNameOut>Kho tổng nhập mua</RepositoryNameOut>
+    <VendorName>Importer</VendorName>
+    <Note>têtte</Note>
+    <EmployeeName>QUẢN LÝ PHÒNG KHÁM</EmployeeName>
+  </Table1>
+  <Table2>
+    <ExportVendorCode>HT1</ExportVendorCode>
+    <ItemCode>TH000001</ItemCode>
+    <ItemName>Acetylcystein 200mg</ItemName>
+    <AmountImport>27.0000</AmountImport>
+    <DateEnd>03/2015</DateEnd>
+    <SalesPrice>500.0000</SalesPrice>
+    <UnitPrice>500.0000</UnitPrice>
+    <Shipment>td</Shipment>
+    <BHYTPrice>500.0000</BHYTPrice>
+    <WorkDate>2015-06-25T23:18:28.917+07:00</WorkDate>
+    <AmountRealExport>27.0000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>13500.00000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExportVendorCode>HT1</ExportVendorCode>
+    <ItemCode>TH000001</ItemCode>
+    <ItemName>Acetylcystein 200mg</ItemName>
+    <AmountImport>92.0000</AmountImport>
+    <DateEnd>04/2015</DateEnd>
+    <SalesPrice>500.0000</SalesPrice>
+    <UnitPrice>500.0000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>500.0000</BHYTPrice>
+    <WorkDate>2015-06-25T23:18:28.923+07:00</WorkDate>
+    <AmountRealExport>92.0000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>46000.00000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExportVendorCode>HT1</ExportVendorCode>
+    <ItemCode>TH000002</ItemCode>
+    <ItemName>Actrapid HM</ItemName>
+    <AmountImport>2.0000</AmountImport>
+    <DateEnd>03/2015</DateEnd>
+    <SalesPrice>320000.0000</SalesPrice>
+    <UnitPrice>300000.0000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>300000.0000</BHYTPrice>
+    <WorkDate>2015-06-25T23:18:28.927+07:00</WorkDate>
+    <AmountRealExport>2.0000</AmountRealExport>
+    <UnitOfMeasureName>Hộp</UnitOfMeasureName>
+    <TotalAmount>600000.00000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExportVendorCode>HT1</ExportVendorCode>
+    <ItemCode>TH000003</ItemCode>
+    <ItemName>Acyclovir cream 5gr</ItemName>
+    <AmountImport>5.0000</AmountImport>
+    <DateEnd>03/2015</DateEnd>
+    <SalesPrice>14000.0000</SalesPrice>
+    <UnitPrice>14000.0000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>14000.0000</BHYTPrice>
+    <WorkDate>2015-06-25T23:18:28.93+07:00</WorkDate>
+    <AmountRealExport>5.0000</AmountRealExport>
+    <UnitOfMeasureName>Tuýp</UnitOfMeasureName>
+    <TotalAmount>70000.00000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExportVendorCode>HT1</ExportVendorCode>
+    <ItemCode>TH000004</ItemCode>
+    <ItemName>Adalat 10mg</ItemName>
+    <AmountImport>33.0000</AmountImport>
+    <DateEnd>03/2015</DateEnd>
+    <SalesPrice>3000.0000</SalesPrice>
+    <UnitPrice>2500.0000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>2500.0000</BHYTPrice>
+    <WorkDate>2015-06-25T23:18:28.93+07:00</WorkDate>
+    <AmountRealExport>33.0000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>82500.00000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExportVendorCode>HT1</ExportVendorCode>
+    <ItemCode>TH000005</ItemCode>
+    <ItemName>Adalat 20mg</ItemName>
+    <AmountImport>66.0000</AmountImport>
+    <DateEnd>03/2015</DateEnd>
+    <SalesPrice>6000.0000</SalesPrice>
+    <UnitPrice>5500.0000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>5500.0000</BHYTPrice>
+    <WorkDate>2015-06-25T23:18:28.937+07:00</WorkDate>
+    <AmountRealExport>66.0000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>363000.00000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExportVendorCode>HT1</ExportVendorCode>
+    <ItemCode>TH000006</ItemCode>
+    <ItemName>Adrenoxyl 10mg</ItemName>
+    <AmountImport>41.0000</AmountImport>
+    <DateEnd>03/2015</DateEnd>
+    <SalesPrice>2000.0000</SalesPrice>
+    <UnitPrice>1200.0000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>1200.0000</BHYTPrice>
+    <WorkDate>2015-06-25T23:18:28.943+07:00</WorkDate>
+    <AmountRealExport>41.0000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>49200.00000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExportVendorCode>HT1</ExportVendorCode>
+    <ItemCode>TH000008</ItemCode>
+    <ItemName>Alaxan 500mg</ItemName>
+    <AmountImport>121.0000</AmountImport>
+    <DateEnd>03/2015</DateEnd>
+    <SalesPrice>1000.0000</SalesPrice>
+    <UnitPrice>730.0000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>730.0000</BHYTPrice>
+    <WorkDate>2015-06-25T23:18:28.947+07:00</WorkDate>
+    <AmountRealExport>121.0000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>88330.00000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExportVendorCode>HT1</ExportVendorCode>
+    <ItemCode>TH000015</ItemCode>
+    <ItemName>Angeliq</ItemName>
+    <AmountImport>5.0000</AmountImport>
+    <DateEnd>08/2017</DateEnd>
+    <SalesPrice>420000.0000</SalesPrice>
+    <UnitPrice>365000.0000</UnitPrice>
+    <Shipment>210B</Shipment>
+    <BHYTPrice>365000.0000</BHYTPrice>
+    <WorkDate>2015-06-25T23:18:28.95+07:00</WorkDate>
+    <AmountRealExport>5.0000</AmountRealExport>
+    <UnitOfMeasureName>Hộp</UnitOfMeasureName>
+    <TotalAmount>1825000.00000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExportVendorCode>HT1</ExportVendorCode>
+    <ItemCode>TH000198</ItemCode>
+    <ItemName>Prenatal</ItemName>
+    <AmountImport>1650.0000</AmountImport>
+    <DateEnd>11/2017</DateEnd>
+    <SalesPrice>6500.0000</SalesPrice>
+    <UnitPrice>5196.0000</UnitPrice>
+    <Shipment>04L414</Shipment>
+    <BHYTPrice>5196.0000</BHYTPrice>
+    <WorkDate>2015-06-25T23:18:28.957+07:00</WorkDate>
+    <AmountRealExport>1650.0000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>8573400.00000000</TotalAmount>
+  </Table2>
+</Report>

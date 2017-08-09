@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Table1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="RetailCode" type="xs:string" minOccurs="0" />
+              <xs:element name="FullName" type="xs:string" minOccurs="0" />
+              <xs:element name="Birthyear" type="xs:string" minOccurs="0" />
+              <xs:element name="ItemCategoryName" type="xs:string" minOccurs="0" />
+              <xs:element name="GroupName" type="xs:string" minOccurs="0" />
+              <xs:element name="RepositoryName" type="xs:string" minOccurs="0" />
+              <xs:element name="DateEnd" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Shipment" type="xs:string" minOccurs="0" />
+              <xs:element name="ItemName" type="xs:string" minOccurs="0" />
+              <xs:element name="UnitOfMeasureName" type="xs:string" minOccurs="0" />
+              <xs:element name="QuantityExport" type="xs:decimal" minOccurs="0" />
+              <xs:element name="UnitPrice" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Instruction" type="xs:string" minOccurs="0" />
+              <xs:element name="DateOfIssues" type="xs:int" minOccurs="0" />
+              <xs:element name="ExportDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Amount" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

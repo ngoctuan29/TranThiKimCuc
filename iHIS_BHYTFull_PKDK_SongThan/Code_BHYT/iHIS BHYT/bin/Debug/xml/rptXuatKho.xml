@@ -1,0 +1,913 @@
+<?xml version="1.0" standalone="yes"?>
+<Report>
+  <Table1>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ExportDate>11/04/2017</ExportDate>
+    <RepositoryNameOut>Kho Tổng Chẵn Nhập/Mua</RepositoryNameOut>
+    <RepositoryNameIn>Kho cấp phát BHYT</RepositoryNameIn>
+    <Note />
+    <EmployeeName>Quản trị hệ thống</EmployeeName>
+    <AmountTotal>91037992.000000</AmountTotal>
+    <EmployeeNameReceive>Nguyễn Thị Nhung</EmployeeNameReceive>
+  </Table1>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000231</ItemCode>
+    <ItemName>Xisat hồng</ItemName>
+    <AmountImport>2.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>0.000</SalesPrice>
+    <UnitPrice>740644.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>740644.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.01+07:00</WorkDate>
+    <AmountRealExport>1.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>740644.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000232</ItemCode>
+    <ItemName>Xisat xanh</ItemName>
+    <AmountImport>2.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>0.000</SalesPrice>
+    <UnitPrice>740644.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>740644.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.037+07:00</WorkDate>
+    <AmountRealExport>1.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>740644.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000233</ItemCode>
+    <ItemName>XORIMAX (cefuroxim 500mg)</ItemName>
+    <AmountImport>2.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>0.000</SalesPrice>
+    <UnitPrice>808000.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>808000.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.05+07:00</WorkDate>
+    <AmountRealExport>1.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>808000.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000234</ItemCode>
+    <ItemName>Zinnat 125mg</ItemName>
+    <AmountImport>2.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>0.000</SalesPrice>
+    <UnitPrice>757000.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>757000.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.067+07:00</WorkDate>
+    <AmountRealExport>1.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>757000.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000173</ItemCode>
+    <ItemName>Primperang 10mg</ItemName>
+    <AmountImport>3740.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>600.000</SalesPrice>
+    <UnitPrice>445.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>445.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.08+07:00</WorkDate>
+    <AmountRealExport>3740.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>1664300.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000166</ItemCode>
+    <ItemName>Panalgan Effer 500mg</ItemName>
+    <AmountImport>720.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>4500.000</SalesPrice>
+    <UnitPrice>4350.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>4350.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.09+07:00</WorkDate>
+    <AmountRealExport>720.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>3132000.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000162</ItemCode>
+    <ItemName>otrivin 0,1%</ItemName>
+    <AmountImport>800.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>4500.000</SalesPrice>
+    <UnitPrice>4290.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>4290.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.1+07:00</WorkDate>
+    <AmountRealExport>800.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>3432000.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000146</ItemCode>
+    <ItemName>neo-gynoternan</ItemName>
+    <AmountImport>1050.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>1600.000</SalesPrice>
+    <UnitPrice>1470.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>1470.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.113+07:00</WorkDate>
+    <AmountRealExport>1050.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>1543500.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000051</ItemCode>
+    <ItemName>CELTONAZ (ketoconazole)</ItemName>
+    <AmountImport>70200.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>30.000</SalesPrice>
+    <UnitPrice>26.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>26.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.123+07:00</WorkDate>
+    <AmountRealExport>70200.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>1825200.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000033</ItemCode>
+    <ItemName>Betamethasone 0.5</ItemName>
+    <AmountImport>3840.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>1000.000</SalesPrice>
+    <UnitPrice>400.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>400.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.133+07:00</WorkDate>
+    <AmountRealExport>3840.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>1536000.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000032</ItemCode>
+    <ItemName>Azithromicin 250 stada</ItemName>
+    <AmountImport>3840.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>1500.000</SalesPrice>
+    <UnitPrice>470.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>470.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.147+07:00</WorkDate>
+    <AmountRealExport>3840.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>1804800.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000216</ItemCode>
+    <ItemName>Vaselin(bôi)</ItemName>
+    <AmountImport>2000.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>3220.000</SalesPrice>
+    <UnitPrice>2800.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>2800.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.17+07:00</WorkDate>
+    <AmountRealExport>2000.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>5600000.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000221</ItemCode>
+    <ItemName>Vitamin 250mg</ItemName>
+    <AmountImport>2000.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>2530.000</SalesPrice>
+    <UnitPrice>2200.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>2200.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.18+07:00</WorkDate>
+    <AmountRealExport>2000.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>4400000.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000145</ItemCode>
+    <ItemName>Neo-Codion</ItemName>
+    <AmountImport>2080.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>3500.000</SalesPrice>
+    <UnitPrice>2650.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>2650.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.193+07:00</WorkDate>
+    <AmountRealExport>2080.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>5512000.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000144</ItemCode>
+    <ItemName>Neocin (nhỏ mắt)</ItemName>
+    <AmountImport>1960.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>2000.000</SalesPrice>
+    <UnitPrice>1450.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>1450.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.203+07:00</WorkDate>
+    <AmountRealExport>1960.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>2842000.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000219</ItemCode>
+    <ItemName>Vicef 300</ItemName>
+    <AmountImport>10000.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>800.000</SalesPrice>
+    <UnitPrice>690.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>690.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.213+07:00</WorkDate>
+    <AmountRealExport>10000.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>6900000.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000210</ItemCode>
+    <ItemName>Upsa c</ItemName>
+    <AmountImport>30.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>6000.000</SalesPrice>
+    <UnitPrice>5200.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>5200.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.223+07:00</WorkDate>
+    <AmountRealExport>30.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>156000.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000211</ItemCode>
+    <ItemName>Utrogestan</ItemName>
+    <AmountImport>1.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>500000.000</SalesPrice>
+    <UnitPrice>435000.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>435000.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.233+07:00</WorkDate>
+    <AmountRealExport>1.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>435000.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000230</ItemCode>
+    <ItemName>Xanh methylen 1%</ItemName>
+    <AmountImport>320.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>500.000</SalesPrice>
+    <UnitPrice>435.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>435.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.247+07:00</WorkDate>
+    <AmountRealExport>320.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>139200.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000033</ItemCode>
+    <ItemName>Betamethasone 0.5</ItemName>
+    <AmountImport>435.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>1000.000</SalesPrice>
+    <UnitPrice>400.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>400.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.273+07:00</WorkDate>
+    <AmountRealExport>435.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>174000.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000032</ItemCode>
+    <ItemName>Azithromicin 250 stada</ItemName>
+    <AmountImport>1472.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>1500.000</SalesPrice>
+    <UnitPrice>470.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>470.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.283+07:00</WorkDate>
+    <AmountRealExport>1472.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>691840.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000031</ItemCode>
+    <ItemName>AZITHOMYCIN 125mg(AZIHASAN)</ItemName>
+    <AmountImport>107.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>100.000</SalesPrice>
+    <UnitPrice>88.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>88.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.297+07:00</WorkDate>
+    <AmountRealExport>107.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>9416.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000200</ItemCode>
+    <ItemName>Telfast 180mg</ItemName>
+    <AmountImport>63.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>2500.000</SalesPrice>
+    <UnitPrice>1800.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>1800.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.307+07:00</WorkDate>
+    <AmountRealExport>63.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>113400.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000001</ItemCode>
+    <ItemName>AZITNIC- Azithromicin 500mg</ItemName>
+    <AmountImport>208.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>1000.000</SalesPrice>
+    <UnitPrice>674.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>674.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.317+07:00</WorkDate>
+    <AmountRealExport>208.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>140192.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000015</ItemCode>
+    <ItemName>Alpha choay</ItemName>
+    <AmountImport>1263.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>100.000</SalesPrice>
+    <UnitPrice>47.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>47.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.327+07:00</WorkDate>
+    <AmountRealExport>1263.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>59361.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000052</ItemCode>
+    <ItemName>CENPADON 150mg</ItemName>
+    <AmountImport>80.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>500.000</SalesPrice>
+    <UnitPrice>200.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>200.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.337+07:00</WorkDate>
+    <AmountRealExport>80.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>16000.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000094</ItemCode>
+    <ItemName>FOGUM</ItemName>
+    <AmountImport>31.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>3200.000</SalesPrice>
+    <UnitPrice>2730.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>2730.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.35+07:00</WorkDate>
+    <AmountRealExport>31.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>84630.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000229</ItemCode>
+    <ItemName>VOXEL (Levofloxacin 500mg)</ItemName>
+    <AmountImport>12.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>206.000</SalesPrice>
+    <UnitPrice>179.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>179.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.373+07:00</WorkDate>
+    <AmountRealExport>12.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>2148.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000178</ItemCode>
+    <ItemName>SABUTAMOL 4mg</ItemName>
+    <AmountImport>1.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>43500.000</SalesPrice>
+    <UnitPrice>42250.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>42250.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.383+07:00</WorkDate>
+    <AmountRealExport>1.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>42250.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000187</ItemCode>
+    <ItemName>SIRO KOSAVA 100ML</ItemName>
+    <AmountImport>2900.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>800.000</SalesPrice>
+    <UnitPrice>647.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>647.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.393+07:00</WorkDate>
+    <AmountRealExport>2900.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>1876300.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000117</ItemCode>
+    <ItemName>Kaleorid 600mg</ItemName>
+    <AmountImport>200.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>120.000</SalesPrice>
+    <UnitPrice>99.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>99.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.403+07:00</WorkDate>
+    <AmountRealExport>200.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>19800.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000183</ItemCode>
+    <ItemName>SIRO CANXI B</ItemName>
+    <AmountImport>20.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>26000.000</SalesPrice>
+    <UnitPrice>25500.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>25500.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.413+07:00</WorkDate>
+    <AmountRealExport>20.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>510000.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000222</ItemCode>
+    <ItemName>Vitamin 3B (B1,B6,B12)</ItemName>
+    <AmountImport>500.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>713.000</SalesPrice>
+    <UnitPrice>620.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>620.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.423+07:00</WorkDate>
+    <AmountRealExport>500.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>310000.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000224</ItemCode>
+    <ItemName>Vitamin AD</ItemName>
+    <AmountImport>240.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>1840.000</SalesPrice>
+    <UnitPrice>1595.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>1595.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.437+07:00</WorkDate>
+    <AmountRealExport>120.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>191400.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000113</ItemCode>
+    <ItemName>Jolivit (folic acid)</ItemName>
+    <AmountImport>120.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>1700.000</SalesPrice>
+    <UnitPrice>1595.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>1595.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.447+07:00</WorkDate>
+    <AmountRealExport>120.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>191400.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000070</ItemCode>
+    <ItemName>Disolvan 60ml</ItemName>
+    <AmountImport>14.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>200.000</SalesPrice>
+    <UnitPrice>179.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>179.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.47+07:00</WorkDate>
+    <AmountRealExport>14.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>2506.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000196</ItemCode>
+    <ItemName>Solupred-5mg</ItemName>
+    <AmountImport>10.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>200.000</SalesPrice>
+    <UnitPrice>147.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>147.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.483+07:00</WorkDate>
+    <AmountRealExport>10.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>1470.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000086</ItemCode>
+    <ItemName>ESOMEPRAZOL 40mg( ulemac)</ItemName>
+    <AmountImport>1410.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>500.000</SalesPrice>
+    <UnitPrice>372.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>372.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.493+07:00</WorkDate>
+    <AmountRealExport>1410.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>524520.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000208</ItemCode>
+    <ItemName>TRIMEBUTIN (DECOLIC)</ItemName>
+    <AmountImport>270.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>200.000</SalesPrice>
+    <UnitPrice>150.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>150.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.503+07:00</WorkDate>
+    <AmountRealExport>270.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>40500.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000193</ItemCode>
+    <ItemName>Siro Zinc việt</ItemName>
+    <AmountImport>387.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>6500.000</SalesPrice>
+    <UnitPrice>6000.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>6000.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.513+07:00</WorkDate>
+    <AmountRealExport>387.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>2322000.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000209</ItemCode>
+    <ItemName>Trinh nữ hoàng cung</ItemName>
+    <AmountImport>1.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>115000.000</SalesPrice>
+    <UnitPrice>100000.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>100000.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.527+07:00</WorkDate>
+    <AmountRealExport>1.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>100000.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000212</ItemCode>
+    <ItemName>Vacoloratadin - 10mg</ItemName>
+    <AmountImport>2.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>92000.000</SalesPrice>
+    <UnitPrice>80000.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>80000.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.537+07:00</WorkDate>
+    <AmountRealExport>2.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>160000.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000213</ItemCode>
+    <ItemName>Vacomuc 100</ItemName>
+    <AmountImport>5.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>45000.000</SalesPrice>
+    <UnitPrice>39000.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>39000.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.547+07:00</WorkDate>
+    <AmountRealExport>5.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>195000.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000113</ItemCode>
+    <ItemName>Jolivit (folic acid)</ItemName>
+    <AmountImport>20.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>2300.000</SalesPrice>
+    <UnitPrice>1595.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>1595.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.573+07:00</WorkDate>
+    <AmountRealExport>20.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>31900.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000143</ItemCode>
+    <ItemName>Neo dex</ItemName>
+    <AmountImport>23.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>1500.000</SalesPrice>
+    <UnitPrice>1425.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>1425.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.587+07:00</WorkDate>
+    <AmountRealExport>23.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>32775.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000015</ItemCode>
+    <ItemName>Alpha choay</ItemName>
+    <AmountImport>40.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>100.000</SalesPrice>
+    <UnitPrice>47.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>47.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.597+07:00</WorkDate>
+    <AmountRealExport>40.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>1880.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000219</ItemCode>
+    <ItemName>Vicef 300</ItemName>
+    <AmountImport>18.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>1000.000</SalesPrice>
+    <UnitPrice>690.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>690.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.607+07:00</WorkDate>
+    <AmountRealExport>18.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>12420.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000017</ItemCode>
+    <ItemName>ALPHACHYMOTRYSIN 4200</ItemName>
+    <AmountImport>18.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>500.000</SalesPrice>
+    <UnitPrice>172.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>172.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.62+07:00</WorkDate>
+    <AmountRealExport>18.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>3096.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000146</ItemCode>
+    <ItemName>neo-gynoternan</ItemName>
+    <AmountImport>1050.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>5000.000</SalesPrice>
+    <UnitPrice>1470.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>1470.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.63+07:00</WorkDate>
+    <AmountRealExport>50.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>73500.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000089</ItemCode>
+    <ItemName>fastum gel</ItemName>
+    <AmountImport>20.000</AmountImport>
+    <DateEnd>02/2017</DateEnd>
+    <SalesPrice>10000.000</SalesPrice>
+    <UnitPrice>6800.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>6800.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.64+07:00</WorkDate>
+    <AmountRealExport>20.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>136000.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000003</ItemCode>
+    <ItemName>(Ciprofloxacin 500)</ItemName>
+    <AmountImport>1000.000</AmountImport>
+    <DateEnd>04/2017</DateEnd>
+    <SalesPrice>1000.000</SalesPrice>
+    <UnitPrice>1000.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>1000.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.65+07:00</WorkDate>
+    <AmountRealExport>1000.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>1000000.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000004</ItemCode>
+    <ItemName>Acemux (Acetylstein )</ItemName>
+    <AmountImport>1000.000</AmountImport>
+    <DateEnd>04/2017</DateEnd>
+    <SalesPrice>1500.000</SalesPrice>
+    <UnitPrice>1500.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>1500.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.68+07:00</WorkDate>
+    <AmountRealExport>1000.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>1500000.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000005</ItemCode>
+    <ItemName>ACEPRON 80</ItemName>
+    <AmountImport>1000.000</AmountImport>
+    <DateEnd>04/2017</DateEnd>
+    <SalesPrice>1000.000</SalesPrice>
+    <UnitPrice>1000.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>1000.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.69+07:00</WorkDate>
+    <AmountRealExport>1000.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>1000000.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000006</ItemCode>
+    <ItemName>Acetylcystein (viên)</ItemName>
+    <AmountImport>1000.000</AmountImport>
+    <DateEnd>04/2017</DateEnd>
+    <SalesPrice>500.000</SalesPrice>
+    <UnitPrice>500.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>500.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.7+07:00</WorkDate>
+    <AmountRealExport>1000.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>500000.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000007</ItemCode>
+    <ItemName>ACICLOVIR 800mg</ItemName>
+    <AmountImport>1000.000</AmountImport>
+    <DateEnd>04/2017</DateEnd>
+    <SalesPrice>1500.000</SalesPrice>
+    <UnitPrice>1500.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>1500.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.71+07:00</WorkDate>
+    <AmountRealExport>1000.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>1500000.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000008</ItemCode>
+    <ItemName>Acyclovir 5% Bôi</ItemName>
+    <AmountImport>1000.000</AmountImport>
+    <DateEnd>04/2017</DateEnd>
+    <SalesPrice>19000.000</SalesPrice>
+    <UnitPrice>19000.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>19000.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.72+07:00</WorkDate>
+    <AmountRealExport>1000.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>19000000.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000009</ItemCode>
+    <ItemName>Acyclovir Meyer 200mg (ấn độ)</ItemName>
+    <AmountImport>1000.000</AmountImport>
+    <DateEnd>04/2017</DateEnd>
+    <SalesPrice>500.000</SalesPrice>
+    <UnitPrice>500.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>500.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.73+07:00</WorkDate>
+    <AmountRealExport>1000.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>500000.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000010</ItemCode>
+    <ItemName>Adalat 10mg (tốt)</ItemName>
+    <AmountImport>1000.000</AmountImport>
+    <DateEnd>04/2017</DateEnd>
+    <SalesPrice>10000.000</SalesPrice>
+    <UnitPrice>10000.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>10000.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.74+07:00</WorkDate>
+    <AmountRealExport>1000.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>10000000.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000011</ItemCode>
+    <ItemName>Adrenoxyl</ItemName>
+    <AmountImport>1000.000</AmountImport>
+    <DateEnd>04/2017</DateEnd>
+    <SalesPrice>2000.000</SalesPrice>
+    <UnitPrice>2000.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>2000.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.75+07:00</WorkDate>
+    <AmountRealExport>1000.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>2000000.000000</TotalAmount>
+  </Table2>
+  <Table2>
+    <ExpWarehousingCode>PX000000000033</ExpWarehousingCode>
+    <ItemCode>TH000011</ItemCode>
+    <ItemName>Adrenoxyl</ItemName>
+    <AmountImport>1000.000</AmountImport>
+    <DateEnd>04/2017</DateEnd>
+    <SalesPrice>2000.000</SalesPrice>
+    <UnitPrice>2000.000</UnitPrice>
+    <Shipment />
+    <BHYTPrice>2000.000</BHYTPrice>
+    <WorkDate>2017-04-11T21:40:21.78+07:00</WorkDate>
+    <AmountRealExport>1000.000</AmountRealExport>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <TotalAmount>2000000.000000</TotalAmount>
+  </Table2>
+</Report>

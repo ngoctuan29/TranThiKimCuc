@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<table>
+  <Table1>
+    <ServiceGroupName>Khám Bệnh</ServiceGroupName>
+    <ServiceName>Công Khám Nội</ServiceName>
+    <KhoaNgoai>2</KhoaNgoai>
+    <KhoaNoi>0</KhoaNoi>
+    <ServicePrice>29000</ServicePrice>
+    <TotalAmount>58000</TotalAmount>
+  </Table1>
+</table>

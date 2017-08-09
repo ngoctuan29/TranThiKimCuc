@@ -1,0 +1,366 @@
+D:\CTyPowerSoft\PowerMEDPhucAnKhangNew\ClinicDAL\bin\Debug\ClinicDAL.dll
+D:\CTyPowerSoft\PowerMEDPhucAnKhangNew\ClinicDAL\bin\Debug\ClinicDAL.pdb
+D:\CTyPowerSoft\PowerMEDPhucAnKhangNew\ClinicDAL\bin\Debug\ClinicModel.dll
+D:\CTyPowerSoft\PowerMEDPhucAnKhangNew\ClinicDAL\bin\Debug\ClinicModel.pdb
+D:\CTyPowerSoft\PowerMEDPhucAnKhangNew\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+D:\CTyPowerSoft\PowerMEDPhucAnKhangNew\ClinicDAL\obj\Debug\ClinicDAL.dll
+D:\CTyPowerSoft\PowerMEDPhucAnKhangNew\ClinicDAL\obj\Debug\ClinicDAL.pdb
+D:\CTyPowerSoft\PowerMEDVietAn\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicDAL.dll
+D:\CTyPowerSoft\PowerMEDVietAn\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicDAL.pdb
+D:\CTyPowerSoft\PowerMEDVietAn\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicModel.dll
+D:\CTyPowerSoft\PowerMEDVietAn\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicModel.pdb
+D:\CTyPowerSoft\PowerMEDVietAn\PowerMEDVietAn\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+D:\CTyPowerSoft\PowerMEDVietAn\PowerMEDVietAn\ClinicDAL\obj\Debug\ClinicDAL.dll
+D:\CTyPowerSoft\PowerMEDVietAn\PowerMEDVietAn\ClinicDAL\obj\Debug\ClinicDAL.pdb
+D:\CTyPowerSoft\iHIS BHYT FULL\ClinicDAL\bin\Debug\ClinicDAL.dll
+D:\CTyPowerSoft\iHIS BHYT FULL\ClinicDAL\bin\Debug\ClinicDAL.pdb
+D:\CTyPowerSoft\iHIS BHYT FULL\ClinicDAL\bin\Debug\ClinicModel.dll
+D:\CTyPowerSoft\iHIS BHYT FULL\ClinicDAL\bin\Debug\ClinicModel.pdb
+D:\CTyPowerSoft\iHIS BHYT FULL\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+D:\CTyPowerSoft\iHIS BHYT FULL\ClinicDAL\obj\Debug\ClinicDAL.dll
+D:\CTyPowerSoft\iHIS BHYT FULL\ClinicDAL\obj\Debug\ClinicDAL.pdb
+D:\CTyPowerSoft\iHIS_PoliCare\ClinicDAL\bin\Debug\ClinicDAL.dll
+D:\CTyPowerSoft\iHIS_PoliCare\ClinicDAL\bin\Debug\ClinicDAL.pdb
+D:\CTyPowerSoft\iHIS_PoliCare\ClinicDAL\bin\Debug\ClinicModel.dll
+D:\CTyPowerSoft\iHIS_PoliCare\ClinicDAL\bin\Debug\ClinicModel.pdb
+D:\CTyPowerSoft\iHIS_PoliCare\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+D:\CTyPowerSoft\iHIS_PoliCare\ClinicDAL\obj\Debug\ClinicDAL.dll
+D:\CTyPowerSoft\iHIS_PoliCare\ClinicDAL\obj\Debug\ClinicDAL.pdb
+D:\CTyPowerSoft\iHIS_PolyCare\ClinicDAL\bin\Debug\ClinicDAL.dll
+D:\CTyPowerSoft\iHIS_PolyCare\ClinicDAL\bin\Debug\ClinicDAL.pdb
+D:\CTyPowerSoft\iHIS_PolyCare\ClinicDAL\bin\Debug\ClinicModel.dll
+D:\CTyPowerSoft\iHIS_PolyCare\ClinicDAL\bin\Debug\ClinicModel.pdb
+D:\CTyPowerSoft\iHIS_PolyCare\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+D:\CTyPowerSoft\iHIS_PolyCare\ClinicDAL\obj\Debug\ClinicDAL.dll
+D:\CTyPowerSoft\iHIS_PolyCare\ClinicDAL\obj\Debug\ClinicDAL.pdb
+D:\CTyPowerSoft\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicDAL.dll
+D:\CTyPowerSoft\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicDAL.pdb
+D:\CTyPowerSoft\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicModel.dll
+D:\CTyPowerSoft\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicModel.pdb
+D:\CTyPowerSoft\PowerMEDVietAn\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+D:\CTyPowerSoft\PowerMEDVietAn\ClinicDAL\obj\Debug\ClinicDAL.dll
+D:\CTyPowerSoft\PowerMEDVietAn\ClinicDAL\obj\Debug\ClinicDAL.pdb
+C:\Users\DONGDEV\Desktop\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicDAL.dll
+C:\Users\DONGDEV\Desktop\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicDAL.pdb
+C:\Users\DONGDEV\Desktop\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicModel.dll
+C:\Users\DONGDEV\Desktop\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicModel.pdb
+C:\Users\DONGDEV\Desktop\PowerMEDVietAn\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+C:\Users\DONGDEV\Desktop\PowerMEDVietAn\ClinicDAL\obj\Debug\ClinicDAL.dll
+C:\Users\DONGDEV\Desktop\PowerMEDVietAn\ClinicDAL\obj\Debug\ClinicDAL.pdb
+D:\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicDAL.dll
+D:\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicDAL.pdb
+D:\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicModel.dll
+D:\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicModel.pdb
+D:\PowerMEDVietAn\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+D:\PowerMEDVietAn\ClinicDAL\obj\Debug\ClinicDAL.dll
+D:\PowerMEDVietAn\ClinicDAL\obj\Debug\ClinicDAL.pdb
+E:\PowerSoft\vietan - long an\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicDAL.dll
+E:\PowerSoft\vietan - long an\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicDAL.pdb
+E:\PowerSoft\vietan - long an\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicModel.dll
+E:\PowerSoft\vietan - long an\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicModel.pdb
+E:\PowerSoft\vietan - long an\PowerMEDVietAn\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+E:\PowerSoft\vietan - long an\PowerMEDVietAn\ClinicDAL\obj\Debug\ClinicDAL.dll
+E:\PowerSoft\vietan - long an\PowerMEDVietAn\ClinicDAL\obj\Debug\ClinicDAL.pdb
+E:\PowerSoft\vietan - long an\BHYT.v2\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicDAL.dll
+E:\PowerSoft\vietan - long an\BHYT.v2\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicDAL.pdb
+E:\PowerSoft\vietan - long an\BHYT.v2\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicModel.dll
+E:\PowerSoft\vietan - long an\BHYT.v2\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicModel.pdb
+E:\PowerSoft\vietan - long an\BHYT.v2\PowerMEDVietAn\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+E:\PowerSoft\vietan - long an\BHYT.v2\PowerMEDVietAn\ClinicDAL\obj\Debug\ClinicDAL.dll
+E:\PowerSoft\vietan - long an\BHYT.v2\PowerMEDVietAn\ClinicDAL\obj\Debug\ClinicDAL.pdb
+E:\PowerSoft\vietan - long an\Code chay_LamLai\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicDAL.dll
+E:\PowerSoft\vietan - long an\Code chay_LamLai\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicDAL.pdb
+E:\PowerSoft\vietan - long an\Code chay_LamLai\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicModel.dll
+E:\PowerSoft\vietan - long an\Code chay_LamLai\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicModel.pdb
+E:\PowerSoft\vietan - long an\Code chay_LamLai\PowerMEDVietAn\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+E:\PowerSoft\vietan - long an\Code chay_LamLai\PowerMEDVietAn\ClinicDAL\obj\Debug\ClinicDAL.dll
+E:\PowerSoft\vietan - long an\Code chay_LamLai\PowerMEDVietAn\ClinicDAL\obj\Debug\ClinicDAL.pdb
+E:\PowerSoft\vietan - long an\Code chay_PK\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicDAL.dll
+E:\PowerSoft\vietan - long an\Code chay_PK\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicDAL.pdb
+E:\PowerSoft\vietan - long an\Code chay_PK\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicModel.dll
+E:\PowerSoft\vietan - long an\Code chay_PK\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicModel.pdb
+E:\PowerSoft\vietan - long an\Code chay_PK\PowerMEDVietAn\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+E:\PowerSoft\vietan - long an\Code chay_PK\PowerMEDVietAn\ClinicDAL\obj\Debug\ClinicDAL.dll
+E:\PowerSoft\vietan - long an\Code chay_PK\PowerMEDVietAn\ClinicDAL\obj\Debug\ClinicDAL.pdb
+E:\PowerSoft\vietan - long an\Code chay_DangChayPK\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicDAL.dll
+E:\PowerSoft\vietan - long an\Code chay_DangChayPK\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicDAL.pdb
+E:\PowerSoft\vietan - long an\Code chay_DangChayPK\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicModel.dll
+E:\PowerSoft\vietan - long an\Code chay_DangChayPK\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicModel.pdb
+E:\PowerSoft\vietan - long an\Code chay_DangChayPK\PowerMEDVietAn\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+E:\PowerSoft\vietan - long an\Code chay_DangChayPK\PowerMEDVietAn\ClinicDAL\obj\Debug\ClinicDAL.dll
+E:\PowerSoft\vietan - long an\Code chay_DangChayPK\PowerMEDVietAn\ClinicDAL\obj\Debug\ClinicDAL.pdb
+D:\Projects\CTyPowerSoft\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicDAL.dll
+D:\Projects\CTyPowerSoft\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicDAL.pdb
+D:\Projects\CTyPowerSoft\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicModel.dll
+D:\Projects\CTyPowerSoft\PowerMEDVietAn\ClinicDAL\bin\Debug\ClinicModel.pdb
+D:\Projects\CTyPowerSoft\PowerMEDVietAn\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+D:\Projects\CTyPowerSoft\PowerMEDVietAn\ClinicDAL\obj\Debug\ClinicDAL.dll
+D:\Projects\CTyPowerSoft\PowerMEDVietAn\ClinicDAL\obj\Debug\ClinicDAL.pdb
+E:\PowerSoft\vietan - long an\Code chay_LamLaiBHYT\iHISFull_NoBHYT\ClinicDAL\bin\Debug\ClinicDAL.dll
+E:\PowerSoft\vietan - long an\Code chay_LamLaiBHYT\iHISFull_NoBHYT\ClinicDAL\bin\Debug\ClinicDAL.pdb
+E:\PowerSoft\vietan - long an\Code chay_LamLaiBHYT\iHISFull_NoBHYT\ClinicDAL\bin\Debug\ClinicModel.dll
+E:\PowerSoft\vietan - long an\Code chay_LamLaiBHYT\iHISFull_NoBHYT\ClinicDAL\bin\Debug\ClinicModel.pdb
+E:\PowerSoft\vietan - long an\Code chay_LamLaiBHYT\iHISFull_NoBHYT\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+E:\PowerSoft\vietan - long an\Code chay_LamLaiBHYT\iHISFull_NoBHYT\ClinicDAL\obj\Debug\ClinicDAL.dll
+E:\PowerSoft\vietan - long an\Code chay_LamLaiBHYT\iHISFull_NoBHYT\ClinicDAL\obj\Debug\ClinicDAL.pdb
+E:\PowerSoft\vietan - long an\Code chay_LamLaiBHYT\iHISFull_YesBHYT\ClinicDAL\bin\Debug\ClinicDAL.dll
+E:\PowerSoft\vietan - long an\Code chay_LamLaiBHYT\iHISFull_YesBHYT\ClinicDAL\bin\Debug\ClinicDAL.pdb
+E:\PowerSoft\vietan - long an\Code chay_LamLaiBHYT\iHISFull_YesBHYT\ClinicDAL\bin\Debug\ClinicModel.dll
+E:\PowerSoft\vietan - long an\Code chay_LamLaiBHYT\iHISFull_YesBHYT\ClinicDAL\bin\Debug\ClinicModel.pdb
+E:\PowerSoft\vietan - long an\Code chay_LamLaiBHYT\iHISFull_YesBHYT\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+E:\PowerSoft\vietan - long an\Code chay_LamLaiBHYT\iHISFull_YesBHYT\ClinicDAL\obj\Debug\ClinicDAL.dll
+E:\PowerSoft\vietan - long an\Code chay_LamLaiBHYT\iHISFull_YesBHYT\ClinicDAL\obj\Debug\ClinicDAL.pdb
+E:\PowerSoft\BHYT_v2\iHISFull_YesBHYT_lamlaireport\ClinicDAL\bin\Debug\ClinicDAL.dll
+E:\PowerSoft\BHYT_v2\iHISFull_YesBHYT_lamlaireport\ClinicDAL\bin\Debug\ClinicDAL.pdb
+E:\PowerSoft\BHYT_v2\iHISFull_YesBHYT_lamlaireport\ClinicDAL\bin\Debug\ClinicModel.dll
+E:\PowerSoft\BHYT_v2\iHISFull_YesBHYT_lamlaireport\ClinicDAL\bin\Debug\ClinicModel.pdb
+E:\PowerSoft\BHYT_v2\iHISFull_YesBHYT_lamlaireport\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+E:\PowerSoft\BHYT_v2\iHISFull_YesBHYT_lamlaireport\ClinicDAL\obj\Debug\ClinicDAL.dll
+E:\PowerSoft\BHYT_v2\iHISFull_YesBHYT_lamlaireport\ClinicDAL\obj\Debug\ClinicDAL.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Code\ClinicDAL\bin\Debug\ClinicDAL.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Code\ClinicDAL\bin\Debug\ClinicDAL.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Code\ClinicDAL\bin\Debug\ClinicModel.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Code\ClinicDAL\bin\Debug\ClinicModel.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Code\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Code\ClinicDAL\obj\Debug\ClinicDAL.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Code\ClinicDAL\obj\Debug\ClinicDAL.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Code\ClinicDAL\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Code\ClinicDAL\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Code\ClinicDAL\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Code\ClinicDAL\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Code\ClinicDAL\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Code\ClinicDAL\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\code_svn\ClinicDAL\bin\Debug\ClinicDAL.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\code_svn\ClinicDAL\bin\Debug\ClinicDAL.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\code_svn\ClinicDAL\bin\Debug\ClinicModel.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\code_svn\ClinicDAL\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\code_svn\ClinicDAL\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\code_svn\ClinicDAL\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\code_svn\ClinicDAL\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\code_svn\ClinicDAL\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\code_svn\ClinicDAL\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\code_svn\ClinicDAL\bin\Debug\ClinicModel.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\code_svn\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\code_svn\ClinicDAL\obj\Debug\ClinicDAL.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\code_svn\ClinicDAL\obj\Debug\ClinicDAL.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\svn\ClinicDAL\bin\Debug\ClinicDAL.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\svn\ClinicDAL\bin\Debug\ClinicDAL.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\svn\ClinicDAL\bin\Debug\ClinicModel.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\svn\ClinicDAL\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\svn\ClinicDAL\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\svn\ClinicDAL\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\svn\ClinicDAL\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\svn\ClinicDAL\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\svn\ClinicDAL\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\svn\ClinicDAL\bin\Debug\ClinicModel.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\svn\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\svn\ClinicDAL\obj\Debug\ClinicDAL.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\svn\ClinicDAL\obj\Debug\ClinicDAL.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\svn_\ClinicDAL\bin\Debug\ClinicDAL.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\svn_\ClinicDAL\bin\Debug\ClinicDAL.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\svn_\ClinicDAL\bin\Debug\ClinicModel.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\svn_\ClinicDAL\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\svn_\ClinicDAL\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\svn_\ClinicDAL\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\svn_\ClinicDAL\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\svn_\ClinicDAL\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\svn_\ClinicDAL\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\svn_\ClinicDAL\bin\Debug\ClinicModel.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\svn_\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\svn_\ClinicDAL\obj\Debug\ClinicDAL.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\svn_\ClinicDAL\obj\Debug\ClinicDAL.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\CodeSVN\ClinicDAL\bin\Debug\ClinicDAL.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\CodeSVN\ClinicDAL\bin\Debug\ClinicDAL.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\CodeSVN\ClinicDAL\bin\Debug\ClinicModel.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\CodeSVN\ClinicDAL\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\CodeSVN\ClinicDAL\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\CodeSVN\ClinicDAL\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\CodeSVN\ClinicDAL\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\CodeSVN\ClinicDAL\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\CodeSVN\ClinicDAL\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\CodeSVN\ClinicDAL\bin\Debug\ClinicModel.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\CodeSVN\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\CodeSVN\ClinicDAL\obj\Debug\ClinicDAL.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\CodeSVN\ClinicDAL\obj\Debug\ClinicDAL.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Source_SVN\ClinicDAL\bin\Debug\ClinicDAL.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Source_SVN\ClinicDAL\bin\Debug\ClinicDAL.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Source_SVN\ClinicDAL\bin\Debug\ClinicModel.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Source_SVN\ClinicDAL\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Source_SVN\ClinicDAL\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Source_SVN\ClinicDAL\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Source_SVN\ClinicDAL\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Source_SVN\ClinicDAL\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Source_SVN\ClinicDAL\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Source_SVN\ClinicDAL\bin\Debug\ClinicModel.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Source_SVN\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Source_SVN\ClinicDAL\obj\Debug\ClinicDAL.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Source_SVN\ClinicDAL\obj\Debug\ClinicDAL.pdb
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK\Source_SVN\ClinicDAL\bin\Debug\ClinicDAL.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK\Source_SVN\ClinicDAL\bin\Debug\ClinicDAL.pdb
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK\Source_SVN\ClinicDAL\bin\Debug\ClinicModel.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK\Source_SVN\ClinicDAL\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK\Source_SVN\ClinicDAL\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK\Source_SVN\ClinicDAL\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK\Source_SVN\ClinicDAL\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK\Source_SVN\ClinicDAL\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK\Source_SVN\ClinicDAL\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK\Source_SVN\ClinicDAL\bin\Debug\ClinicModel.pdb
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK\Source_SVN\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK\Source_SVN\ClinicDAL\obj\Debug\ClinicDAL.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK\Source_SVN\ClinicDAL\obj\Debug\ClinicDAL.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Code_BHYT\ClinicDAL\bin\Debug\ClinicDAL.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Code_BHYT\ClinicDAL\bin\Debug\ClinicDAL.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Code_BHYT\ClinicDAL\bin\Debug\ClinicModel.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Code_BHYT\ClinicDAL\bin\Debug\ClinicModel.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.pdb
+C:\Users\Duy Trinh\Desktop\Code_BHYT\ClinicDAL\bin\Debug\ClinicDAL.dll
+C:\Users\Duy Trinh\Desktop\Code_BHYT\ClinicDAL\bin\Debug\ClinicDAL.pdb
+C:\Users\Duy Trinh\Desktop\Code_BHYT\ClinicDAL\bin\Debug\ClinicModel.dll
+C:\Users\Duy Trinh\Desktop\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Duy Trinh\Desktop\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Duy Trinh\Desktop\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Duy Trinh\Desktop\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Duy Trinh\Desktop\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\Duy Trinh\Desktop\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Duy Trinh\Desktop\Code_BHYT\ClinicDAL\bin\Debug\ClinicModel.pdb
+C:\Users\Duy Trinh\Desktop\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+C:\Users\Duy Trinh\Desktop\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.dll
+C:\Users\Duy Trinh\Desktop\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.pdb
+D:\Code_BHYT\ClinicDAL\bin\Debug\ClinicDAL.dll
+D:\Code_BHYT\ClinicDAL\bin\Debug\ClinicDAL.pdb
+D:\Code_BHYT\ClinicDAL\bin\Debug\ClinicModel.dll
+D:\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Code_BHYT\ClinicDAL\bin\Debug\ClinicModel.pdb
+D:\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+D:\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.dll
+D:\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.pdb
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK\Code_BHYT\ClinicDAL\bin\Debug\ClinicDAL.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK\Code_BHYT\ClinicDAL\bin\Debug\ClinicDAL.pdb
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK\Code_BHYT\ClinicDAL\bin\Debug\ClinicModel.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK\Code_BHYT\ClinicDAL\bin\Debug\ClinicModel.pdb
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicDAL.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicDAL.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicModel.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicModel.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.pdb
+D:\work\SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicDAL.dll
+D:\work\SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicDAL.pdb
+D:\work\SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicModel.dll
+D:\work\SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\work\SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\work\SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\work\SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\work\SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\work\SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\work\SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicModel.pdb
+D:\work\SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+D:\work\SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.dll
+D:\work\SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.pdb
+C:\Dong_Team\Projects\iHIS_BHYTFull_PKDK_TanTao\Code_BHYT\ClinicDAL\bin\Debug\ClinicDAL.dll
+C:\Dong_Team\Projects\iHIS_BHYTFull_PKDK_TanTao\Code_BHYT\ClinicDAL\bin\Debug\ClinicDAL.pdb
+C:\Dong_Team\Projects\iHIS_BHYTFull_PKDK_TanTao\Code_BHYT\ClinicDAL\bin\Debug\ClinicModel.dll
+C:\Dong_Team\Projects\iHIS_BHYTFull_PKDK_TanTao\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Dong_Team\Projects\iHIS_BHYTFull_PKDK_TanTao\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Dong_Team\Projects\iHIS_BHYTFull_PKDK_TanTao\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Dong_Team\Projects\iHIS_BHYTFull_PKDK_TanTao\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Dong_Team\Projects\iHIS_BHYTFull_PKDK_TanTao\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Dong_Team\Projects\iHIS_BHYTFull_PKDK_TanTao\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Dong_Team\Projects\iHIS_BHYTFull_PKDK_TanTao\Code_BHYT\ClinicDAL\bin\Debug\ClinicModel.pdb
+C:\Dong_Team\Projects\iHIS_BHYTFull_PKDK_TanTao\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+C:\Dong_Team\Projects\iHIS_BHYTFull_PKDK_TanTao\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.dll
+C:\Dong_Team\Projects\iHIS_BHYTFull_PKDK_TanTao\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.pdb
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK_TanTao\Code_BHYT\ClinicDAL\bin\Debug\ClinicDAL.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK_TanTao\Code_BHYT\ClinicDAL\bin\Debug\ClinicDAL.pdb
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK_TanTao\Code_BHYT\ClinicDAL\bin\Debug\ClinicModel.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK_TanTao\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK_TanTao\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK_TanTao\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK_TanTao\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK_TanTao\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK_TanTao\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK_TanTao\Code_BHYT\ClinicDAL\bin\Debug\ClinicModel.pdb
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK_TanTao\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK_TanTao\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK_TanTao\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.pdb
+C:\Users\DEV07\Desktop\Code_BHYT\ClinicDAL\bin\Debug\ClinicDAL.dll
+C:\Users\DEV07\Desktop\Code_BHYT\ClinicDAL\bin\Debug\ClinicDAL.pdb
+C:\Users\DEV07\Desktop\Code_BHYT\ClinicDAL\bin\Debug\ClinicModel.dll
+C:\Users\DEV07\Desktop\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\DEV07\Desktop\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\DEV07\Desktop\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\DEV07\Desktop\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\DEV07\Desktop\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\DEV07\Desktop\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\DEV07\Desktop\Code_BHYT\ClinicDAL\bin\Debug\ClinicModel.pdb
+C:\Users\DEV07\Desktop\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+C:\Users\DEV07\Desktop\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.dll
+C:\Users\DEV07\Desktop\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.pdb
+C:\DONG\Projects\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicDAL.dll
+C:\DONG\Projects\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicDAL.pdb
+C:\DONG\Projects\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicModel.dll
+C:\DONG\Projects\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\DONG\Projects\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\DONG\Projects\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\DONG\Projects\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\DONG\Projects\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\DONG\Projects\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\DONG\Projects\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicModel.pdb
+C:\DONG\Projects\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+C:\DONG\Projects\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.dll
+C:\DONG\Projects\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.pdb
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicDAL.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicDAL.pdb
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicModel.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicModel.pdb
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.pdb
+D:\iHIS_BHYTFull_PKDK_SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicDAL.dll
+D:\iHIS_BHYTFull_PKDK_SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicDAL.pdb
+D:\iHIS_BHYTFull_PKDK_SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicModel.dll
+D:\iHIS_BHYTFull_PKDK_SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\iHIS_BHYTFull_PKDK_SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\iHIS_BHYTFull_PKDK_SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\iHIS_BHYTFull_PKDK_SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\iHIS_BHYTFull_PKDK_SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\iHIS_BHYTFull_PKDK_SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\iHIS_BHYTFull_PKDK_SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicModel.pdb
+D:\iHIS_BHYTFull_PKDK_SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+D:\iHIS_BHYTFull_PKDK_SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.dll
+D:\iHIS_BHYTFull_PKDK_SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.pdb

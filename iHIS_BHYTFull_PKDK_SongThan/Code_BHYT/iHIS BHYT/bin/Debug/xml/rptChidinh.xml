@@ -1,0 +1,129 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="Result" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="Result" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Table1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ClinicCode" type="xs:int" minOccurs="0" />
+              <xs:element name="ClinicName" type="xs:string" minOccurs="0" />
+              <xs:element name="ClinicAddress" type="xs:string" minOccurs="0" />
+              <xs:element name="Province" type="xs:string" minOccurs="0" />
+              <xs:element name="Phone" type="xs:string" minOccurs="0" />
+              <xs:element name="Mobile" type="xs:string" minOccurs="0" />
+              <xs:element name="Doctor" type="xs:string" minOccurs="0" />
+              <xs:element name="WorkingDateLine01" type="xs:string" minOccurs="0" />
+              <xs:element name="WorkingDateLine02" type="xs:string" minOccurs="0" />
+              <xs:element name="WorkingDateLine03" type="xs:string" minOccurs="0" />
+              <xs:element name="KCBBDCode" type="xs:string" minOccurs="0" />
+              <xs:element name="PK247Code" type="xs:string" minOccurs="0" />
+              <xs:element name="UserName_BV" type="xs:string" minOccurs="0" />
+              <xs:element name="PassWord_BV" type="xs:string" minOccurs="0" />
+              <xs:element name="UserName_TC" type="xs:string" minOccurs="0" />
+              <xs:element name="PassWord_TC" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Table2">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ReceiptID" type="xs:decimal" minOccurs="0" />
+              <xs:element name="DepartmentCode" type="xs:string" minOccurs="0" />
+              <xs:element name="ServiceCode" type="xs:string" minOccurs="0" />
+              <xs:element name="ServicePrice" type="xs:decimal" minOccurs="0" />
+              <xs:element name="DisparityPrice" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Status" type="xs:int" minOccurs="0" />
+              <xs:element name="Paid" type="xs:int" minOccurs="0" />
+              <xs:element name="PatientCode" type="xs:string" minOccurs="0" />
+              <xs:element name="ObjectCode" type="xs:int" minOccurs="0" />
+              <xs:element name="WorkDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="PatientName" type="xs:string" minOccurs="0" />
+              <xs:element name="PatientAddress" type="xs:string" minOccurs="0" />
+              <xs:element name="PatientAge" type="xs:int" minOccurs="0" />
+              <xs:element name="ObjectName" type="xs:string" minOccurs="0" />
+              <xs:element name="ServiceName" type="xs:string" minOccurs="0" />
+              <xs:element name="TraiTuyen" type="xs:int" minOccurs="0" />
+              <xs:element name="StartDate" type="xs:string" minOccurs="0" />
+              <xs:element name="EndDate" type="xs:string" minOccurs="0" />
+              <xs:element name="Serial" type="xs:string" minOccurs="0" />
+              <xs:element name="KCBBDCode" type="xs:string" minOccurs="0" />
+              <xs:element name="KCBBDName" type="xs:string" minOccurs="0" />
+              <xs:element name="PatientGenderName" type="xs:string" minOccurs="0" />
+              <xs:element name="PatientBirthyear" type="xs:int" minOccurs="0" />
+              <xs:element name="Symptoms" type="xs:string" minOccurs="0" />
+              <xs:element name="EmployeeName" type="xs:string" minOccurs="0" />
+              <xs:element name="DepartmentName" type="xs:string" minOccurs="0" />
+              <xs:element name="Reason" type="xs:string" minOccurs="0" />
+              <xs:element name="DepartmentNameOrder" type="xs:string" minOccurs="0" />
+              <xs:element name="IntroName" type="xs:string" minOccurs="0" />
+              <xs:element name="UnitOfMeasureName" type="xs:string" minOccurs="0" />
+              <xs:element name="Quantity" type="xs:int" minOccurs="0" />
+              <xs:element name="EmployeeNameDoctor" type="xs:string" minOccurs="0" />
+              <xs:element name="DiagnosisCustom" type="xs:string" minOccurs="0" />
+              <xs:element name="ServiceCategoryName" type="xs:string" minOccurs="0" />
+              <xs:element name="DiagnosisName" type="xs:string" minOccurs="0" />
+              <xs:element name="ObjectNameBHYT" type="xs:string" minOccurs="0" />
+              <xs:element name="ReferralPaper" type="xs:int" minOccurs="0" />
+              <xs:element name="Content" type="xs:string" minOccurs="0" />
+              <xs:element name="STT" type="xs:int" minOccurs="0" />
+              <xs:element name="OrderNumberYYYY" type="xs:int" minOccurs="0" />
+              <xs:element name="GroupPrint" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Table3">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DiagnosisName" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Table4">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="RowID" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Serial" type="xs:string" minOccurs="0" />
+              <xs:element name="PatientCode" type="xs:string" minOccurs="0" />
+              <xs:element name="KCBBDCode" type="xs:string" minOccurs="0" />
+              <xs:element name="StartDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="EndDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Hide" type="xs:int" minOccurs="0" />
+              <xs:element name="EmployeeCode" type="xs:string" minOccurs="0" />
+              <xs:element name="PatientReceiveID" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TraiTuyen" type="xs:int" minOccurs="0" />
+              <xs:element name="Serial01" type="xs:string" minOccurs="0" />
+              <xs:element name="Serial02" type="xs:string" minOccurs="0" />
+              <xs:element name="Serial03" type="xs:string" minOccurs="0" />
+              <xs:element name="Serial04" type="xs:string" minOccurs="0" />
+              <xs:element name="Serial05" type="xs:string" minOccurs="0" />
+              <xs:element name="Serial06" type="xs:string" minOccurs="0" />
+              <xs:element name="KCBBDName" type="xs:string" minOccurs="0" />
+              <xs:element name="Rate" type="xs:int" minOccurs="0" />
+              <xs:element name="ReferralPaper" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Table5">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="RowID" type="xs:decimal" minOccurs="0" />
+              <xs:element name="PatientCode" type="xs:string" minOccurs="0" />
+              <xs:element name="Pulse" type="xs:string" minOccurs="0" />
+              <xs:element name="Temperature" type="xs:string" minOccurs="0" />
+              <xs:element name="BloodPressure" type="xs:string" minOccurs="0" />
+              <xs:element name="Weight" type="xs:string" minOccurs="0" />
+              <xs:element name="CreateDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="EmployeeCode" type="xs:string" minOccurs="0" />
+              <xs:element name="RefID" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ReferenceCode" type="xs:string" minOccurs="0" />
+              <xs:element name="BloodPressure1" type="xs:string" minOccurs="0" />
+              <xs:element name="Hight" type="xs:string" minOccurs="0" />
+              <xs:element name="Breath" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

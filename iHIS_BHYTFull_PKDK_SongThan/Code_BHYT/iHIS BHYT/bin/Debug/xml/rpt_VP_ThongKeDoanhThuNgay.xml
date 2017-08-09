@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <PostingDate>2016-09-01T00:00:00+07:00</PostingDate>
+    <KCB>1</KCB>
+    <CDHA>3</CDHA>
+    <XN>3</XN>
+    <PTTT>0</PTTT>
+    <NHA>0</NHA>
+    <TC>0</TC>
+    <GIUONG>0</GIUONG>
+    <VC>0</VC>
+    <AmountKCB>49000</AmountKCB>
+    <AmountCDHA>300000</AmountCDHA>
+    <AmountXN>255000</AmountXN>
+    <AmountThuoc>39800</AmountThuoc>
+    <AmountPTTT>0</AmountPTTT>
+    <AmountNha>0</AmountNha>
+    <AmountTC>0</AmountTC>
+    <AmountTotal>643800</AmountTotal>
+    <AmountVC>0</AmountVC>
+    <AmountGIUONG>0</AmountGIUONG>
+    <KHAC>0</KHAC>
+    <AmountKHAC>0</AmountKHAC>
+    <AmountDisparity>0</AmountDisparity>
+    <AmountSalesOff>0.00</AmountSalesOff>
+  </Table1>
+</NewDataSet>

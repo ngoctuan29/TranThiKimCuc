@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<Result>
+  <Table1>
+    <NameService>Thu V.Phí Khám Chữa Bệnh Ngoại Trú BHYT</NameService>
+    <PatientPay>60842.00</PatientPay>
+    <PatientName>CAO THỊ NGA</PatientName>
+    <PatientAddress>Hành Phước, Nghĩa Hành, Quảng Ngãi_Công ty INOUE, </PatientAddress>
+    <PostingDate>2017-07-01T17:10:49.397+07:00</PostingDate>
+  </Table1>
+  <Table1>
+    <NameService>Thu V.Phí Khám Chữa Bệnh Ngoại Trú Dịch Vụ</NameService>
+    <PatientPay>155000.00</PatientPay>
+    <PatientName>CAO THỊ NGA</PatientName>
+    <PatientAddress>Hành Phước, Nghĩa Hành, Quảng Ngãi_Công ty INOUE, </PatientAddress>
+    <PostingDate>2017-07-01T17:10:49.397+07:00</PostingDate>
+  </Table1>
+</Result>

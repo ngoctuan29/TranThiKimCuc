@@ -1,0 +1,164 @@
+D:\CTyPowerSoft\PowerMEDPhucAnKhangNew\ClinicModel\bin\Debug\ClinicModel.dll
+D:\CTyPowerSoft\PowerMEDPhucAnKhangNew\ClinicModel\bin\Debug\ClinicModel.pdb
+D:\CTyPowerSoft\PowerMEDPhucAnKhangNew\ClinicModel\obj\Debug\ClinicModel.dll
+D:\CTyPowerSoft\PowerMEDPhucAnKhangNew\ClinicModel\obj\Debug\ClinicModel.pdb
+D:\CTyPowerSoft\PowerMEDPhucAnKhangNew\ClinicModel\obj\Debug\ClinicModel.csprojResolveAssemblyReference.cache
+D:\CTyPowerSoft\PowerMEDVietAn\PowerMEDVietAn\ClinicModel\bin\Debug\ClinicModel.dll
+D:\CTyPowerSoft\PowerMEDVietAn\PowerMEDVietAn\ClinicModel\bin\Debug\ClinicModel.pdb
+D:\CTyPowerSoft\PowerMEDVietAn\PowerMEDVietAn\ClinicModel\obj\Debug\ClinicModel.dll
+D:\CTyPowerSoft\PowerMEDVietAn\PowerMEDVietAn\ClinicModel\obj\Debug\ClinicModel.pdb
+D:\CTyPowerSoft\iHIS BHYT FULL\ClinicModel\bin\Debug\ClinicModel.dll
+D:\CTyPowerSoft\iHIS BHYT FULL\ClinicModel\bin\Debug\ClinicModel.pdb
+D:\CTyPowerSoft\iHIS BHYT FULL\ClinicModel\obj\Debug\ClinicModel.dll
+D:\CTyPowerSoft\iHIS BHYT FULL\ClinicModel\obj\Debug\ClinicModel.pdb
+D:\CTyPowerSoft\iHIS BHYT FULL\ClinicModel\obj\Debug\ClinicModel.csprojResolveAssemblyReference.cache
+D:\CTyPowerSoft\iHIS_PoliCare\ClinicModel\bin\Debug\ClinicModel.dll
+D:\CTyPowerSoft\iHIS_PoliCare\ClinicModel\bin\Debug\ClinicModel.pdb
+D:\CTyPowerSoft\iHIS_PoliCare\ClinicModel\obj\Debug\ClinicModel.dll
+D:\CTyPowerSoft\iHIS_PoliCare\ClinicModel\obj\Debug\ClinicModel.pdb
+D:\CTyPowerSoft\iHIS_PolyCare\ClinicModel\bin\Debug\ClinicModel.dll
+D:\CTyPowerSoft\iHIS_PolyCare\ClinicModel\bin\Debug\ClinicModel.pdb
+D:\CTyPowerSoft\iHIS_PolyCare\ClinicModel\obj\Debug\ClinicModel.dll
+D:\CTyPowerSoft\iHIS_PolyCare\ClinicModel\obj\Debug\ClinicModel.pdb
+D:\CTyPowerSoft\PowerMEDVietAn\ClinicModel\bin\Debug\ClinicModel.dll
+D:\CTyPowerSoft\PowerMEDVietAn\ClinicModel\bin\Debug\ClinicModel.pdb
+D:\CTyPowerSoft\PowerMEDVietAn\ClinicModel\obj\Debug\ClinicModel.dll
+D:\CTyPowerSoft\PowerMEDVietAn\ClinicModel\obj\Debug\ClinicModel.pdb
+C:\Users\DONGDEV\Desktop\PowerMEDVietAn\ClinicModel\bin\Debug\ClinicModel.dll
+C:\Users\DONGDEV\Desktop\PowerMEDVietAn\ClinicModel\bin\Debug\ClinicModel.pdb
+C:\Users\DONGDEV\Desktop\PowerMEDVietAn\ClinicModel\obj\Debug\ClinicModel.csprojResolveAssemblyReference.cache
+C:\Users\DONGDEV\Desktop\PowerMEDVietAn\ClinicModel\obj\Debug\ClinicModel.dll
+C:\Users\DONGDEV\Desktop\PowerMEDVietAn\ClinicModel\obj\Debug\ClinicModel.pdb
+D:\PowerMEDVietAn\ClinicModel\bin\Debug\ClinicModel.dll
+D:\PowerMEDVietAn\ClinicModel\bin\Debug\ClinicModel.pdb
+D:\PowerMEDVietAn\ClinicModel\obj\Debug\ClinicModel.dll
+D:\PowerMEDVietAn\ClinicModel\obj\Debug\ClinicModel.pdb
+E:\PowerSoft\vietan - long an\PowerMEDVietAn\ClinicModel\bin\Debug\ClinicModel.dll
+E:\PowerSoft\vietan - long an\PowerMEDVietAn\ClinicModel\bin\Debug\ClinicModel.pdb
+E:\PowerSoft\vietan - long an\PowerMEDVietAn\ClinicModel\obj\Debug\ClinicModel.csprojResolveAssemblyReference.cache
+E:\PowerSoft\vietan - long an\PowerMEDVietAn\ClinicModel\obj\Debug\ClinicModel.dll
+E:\PowerSoft\vietan - long an\PowerMEDVietAn\ClinicModel\obj\Debug\ClinicModel.pdb
+E:\PowerSoft\vietan - long an\BHYT.v2\PowerMEDVietAn\ClinicModel\bin\Debug\ClinicModel.dll
+E:\PowerSoft\vietan - long an\BHYT.v2\PowerMEDVietAn\ClinicModel\bin\Debug\ClinicModel.pdb
+E:\PowerSoft\vietan - long an\BHYT.v2\PowerMEDVietAn\ClinicModel\obj\Debug\ClinicModel.dll
+E:\PowerSoft\vietan - long an\BHYT.v2\PowerMEDVietAn\ClinicModel\obj\Debug\ClinicModel.pdb
+E:\PowerSoft\vietan - long an\Code chay_LamLai\PowerMEDVietAn\ClinicModel\bin\Debug\ClinicModel.dll
+E:\PowerSoft\vietan - long an\Code chay_LamLai\PowerMEDVietAn\ClinicModel\bin\Debug\ClinicModel.pdb
+E:\PowerSoft\vietan - long an\Code chay_LamLai\PowerMEDVietAn\ClinicModel\obj\Debug\ClinicModel.csprojResolveAssemblyReference.cache
+E:\PowerSoft\vietan - long an\Code chay_LamLai\PowerMEDVietAn\ClinicModel\obj\Debug\ClinicModel.dll
+E:\PowerSoft\vietan - long an\Code chay_LamLai\PowerMEDVietAn\ClinicModel\obj\Debug\ClinicModel.pdb
+E:\PowerSoft\vietan - long an\Code chay_PK\PowerMEDVietAn\ClinicModel\bin\Debug\ClinicModel.dll
+E:\PowerSoft\vietan - long an\Code chay_PK\PowerMEDVietAn\ClinicModel\bin\Debug\ClinicModel.pdb
+E:\PowerSoft\vietan - long an\Code chay_PK\PowerMEDVietAn\ClinicModel\obj\Debug\ClinicModel.csprojResolveAssemblyReference.cache
+E:\PowerSoft\vietan - long an\Code chay_PK\PowerMEDVietAn\ClinicModel\obj\Debug\ClinicModel.dll
+E:\PowerSoft\vietan - long an\Code chay_PK\PowerMEDVietAn\ClinicModel\obj\Debug\ClinicModel.pdb
+E:\PowerSoft\vietan - long an\Code chay_DangChayPK\PowerMEDVietAn\ClinicModel\bin\Debug\ClinicModel.dll
+E:\PowerSoft\vietan - long an\Code chay_DangChayPK\PowerMEDVietAn\ClinicModel\bin\Debug\ClinicModel.pdb
+E:\PowerSoft\vietan - long an\Code chay_DangChayPK\PowerMEDVietAn\ClinicModel\obj\Debug\ClinicModel.csprojResolveAssemblyReference.cache
+E:\PowerSoft\vietan - long an\Code chay_DangChayPK\PowerMEDVietAn\ClinicModel\obj\Debug\ClinicModel.dll
+E:\PowerSoft\vietan - long an\Code chay_DangChayPK\PowerMEDVietAn\ClinicModel\obj\Debug\ClinicModel.pdb
+D:\Projects\CTyPowerSoft\PowerMEDVietAn\ClinicModel\bin\Debug\ClinicModel.dll
+D:\Projects\CTyPowerSoft\PowerMEDVietAn\ClinicModel\bin\Debug\ClinicModel.pdb
+D:\Projects\CTyPowerSoft\PowerMEDVietAn\ClinicModel\obj\Debug\ClinicModel.dll
+D:\Projects\CTyPowerSoft\PowerMEDVietAn\ClinicModel\obj\Debug\ClinicModel.pdb
+D:\Projects\CTyPowerSoft\PowerMEDVietAn\ClinicModel\obj\Debug\ClinicModel.csprojResolveAssemblyReference.cache
+E:\PowerSoft\vietan - long an\Code chay_LamLaiBHYT\iHISFull_NoBHYT\ClinicModel\bin\Debug\ClinicModel.dll
+E:\PowerSoft\vietan - long an\Code chay_LamLaiBHYT\iHISFull_NoBHYT\ClinicModel\bin\Debug\ClinicModel.pdb
+E:\PowerSoft\vietan - long an\Code chay_LamLaiBHYT\iHISFull_NoBHYT\ClinicModel\obj\Debug\ClinicModel.csprojResolveAssemblyReference.cache
+E:\PowerSoft\vietan - long an\Code chay_LamLaiBHYT\iHISFull_NoBHYT\ClinicModel\obj\Debug\ClinicModel.dll
+E:\PowerSoft\vietan - long an\Code chay_LamLaiBHYT\iHISFull_NoBHYT\ClinicModel\obj\Debug\ClinicModel.pdb
+E:\PowerSoft\vietan - long an\Code chay_LamLaiBHYT\iHISFull_YesBHYT\ClinicModel\bin\Debug\ClinicModel.dll
+E:\PowerSoft\vietan - long an\Code chay_LamLaiBHYT\iHISFull_YesBHYT\ClinicModel\bin\Debug\ClinicModel.pdb
+E:\PowerSoft\vietan - long an\Code chay_LamLaiBHYT\iHISFull_YesBHYT\ClinicModel\obj\Debug\ClinicModel.csprojResolveAssemblyReference.cache
+E:\PowerSoft\vietan - long an\Code chay_LamLaiBHYT\iHISFull_YesBHYT\ClinicModel\obj\Debug\ClinicModel.dll
+E:\PowerSoft\vietan - long an\Code chay_LamLaiBHYT\iHISFull_YesBHYT\ClinicModel\obj\Debug\ClinicModel.pdb
+E:\PowerSoft\BHYT_v2\iHISFull_YesBHYT_lamlaireport\ClinicModel\bin\Debug\ClinicModel.dll
+E:\PowerSoft\BHYT_v2\iHISFull_YesBHYT_lamlaireport\ClinicModel\bin\Debug\ClinicModel.pdb
+E:\PowerSoft\BHYT_v2\iHISFull_YesBHYT_lamlaireport\ClinicModel\obj\Debug\ClinicModel.csprojResolveAssemblyReference.cache
+E:\PowerSoft\BHYT_v2\iHISFull_YesBHYT_lamlaireport\ClinicModel\obj\Debug\ClinicModel.dll
+E:\PowerSoft\BHYT_v2\iHISFull_YesBHYT_lamlaireport\ClinicModel\obj\Debug\ClinicModel.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Code\ClinicModel\bin\Debug\ClinicModel.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Code\ClinicModel\bin\Debug\ClinicModel.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Code\ClinicModel\obj\Debug\ClinicModel.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Code\ClinicModel\obj\Debug\ClinicModel.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\code_svn\ClinicModel\bin\Debug\ClinicModel.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\code_svn\ClinicModel\bin\Debug\ClinicModel.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\code_svn\ClinicModel\obj\Debug\ClinicModel.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\code_svn\ClinicModel\obj\Debug\ClinicModel.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\svn\ClinicModel\bin\Debug\ClinicModel.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\svn\ClinicModel\bin\Debug\ClinicModel.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\svn\ClinicModel\obj\Debug\ClinicModel.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\svn\ClinicModel\obj\Debug\ClinicModel.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\svn_\ClinicModel\bin\Debug\ClinicModel.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\svn_\ClinicModel\bin\Debug\ClinicModel.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\svn_\ClinicModel\obj\Debug\ClinicModel.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\svn_\ClinicModel\obj\Debug\ClinicModel.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\svn_\ClinicModel\obj\Debug\ClinicModel.csprojResolveAssemblyReference.cache
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\code_svn\ClinicModel\obj\Debug\ClinicModel.csprojResolveAssemblyReference.cache
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\CodeSVN\ClinicModel\bin\Debug\ClinicModel.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\CodeSVN\ClinicModel\bin\Debug\ClinicModel.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\CodeSVN\ClinicModel\obj\Debug\ClinicModel.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\CodeSVN\ClinicModel\obj\Debug\ClinicModel.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Source_SVN\ClinicModel\bin\Debug\ClinicModel.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Source_SVN\ClinicModel\bin\Debug\ClinicModel.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Source_SVN\ClinicModel\obj\Debug\ClinicModel.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Source_SVN\ClinicModel\obj\Debug\ClinicModel.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Source_SVN\ClinicModel\obj\Debug\ClinicModel.csprojResolveAssemblyReference.cache
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK\Source_SVN\ClinicModel\bin\Debug\ClinicModel.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK\Source_SVN\ClinicModel\bin\Debug\ClinicModel.pdb
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK\Source_SVN\ClinicModel\obj\Debug\ClinicModel.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK\Source_SVN\ClinicModel\obj\Debug\ClinicModel.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Code_BHYT\ClinicModel\bin\Debug\ClinicModel.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Code_BHYT\ClinicModel\bin\Debug\ClinicModel.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.pdb
+C:\Users\Duy Trinh\Desktop\Code_BHYT\ClinicModel\bin\Debug\ClinicModel.dll
+C:\Users\Duy Trinh\Desktop\Code_BHYT\ClinicModel\bin\Debug\ClinicModel.pdb
+C:\Users\Duy Trinh\Desktop\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.csprojResolveAssemblyReference.cache
+C:\Users\Duy Trinh\Desktop\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.dll
+C:\Users\Duy Trinh\Desktop\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.pdb
+D:\Code_BHYT\ClinicModel\bin\Debug\ClinicModel.dll
+D:\Code_BHYT\ClinicModel\bin\Debug\ClinicModel.pdb
+D:\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.dll
+D:\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.pdb
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK\Code_BHYT\ClinicModel\bin\Debug\ClinicModel.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK\Code_BHYT\ClinicModel\bin\Debug\ClinicModel.pdb
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\bin\Debug\ClinicModel.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\bin\Debug\ClinicModel.pdb
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.csprojResolveAssemblyReference.cache
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.dll
+D:\Projects\CTyPowerSoft\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.pdb
+D:\work\SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\bin\Debug\ClinicModel.dll
+D:\work\SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\bin\Debug\ClinicModel.pdb
+D:\work\SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.dll
+D:\work\SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.pdb
+C:\Dong_Team\Projects\iHIS_BHYTFull_PKDK_TanTao\Code_BHYT\ClinicModel\bin\Debug\ClinicModel.dll
+C:\Dong_Team\Projects\iHIS_BHYTFull_PKDK_TanTao\Code_BHYT\ClinicModel\bin\Debug\ClinicModel.pdb
+C:\Dong_Team\Projects\iHIS_BHYTFull_PKDK_TanTao\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.dll
+C:\Dong_Team\Projects\iHIS_BHYTFull_PKDK_TanTao\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.pdb
+C:\Dong_Team\Projects\iHIS_BHYTFull_PKDK_TanTao\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.csprojResolveAssemblyReference.cache
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK_TanTao\Code_BHYT\ClinicModel\bin\Debug\ClinicModel.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK_TanTao\Code_BHYT\ClinicModel\bin\Debug\ClinicModel.pdb
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK_TanTao\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.csprojResolveAssemblyReference.cache
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK_TanTao\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK_TanTao\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.pdb
+C:\Users\DEV07\Desktop\Code_BHYT\ClinicModel\bin\Debug\ClinicModel.dll
+C:\Users\DEV07\Desktop\Code_BHYT\ClinicModel\bin\Debug\ClinicModel.pdb
+C:\Users\DEV07\Desktop\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.dll
+C:\Users\DEV07\Desktop\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.pdb
+C:\DONG\Projects\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\bin\Debug\ClinicModel.dll
+C:\DONG\Projects\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\bin\Debug\ClinicModel.pdb
+C:\DONG\Projects\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.dll
+C:\DONG\Projects\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.pdb
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\bin\Debug\ClinicModel.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\bin\Debug\ClinicModel.pdb
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.dll
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.pdb
+D:\PowerSoft\Projects\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.csprojResolveAssemblyReference.cache
+D:\iHIS_BHYTFull_PKDK_SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\bin\Debug\ClinicModel.dll
+D:\iHIS_BHYTFull_PKDK_SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\bin\Debug\ClinicModel.pdb
+D:\iHIS_BHYTFull_PKDK_SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.csprojResolveAssemblyReference.cache
+D:\iHIS_BHYTFull_PKDK_SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.dll
+D:\iHIS_BHYTFull_PKDK_SongThan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.pdb

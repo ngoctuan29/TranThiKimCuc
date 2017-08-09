@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes"?>
+<table>
+  <Table1>
+    <PatientCode>17000023</PatientCode>
+    <PatientName>Bùi Minh Thu</PatientName>
+    <PatientGenderName>Nam</PatientGenderName>
+    <PatientBirthyear>1992</PatientBirthyear>
+    <ReceiptNumber>8</ReceiptNumber>
+    <NoteBookName>Tạm Ứng</NoteBookName>
+    <EmployeeName>Quản trị hệ thống</EmployeeName>
+    <AmountReal>1000000</AmountReal>
+    <WorkingDate>2017-02-06T00:00:00+07:00</WorkingDate>
+    <AmountRepaidReal>1000000</AmountRepaidReal>
+    <WorkingDateRePaid xml:space="preserve">          </WorkingDateRePaid>
+  </Table1>
+  <Table1>
+    <PatientCode>17000024</PatientCode>
+    <PatientName>Thu Phí 2017</PatientName>
+    <PatientGenderName>Nam</PatientGenderName>
+    <PatientBirthyear>1990</PatientBirthyear>
+    <ReceiptNumber>9</ReceiptNumber>
+    <NoteBookName>Tạm Ứng</NoteBookName>
+    <EmployeeName>Quản trị hệ thống</EmployeeName>
+    <AmountReal>1000000</AmountReal>
+    <WorkingDate>2017-02-06T00:00:00+07:00</WorkingDate>
+    <EmployeeNameRepaid>Quản trị hệ thống</EmployeeNameRepaid>
+    <AmountRepaidReal>1000000</AmountRepaidReal>
+    <WorkingDateRePaid>06/02/2017</WorkingDateRePaid>
+  </Table1>
+</table>

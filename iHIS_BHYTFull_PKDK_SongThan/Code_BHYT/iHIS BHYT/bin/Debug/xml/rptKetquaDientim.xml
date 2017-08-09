@@ -1,0 +1,40 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <ClinicCode>1</ClinicCode>
+    <ClinicName>PHÒNG KHÁM CHUYÊN KHOA TIM MẠCH - MẠCH MÁU ĐỨC TÍN</ClinicName>
+    <ClinicAddress>Địa chỉ: Số 7 Lô A, Cư Xá Bùi Minh Trực, Đường Bùi Minh Trực, Phường 5, Quận 8 TP Hồ Chí Minh</ClinicAddress>
+    <Province>Tp Hồ Chí Minh</Province>
+    <Phone>Ði?n tho?i: (08) 39812678 | Fax: (08) 37559539</Phone>
+    <Mobile>Ði?n tho?i: (08) 39812678 | Fax: (08) 37559539</Mobile>
+    <Doctor>Ths Bs Lê Đức Tín</Doctor>
+    <WorkingDateLine01 />
+    <WorkingDateLine02 />
+    <WorkingDateLine03 />
+    <KCBBDCode>8080</KCBBDCode>
+  </Table1>
+  <Table2>
+    <ReceiptID>645</ReceiptID>
+    <DepartmentCode>KP0010</DepartmentCode>
+    <ServiceCode>DV000032</ServiceCode>
+    <ServicePrice>100000.00</ServicePrice>
+    <DisparityPrice>0.00</DisparityPrice>
+    <Status>1</Status>
+    <Paid>1</Paid>
+    <PatientCode>14000010</PatientCode>
+    <ObjectCode>2</ObjectCode>
+    <WorkDate>2014-06-17T05:59:38.76+07:00</WorkDate>
+    <PatientName>NGUYỄN DUY NAM</PatientName>
+    <PatientAddress>NHÀ 3, CVPM QUANG TRUNG, QUẬN 12, TP HCM</PatientAddress>
+    <PatientAge>25</PatientAge>
+    <ObjectName>Thu Phí</ObjectName>
+    <DepartmentName>Phòng đo điện tim (ECG)</DepartmentName>
+    <PatientGenderName>Nam</PatientGenderName>
+    <PatientBirthyear>1989</PatientBirthyear>
+    <ServiceName>Đo điện tim (ECG)</ServiceName>
+    <Contents>{\rtf1\deff0{\fonttbl{\f0 Times New Roman;}}{\colortbl\red0\green0\blue0 ;\red0\green0\blue255 ;}{\*\listoverridetable}{\stylesheet {\ql Normal;}{\*\cs1 Default Paragraph Font;}{\*\cs2\sbasedon1 Line Number;}{\*\cs3\ul\cf1 Hyperlink;}{\*\ts4\tsrowd\ql\trautofit1\tscellpaddfl3\tscellpaddl108\tscellpaddfr3\tscellpaddr108\tsvertalt\cltxlrtb Normal Table;}{\*\ts5\tsrowd\sbasedon4\ql\trbrdrt\brdrs\brdrw10\trbrdrl\brdrs\brdrw10\trbrdrb\brdrs\brdrw10\trbrdrr\brdrs\brdrw10\trautofit1\tscellpaddfl3\tscellpaddl108\tscellpaddfr3\tscellpaddr108\tsvertalt\cltxlrtb Table Simple 1;}}\nouicompat\splytwnine\htmautsp\sectd\pard\plain\ql{\cf0 Nh\u7883\'3fp:}\par\pard\plain\ql{\cf0 -       Nh\u7883\'3fp xoang:}\par\pard\plain\ql{\cf0 -       Nh\u7883\'3fp kh\u244\'f4ng xoang:}\par\pard\plain\ql{\cf0 Ph\u226\'e2n t\u237\'edch c\u225\'e1c s\u243\'f3ng, \u273\'64o\u7841\'3fn, kho\u7843\'3fng:}\par\pard\plain\ql{\cf0 -      S\u243\'f3ng P:}\par\pard\plain\ql{\cf0 -      Kho\u7843\'3fng PR (hay PQ):}\par\pard\plain\ql{\cf0 -      Ph\u7913\'3fc b\u7897\'3f QRS:}\par\pard\plain\ql{\cf0 -      \u272\'d0i\u7875\'3fm J: }\par\pard\plain\ql{\cf0 -      \u272\'d0o\u7841\'3fn ST:}\par\pard\plain\ql{\cf0 -      S\u243\'f3ng T:}\par\pard\plain\ql{\cf0 -      Kho\u7843\'3fng QT:}\par\pard\plain\ql{\cf0 -      S\u243\'f3ng U:}\par\pard\plain\ql{\cf0 H\u7897\'3fi ch\u7913\'3fng:}\par\pard\plain\ql{\cf0 -       H\u7897\'3fi ch\u7913\'3fng r\u7889\'3fi lo\u7841\'3fn v\u7873\'3f h\u236\'ecnh d\u7841\'3fng s\u243\'f3ng:}\par\pard\plain\ql{\cf0             + T\u259\'61ng g\u225\'e1nh: d\u224\'e0y nh\u297\'69, d\u224\'e0y th\u7845\'3ft.}\par\pard\plain\ql{\cf0             + B\u7879\'3fnh m\u7841\'3fch v\u224\'e0nh: thi\u7871\'3fu m\u225\'e1u c\u417\'6f tim, nh\u7891\'3fi m\u225\'e1u c\u417\'6f tim.}\par\pard\plain\ql{\cf0 -       H\u7897\'3fi ch\u7913\'3fng r\u7889\'3fi lo\u7841\'3fn v\u7873\'3f d\u7851\'3fn truy\u7873\'3fn:}\par\pard\plain\ql{\cf0             + D\u7851\'3fn truy\u7873\'3fn ch\u7853\'3fm: block xoang nh\u297\'69, block nh\u297\'69 th\u7845\'3ft, block nh\u225\'e1nh, block ph\u226\'e2n nh\u225\'e1nh.}\par\pard\plain\ql{\cf0             + D\u7851\'3fn truy\u7873\'3fn nhanh: h\u7897\'3fi ch\u7913\'3fng k\u237\'edch th\u237\'edch s\u7899\'3fm nh\u432\'75 W.P.W, L.G.L.}\par\pard\plain\ql{\cf0 -       H\u7897\'3fi ch\u7913\'3fng r\u7889\'3fi lo\u7841\'3fn v\u7873\'3f t\u7841\'3fo nh\u7883\'3fp:}\par\pard\plain\ql{\cf0             + R\u7889\'3fi lo\u7841\'3fn nh\u7883\'3fp xoang}\par\pard\plain\ql{\cf0             + Ngo\u7841\'3fi t\u226\'e2m thu}\par\pard\plain\ql{\cf0             + Nh\u7883\'3fp nhanh}\par\pard\plain\ql{\cf0             + Cu\u7891\'3fng}\par\pard\plain\ql{\cf0             + Rung}\par}</Contents>
+    <Conclusion>sadsf Àds</Conclusion>
+    <Proposal>sd faf sadfds</Proposal>
+    <EmployeeName>Ths Bs Lê Đức Tín</EmployeeName>
+  </Table2>
+</NewDataSet>

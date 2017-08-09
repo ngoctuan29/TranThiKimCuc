@@ -1,0 +1,213 @@
+<?xml version="1.0" standalone="yes"?>
+<table>
+  <Table1>
+    <PatientCode>16002202</PatientCode>
+    <CreateDate>2016-08-04T06:57:21.15+07:00</CreateDate>
+    <PatientName>Võ Ngọc Tấn Duy</PatientName>
+    <PatientBirthyear>2011</PatientBirthyear>
+    <PatientAge>5</PatientAge>
+    <PatientGenderName>Nam</PatientGenderName>
+    <DiagnosisCode>Sốt,đau bụng, ho nhiều</DiagnosisCode>
+    <ObjectName>Thu Phí</ObjectName>
+    <ResultsName>Cấp toa cho về</ResultsName>
+    <PatientAddress>Khu Phô 4, TT. Thạnh Hóa, H. Thạnh Hóa, Long An</PatientAddress>
+    <AdvicesOut />
+    <Chon>0</Chon>
+    <PatientReceiveID>82778</PatientReceiveID>
+  </Table1>
+  <Table1>
+    <PatientCode>16002204</PatientCode>
+    <CreateDate>2016-08-04T07:17:41.397+07:00</CreateDate>
+    <PatientName>Đặng Văn Nhu</PatientName>
+    <PatientBirthyear>1965</PatientBirthyear>
+    <PatientAge>51</PatientAge>
+    <PatientGenderName>Nam</PatientGenderName>
+    <DiagnosisCode>Đau nhức vùng trán</DiagnosisCode>
+    <ObjectName>Thu Phí</ObjectName>
+    <ResultsName>Cấp toa cho về</ResultsName>
+    <PatientAddress>Khu Phô 1, TT. Thạnh Hóa, H. Thạnh Hóa, Long An</PatientAddress>
+    <AdvicesOut />
+    <Chon>0</Chon>
+    <PatientReceiveID>82781</PatientReceiveID>
+  </Table1>
+  <Table1>
+    <PatientCode>16000452</PatientCode>
+    <CreateDate>2016-08-04T07:06:27.497+07:00</CreateDate>
+    <PatientName>Ngô Phú Quý</PatientName>
+    <PatientBirthyear>2015</PatientBirthyear>
+    <PatientAge>0</PatientAge>
+    <PatientGenderName>Nam</PatientGenderName>
+    <DiagnosisCode>Sốt </DiagnosisCode>
+    <ObjectName>Thu Phí</ObjectName>
+    <ResultsName>Cấp toa cho về</ResultsName>
+    <PatientAddress>Thủy Tây, H. Thạnh Hóa, Long An</PatientAddress>
+    <AdvicesOut />
+    <Chon>0</Chon>
+    <PatientReceiveID>82780</PatientReceiveID>
+  </Table1>
+  <Table1>
+    <PatientCode>16002205</PatientCode>
+    <CreateDate>2016-08-04T07:28:25.943+07:00</CreateDate>
+    <PatientName>Bùi Nguyễn Thảo Như</PatientName>
+    <PatientBirthyear>2013</PatientBirthyear>
+    <PatientAge>2</PatientAge>
+    <PatientGenderName>Nữ</PatientGenderName>
+    <DiagnosisCode>Đầy hơi chướng bụng</DiagnosisCode>
+    <ObjectName>Thu Phí</ObjectName>
+    <ResultsName>Cấp toa cho về</ResultsName>
+    <PatientAddress>Ấp Bến Kè, Thủy Đông, H. Thạnh Hóa, Long An</PatientAddress>
+    <AdvicesOut />
+    <Chon>0</Chon>
+    <PatientReceiveID>82783</PatientReceiveID>
+  </Table1>
+  <Table1>
+    <PatientCode>16002027</PatientCode>
+    <CreateDate>2016-08-04T07:45:24.883+07:00</CreateDate>
+    <PatientName>Văn Tôn Trung</PatientName>
+    <PatientBirthyear>1968</PatientBirthyear>
+    <PatientAge>48</PatientAge>
+    <PatientGenderName>Nam</PatientGenderName>
+    <DiagnosisCode>Tk</DiagnosisCode>
+    <ObjectName>Thu Phí</ObjectName>
+    <ResultsName>Cấp toa cho về</ResultsName>
+    <PatientAddress>Ấp 2, Bình Hòa Hưng, H. Đức Huệ, Long An</PatientAddress>
+    <AdvicesOut />
+    <Chon>0</Chon>
+    <PatientReceiveID>82784</PatientReceiveID>
+  </Table1>
+  <Table1>
+    <PatientCode>16002193</PatientCode>
+    <CreateDate>2016-08-04T08:07:02.23+07:00</CreateDate>
+    <PatientName>Phạm Hoàng Minh Luân</PatientName>
+    <PatientBirthyear>2010</PatientBirthyear>
+    <PatientAge>6</PatientAge>
+    <PatientGenderName>Nam</PatientGenderName>
+    <DiagnosisCode>Ho nhiều</DiagnosisCode>
+    <ObjectName>Thu Phí</ObjectName>
+    <ResultsName>Cấp toa cho về</ResultsName>
+    <PatientAddress>Ấp Nhơn Xuyên, Thuận Nghĩa Hòa, H. Thạnh Hóa, Long An</PatientAddress>
+    <AdvicesOut />
+    <Chon>0</Chon>
+    <PatientReceiveID>82785</PatientReceiveID>
+  </Table1>
+  <Table1>
+    <PatientCode>16001556</PatientCode>
+    <CreateDate>2016-08-04T08:08:42.497+07:00</CreateDate>
+    <PatientName>Nguyễn Thị Đầm</PatientName>
+    <PatientBirthyear>1940</PatientBirthyear>
+    <PatientAge>76</PatientAge>
+    <PatientGenderName>Nữ</PatientGenderName>
+    <DiagnosisCode>Ngứa chưa rõ nguyên nhân</DiagnosisCode>
+    <ObjectName>Thu Phí</ObjectName>
+    <ResultsName>Chỉ định cận lâm sàng</ResultsName>
+    <PatientAddress>Long Thạnh, H. Thủ Thừa, Long An</PatientAddress>
+    <AdvicesOut />
+    <Chon>0</Chon>
+    <PatientReceiveID>82786</PatientReceiveID>
+  </Table1>
+  <Table1>
+    <PatientCode>16002206</PatientCode>
+    <CreateDate>2016-08-04T08:10:38.5+07:00</CreateDate>
+    <PatientName>Mai Thị Hồng Trâm</PatientName>
+    <PatientBirthyear>2008</PatientBirthyear>
+    <PatientAge>8</PatientAge>
+    <PatientGenderName>Nữ</PatientGenderName>
+    <DiagnosisCode>Đau vùng cẳng tay phải</DiagnosisCode>
+    <ObjectName>Thu Phí</ObjectName>
+    <ResultsName>Cấp toa cho về</ResultsName>
+    <PatientAddress>Ấp Ông Quới, Thạnh Phú, H. Thạnh Hóa, Long An</PatientAddress>
+    <AdvicesOut />
+    <Chon>0</Chon>
+    <PatientReceiveID>82787</PatientReceiveID>
+  </Table1>
+  <Table1>
+    <PatientCode>16002203</PatientCode>
+    <CreateDate>2016-08-04T07:02:28.39+07:00</CreateDate>
+    <PatientName>Nguyễn Thanh Loan</PatientName>
+    <PatientBirthyear>1976</PatientBirthyear>
+    <PatientAge>40</PatientAge>
+    <PatientGenderName>Nữ</PatientGenderName>
+    <DiagnosisCode>Kiểm tra sức khoẻ</DiagnosisCode>
+    <ObjectName>Thu Phí</ObjectName>
+    <ResultsName>Kết thúc điếu trị</ResultsName>
+    <PatientAddress>Thủy Tây, H. Thạnh Hóa, Long An</PatientAddress>
+    <AdvicesOut>Kiểm tra định kỳ 6 tháng/ 1 lần</AdvicesOut>
+    <Chon>0</Chon>
+    <PatientReceiveID>82779</PatientReceiveID>
+  </Table1>
+  <Table1>
+    <PatientCode>16002207</PatientCode>
+    <CreateDate>2016-08-04T08:15:32.423+07:00</CreateDate>
+    <PatientName>Lê Thị Út</PatientName>
+    <PatientBirthyear>1968</PatientBirthyear>
+    <PatientAge>48</PatientAge>
+    <PatientGenderName>Nữ</PatientGenderName>
+    <DiagnosisCode>Chóng mặt, nhức đầu</DiagnosisCode>
+    <ObjectName>Thu Phí</ObjectName>
+    <ResultsName>Chỉ định cận lâm sàng</ResultsName>
+    <PatientAddress>Ấp Trà Cú, Thuận Nghĩa Hòa, H. Thạnh Hóa, Long An</PatientAddress>
+    <AdvicesOut />
+    <Chon>0</Chon>
+    <PatientReceiveID>82789</PatientReceiveID>
+  </Table1>
+  <Table1>
+    <PatientCode>16002208</PatientCode>
+    <CreateDate>2016-08-04T08:27:14.627+07:00</CreateDate>
+    <PatientName>Nguyễn Thị Phương Ngọc</PatientName>
+    <PatientBirthyear>1993</PatientBirthyear>
+    <PatientAge>23</PatientAge>
+    <PatientGenderName>Nữ</PatientGenderName>
+    <DiagnosisCode>Đau họng. nhức đầu</DiagnosisCode>
+    <ObjectName>Thu Phí</ObjectName>
+    <ResultsName>Chỉ định cận lâm sàng</ResultsName>
+    <PatientAddress>Ấp Ôpng Hiếu, Thạnh Phú, H. Thạnh Hóa, Long An</PatientAddress>
+    <AdvicesOut />
+    <Chon>0</Chon>
+    <PatientReceiveID>82790</PatientReceiveID>
+  </Table1>
+  <Table1>
+    <PatientCode>16001363</PatientCode>
+    <CreateDate>2016-08-04T08:57:24.703+07:00</CreateDate>
+    <PatientName>Hoàng Thị Tám</PatientName>
+    <PatientBirthyear>1975</PatientBirthyear>
+    <PatientAge>41</PatientAge>
+    <PatientGenderName>Nữ</PatientGenderName>
+    <DiagnosisCode>Tk</DiagnosisCode>
+    <ObjectName>Thu Phí</ObjectName>
+    <ResultsName>Cấp toa cho về</ResultsName>
+    <PatientAddress>Khu Phố 2, TT. Thạnh Hóa, H. Thạnh Hóa, Long An</PatientAddress>
+    <AdvicesOut />
+    <Chon>0</Chon>
+    <PatientReceiveID>82793</PatientReceiveID>
+  </Table1>
+  <Table1>
+    <PatientCode>16002209</PatientCode>
+    <CreateDate>2016-08-04T09:16:20.633+07:00</CreateDate>
+    <PatientName>Đinh Thủy Loan</PatientName>
+    <PatientBirthyear>1986</PatientBirthyear>
+    <PatientAge>30</PatientAge>
+    <PatientGenderName>Nữ</PatientGenderName>
+    <DiagnosisCode>Chóng mặt, nhức đầu</DiagnosisCode>
+    <ObjectName>Thu Phí</ObjectName>
+    <ResultsName>Chỉ định cận lâm sàng</ResultsName>
+    <PatientAddress>Thuận Nghĩa Hòa, H. Thạnh Hóa, Long An</PatientAddress>
+    <AdvicesOut />
+    <Chon>0</Chon>
+    <PatientReceiveID>82794</PatientReceiveID>
+  </Table1>
+  <Table1>
+    <PatientCode>16002210</PatientCode>
+    <CreateDate>2016-08-04T09:30:55.497+07:00</CreateDate>
+    <PatientName>Bùi Thị Mỹ Vân</PatientName>
+    <PatientBirthyear>1956</PatientBirthyear>
+    <PatientAge>60</PatientAge>
+    <PatientGenderName>Nữ</PatientGenderName>
+    <DiagnosisCode>Đau các khớp gối, cổ chân , cstl</DiagnosisCode>
+    <ObjectName>Thu Phí</ObjectName>
+    <ResultsName>Chỉ định cận lâm sàng</ResultsName>
+    <PatientAddress>Khu Phô 3, TT. Thạnh Hóa, H. Thạnh Hóa, Long An</PatientAddress>
+    <AdvicesOut />
+    <Chon>0</Chon>
+    <PatientReceiveID>82796</PatientReceiveID>
+  </Table1>
+</table>

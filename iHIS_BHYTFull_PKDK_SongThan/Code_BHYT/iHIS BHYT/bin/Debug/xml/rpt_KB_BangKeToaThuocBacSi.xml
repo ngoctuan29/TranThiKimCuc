@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Table1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MedicalRecordCode" type="xs:string" minOccurs="0" />
+              <xs:element name="PatientCode" type="xs:string" minOccurs="0" />
+              <xs:element name="PatientName" type="xs:string" minOccurs="0" />
+              <xs:element name="PatientAddress" type="xs:string" minOccurs="0" />
+              <xs:element name="PatientBirthyear" type="xs:int" minOccurs="0" />
+              <xs:element name="PatientGenderName" type="xs:string" minOccurs="0" />
+              <xs:element name="ItemCode" type="xs:string" minOccurs="0" />
+              <xs:element name="ItemName" type="xs:string" minOccurs="0" />
+              <xs:element name="UnitOfMeasureName" type="xs:string" minOccurs="0" />
+              <xs:element name="Morning" type="xs:string" minOccurs="0" />
+              <xs:element name="Noon" type="xs:string" minOccurs="0" />
+              <xs:element name="Afternoon" type="xs:string" minOccurs="0" />
+              <xs:element name="Evening" type="xs:string" minOccurs="0" />
+              <xs:element name="Quantity" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Instruction" type="xs:string" minOccurs="0" />
+              <xs:element name="UnitPrice" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Amount" type="xs:decimal" minOccurs="0" />
+              <xs:element name="PostingDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Symptoms" type="xs:string" minOccurs="0" />
+              <xs:element name="InDate" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

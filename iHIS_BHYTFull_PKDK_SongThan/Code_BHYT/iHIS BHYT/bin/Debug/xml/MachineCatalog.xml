@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Machines>
+  <Parameter>
+    <Value>M00008</Value>
+    <STT>1</STT>
+    <Module>HH</Module>
+    <MachineName>Cell_Dyn_3200</MachineName>
+  </Parameter>
+  <Parameter>
+    <Value>M00009</Value>
+    <STT>2</STT>
+    <Module>SH</Module>
+    <MachineName>Hitachi 912 Analyzer</MachineName>
+  </Parameter>
+</Machines>

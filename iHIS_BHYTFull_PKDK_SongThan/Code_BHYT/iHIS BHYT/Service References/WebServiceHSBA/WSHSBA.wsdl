@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://microsoft.com/webservices/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://microsoft.com/webservices/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://microsoft.com/webservices/">
+      <s:element name="IPatients">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sign" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="patientCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="eThnicName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="careerName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="nationalityName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="provincialName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="districtName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="wardName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="patientAddress" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="patientName" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="patientGender" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="patientBirthDay" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="patientAge" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="patientMobile" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="patientEmail" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="medicalHistory" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="allergy" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="patientImage" type="s:base64Binary" />
+            <s:element minOccurs="0" maxOccurs="1" name="patientMonth" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="hospitalCode" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="IPatientsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="IPatientsResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="IPatientReceive">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sign" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="patientReceiveID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="patientCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="reason" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="inDate" type="s:dateTime" />
+            <s:element minOccurs="0" maxOccurs="1" name="employeeName" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="objectCode" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="typeReceiveID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="outDate" type="s:dateTime" />
+            <s:element minOccurs="0" maxOccurs="1" name="eThnicName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="careerName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="nationalityName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="provincialName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="districtName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="wardName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="companyInfo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="patientAddress" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="introName" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="orderNumber" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="denominationName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="objectExemptedName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="contentMedicalPattern" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pulse" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="temperature" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="bloodPressure" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="bloodPressure1" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="weight_" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="hight" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="breath" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="serial" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="kcbbdCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="kcbbdName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="startDate" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="endDate" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="traituyen" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="hospitalCode" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="IPatientReceiveResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="IPatientReceiveResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ISuggestedReceipt">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sign" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="suggestedReceiptID" type="s:decimal" />
+            <s:element minOccurs="0" maxOccurs="1" name="patientReceiveID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="serviceName" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="servicePrice" type="s:decimal" />
+            <s:element minOccurs="1" maxOccurs="1" name="disparityPrice" type="s:decimal" />
+            <s:element minOccurs="1" maxOccurs="1" name="unitPriceRoot" type="s:decimal" />
+            <s:element minOccurs="0" maxOccurs="1" name="patientCode" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="status_" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="paid" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="employeeName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="note" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="objectCode" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="patientType" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="workDate" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="orderNumber" type="s:decimal" />
+            <s:element minOccurs="0" maxOccurs="1" name="departmentNameOrder" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="departmentName" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="amountExemption" type="s:decimal" />
+            <s:element minOccurs="1" maxOccurs="1" name="quantity" type="s:decimal" />
+            <s:element minOccurs="0" maxOccurs="1" name="employeeNameDoctor" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="content" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="unitOfMeasureName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="serviceCategoryName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="serviceGroupName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="serviceModuleCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="hospitalCode" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ISuggestedReceiptResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ISuggestedReceiptResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="IReceiveDocumentImage">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sign" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="patientReceiveID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="note" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="image_" type="s:base64Binary" />
+            <s:element minOccurs="1" maxOccurs="1" name="stt" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="hospitalCode" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="IReceiveDocumentImageResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="IReceiveDocumentImageResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="IMedicalRecord">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sign" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="patientReceiveID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="medicalRecordCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="departmentName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="employeeName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="diagnosisName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="descriptionNode" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="postingDate" type="s:dateTime" />
+            <s:element minOccurs="0" maxOccurs="1" name="appointmentDate" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="symptoms" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="objectCode" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="advices" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="icd10KT" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="tackleName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="employeeNameDoctor" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="diagnosisCustom" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="treatments" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pulse" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="temperature" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="bloodPressure" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="bloodPressure1" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="weight_" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="hight" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="breath" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="appointmentNote" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="suggestedReceiptID" type="s:decimal" />
+            <s:element minOccurs="0" maxOccurs="1" name="hospitalCode" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="IMedicalRecordResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="IMedicalRecordResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="IMedicalRecordDetail">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sign" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="patientReceiveID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="medicalRecordCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="itemName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="dateOfIssues" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="morning" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="noon" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="afternoon" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="evening" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="quantity" type="s:decimal" />
+            <s:element minOccurs="0" maxOccurs="1" name="instruction" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="unitPrice" type="s:decimal" />
+            <s:element minOccurs="1" maxOccurs="1" name="amount" type="s:decimal" />
+            <s:element minOccurs="1" maxOccurs="1" name="objectCode" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="doseOf" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="doseOfPills" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="itemCategoryName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="groupName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="unitOfMeasureName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="active" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="itemContent" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="hospitalCode" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="IMedicalRecordDetailResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="IMedicalRecordDetailResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="IServiceRadiologyEntry">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sign" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="rowID" type="s:decimal" />
+            <s:element minOccurs="0" maxOccurs="1" name="patientReceiveID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="contents" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="conclusion" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="proposal" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="postingDate" type="s:dateTime" />
+            <s:element minOccurs="0" maxOccurs="1" name="employeeName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="employeeNameDoctor" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="serviceGroupCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="note" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="diagnosis" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="serviceName" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="suggestedReceiptID" type="s:decimal" />
+            <s:element minOccurs="0" maxOccurs="1" name="hospitalCode" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="IServiceRadiologyEntryResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="IServiceRadiologyEntryResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="IServiceRadiologyDetail">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sign" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="radiologyRowID" type="s:decimal" />
+            <s:element minOccurs="0" maxOccurs="1" name="patientReceiveID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="image_" type="s:base64Binary" />
+            <s:element minOccurs="0" maxOccurs="1" name="hospitalCode" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="IServiceRadiologyDetailResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="IServiceRadiologyDetailResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ISurgeries">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sign" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="patientReceiveID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="surgeriesCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="dateOn" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="timeOn" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="dateOut" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="timeOut_" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="icd10On" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="icd10Out" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="anesthesiaName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="complicationsName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="situationName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="content" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="note" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="employeeName" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="objectCode" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="patientType" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="departmentName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="diagnosisCustomOn" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="diagnosisCustomOut" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="suggestedReceiptID" type="s:decimal" />
+            <s:element minOccurs="0" maxOccurs="1" name="hospitalCode" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ISurgeriesResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ISurgeriesResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ISurgicalCrew">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sign" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="surgeriesCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="patientReceiveID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="employeeName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="positionName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="hospitalCode" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ISurgicalCrewResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ISurgicalCrewResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ILaboratoryEntry">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sign" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="patientReceiveID" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="idLaboratoryEntry" type="s:decimal" />
+            <s:element minOccurs="0" maxOccurs="1" name="appointmentDate" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="appointmentNote" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="conclusion" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="proposal" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="postingDate" type="s:dateTime" />
+            <s:element minOccurs="0" maxOccurs="1" name="serviceCategoryName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="idTemplate" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="objectCode" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="employeeName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="postingDateResult" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="departmentNameOrder" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="orderDate" type="s:dateTime" />
+            <s:element minOccurs="0" maxOccurs="1" name="employeeDoctorNameOrder" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="status_" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="hospitalCode" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ILaboratoryEntryResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ILaboratoryEntryResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ILaboratoryDetail">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sign" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="patientReceiveID" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="idLaboratoryEntry" type="s:decimal" />
+            <s:element minOccurs="0" maxOccurs="1" name="serviceName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="unitValues" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="valuesEntry" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="valuedFemale" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="valuedMale" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="normal" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="laboratoryName" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="serial" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="suggestedReceiptID" type="s:decimal" />
+            <s:element minOccurs="0" maxOccurs="1" name="hospitalCode" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ILaboratoryDetailResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ILaboratoryDetailResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="IClearData">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sign" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="patientReceiveID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="patientCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="hospitalCode" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="IClearDataResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="IClearDataResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="IsCreateUserLogin">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sign" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="userID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="hospitalCode" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="sex" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="mobile" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="address" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="provincialName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="districtName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="wardName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="fullName" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="IsCreateUserLoginResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="IsCreateUserLoginResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="IPatientsSoapIn">
+    <wsdl:part name="parameters" element="tns:IPatients" />
+  </wsdl:message>
+  <wsdl:message name="IPatientsSoapOut">
+    <wsdl:part name="parameters" element="tns:IPatientsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPatientReceiveSoapIn">
+    <wsdl:part name="parameters" element="tns:IPatientReceive" />
+  </wsdl:message>
+  <wsdl:message name="IPatientReceiveSoapOut">
+    <wsdl:part name="parameters" element="tns:IPatientReceiveResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISuggestedReceiptSoapIn">
+    <wsdl:part name="parameters" element="tns:ISuggestedReceipt" />
+  </wsdl:message>
+  <wsdl:message name="ISuggestedReceiptSoapOut">
+    <wsdl:part name="parameters" element="tns:ISuggestedReceiptResponse" />
+  </wsdl:message>
+  <wsdl:message name="IReceiveDocumentImageSoapIn">
+    <wsdl:part name="parameters" element="tns:IReceiveDocumentImage" />
+  </wsdl:message>
+  <wsdl:message name="IReceiveDocumentImageSoapOut">
+    <wsdl:part name="parameters" element="tns:IReceiveDocumentImageResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMedicalRecordSoapIn">
+    <wsdl:part name="parameters" element="tns:IMedicalRecord" />
+  </wsdl:message>
+  <wsdl:message name="IMedicalRecordSoapOut">
+    <wsdl:part name="parameters" element="tns:IMedicalRecordResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMedicalRecordDetailSoapIn">
+    <wsdl:part name="parameters" element="tns:IMedicalRecordDetail" />
+  </wsdl:message>
+  <wsdl:message name="IMedicalRecordDetailSoapOut">
+    <wsdl:part name="parameters" element="tns:IMedicalRecordDetailResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceRadiologyEntrySoapIn">
+    <wsdl:part name="parameters" element="tns:IServiceRadiologyEntry" />
+  </wsdl:message>
+  <wsdl:message name="IServiceRadiologyEntrySoapOut">
+    <wsdl:part name="parameters" element="tns:IServiceRadiologyEntryResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceRadiologyDetailSoapIn">
+    <wsdl:part name="parameters" element="tns:IServiceRadiologyDetail" />
+  </wsdl:message>
+  <wsdl:message name="IServiceRadiologyDetailSoapOut">
+    <wsdl:part name="parameters" element="tns:IServiceRadiologyDetailResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISurgeriesSoapIn">
+    <wsdl:part name="parameters" element="tns:ISurgeries" />
+  </wsdl:message>
+  <wsdl:message name="ISurgeriesSoapOut">
+    <wsdl:part name="parameters" element="tns:ISurgeriesResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISurgicalCrewSoapIn">
+    <wsdl:part name="parameters" element="tns:ISurgicalCrew" />
+  </wsdl:message>
+  <wsdl:message name="ISurgicalCrewSoapOut">
+    <wsdl:part name="parameters" element="tns:ISurgicalCrewResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILaboratoryEntrySoapIn">
+    <wsdl:part name="parameters" element="tns:ILaboratoryEntry" />
+  </wsdl:message>
+  <wsdl:message name="ILaboratoryEntrySoapOut">
+    <wsdl:part name="parameters" element="tns:ILaboratoryEntryResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILaboratoryDetailSoapIn">
+    <wsdl:part name="parameters" element="tns:ILaboratoryDetail" />
+  </wsdl:message>
+  <wsdl:message name="ILaboratoryDetailSoapOut">
+    <wsdl:part name="parameters" element="tns:ILaboratoryDetailResponse" />
+  </wsdl:message>
+  <wsdl:message name="IClearDataSoapIn">
+    <wsdl:part name="parameters" element="tns:IClearData" />
+  </wsdl:message>
+  <wsdl:message name="IClearDataSoapOut">
+    <wsdl:part name="parameters" element="tns:IClearDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="IsCreateUserLoginSoapIn">
+    <wsdl:part name="parameters" element="tns:IsCreateUserLogin" />
+  </wsdl:message>
+  <wsdl:message name="IsCreateUserLoginSoapOut">
+    <wsdl:part name="parameters" element="tns:IsCreateUserLoginResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WSHSBASoap">
+    <wsdl:operation name="IPatients">
+      <wsdl:input message="tns:IPatientsSoapIn" />
+      <wsdl:output message="tns:IPatientsSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="IPatientReceive">
+      <wsdl:input message="tns:IPatientReceiveSoapIn" />
+      <wsdl:output message="tns:IPatientReceiveSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ISuggestedReceipt">
+      <wsdl:input message="tns:ISuggestedReceiptSoapIn" />
+      <wsdl:output message="tns:ISuggestedReceiptSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="IReceiveDocumentImage">
+      <wsdl:input message="tns:IReceiveDocumentImageSoapIn" />
+      <wsdl:output message="tns:IReceiveDocumentImageSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="IMedicalRecord">
+      <wsdl:input message="tns:IMedicalRecordSoapIn" />
+      <wsdl:output message="tns:IMedicalRecordSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="IMedicalRecordDetail">
+      <wsdl:input message="tns:IMedicalRecordDetailSoapIn" />
+      <wsdl:output message="tns:IMedicalRecordDetailSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="IServiceRadiologyEntry">
+      <wsdl:input message="tns:IServiceRadiologyEntrySoapIn" />
+      <wsdl:output message="tns:IServiceRadiologyEntrySoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="IServiceRadiologyDetail">
+      <wsdl:input message="tns:IServiceRadiologyDetailSoapIn" />
+      <wsdl:output message="tns:IServiceRadiologyDetailSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ISurgeries">
+      <wsdl:input message="tns:ISurgeriesSoapIn" />
+      <wsdl:output message="tns:ISurgeriesSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ISurgicalCrew">
+      <wsdl:input message="tns:ISurgicalCrewSoapIn" />
+      <wsdl:output message="tns:ISurgicalCrewSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ILaboratoryEntry">
+      <wsdl:input message="tns:ILaboratoryEntrySoapIn" />
+      <wsdl:output message="tns:ILaboratoryEntrySoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ILaboratoryDetail">
+      <wsdl:input message="tns:ILaboratoryDetailSoapIn" />
+      <wsdl:output message="tns:ILaboratoryDetailSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="IClearData">
+      <wsdl:input message="tns:IClearDataSoapIn" />
+      <wsdl:output message="tns:IClearDataSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="IsCreateUserLogin">
+      <wsdl:input message="tns:IsCreateUserLoginSoapIn" />
+      <wsdl:output message="tns:IsCreateUserLoginSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WSHSBASoap" type="tns:WSHSBASoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="IPatients">
+      <soap:operation soapAction="http://microsoft.com/webservices/IPatients" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IPatientReceive">
+      <soap:operation soapAction="http://microsoft.com/webservices/IPatientReceive" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ISuggestedReceipt">
+      <soap:operation soapAction="http://microsoft.com/webservices/ISuggestedReceipt" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IReceiveDocumentImage">
+      <soap:operation soapAction="http://microsoft.com/webservices/IReceiveDocumentImage" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IMedicalRecord">
+      <soap:operation soapAction="http://microsoft.com/webservices/IMedicalRecord" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IMedicalRecordDetail">
+      <soap:operation soapAction="http://microsoft.com/webservices/IMedicalRecordDetail" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IServiceRadiologyEntry">
+      <soap:operation soapAction="http://microsoft.com/webservices/IServiceRadiologyEntry" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IServiceRadiologyDetail">
+      <soap:operation soapAction="http://microsoft.com/webservices/IServiceRadiologyDetail" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ISurgeries">
+      <soap:operation soapAction="http://microsoft.com/webservices/ISurgeries" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ISurgicalCrew">
+      <soap:operation soapAction="http://microsoft.com/webservices/ISurgicalCrew" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ILaboratoryEntry">
+      <soap:operation soapAction="http://microsoft.com/webservices/ILaboratoryEntry" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ILaboratoryDetail">
+      <soap:operation soapAction="http://microsoft.com/webservices/ILaboratoryDetail" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IClearData">
+      <soap:operation soapAction="http://microsoft.com/webservices/IClearData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IsCreateUserLogin">
+      <soap:operation soapAction="http://microsoft.com/webservices/IsCreateUserLogin" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WSHSBASoap12" type="tns:WSHSBASoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="IPatients">
+      <soap12:operation soapAction="http://microsoft.com/webservices/IPatients" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IPatientReceive">
+      <soap12:operation soapAction="http://microsoft.com/webservices/IPatientReceive" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ISuggestedReceipt">
+      <soap12:operation soapAction="http://microsoft.com/webservices/ISuggestedReceipt" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IReceiveDocumentImage">
+      <soap12:operation soapAction="http://microsoft.com/webservices/IReceiveDocumentImage" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IMedicalRecord">
+      <soap12:operation soapAction="http://microsoft.com/webservices/IMedicalRecord" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IMedicalRecordDetail">
+      <soap12:operation soapAction="http://microsoft.com/webservices/IMedicalRecordDetail" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IServiceRadiologyEntry">
+      <soap12:operation soapAction="http://microsoft.com/webservices/IServiceRadiologyEntry" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IServiceRadiologyDetail">
+      <soap12:operation soapAction="http://microsoft.com/webservices/IServiceRadiologyDetail" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ISurgeries">
+      <soap12:operation soapAction="http://microsoft.com/webservices/ISurgeries" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ISurgicalCrew">
+      <soap12:operation soapAction="http://microsoft.com/webservices/ISurgicalCrew" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ILaboratoryEntry">
+      <soap12:operation soapAction="http://microsoft.com/webservices/ILaboratoryEntry" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ILaboratoryDetail">
+      <soap12:operation soapAction="http://microsoft.com/webservices/ILaboratoryDetail" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IClearData">
+      <soap12:operation soapAction="http://microsoft.com/webservices/IClearData" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IsCreateUserLogin">
+      <soap12:operation soapAction="http://microsoft.com/webservices/IsCreateUserLogin" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WSHSBA">
+    <wsdl:port name="WSHSBASoap" binding="tns:WSHSBASoap">
+      <soap:address location="http://svhsba.kcb.health.vn/WSHSBA.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WSHSBASoap12" binding="tns:WSHSBASoap12">
+      <soap12:address location="http://svhsba.kcb.health.vn/WSHSBA.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

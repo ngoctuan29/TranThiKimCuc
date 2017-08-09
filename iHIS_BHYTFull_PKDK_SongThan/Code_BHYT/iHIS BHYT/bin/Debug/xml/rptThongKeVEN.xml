@@ -1,0 +1,2893 @@
+<?xml version="1.0" standalone="yes"?>
+<tableDanhSach>
+  <Table1>
+    <TenSP>NovoMix 30 Flexpen 300UI (đơn vị)</TenSP>
+    <TenHC>Insulin aspart Biphasic (DNA tái tổ hợp) 100UI</TenHC>
+    <VEN>V</VEN>
+    <DVT>UI</DVT>
+    <SoLuong>230261</SoLuong>
+    <DonGiaVAT>759.5000</DonGiaVAT>
+    <ThanhTien>174883229.5000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Mibetel 40mg-Hasan</TenSP>
+    <TenHC>Telmisartan 40mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>40876</SoLuong>
+    <DonGiaVAT>2625.0000</DonGiaVAT>
+    <ThanhTien>107299500.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Concor COR Tab 2.5mg</TenSP>
+    <TenHC>Bisoprolol 2.5mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>35820</SoLuong>
+    <DonGiaVAT>2878.0000</DonGiaVAT>
+    <ThanhTien>103089960.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>SaVi Rosuvastatin 5</TenSP>
+    <TenHC>Rosuvastatin 5mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>30977</SoLuong>
+    <DonGiaVAT>2890.0000</DonGiaVAT>
+    <ThanhTien>89523530.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Neotazin MR 35mg-Ampharco</TenSP>
+    <TenHC>Trimetazidin 35mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>79118</SoLuong>
+    <DonGiaVAT>968.0000</DonGiaVAT>
+    <ThanhTien>76586224.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Glucophage XR Tab 500mg</TenSP>
+    <TenHC>Metformin XR 500mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>30456</SoLuong>
+    <DonGiaVAT>1950.0000</DonGiaVAT>
+    <ThanhTien>59389200.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Idatril 10mg</TenSP>
+    <TenHC>Imidapril 10mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>11931</SoLuong>
+    <DonGiaVAT>4799.9900</DonGiaVAT>
+    <ThanhTien>57268680.6900</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Savi Dimin 500mg</TenSP>
+    <TenHC>Diosmine 450mg+Hesperidine 50mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>28199</SoLuong>
+    <DonGiaVAT>1954.0000</DonGiaVAT>
+    <ThanhTien>55100846.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Cetamet 250mg</TenSP>
+    <TenHC>CEFETAMET 250MG</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>5566</SoLuong>
+    <DonGiaVAT>8900.0000</DonGiaVAT>
+    <ThanhTien>49537400.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Amaryl 4mg</TenSP>
+    <TenHC>Glimepirid 4mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>9020</SoLuong>
+    <DonGiaVAT>5435.9900</DonGiaVAT>
+    <ThanhTien>49032629.8000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Calcium Hasan sủi (300+2940)mg</TenSP>
+    <TenHC>Calcium carbonat 300mg+ calci gluconolactat 2940mg</TenHC>
+    <VEN>N</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>27456</SoLuong>
+    <DonGiaVAT>1575.0000</DonGiaVAT>
+    <ThanhTien>43243200.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Varogel-shinpoong 0,4g+..</TenSP>
+    <TenHC>Magnesi hydroxid 0.8004g+ nhôm hydroxid 0.4g+ simethicon 0.08g</TenHC>
+    <VEN>E</VEN>
+    <DVT>Gói</DVT>
+    <SoLuong>17046</SoLuong>
+    <DonGiaVAT>2399.9900</DonGiaVAT>
+    <ThanhTien>40910229.5400</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Amaryl 2mg</TenSP>
+    <TenHC>Glimepirid 2mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>9716</SoLuong>
+    <DonGiaVAT>3938.9700</DonGiaVAT>
+    <ThanhTien>38271032.5200</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Cefuroxim 500mg-VMinh</TenSP>
+    <TenHC>Cefuroxim 500mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>9532</SoLuong>
+    <DonGiaVAT>3799.9500</DonGiaVAT>
+    <ThanhTien>36221123.4000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Natrilix SR 1.5mg</TenSP>
+    <TenHC>Indapamid 1.5mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>11061</SoLuong>
+    <DonGiaVAT>3115.3500</DonGiaVAT>
+    <ThanhTien>34458886.3500</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Ofmantine-Domesco 625mg</TenSP>
+    <TenHC>Amoxycylline 500mg+Acid Clavulanic125mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>11828</SoLuong>
+    <DonGiaVAT>2789.8500</DonGiaVAT>
+    <ThanhTien>32998345.8000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Dorocron MR 30mg</TenSP>
+    <TenHC>Gliclazide 30mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>41016</SoLuong>
+    <DonGiaVAT>774.9000</DonGiaVAT>
+    <ThanhTien>31783298.4000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Inmelox 15mg</TenSP>
+    <TenHC>Meloxicam 15mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>35214</SoLuong>
+    <DonGiaVAT>900.0000</DonGiaVAT>
+    <ThanhTien>31692600.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Singulair Tab 5mg</TenSP>
+    <TenHC>Montelukast 5mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>2576</SoLuong>
+    <DonGiaVAT>12264.0000</DonGiaVAT>
+    <ThanhTien>31592064.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Fortum Inj 1g</TenSP>
+    <TenHC>Ceftazidime 1g</TenHC>
+    <VEN>E</VEN>
+    <DVT>Lọ</DVT>
+    <SoLuong>417</SoLuong>
+    <DonGiaVAT>75600.0000</DonGiaVAT>
+    <ThanhTien>31525200.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Symbicort (160+4,5)mcg 60liều</TenSP>
+    <TenHC>Budesonid+formoterol (160+4,5)mcg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Lọ</DVT>
+    <SoLuong>106</SoLuong>
+    <DonGiaVAT>286440.0000</DonGiaVAT>
+    <ThanhTien>30362640.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Alsiful SR 10mg</TenSP>
+    <TenHC>Alfuzosin 10mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>3361</SoLuong>
+    <DonGiaVAT>8800.0000</DonGiaVAT>
+    <ThanhTien>29576800.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Dioridin 75mg</TenSP>
+    <TenHC>Clopidrogel  75mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>9958</SoLuong>
+    <DonGiaVAT>2890.0000</DonGiaVAT>
+    <ThanhTien>28778620.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Augmentin 250/31.25 Sac</TenSP>
+    <TenHC>Amoxycylline+Acid Clavulanic(250+31.25)mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Gói</DVT>
+    <SoLuong>2490</SoLuong>
+    <DonGiaVAT>10998.0000</DonGiaVAT>
+    <ThanhTien>27385020.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Vacoomez-20mg</TenSP>
+    <TenHC>Omeprazole 20mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>98531</SoLuong>
+    <DonGiaVAT>269.0000</DonGiaVAT>
+    <ThanhTien>26504839.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Air-X 80mg tab.</TenSP>
+    <TenHC>Simethicon 80mg</TenHC>
+    <VEN>N</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>30241</SoLuong>
+    <DonGiaVAT>805.9900</DonGiaVAT>
+    <ThanhTien>24373943.5900</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Mecob 500mcg-Davi</TenSP>
+    <TenHC>Mecobalamin 500mcg</TenHC>
+    <VEN>N</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>22811</SoLuong>
+    <DonGiaVAT>1000.0000</DonGiaVAT>
+    <ThanhTien>22811000.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Travinat 250mg</TenSP>
+    <TenHC>Cefuroxim 250mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>3370</SoLuong>
+    <DonGiaVAT>6600.0000</DonGiaVAT>
+    <ThanhTien>22242000.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Eulosan 50mg</TenSP>
+    <TenHC>Losartan 50mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>17596</SoLuong>
+    <DonGiaVAT>1190.0000</DonGiaVAT>
+    <ThanhTien>20939240.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Xatral SR 5mg</TenSP>
+    <TenHC>Alfuzosin 5mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>2718</SoLuong>
+    <DonGiaVAT>7500.0000</DonGiaVAT>
+    <ThanhTien>20385000.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Duphalac 10g</TenSP>
+    <TenHC>Lactulose Solution 10g</TenHC>
+    <VEN>E</VEN>
+    <DVT>Gói</DVT>
+    <SoLuong>4546</SoLuong>
+    <DonGiaVAT>4000.0000</DonGiaVAT>
+    <ThanhTien>18184000.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Dorotyl 250mg</TenSP>
+    <TenHC>Mephenesine 250mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>72744</SoLuong>
+    <DonGiaVAT>229.9500</DonGiaVAT>
+    <ThanhTien>16727482.8000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Cefotaxim ACS DOBFAR 1g-VDC</TenSP>
+    <TenHC>Cefotaxim 1g</TenHC>
+    <VEN>E</VEN>
+    <DVT>Lọ</DVT>
+    <SoLuong>448</SoLuong>
+    <DonGiaVAT>36500.0000</DonGiaVAT>
+    <ThanhTien>16352000.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Savi Alendronate forte 70mg</TenSP>
+    <TenHC>Alendronat 70mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>758</SoLuong>
+    <DonGiaVAT>20900.0000</DonGiaVAT>
+    <ThanhTien>15842200.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Seretide Evo (L) 25/250mcg</TenSP>
+    <TenHC>Salmeterol+fluticason propionat (25/250mcg)</TenHC>
+    <VEN>V</VEN>
+    <DVT>Lọ</DVT>
+    <SoLuong>55</SoLuong>
+    <DonGiaVAT>278089.9900</DonGiaVAT>
+    <ThanhTien>15294949.4500</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Lopilcar A (5+50)mg</TenSP>
+    <TenHC>Amlodipine+Atenolol</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>9269</SoLuong>
+    <DonGiaVAT>1649.9900</DonGiaVAT>
+    <ThanhTien>15293757.3100</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Perilac 10mg</TenSP>
+    <TenHC>Ketorolac 10mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>6016</SoLuong>
+    <DonGiaVAT>2500.0000</DonGiaVAT>
+    <ThanhTien>15040000.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Flixonase Nasal SPR 0.05%</TenSP>
+    <TenHC>Fluticasone propionate 0.05% 60liều</TenHC>
+    <VEN>E</VEN>
+    <DVT>Lọ</DVT>
+    <SoLuong>103</SoLuong>
+    <DonGiaVAT>134498.0000</DonGiaVAT>
+    <ThanhTien>13853294.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Efticele 200mg</TenSP>
+    <TenHC>Celecoxib 200mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>17426</SoLuong>
+    <DonGiaVAT>790.0000</DonGiaVAT>
+    <ThanhTien>13766540.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Concor 5mg</TenSP>
+    <TenHC>Bisoprolol 5mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>3471</SoLuong>
+    <DonGiaVAT>3936.0000</DonGiaVAT>
+    <ThanhTien>13661856.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Coversyl 5mg</TenSP>
+    <TenHC>Perindopril 5mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>2632</SoLuong>
+    <DonGiaVAT>5182.0000</DonGiaVAT>
+    <ThanhTien>13639024.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Zestril 5mg</TenSP>
+    <TenHC>Lisinopril 5mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>2895</SoLuong>
+    <DonGiaVAT>4534.0000</DonGiaVAT>
+    <ThanhTien>13125930.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Sirô Ceelin 30ml</TenSP>
+    <TenHC>Vitamin C 100mg/5ml</TenHC>
+    <VEN>N</VEN>
+    <DVT>Chai</DVT>
+    <SoLuong>836</SoLuong>
+    <DonGiaVAT>14469.0000</DonGiaVAT>
+    <ThanhTien>12096084.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Zestril 10mg</TenSP>
+    <TenHC>Lisinopril 10mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>1818</SoLuong>
+    <DonGiaVAT>6097.0000</DonGiaVAT>
+    <ThanhTien>11084346.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Menison 4mg</TenSP>
+    <TenHC>Methyl prednisolon 4mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>13959</SoLuong>
+    <DonGiaVAT>779.9900</DonGiaVAT>
+    <ThanhTien>10887880.4100</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Tanatril 10mg</TenSP>
+    <TenHC>Imidapril 10mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>1800</SoLuong>
+    <DonGiaVAT>6048.0000</DonGiaVAT>
+    <ThanhTien>10886400.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Tanatril 5mg</TenSP>
+    <TenHC>Imidapril 5mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>2442</SoLuong>
+    <DonGiaVAT>4414.0000</DonGiaVAT>
+    <ThanhTien>10778988.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Servigesic 500mg</TenSP>
+    <TenHC>Paracetamol 500mg tab.</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>35167</SoLuong>
+    <DonGiaVAT>280.0000</DonGiaVAT>
+    <ThanhTien>9846760.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Glucofine 1000mg</TenSP>
+    <TenHC>Metformin 1000mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>10071</SoLuong>
+    <DonGiaVAT>966.0000</DonGiaVAT>
+    <ThanhTien>9728586.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Opeclari 500mg</TenSP>
+    <TenHC>Clarithromycin 500mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>2550</SoLuong>
+    <DonGiaVAT>3600.0000</DonGiaVAT>
+    <ThanhTien>9180000.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Vitamin B1 250mg-Vidi</TenSP>
+    <TenHC>Vitamin B1 250mg</TenHC>
+    <VEN>N</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>36291</SoLuong>
+    <DonGiaVAT>252.0000</DonGiaVAT>
+    <ThanhTien>9145332.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Reinal 5mg-Davi</TenSP>
+    <TenHC>Flunarizine 5mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>12936</SoLuong>
+    <DonGiaVAT>695.0000</DonGiaVAT>
+    <ThanhTien>8990520.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Eyaren ophthalmic Drops 10ml</TenSP>
+    <TenHC>Kali iodide + natri iodide (3+3)mg/1ml</TenHC>
+    <VEN>E</VEN>
+    <DVT>Lọ</DVT>
+    <SoLuong>295</SoLuong>
+    <DonGiaVAT>29781.1500</DonGiaVAT>
+    <ThanhTien>8785439.2500</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Procoralan 7.5mg</TenSP>
+    <TenHC>Ivabradin 7.5mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>784</SoLuong>
+    <DonGiaVAT>11101.0000</DonGiaVAT>
+    <ThanhTien>8703184.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Detriat 100mg-Spm</TenSP>
+    <TenHC>Trimebutin 100mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>13868</SoLuong>
+    <DonGiaVAT>591.9900</DonGiaVAT>
+    <ThanhTien>8209717.3200</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Asthmatin 10mg-Stada</TenSP>
+    <TenHC>Montelukast 10mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>2135</SoLuong>
+    <DonGiaVAT>3824.9400</DonGiaVAT>
+    <ThanhTien>8166246.9000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Kacetam 800mg</TenSP>
+    <TenHC>Piracetam 800mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>18287</SoLuong>
+    <DonGiaVAT>444.0000</DonGiaVAT>
+    <ThanhTien>8119428.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Amdicor  5mg-Mkp</TenSP>
+    <TenHC>Amlodipine 5mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>37428</SoLuong>
+    <DonGiaVAT>215.0000</DonGiaVAT>
+    <ThanhTien>8047020.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Nitrostad 2,5mg retard</TenSP>
+    <TenHC>Glyceryl trinitrate 2.5mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>10927</SoLuong>
+    <DonGiaVAT>719.9700</DonGiaVAT>
+    <ThanhTien>7867112.1900</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Fumafer-B9 Corbiere</TenSP>
+    <TenHC>Sắt fumarat + folic acid (182.04mg + 0.4mg)</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>6257</SoLuong>
+    <DonGiaVAT>1244.0000</DonGiaVAT>
+    <ThanhTien>7783708.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Alphachymotrypsin-TW2</TenSP>
+    <TenHC>Alphachymotrypsin 4200UI</TenHC>
+    <VEN>N</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>26412</SoLuong>
+    <DonGiaVAT>294.0000</DonGiaVAT>
+    <ThanhTien>7765128.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Spinolac 25mg</TenSP>
+    <TenHC>Spironolacton 25mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>5887</SoLuong>
+    <DonGiaVAT>1291.5000</DonGiaVAT>
+    <ThanhTien>7603060.5000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Hapacol 500mg sủi</TenSP>
+    <TenHC>Paracetamol 500mg sủi</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>4780</SoLuong>
+    <DonGiaVAT>1575.0000</DonGiaVAT>
+    <ThanhTien>7528500.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Glocor 2.5mg</TenSP>
+    <TenHC>Bisoprolol 2.5mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>9351</SoLuong>
+    <DonGiaVAT>800.0000</DonGiaVAT>
+    <ThanhTien>7480800.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Pataday 0.2% 2.5ml</TenSP>
+    <TenHC>Olopatadin (hydroclorid)</TenHC>
+    <VEN>E</VEN>
+    <DVT>Lọ</DVT>
+    <SoLuong>56</SoLuong>
+    <DonGiaVAT>130999.0500</DonGiaVAT>
+    <ThanhTien>7335946.8000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Savi Tenofovir 300</TenSP>
+    <TenHC>Tenofovir 300mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>406</SoLuong>
+    <DonGiaVAT>17900.0000</DonGiaVAT>
+    <ThanhTien>7267400.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>pms-Probio 75mg</TenSP>
+    <TenHC>Lactobacillus acidophilus 75mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Gói</DVT>
+    <SoLuong>8205</SoLuong>
+    <DonGiaVAT>882.0000</DonGiaVAT>
+    <ThanhTien>7236810.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Lifibrat 300mg-Mkp</TenSP>
+    <TenHC>Fenofibrat 300mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>6774</SoLuong>
+    <DonGiaVAT>1050.0000</DonGiaVAT>
+    <ThanhTien>7112700.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Vigamox Drop 0.5% 5ml</TenSP>
+    <TenHC>Moxifloxacin 0.5% 5ml</TenHC>
+    <VEN>E</VEN>
+    <DVT>Lọ</DVT>
+    <SoLuong>79</SoLuong>
+    <DonGiaVAT>89998.6500</DonGiaVAT>
+    <ThanhTien>7109893.3500</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Zinnat Tab 500mg</TenSP>
+    <TenHC>Cefuroxim 500mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>278</SoLuong>
+    <DonGiaVAT>24589.0000</DonGiaVAT>
+    <ThanhTien>6835742.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Diserti 16mg</TenSP>
+    <TenHC>Betahistine 16mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>6585</SoLuong>
+    <DonGiaVAT>1008.0000</DonGiaVAT>
+    <ThanhTien>6637680.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Metinim 850mg-Glomed</TenSP>
+    <TenHC>Metformin 850mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>13048</SoLuong>
+    <DonGiaVAT>505.0000</DonGiaVAT>
+    <ThanhTien>6589240.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Nifedipin T20 Stada Retard 20mg</TenSP>
+    <TenHC>Nifedipin 20mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>12183</SoLuong>
+    <DonGiaVAT>539.9800</DonGiaVAT>
+    <ThanhTien>6578576.3400</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Desratel 5mg-Davi</TenSP>
+    <TenHC>Desloratadin 5mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>7650</SoLuong>
+    <DonGiaVAT>850.0000</DonGiaVAT>
+    <ThanhTien>6502500.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Lisidigal 5mg</TenSP>
+    <TenHC>Lisinopril 5mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>6083</SoLuong>
+    <DonGiaVAT>1050.0000</DonGiaVAT>
+    <ThanhTien>6387150.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Vartel 20mg</TenSP>
+    <TenHC>Trimetazidin 20mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>15537</SoLuong>
+    <DonGiaVAT>400.0000</DonGiaVAT>
+    <ThanhTien>6214800.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Nootropil inj. 3g/15ml</TenSP>
+    <TenHC>Piracetam 3g/15ml</TenHC>
+    <VEN>E</VEN>
+    <DVT>Ống</DVT>
+    <SoLuong>189</SoLuong>
+    <DonGiaVAT>31525.0000</DonGiaVAT>
+    <ThanhTien>5958225.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Fefasdin 180mg</TenSP>
+    <TenHC>Fexofenadin 180mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>4509</SoLuong>
+    <DonGiaVAT>1320.0000</DonGiaVAT>
+    <ThanhTien>5951880.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Nutroplex sp 60ml</TenSP>
+    <TenHC>Vitamin A+ D+ B1+ B2+ B3+ B6+ B12+ Sắt nguyên tố+ Calci Glycerophosphat+ Magnesi Gluconat+ Lysin HCl</TenHC>
+    <VEN>N</VEN>
+    <DVT>Chai</DVT>
+    <SoLuong>320</SoLuong>
+    <DonGiaVAT>17499.3000</DonGiaVAT>
+    <ThanhTien>5599776.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Glufort-Mix 500mg/5mg</TenSP>
+    <TenHC>Metformin+ Glibenclamid (500+5)mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>7147</SoLuong>
+    <DonGiaVAT>765.0000</DonGiaVAT>
+    <ThanhTien>5467455.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Ampha E-400 Caps</TenSP>
+    <TenHC>Vitamin E 400UI</TenHC>
+    <VEN>N</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>8199</SoLuong>
+    <DonGiaVAT>665.0000</DonGiaVAT>
+    <ThanhTien>5452335.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Lactat ringer 500ml-Mkp</TenSP>
+    <TenHC>Lactat ringer</TenHC>
+    <VEN>E</VEN>
+    <DVT>Chai</DVT>
+    <SoLuong>614</SoLuong>
+    <DonGiaVAT>8665.0000</DonGiaVAT>
+    <ThanhTien>5320310.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Terpin Codein (100+15)mg-Vidi</TenSP>
+    <TenHC>Terpin codein (100+15)mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>15961</SoLuong>
+    <DonGiaVAT>315.0000</DonGiaVAT>
+    <ThanhTien>5027715.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Vacomuc 100mg gói</TenSP>
+    <TenHC>N-Acetycystein 100mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Gói</DVT>
+    <SoLuong>8647</SoLuong>
+    <DonGiaVAT>564.0000</DonGiaVAT>
+    <ThanhTien>4876908.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Lipidcare 200mg</TenSP>
+    <TenHC>Fenofibrat 200mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>4629</SoLuong>
+    <DonGiaVAT>1050.0000</DonGiaVAT>
+    <ThanhTien>4860450.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Berodual MDI (0,05+0,02)mg-10ml Spray</TenSP>
+    <TenHC>Fenoterol + ipratropium (0,05mg+0.02mg)</TenHC>
+    <VEN>V</VEN>
+    <DVT>Lọ</DVT>
+    <SoLuong>36</SoLuong>
+    <DonGiaVAT>132322.0500</DonGiaVAT>
+    <ThanhTien>4763593.8000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Pycip 500mg</TenSP>
+    <TenHC>Ciprofloxacin 500mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>1603</SoLuong>
+    <DonGiaVAT>2800.0000</DonGiaVAT>
+    <ThanhTien>4488400.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Gikanin 500mg</TenSP>
+    <TenHC>Acetyl leucin 500mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>8659</SoLuong>
+    <DonGiaVAT>510.0000</DonGiaVAT>
+    <ThanhTien>4416090.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Hasanclar 250mg</TenSP>
+    <TenHC>Clarithromycin 250mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>2183</SoLuong>
+    <DonGiaVAT>1995.0000</DonGiaVAT>
+    <ThanhTien>4355085.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Magdivix (5+470)mg</TenSP>
+    <TenHC>B6 + magnesi (5+470)mg</TenHC>
+    <VEN>N</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>24312</SoLuong>
+    <DonGiaVAT>178.5000</DonGiaVAT>
+    <ThanhTien>4339692.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Tobidex 5ml</TenSP>
+    <TenHC>Tobramycin+Dexamethasone(3mg+1mg/1ml)</TenHC>
+    <VEN>E</VEN>
+    <DVT>Lọ</DVT>
+    <SoLuong>211</SoLuong>
+    <DonGiaVAT>19950.0000</DonGiaVAT>
+    <ThanhTien>4209450.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Tanganil Inj 500mg/5ml-Vime</TenSP>
+    <TenHC>Acetyl leucin 500mg/5ml</TenHC>
+    <VEN>E</VEN>
+    <DVT>Ống</DVT>
+    <SoLuong>286</SoLuong>
+    <DonGiaVAT>13697.8800</DonGiaVAT>
+    <ThanhTien>3917593.6800</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Europulgite (2.5g+0.5g)</TenSP>
+    <TenHC>Actapulgite 3g</TenHC>
+    <VEN>E</VEN>
+    <DVT>Gói</DVT>
+    <SoLuong>1932</SoLuong>
+    <DonGiaVAT>2000.0000</DonGiaVAT>
+    <ThanhTien>3864000.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Stugeron 25mg</TenSP>
+    <TenHC>Cinnarizine 25mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>6286</SoLuong>
+    <DonGiaVAT>614.0000</DonGiaVAT>
+    <ThanhTien>3859604.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Aspegic 100mg</TenSP>
+    <TenHC>Acetylsalicylic acid 100mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Gói</DVT>
+    <SoLuong>3996</SoLuong>
+    <DonGiaVAT>960.7500</DonGiaVAT>
+    <ThanhTien>3839157.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Lipitor 10mg</TenSP>
+    <TenHC>Atorvastatin 10mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>239</SoLuong>
+    <DonGiaVAT>15941.0000</DonGiaVAT>
+    <ThanhTien>3809899.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Augmentin BD 625mg</TenSP>
+    <TenHC>Amoxycylline 500mg+Acid Clavulanic125mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>304</SoLuong>
+    <DonGiaVAT>11936.0000</DonGiaVAT>
+    <ThanhTien>3628544.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Rofba (4+1.25)mg-Davi</TenSP>
+    <TenHC>Perindopril+ indapamid (4+1.25)mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>2232</SoLuong>
+    <DonGiaVAT>1590.0000</DonGiaVAT>
+    <ThanhTien>3548880.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Glocor 5mg</TenSP>
+    <TenHC>Bisoprolol 5mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>2798</SoLuong>
+    <DonGiaVAT>1265.0000</DonGiaVAT>
+    <ThanhTien>3539470.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Felodipin Stada  5mg retard</TenSP>
+    <TenHC>Felodipin 5mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>3896</SoLuong>
+    <DonGiaVAT>900.0000</DonGiaVAT>
+    <ThanhTien>3506400.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Dopagan-Effervescent 500mg sủi</TenSP>
+    <TenHC>Paracetamol 500mg sủi</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>4081</SoLuong>
+    <DonGiaVAT>849.4500</DonGiaVAT>
+    <ThanhTien>3466605.4500</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Prednisolon 5mg-T.Hóa</TenSP>
+    <TenHC>Prednisolon 5mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>17583</SoLuong>
+    <DonGiaVAT>187.9900</DonGiaVAT>
+    <ThanhTien>3305428.1700</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Dermovate Cream 15g</TenSP>
+    <TenHC>Clobetasol propionat 0.05% 15g</TenHC>
+    <VEN>E</VEN>
+    <DVT>Tube</DVT>
+    <SoLuong>73</SoLuong>
+    <DonGiaVAT>42812.0000</DonGiaVAT>
+    <ThanhTien>3125276.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Flunex AQ 0.05%</TenSP>
+    <TenHC>Fluticasone propionate 27.5mcg/liều 120 liều</TenHC>
+    <VEN>E</VEN>
+    <DVT>Lọ</DVT>
+    <SoLuong>19</SoLuong>
+    <DonGiaVAT>160000.0000</DonGiaVAT>
+    <ThanhTien>3040000.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Micardis 40mg</TenSP>
+    <TenHC>Telmisartan 40mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>273</SoLuong>
+    <DonGiaVAT>10348.9800</DonGiaVAT>
+    <ThanhTien>2825271.5400</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Azopt Drop 1% 5ml</TenSP>
+    <TenHC>Brinzolamid 1% 5ml</TenHC>
+    <VEN>E</VEN>
+    <DVT>Lọ</DVT>
+    <SoLuong>24</SoLuong>
+    <DonGiaVAT>116698.0600</DonGiaVAT>
+    <ThanhTien>2800753.4400</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Nexium inj 40mg 1's</TenSP>
+    <TenHC>Esomeprazol 40mg inj</TenHC>
+    <VEN>V</VEN>
+    <DVT>Lọ</DVT>
+    <SoLuong>18</SoLuong>
+    <DonGiaVAT>153559.9900</DonGiaVAT>
+    <ThanhTien>2764079.8200</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Murihol 500mg/2.5mg</TenSP>
+    <TenHC>Metformin+ Glibenclamid (500+2.5)mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>3159</SoLuong>
+    <DonGiaVAT>850.0000</DonGiaVAT>
+    <ThanhTien>2685150.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Connec 50mg</TenSP>
+    <TenHC>CAO PYGEUM AFRICANUM 50MG</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>378</SoLuong>
+    <DonGiaVAT>6993.0000</DonGiaVAT>
+    <ThanhTien>2643354.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Glucofine 500mg</TenSP>
+    <TenHC>Metformin 500mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>6432</SoLuong>
+    <DonGiaVAT>409.5000</DonGiaVAT>
+    <ThanhTien>2633904.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Imidu 60mg</TenSP>
+    <TenHC>Isosorbide mononitrate 60mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>1559</SoLuong>
+    <DonGiaVAT>1680.0000</DonGiaVAT>
+    <ThanhTien>2619120.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Cefpodoxime-MKP 200</TenSP>
+    <TenHC>Cefpodoxim 200mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>746</SoLuong>
+    <DonGiaVAT>3410.0000</DonGiaVAT>
+    <ThanhTien>2543860.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Efticol 0.9% 10ml</TenSP>
+    <TenHC>Natri Clorid 0.9%/10ml</TenHC>
+    <VEN>E</VEN>
+    <DVT>Lọ</DVT>
+    <SoLuong>1603</SoLuong>
+    <DonGiaVAT>1575.0000</DonGiaVAT>
+    <ThanhTien>2524725.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Forair 25/250mcg</TenSP>
+    <TenHC>Salmeterol+fluticason propionat (25/250mcg)</TenHC>
+    <VEN>V</VEN>
+    <DVT>Lọ</DVT>
+    <SoLuong>14</SoLuong>
+    <DonGiaVAT>174999.3000</DonGiaVAT>
+    <ThanhTien>2449990.2000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Diclofenac 50mg -MKP</TenSP>
+    <TenHC>Diclofenac 50mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>17417</SoLuong>
+    <DonGiaVAT>130.0000</DonGiaVAT>
+    <ThanhTien>2264210.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Vastarel MR 35mg</TenSP>
+    <TenHC>Trimetazidin 35mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>861</SoLuong>
+    <DonGiaVAT>2483.0000</DonGiaVAT>
+    <ThanhTien>2137863.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Berodual MDI (0,05+0,02)mg-10ml Spray</TenSP>
+    <TenHC>Fenoterol + ipratropium (0,05mg+0.02mg)</TenHC>
+    <VEN>V</VEN>
+    <DVT>Lọ</DVT>
+    <SoLuong>16</SoLuong>
+    <DonGiaVAT>132322.0600</DonGiaVAT>
+    <ThanhTien>2117152.9600</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Omegit inj</TenSP>
+    <TenHC>Omeprazole 40mg inj.</TenHC>
+    <VEN>V</VEN>
+    <DVT>Lọ</DVT>
+    <SoLuong>48</SoLuong>
+    <DonGiaVAT>43890.0000</DonGiaVAT>
+    <ThanhTien>2106720.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Smec-meyer 3g</TenSP>
+    <TenHC>Diosmectide 3g</TenHC>
+    <VEN>E</VEN>
+    <DVT>Gói</DVT>
+    <SoLuong>1328</SoLuong>
+    <DonGiaVAT>1528.0000</DonGiaVAT>
+    <ThanhTien>2029184.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Proctolog sup. (120mg+10mg)</TenSP>
+    <TenHC>Trimebutin 120mg+ ruscogenines10mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>412</SoLuong>
+    <DonGiaVAT>4770.0000</DonGiaVAT>
+    <ThanhTien>1965240.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Vitamin C 500mg-Vidi</TenSP>
+    <TenHC>Vitamin C 500mg</TenHC>
+    <VEN>N</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>12877</SoLuong>
+    <DonGiaVAT>147.0000</DonGiaVAT>
+    <ThanhTien>1892919.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Amoxicilin 500mg-TW2</TenSP>
+    <TenHC>Amoxycyllin 500mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>3284</SoLuong>
+    <DonGiaVAT>525.0000</DonGiaVAT>
+    <ThanhTien>1724100.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Seretide Evo (L) 25/250mcg</TenSP>
+    <TenHC>Salmeterol+fluticason propionat (25/250mcg)</TenHC>
+    <VEN>V</VEN>
+    <DVT>Lọ</DVT>
+    <SoLuong>6</SoLuong>
+    <DonGiaVAT>278089.9800</DonGiaVAT>
+    <ThanhTien>1668539.8800</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Utrogestan 100mg</TenSP>
+    <TenHC>Progesteron 100mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>256</SoLuong>
+    <DonGiaVAT>6499.9900</DonGiaVAT>
+    <ThanhTien>1663997.4400</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Sulpirid 50mg-Vidi</TenSP>
+    <TenHC>Sulpiride 50mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>8145</SoLuong>
+    <DonGiaVAT>202.6500</DonGiaVAT>
+    <ThanhTien>1650584.2500</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Domitazol (250+20+20)mg</TenSP>
+    <TenHC>Malvapurpurea+camphoronobrominat+methylen blue (250+20+25)mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>2029</SoLuong>
+    <DonGiaVAT>778.8900</DonGiaVAT>
+    <ThanhTien>1580367.8100</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Ventolin Inh 100mcg 200dose</TenSP>
+    <TenHC>Salbutamol 100mcg</TenHC>
+    <VEN>V</VEN>
+    <DVT>Ống</DVT>
+    <SoLuong>22</SoLuong>
+    <DonGiaVAT>71300.0000</DonGiaVAT>
+    <ThanhTien>1568600.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Amigold 8.5% 250ml</TenSP>
+    <TenHC>Acid amin* 8.5% 250ml</TenHC>
+    <VEN>E</VEN>
+    <DVT>Túi</DVT>
+    <SoLuong>23</SoLuong>
+    <DonGiaVAT>67998.0000</DonGiaVAT>
+    <ThanhTien>1563954.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Mutecium-M 1mg/1ml 30ml</TenSP>
+    <TenHC>Domperidone 1mg/1ml</TenHC>
+    <VEN>E</VEN>
+    <DVT>Chai</DVT>
+    <SoLuong>112</SoLuong>
+    <DonGiaVAT>13400.0000</DonGiaVAT>
+    <ThanhTien>1500800.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Meyerralgan 150mg gói</TenSP>
+    <TenHC>Paracetamol 150mg gói</TenHC>
+    <VEN>E</VEN>
+    <DVT>Gói</DVT>
+    <SoLuong>2194</SoLuong>
+    <DonGiaVAT>684.0000</DonGiaVAT>
+    <ThanhTien>1500696.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Ferlin Sp 30ml</TenSP>
+    <TenHC>Sắt nguyên tố+B1+B6+B12(30mg+10mg+10mg+50mcg)</TenHC>
+    <VEN>N</VEN>
+    <DVT>Chai</DVT>
+    <SoLuong>85</SoLuong>
+    <DonGiaVAT>17325.0000</DonGiaVAT>
+    <ThanhTien>1472625.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Topralsin-Pharimex</TenSP>
+    <TenHC>Oxomemazine+Guaifenesin+paracetamol+natri benzoate (1.66+33.33+33.33+33.33)mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>7590</SoLuong>
+    <DonGiaVAT>190.0000</DonGiaVAT>
+    <ThanhTien>1442100.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>New Tobi 80mg/2ml</TenSP>
+    <TenHC>Tobramycin 80mg/2ml</TenHC>
+    <VEN>E</VEN>
+    <DVT>Ống</DVT>
+    <SoLuong>65</SoLuong>
+    <DonGiaVAT>22000.0000</DonGiaVAT>
+    <ThanhTien>1430000.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Acepron 250mg gói</TenSP>
+    <TenHC>Paracetamol 250mg gói</TenHC>
+    <VEN>E</VEN>
+    <DVT>Gói</DVT>
+    <SoLuong>2468</SoLuong>
+    <DonGiaVAT>567.0000</DonGiaVAT>
+    <ThanhTien>1399356.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Pyme No-spain 40mg</TenSP>
+    <TenHC>Drotaverin 40mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>3087</SoLuong>
+    <DonGiaVAT>441.0000</DonGiaVAT>
+    <ThanhTien>1361367.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Amlor 5mg tab</TenSP>
+    <TenHC>Amlodipine 5mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>179</SoLuong>
+    <DonGiaVAT>7593.0000</DonGiaVAT>
+    <ThanhTien>1359147.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Vitamin A-D (5000+400)UI</TenSP>
+    <TenHC>Vitamin A_5.000UI+D_400UI</TenHC>
+    <VEN>N</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>5655</SoLuong>
+    <DonGiaVAT>236.0000</DonGiaVAT>
+    <ThanhTien>1334580.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Tobcol 0.3% 5ml</TenSP>
+    <TenHC>Tobramycin 0.3% 5ml</TenHC>
+    <VEN>E</VEN>
+    <DVT>Lọ</DVT>
+    <SoLuong>144</SoLuong>
+    <DonGiaVAT>9240.0000</DonGiaVAT>
+    <ThanhTien>1330560.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Sorbitol 5g</TenSP>
+    <TenHC>Sorbitol 5g</TenHC>
+    <VEN>E</VEN>
+    <DVT>Gói</DVT>
+    <SoLuong>2783</SoLuong>
+    <DonGiaVAT>469.9900</DonGiaVAT>
+    <ThanhTien>1307982.1700</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Siro Air-x 15ml</TenSP>
+    <TenHC>Simethicon 40mg/0.6ml</TenHC>
+    <VEN>E</VEN>
+    <DVT>Chai</DVT>
+    <SoLuong>68</SoLuong>
+    <DonGiaVAT>18900.0000</DonGiaVAT>
+    <ThanhTien>1285200.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Domperidon 10mg-Vaco</TenSP>
+    <TenHC>Domperidone 10mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>10850</SoLuong>
+    <DonGiaVAT>115.0000</DonGiaVAT>
+    <ThanhTien>1247750.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Cefaclor 125mg gói-TVP</TenSP>
+    <TenHC>Cefaclor 125mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Gói</DVT>
+    <SoLuong>850</SoLuong>
+    <DonGiaVAT>1400.0000</DonGiaVAT>
+    <ThanhTien>1190000.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Flixotide Evo SPR 125mcg</TenSP>
+    <TenHC>Fluticason propionat 125mcg/liều xịt</TenHC>
+    <VEN>E</VEN>
+    <DVT>Lọ</DVT>
+    <SoLuong>11</SoLuong>
+    <DonGiaVAT>106462.0000</DonGiaVAT>
+    <ThanhTien>1171082.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Parazacol 1g /100ml-Pharbaco</TenSP>
+    <TenHC>Paracetamol 1g/100ml</TenHC>
+    <VEN>V</VEN>
+    <DVT>Chai</DVT>
+    <SoLuong>37</SoLuong>
+    <DonGiaVAT>30200.0000</DonGiaVAT>
+    <ThanhTien>1117400.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Seretide Evo (L) 25/250mcg</TenSP>
+    <TenHC>Salmeterol+fluticason propionat (25/250mcg)</TenHC>
+    <VEN>V</VEN>
+    <DVT>Lọ</DVT>
+    <SoLuong>4</SoLuong>
+    <DonGiaVAT>278090.0000</DonGiaVAT>
+    <ThanhTien>1112360.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Ranitidine 150mg-K.Hòa</TenSP>
+    <TenHC>Ranitidine 150mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>3931</SoLuong>
+    <DonGiaVAT>280.0000</DonGiaVAT>
+    <ThanhTien>1100680.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Emerazol 20mg</TenSP>
+    <TenHC>Esomeprazol 20mg</TenHC>
+    <VEN>V</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>433</SoLuong>
+    <DonGiaVAT>2520.0000</DonGiaVAT>
+    <ThanhTien>1091160.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Gynofar 250ml</TenSP>
+    <TenHC>Đồng Sulfate 0.25g/250ml</TenHC>
+    <VEN>E</VEN>
+    <DVT>Chai</DVT>
+    <SoLuong>135</SoLuong>
+    <DonGiaVAT>7980.0000</DonGiaVAT>
+    <ThanhTien>1077300.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Rhinocort Aqua Spr 64mcg</TenSP>
+    <TenHC>Budesonide 64mcg/liều</TenHC>
+    <VEN>E</VEN>
+    <DVT>Lọ</DVT>
+    <SoLuong>5</SoLuong>
+    <DonGiaVAT>203522.0000</DonGiaVAT>
+    <ThanhTien>1017610.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Augmentin 1.2g inj-Gsk</TenSP>
+    <TenHC>Amoxycylline 1g +Acid Clavulanic 200mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Lọ</DVT>
+    <SoLuong>23</SoLuong>
+    <DonGiaVAT>42308.0000</DonGiaVAT>
+    <ThanhTien>973084.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Sagacid I.V 40mg</TenSP>
+    <TenHC>Pantoprazole 40mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Lọ</DVT>
+    <SoLuong>12</SoLuong>
+    <DonGiaVAT>79999.5000</DonGiaVAT>
+    <ThanhTien>959994.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Medisamin 250mg</TenSP>
+    <TenHC>Tranexamic acid 250mg</TenHC>
+    <VEN>V</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>430</SoLuong>
+    <DonGiaVAT>2200.0000</DonGiaVAT>
+    <ThanhTien>946000.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Crestor Tab 10mg</TenSP>
+    <TenHC>Rosuvastatin 10mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>56</SoLuong>
+    <DonGiaVAT>16170.0000</DonGiaVAT>
+    <ThanhTien>905520.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Betaserc 16mg</TenSP>
+    <TenHC>Betahistine 16mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>284</SoLuong>
+    <DonGiaVAT>3178.0000</DonGiaVAT>
+    <ThanhTien>902552.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Decolic 24mg</TenSP>
+    <TenHC>Trimebutin 24mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Gói</DVT>
+    <SoLuong>592</SoLuong>
+    <DonGiaVAT>1500.0000</DonGiaVAT>
+    <ThanhTien>888000.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Hydrocortisone sodium succinat Rotex-Vime</TenSP>
+    <TenHC>Hydrocortisone 100mg</TenHC>
+    <VEN>V</VEN>
+    <DVT>Lọ</DVT>
+    <SoLuong>27</SoLuong>
+    <DonGiaVAT>32000.0000</DonGiaVAT>
+    <ThanhTien>864000.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Cefalexin 500mg-Mebiphar</TenSP>
+    <TenHC>Cephalexine 500mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>1108</SoLuong>
+    <DonGiaVAT>724.5000</DonGiaVAT>
+    <ThanhTien>802746.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Aspirin 81mg-Vidi</TenSP>
+    <TenHC>Acetylsalicylic acid 81mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>7530</SoLuong>
+    <DonGiaVAT>101.8500</DonGiaVAT>
+    <ThanhTien>766930.5000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Tanakan 40mg</TenSP>
+    <TenHC>Ginkobiloba 40mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>207</SoLuong>
+    <DonGiaVAT>3667.0000</DonGiaVAT>
+    <ThanhTien>759069.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Diamicron MR 30mg</TenSP>
+    <TenHC>Gliclazide 30mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>269</SoLuong>
+    <DonGiaVAT>2627.0000</DonGiaVAT>
+    <ThanhTien>706663.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Tytxym 100mg gói</TenSP>
+    <TenHC>Cefixim 100mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Gói</DVT>
+    <SoLuong>185</SoLuong>
+    <DonGiaVAT>3800.0000</DonGiaVAT>
+    <ThanhTien>703000.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Solu-medrol inj. 40mg</TenSP>
+    <TenHC>Methyl prednisolon 40mg</TenHC>
+    <VEN>V</VEN>
+    <DVT>Lọ</DVT>
+    <SoLuong>21</SoLuong>
+    <DonGiaVAT>33099.9900</DonGiaVAT>
+    <ThanhTien>695099.7900</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Berberin 100mg-Mkp</TenSP>
+    <TenHC>Berberin 100mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>1876</SoLuong>
+    <DonGiaVAT>367.0000</DonGiaVAT>
+    <ThanhTien>688492.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Medisolone 16mg-Spm</TenSP>
+    <TenHC>Methyl prednisolon 16mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>449</SoLuong>
+    <DonGiaVAT>1500.0000</DonGiaVAT>
+    <ThanhTien>673500.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Voltaren 75mg/3ml inj.</TenSP>
+    <TenHC>Diclofenac 75mg/3ml</TenHC>
+    <VEN>V</VEN>
+    <DVT>Ống</DVT>
+    <SoLuong>45</SoLuong>
+    <DonGiaVAT>14943.8100</DonGiaVAT>
+    <ThanhTien>672471.4500</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Natri Chloride  0.9% 500ml-Kabi</TenSP>
+    <TenHC>Natri Clorid 0.9%/500ml</TenHC>
+    <VEN>E</VEN>
+    <DVT>Chai</DVT>
+    <SoLuong>81</SoLuong>
+    <DonGiaVAT>7951.6500</DonGiaVAT>
+    <ThanhTien>644083.6500</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Aciclovir MKP 800mg</TenSP>
+    <TenHC>Aciclovir 800mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>225</SoLuong>
+    <DonGiaVAT>2858.0000</DonGiaVAT>
+    <ThanhTien>643050.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Vitamin PP 500mg-Mebi</TenSP>
+    <TenHC>VitaminPP 500mg</TenHC>
+    <VEN>N</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>2283</SoLuong>
+    <DonGiaVAT>279.3000</DonGiaVAT>
+    <ThanhTien>637641.9000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Ofloxacin 200mg-Mkp</TenSP>
+    <TenHC>Ofloxacin 200mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>1570</SoLuong>
+    <DonGiaVAT>395.0000</DonGiaVAT>
+    <ThanhTien>620150.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Lamivudin Hasan 100mg</TenSP>
+    <TenHC>Lamivudin 100mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>266</SoLuong>
+    <DonGiaVAT>2289.0000</DonGiaVAT>
+    <ThanhTien>608874.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Bromhexin 8mg-Dp3/2</TenSP>
+    <TenHC>Bromhexin 8mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>11497</SoLuong>
+    <DonGiaVAT>52.5000</DonGiaVAT>
+    <ThanhTien>603592.5000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Clopheniramin 4mg-BĐ</TenSP>
+    <TenHC>Chlorpheniramin 4mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>14773</SoLuong>
+    <DonGiaVAT>39.9000</DonGiaVAT>
+    <ThanhTien>589442.7000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Theralene 5mg tab.</TenSP>
+    <TenHC>Alimemazine 5mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>1593</SoLuong>
+    <DonGiaVAT>366.9800</DonGiaVAT>
+    <ThanhTien>584599.1400</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Amoxicilin 250mg gói-MDân</TenSP>
+    <TenHC>Amoxycyllin 250mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Gói</DVT>
+    <SoLuong>747</SoLuong>
+    <DonGiaVAT>777.0000</DonGiaVAT>
+    <ThanhTien>580419.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Intas simtas 10mg</TenSP>
+    <TenHC>Simvastatin 10mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>426</SoLuong>
+    <DonGiaVAT>1350.0000</DonGiaVAT>
+    <ThanhTien>575100.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Thyrozol Tab 5mg</TenSP>
+    <TenHC>Thiamazol 5mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>462</SoLuong>
+    <DonGiaVAT>1223.0000</DonGiaVAT>
+    <ThanhTien>565026.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Buscopan 10mg tab.</TenSP>
+    <TenHC>Hyoscine 10mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>485</SoLuong>
+    <DonGiaVAT>1119.9900</DonGiaVAT>
+    <ThanhTien>543195.1500</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Plavix 75mg</TenSP>
+    <TenHC>Clopidrogel  75mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>26</SoLuong>
+    <DonGiaVAT>20221.9500</DonGiaVAT>
+    <ThanhTien>525770.7000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Brexin 20mg</TenSP>
+    <TenHC>Piroxicam</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>64</SoLuong>
+    <DonGiaVAT>7582.0000</DonGiaVAT>
+    <ThanhTien>485248.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Vacodedian 80mg</TenSP>
+    <TenHC>Gliclazide 80mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>1281</SoLuong>
+    <DonGiaVAT>373.0000</DonGiaVAT>
+    <ThanhTien>477813.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Colposeptine suppo (200+10)mg</TenSP>
+    <TenHC>Chlorquinaldol 200mg+Promestriene 10mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>92</SoLuong>
+    <DonGiaVAT>5082.0000</DonGiaVAT>
+    <ThanhTien>467544.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Ovestin 0.5mg ĐÂĐ</TenSP>
+    <TenHC>Estriol 0.5mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>62</SoLuong>
+    <DonGiaVAT>7301.0000</DonGiaVAT>
+    <ThanhTien>452662.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Zuryk 300mg</TenSP>
+    <TenHC>Allopurinol 300mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>530</SoLuong>
+    <DonGiaVAT>800.0000</DonGiaVAT>
+    <ThanhTien>424000.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Lipanthyl 200mg</TenSP>
+    <TenHC>Fenofibrat 200mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>54</SoLuong>
+    <DonGiaVAT>7053.0000</DonGiaVAT>
+    <ThanhTien>380862.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Imdur 30mg</TenSP>
+    <TenHC>Isosorbide mononitrate 30mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>116</SoLuong>
+    <DonGiaVAT>3245.0000</DonGiaVAT>
+    <ThanhTien>376420.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Allopsel 300mg</TenSP>
+    <TenHC>Allopurinol 300mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>490</SoLuong>
+    <DonGiaVAT>749.9900</DonGiaVAT>
+    <ThanhTien>367495.1000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Cazerol 200mg-pyme</TenSP>
+    <TenHC>Carbamazepin 200mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>188</SoLuong>
+    <DonGiaVAT>1890.0000</DonGiaVAT>
+    <ThanhTien>355320.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Forlax 10g</TenSP>
+    <TenHC>Macrogol 10g</TenHC>
+    <VEN>E</VEN>
+    <DVT>Gói</DVT>
+    <SoLuong>80</SoLuong>
+    <DonGiaVAT>4275.0000</DonGiaVAT>
+    <ThanhTien>342000.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Renatab 5mg-KP</TenSP>
+    <TenHC>Enalapril 5mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>696</SoLuong>
+    <DonGiaVAT>489.9000</DonGiaVAT>
+    <ThanhTien>340970.4000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Penicilline V Kali 1.000.000 IU</TenSP>
+    <TenHC>Phenoxymethylpenicilline 1.000.000UI</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>414</SoLuong>
+    <DonGiaVAT>822.1500</DonGiaVAT>
+    <ThanhTien>340370.1000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Splozarsin Plus</TenSP>
+    <TenHC>Losartan + hydroclorothiazid (50mg+12.5mg)</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>238</SoLuong>
+    <DonGiaVAT>1349.9900</DonGiaVAT>
+    <ThanhTien>321297.6200</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Adrenalin IV 1mg/1ml -TW1-Viện Phí</TenSP>
+    <TenHC>Adrenalin 1mg/1ml</TenHC>
+    <VEN>V</VEN>
+    <DVT>Ống</DVT>
+    <SoLuong>49</SoLuong>
+    <DonGiaVAT>6300.0000</DonGiaVAT>
+    <ThanhTien>308700.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Buscopan 20mg/1ml inj.</TenSP>
+    <TenHC>Hyoscine 20mg/1ml</TenHC>
+    <VEN>V</VEN>
+    <DVT>Ống</DVT>
+    <SoLuong>36</SoLuong>
+    <DonGiaVAT>8375.9500</DonGiaVAT>
+    <ThanhTien>301534.2000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Captopril 25mg-DMC</TenSP>
+    <TenHC>Captopril 25mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>995</SoLuong>
+    <DonGiaVAT>299.2500</DonGiaVAT>
+    <ThanhTien>297753.7500</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Renatab 10mg-KP</TenSP>
+    <TenHC>Enalapril 10mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>462</SoLuong>
+    <DonGiaVAT>589.9900</DonGiaVAT>
+    <ThanhTien>272575.3800</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Furosemid 40mg-MKP</TenSP>
+    <TenHC>Furosemid 40mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>2050</SoLuong>
+    <DonGiaVAT>126.0000</DonGiaVAT>
+    <ThanhTien>258300.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Ketoconazol 200mg tab.</TenSP>
+    <TenHC>Ketoconazole 200mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>388</SoLuong>
+    <DonGiaVAT>648.0000</DonGiaVAT>
+    <ThanhTien>251424.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Glucose 5% 500ml-Mkp</TenSP>
+    <TenHC>Glucose 5% 500ml</TenHC>
+    <VEN>E</VEN>
+    <DVT>Chai</DVT>
+    <SoLuong>31</SoLuong>
+    <DonGiaVAT>8050.0000</DonGiaVAT>
+    <ThanhTien>249550.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Allerfar 4mg-SG</TenSP>
+    <TenHC>Chlorpheniramin 4mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>5036</SoLuong>
+    <DonGiaVAT>48.5000</DonGiaVAT>
+    <ThanhTien>244246.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Digoxine Qualy 0,25mg tab.</TenSP>
+    <TenHC>Digoxin 0.25mg</TenHC>
+    <VEN>V</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>371</SoLuong>
+    <DonGiaVAT>619.5000</DonGiaVAT>
+    <ThanhTien>229834.5000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Metrima 100mg</TenSP>
+    <TenHC>Clotrimazol 100mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>236</SoLuong>
+    <DonGiaVAT>945.0000</DonGiaVAT>
+    <ThanhTien>223020.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Hydrite tab. (0.35+...)</TenSP>
+    <TenHC>Natri clorid+natri bicarbonat+kali clorid+dextrose khan (0.35+0.25+0.15+2)g</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>212</SoLuong>
+    <DonGiaVAT>992.0000</DonGiaVAT>
+    <ThanhTien>210304.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Neo-Gynoternan (500mg+...)</TenSP>
+    <TenHC>Metronidazole+neomycin+nystatin 500 mg+ (65.000+100.000) UI</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>119</SoLuong>
+    <DonGiaVAT>1750.0000</DonGiaVAT>
+    <ThanhTien>208250.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Plavix 75mg</TenSP>
+    <TenHC>Clopidrogel  75mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>10</SoLuong>
+    <DonGiaVAT>20222.5500</DonGiaVAT>
+    <ThanhTien>202225.5000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>pms-Probio 75mg</TenSP>
+    <TenHC>Lactobacillus acidophilus 75mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Gói</DVT>
+    <SoLuong>192</SoLuong>
+    <DonGiaVAT>969.9900</DonGiaVAT>
+    <ThanhTien>186238.0800</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Vaslor 10</TenSP>
+    <TenHC>Atorvastatin 10mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>378</SoLuong>
+    <DonGiaVAT>490.0000</DonGiaVAT>
+    <ThanhTien>185220.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Berlthyrox Tab 100mcg</TenSP>
+    <TenHC>Levothyroxine 100mcg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>434</SoLuong>
+    <DonGiaVAT>405.0000</DonGiaVAT>
+    <ThanhTien>175770.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Nadypharlax 10g</TenSP>
+    <TenHC>Macrogol 10g</TenHC>
+    <VEN>E</VEN>
+    <DVT>Gói</DVT>
+    <SoLuong>56</SoLuong>
+    <DonGiaVAT>3055.5000</DonGiaVAT>
+    <ThanhTien>171108.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Orgametril 5mg</TenSP>
+    <TenHC>Lynestrenol 5mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>104</SoLuong>
+    <DonGiaVAT>1605.0000</DonGiaVAT>
+    <ThanhTien>166920.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Kaldyum 600mg</TenSP>
+    <TenHC>Kali chloride 600mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>107</SoLuong>
+    <DonGiaVAT>1509.9000</DonGiaVAT>
+    <ThanhTien>161559.3000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Salbutamol 2mg-Bidi</TenSP>
+    <TenHC>Salbutamol 2mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>2893</SoLuong>
+    <DonGiaVAT>52.5000</DonGiaVAT>
+    <ThanhTien>151882.5000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Cefpodoxime-MKP 100mg</TenSP>
+    <TenHC>Cefpodoxim 100mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>72</SoLuong>
+    <DonGiaVAT>1998.0000</DonGiaVAT>
+    <ThanhTien>143856.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Dopagan-Effervescent 80mg gói</TenSP>
+    <TenHC>Paracetamol 80mg gói</TenHC>
+    <VEN>E</VEN>
+    <DVT>Gói</DVT>
+    <SoLuong>229</SoLuong>
+    <DonGiaVAT>599.5500</DonGiaVAT>
+    <ThanhTien>137296.9500</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Colchicine Galien 1mg-3/2</TenSP>
+    <TenHC>Colchicin 1mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>206</SoLuong>
+    <DonGiaVAT>651.0000</DonGiaVAT>
+    <ThanhTien>134106.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Vitamin A 5.000UI-Bidi</TenSP>
+    <TenHC>Vitamin A 5000UI</TenHC>
+    <VEN>N</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>594</SoLuong>
+    <DonGiaVAT>220.5000</DonGiaVAT>
+    <ThanhTien>130977.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Acyclovir Stada cream 5%</TenSP>
+    <TenHC>Aciclovir 5% 5g</TenHC>
+    <VEN>E</VEN>
+    <DVT>Tube</DVT>
+    <SoLuong>10</SoLuong>
+    <DonGiaVAT>11998.3500</DonGiaVAT>
+    <ThanhTien>119983.5000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Zantac 50mg/2ml</TenSP>
+    <TenHC>Ranitidine 50mg/2ml</TenHC>
+    <VEN>E</VEN>
+    <DVT>Ống</DVT>
+    <SoLuong>4</SoLuong>
+    <DonGiaVAT>27708.0000</DonGiaVAT>
+    <ThanhTien>110832.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Atropine sulfate Aguettant 0. 5mg/ml B/10</TenSP>
+    <TenHC>Atropin 0.5mg/1 ml</TenHC>
+    <VEN>V</VEN>
+    <DVT>Ống</DVT>
+    <SoLuong>5</SoLuong>
+    <DonGiaVAT>19899.9100</DonGiaVAT>
+    <ThanhTien>99499.5500</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Natri clorid 0.9% 500ml-B.Braun</TenSP>
+    <TenHC>Natri Clorid 0.9%/500ml</TenHC>
+    <VEN>E</VEN>
+    <DVT>Chai</DVT>
+    <SoLuong>9</SoLuong>
+    <DonGiaVAT>10500.0000</DonGiaVAT>
+    <ThanhTien>94500.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Smecta 3g (Orange - Vanilla)</TenSP>
+    <TenHC>Diosmectide 3g</TenHC>
+    <VEN>E</VEN>
+    <DVT>Gói</DVT>
+    <SoLuong>29</SoLuong>
+    <DonGiaVAT>3160.0000</DonGiaVAT>
+    <ThanhTien>91640.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Nootropyl inj. 1g/5ml</TenSP>
+    <TenHC>Piracetam 1g/5ml</TenHC>
+    <VEN>E</VEN>
+    <DVT>Ống</DVT>
+    <SoLuong>8</SoLuong>
+    <DonGiaVAT>10508.0000</DonGiaVAT>
+    <ThanhTien>84064.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Primperan inj 10mg/2ml-Sanofi</TenSP>
+    <TenHC>Metoclopramide 10mg/2ml</TenHC>
+    <VEN>V</VEN>
+    <DVT>Ống</DVT>
+    <SoLuong>28</SoLuong>
+    <DonGiaVAT>3001.9500</DonGiaVAT>
+    <ThanhTien>84054.6000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Salgad 150mg-Davi</TenSP>
+    <TenHC>Fluconazol 150mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>11</SoLuong>
+    <DonGiaVAT>7500.0000</DonGiaVAT>
+    <ThanhTien>82500.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Vinphatoxin inj 5 UI</TenSP>
+    <TenHC>Oxytocin 5UI/ml</TenHC>
+    <VEN>V</VEN>
+    <DVT>Ống</DVT>
+    <SoLuong>28</SoLuong>
+    <DonGiaVAT>2900.0000</DonGiaVAT>
+    <ThanhTien>81200.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Themaxtene 5mg tab.</TenSP>
+    <TenHC>Alimemazine 5mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>666</SoLuong>
+    <DonGiaVAT>111.3000</DonGiaVAT>
+    <ThanhTien>74125.8000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Bricanyl 0.5mg/ml</TenSP>
+    <TenHC>Terbutaline 0.5mg/1ml</TenHC>
+    <VEN>V</VEN>
+    <DVT>Ống</DVT>
+    <SoLuong>6</SoLuong>
+    <DonGiaVAT>11990.0000</DonGiaVAT>
+    <ThanhTien>71940.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Curam 1.2g inj</TenSP>
+    <TenHC>Amoxycylline 1g +Acid Clavulanic 200mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Lọ</DVT>
+    <SoLuong>2</SoLuong>
+    <DonGiaVAT>35779.8000</DonGiaVAT>
+    <ThanhTien>71559.6000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Metronidazol 250mg-Dp3/2</TenSP>
+    <TenHC>Metronidazole 250mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>610</SoLuong>
+    <DonGiaVAT>115.5000</DonGiaVAT>
+    <ThanhTien>70455.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Diazepam 5mg Vidi-TW1</TenSP>
+    <TenHC>Diazepam 5mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>496</SoLuong>
+    <DonGiaVAT>141.9900</DonGiaVAT>
+    <ThanhTien>70427.0400</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Paciflam 5mg/1ml Hameln</TenSP>
+    <TenHC>Midazolam 5mg/ml</TenHC>
+    <VEN>V</VEN>
+    <DVT>Ống</DVT>
+    <SoLuong>4</SoLuong>
+    <DonGiaVAT>16800.0000</DonGiaVAT>
+    <ThanhTien>67200.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Vinzix 20mg/2ml Inj</TenSP>
+    <TenHC>Furosemid 20mg/2ml</TenHC>
+    <VEN>V</VEN>
+    <DVT>Ống</DVT>
+    <SoLuong>22</SoLuong>
+    <DonGiaVAT>3045.0000</DonGiaVAT>
+    <ThanhTien>66990.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Diacerein 50mg-Vaco</TenSP>
+    <TenHC>Diacerein 50mg</TenHC>
+    <VEN>N</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>56</SoLuong>
+    <DonGiaVAT>1183.0000</DonGiaVAT>
+    <ThanhTien>66248.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Domitazol (250+20+20)mg</TenSP>
+    <TenHC>Malvapurpurea+camphoronobrominat+methylen blue (250+20+25)mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>71</SoLuong>
+    <DonGiaVAT>919.8000</DonGiaVAT>
+    <ThanhTien>65305.8000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Bikozol 2%; 5g-Bidi</TenSP>
+    <TenHC>Ketoconazole 2% 5g</TenHC>
+    <VEN>E</VEN>
+    <DVT>Tube</DVT>
+    <SoLuong>17</SoLuong>
+    <DonGiaVAT>3486.0000</DonGiaVAT>
+    <ThanhTien>59262.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Dorocardyl 40mg</TenSP>
+    <TenHC>Propranolol 40mg</TenHC>
+    <VEN>V</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>216</SoLuong>
+    <DonGiaVAT>273.0000</DonGiaVAT>
+    <ThanhTien>58968.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Nước cất pha tiêm-3/2</TenSP>
+    <TenHC>Nước cất pha tiêm 5ml</TenHC>
+    <VEN>E</VEN>
+    <DVT>Ống</DVT>
+    <SoLuong>89</SoLuong>
+    <DonGiaVAT>649.9500</DonGiaVAT>
+    <ThanhTien>57845.5500</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Cồn boric 3% 10ml</TenSP>
+    <TenHC>ACID BORIC 300MG+CỒN 70</TenHC>
+    <VEN>E</VEN>
+    <DVT>Lọ</DVT>
+    <SoLuong>9</SoLuong>
+    <DonGiaVAT>6300.0000</DonGiaVAT>
+    <ThanhTien>56700.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Fucidin 2% 15g</TenSP>
+    <TenHC>Fucidic acid 2% 15g</TenHC>
+    <VEN>E</VEN>
+    <DVT>Tube</DVT>
+    <SoLuong>1</SoLuong>
+    <DonGiaVAT>56595.0000</DonGiaVAT>
+    <ThanhTien>56595.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Debridat Tab 100mg</TenSP>
+    <TenHC>Trimebutin 100mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>21</SoLuong>
+    <DonGiaVAT>2690.0000</DonGiaVAT>
+    <ThanhTien>56490.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Kaleorid Tab 600mg 30's</TenSP>
+    <TenHC>Kali chloride 600mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>31</SoLuong>
+    <DonGiaVAT>1738.0000</DonGiaVAT>
+    <ThanhTien>53878.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Biorindol 4mg</TenSP>
+    <TenHC>Perindopril 4mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>28</SoLuong>
+    <DonGiaVAT>1890.0000</DonGiaVAT>
+    <ThanhTien>52920.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Pimeran 10mg-SG</TenSP>
+    <TenHC>Metoclopramide 10mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>342</SoLuong>
+    <DonGiaVAT>147.0000</DonGiaVAT>
+    <ThanhTien>50274.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Furosemide 20mg/2ml Inj-Rotex-SG</TenSP>
+    <TenHC>Furosemid 20mg/2ml</TenHC>
+    <VEN>V</VEN>
+    <DVT>Ống</DVT>
+    <SoLuong>10</SoLuong>
+    <DonGiaVAT>4849.9900</DonGiaVAT>
+    <ThanhTien>48499.9000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Mixtard 30 HM 1000UI (đổi đơn vị)-Viện Phí</TenSP>
+    <TenHC>Insulin trộn (M) 100UI</TenHC>
+    <VEN>V</VEN>
+    <DVT>UI</DVT>
+    <SoLuong>188</SoLuong>
+    <DonGiaVAT>249.3800</DonGiaVAT>
+    <ThanhTien>46883.4400</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Efferalgan 300mg sup.</TenSP>
+    <TenHC>Paracetamol 300mg suppo</TenHC>
+    <VEN>V</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>16</SoLuong>
+    <DonGiaVAT>2830.9100</DonGiaVAT>
+    <ThanhTien>45294.5600</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Gloverin 40mg-Glomed</TenSP>
+    <TenHC>Alverine 40mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>124</SoLuong>
+    <DonGiaVAT>350.0000</DonGiaVAT>
+    <ThanhTien>43400.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Povidine 10% 90ml-Pharmedic</TenSP>
+    <TenHC>Povidone iodine 10% 500ml</TenHC>
+    <VEN>E</VEN>
+    <DVT>Lọ</DVT>
+    <SoLuong>4</SoLuong>
+    <DonGiaVAT>10186.0000</DonGiaVAT>
+    <ThanhTien>40744.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Tranoxel 250mg/5ml</TenSP>
+    <TenHC>Tranexamic acid 250mg/5ml inj.</TenHC>
+    <VEN>V</VEN>
+    <DVT>Ống</DVT>
+    <SoLuong>5</SoLuong>
+    <DonGiaVAT>8000.0000</DonGiaVAT>
+    <ThanhTien>40000.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Dorotyl 250mg</TenSP>
+    <TenHC>Mephenesine 250mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>172</SoLuong>
+    <DonGiaVAT>230.0000</DonGiaVAT>
+    <ThanhTien>39560.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Augbactam 1g</TenSP>
+    <TenHC>Amoxycylline 875mg +Acid Clavulanic 125mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>8</SoLuong>
+    <DonGiaVAT>4750.0000</DonGiaVAT>
+    <ThanhTien>38000.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Adrenoxyl 10mg</TenSP>
+    <TenHC>Carbazochrom dihydrat 10mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>30</SoLuong>
+    <DonGiaVAT>1249.9600</DonGiaVAT>
+    <ThanhTien>37498.8000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Mekozetel 400-Mkp</TenSP>
+    <TenHC>Albendazol 400mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>34</SoLuong>
+    <DonGiaVAT>934.9900</DonGiaVAT>
+    <ThanhTien>31789.6600</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Mebendazole 500mg-Mkp</TenSP>
+    <TenHC>Mebendazole 500mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>28</SoLuong>
+    <DonGiaVAT>1043.9900</DonGiaVAT>
+    <ThanhTien>29231.7200</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Cefuroxime  250mg-MDân</TenSP>
+    <TenHC>Cefuroxim 250mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>14</SoLuong>
+    <DonGiaVAT>2037.0000</DonGiaVAT>
+    <ThanhTien>28518.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Vitamin C 500mg-Vidi</TenSP>
+    <TenHC>Vitamin C 500mg</TenHC>
+    <VEN>N</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>133</SoLuong>
+    <DonGiaVAT>214.2000</DonGiaVAT>
+    <ThanhTien>28488.6000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Efferalgan 150mg sup.</TenSP>
+    <TenHC>Paracetamol 150mg suppo</TenHC>
+    <VEN>V</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>12</SoLuong>
+    <DonGiaVAT>2304.9600</DonGiaVAT>
+    <ThanhTien>27659.5200</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Biocalcium 650mg</TenSP>
+    <TenHC>Calci Lactate 650mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>112</SoLuong>
+    <DonGiaVAT>239.3500</DonGiaVAT>
+    <ThanhTien>26807.2000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Spinolac 25mg</TenSP>
+    <TenHC>Spironolacton 25mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>15</SoLuong>
+    <DonGiaVAT>1669.5000</DonGiaVAT>
+    <ThanhTien>25042.5000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Dospasmine 40mg</TenSP>
+    <TenHC>Alverine 40mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>160</SoLuong>
+    <DonGiaVAT>156.4500</DonGiaVAT>
+    <ThanhTien>25032.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Digoxin inj 0.5mg/2ml Warraw</TenSP>
+    <TenHC>Digoxin 0.5mg/2ml</TenHC>
+    <VEN>V</VEN>
+    <DVT>Ống</DVT>
+    <SoLuong>1</SoLuong>
+    <DonGiaVAT>21000.0000</DonGiaVAT>
+    <ThanhTien>21000.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Augmentin BD 625mg</TenSP>
+    <TenHC>Amoxycylline 500mg+Acid Clavulanic125mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>2</SoLuong>
+    <DonGiaVAT>10377.0000</DonGiaVAT>
+    <ThanhTien>20754.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Colchicine Galien 1mg-3/2</TenSP>
+    <TenHC>Colchicin 1mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>35</SoLuong>
+    <DonGiaVAT>567.0000</DonGiaVAT>
+    <ThanhTien>19845.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Glucose 30% 5ml-Bidiphar</TenSP>
+    <TenHC>Glucose 30% 5ml</TenHC>
+    <VEN>V</VEN>
+    <DVT>Ống</DVT>
+    <SoLuong>18</SoLuong>
+    <DonGiaVAT>1008.0000</DonGiaVAT>
+    <ThanhTien>18144.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Timmak 3mg</TenSP>
+    <TenHC>Dihydroergotamin 3mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>8</SoLuong>
+    <DonGiaVAT>2163.0000</DonGiaVAT>
+    <ThanhTien>17304.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Disolvan 8mg-MKP</TenSP>
+    <TenHC>Bromhexin 8mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>315</SoLuong>
+    <DonGiaVAT>43.0000</DonGiaVAT>
+    <ThanhTien>13545.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Nifedipin Hasan 20 Retard</TenSP>
+    <TenHC>Nifedipin 20mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>28</SoLuong>
+    <DonGiaVAT>462.0000</DonGiaVAT>
+    <ThanhTien>12936.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Nitrostad 2,5mg retard</TenSP>
+    <TenHC>Glyceryl trinitrate 2.5mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>20</SoLuong>
+    <DonGiaVAT>639.9900</DonGiaVAT>
+    <ThanhTien>12799.8000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Glucovance 500mg/2.5mg</TenSP>
+    <TenHC>Metformin+ Glibenclamid (500+2.5)mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>3</SoLuong>
+    <DonGiaVAT>4183.0000</DonGiaVAT>
+    <ThanhTien>12549.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Imdur Tab 60mg</TenSP>
+    <TenHC>Isosorbide mononitrate 60mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>2</SoLuong>
+    <DonGiaVAT>5848.0000</DonGiaVAT>
+    <ThanhTien>11696.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Nystatin 25000IU-3/2</TenSP>
+    <TenHC>Nystatin 25000UI</TenHC>
+    <VEN>E</VEN>
+    <DVT>Gói</DVT>
+    <SoLuong>9</SoLuong>
+    <DonGiaVAT>1050.0000</DonGiaVAT>
+    <ThanhTien>9450.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Savi Cipro 500mg</TenSP>
+    <TenHC>Ciprofloxacin 500mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>7</SoLuong>
+    <DonGiaVAT>1250.0000</DonGiaVAT>
+    <ThanhTien>8750.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Calcium Hasan sủi (300+2940)mg</TenSP>
+    <TenHC>Calcium carbonat 300mg+ calci gluconolactat 2940mg</TenHC>
+    <VEN>N</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>4</SoLuong>
+    <DonGiaVAT>2100.0000</DonGiaVAT>
+    <ThanhTien>8400.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Sodium Chlorid 0.9% 500ml-Mkp</TenSP>
+    <TenHC>Natri Clorid 0.9%/500ml</TenHC>
+    <VEN>E</VEN>
+    <DVT>Chai</DVT>
+    <SoLuong>1</SoLuong>
+    <DonGiaVAT>7499.9900</DonGiaVAT>
+    <ThanhTien>7499.9900</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Acyvir 200mg-Spm</TenSP>
+    <TenHC>Aciclovir 200mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>10</SoLuong>
+    <DonGiaVAT>594.0000</DonGiaVAT>
+    <ThanhTien>5940.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Flagyl 250mg-Sanofi</TenSP>
+    <TenHC>Metronidazole 250mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>12</SoLuong>
+    <DonGiaVAT>480.9500</DonGiaVAT>
+    <ThanhTien>5771.4000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Prednisolon 5mg-Vidi</TenSP>
+    <TenHC>Prednisolon 5mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>26</SoLuong>
+    <DonGiaVAT>198.4500</DonGiaVAT>
+    <ThanhTien>5159.7000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Mekozitex 10mg</TenSP>
+    <TenHC>Cetirizin 10mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>39</SoLuong>
+    <DonGiaVAT>125.0000</DonGiaVAT>
+    <ThanhTien>4875.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Efferalgan 80mg suppo</TenSP>
+    <TenHC>Paracetamol 80mg suppo</TenHC>
+    <VEN>V</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>2</SoLuong>
+    <DonGiaVAT>2026.0000</DonGiaVAT>
+    <ThanhTien>4052.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Morphine 10mg/1ml-Vidi</TenSP>
+    <TenHC>Morphine (clohydrate) 10mg/ml</TenHC>
+    <VEN>V</VEN>
+    <DVT>Ống</DVT>
+    <SoLuong>1</SoLuong>
+    <DonGiaVAT>4024.6500</DonGiaVAT>
+    <ThanhTien>4024.6500</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Morphine 10mg/1ml-Vidi</TenSP>
+    <TenHC>Morphine (clohydrate) 10mg/ml</TenHC>
+    <VEN>V</VEN>
+    <DVT>Ống</DVT>
+    <SoLuong>1</SoLuong>
+    <DonGiaVAT>3360.0000</DonGiaVAT>
+    <ThanhTien>3360.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Biragan 150mg suppo.</TenSP>
+    <TenHC>Paracetamol 150mg suppo</TenHC>
+    <VEN>V</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>2</SoLuong>
+    <DonGiaVAT>1680.0000</DonGiaVAT>
+    <ThanhTien>3360.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Terpin codein (0.1+0.01)g-TV</TenSP>
+    <TenHC>Terpin codein(0.1+ 0.01)g</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>9</SoLuong>
+    <DonGiaVAT>279.9900</DonGiaVAT>
+    <ThanhTien>2519.9100</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Efferalgan 80mg suppo</TenSP>
+    <TenHC>Paracetamol 80mg suppo</TenHC>
+    <VEN>V</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>1</SoLuong>
+    <DonGiaVAT>2025.9800</DonGiaVAT>
+    <ThanhTien>2025.9800</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Chlopheniramine 4mg-MKP</TenSP>
+    <TenHC>Chlorpheniramin 4mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>48</SoLuong>
+    <DonGiaVAT>42.0000</DonGiaVAT>
+    <ThanhTien>2016.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Cevit 500mg/5ml</TenSP>
+    <TenHC>Vitamin C 10% (500mg/5ml)</TenHC>
+    <VEN>N</VEN>
+    <DVT>Ống</DVT>
+    <SoLuong>1</SoLuong>
+    <DonGiaVAT>1556.9400</DonGiaVAT>
+    <ThanhTien>1556.9400</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Rutin - vitamin C (50mg+50mg)</TenSP>
+    <TenHC>Vitamin C 50mg+ rutine 50mg</TenHC>
+    <VEN>N</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>4</SoLuong>
+    <DonGiaVAT>144.0000</DonGiaVAT>
+    <ThanhTien>576.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Glotal 250mg</TenSP>
+    <TenHC>Mephenesine 250mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>2</SoLuong>
+    <DonGiaVAT>255.0000</DonGiaVAT>
+    <ThanhTien>510.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Melomax 7.5mg</TenSP>
+    <TenHC>Meloxicam 7.5mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>1</SoLuong>
+    <DonGiaVAT>500.0000</DonGiaVAT>
+    <ThanhTien>500.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+  <Table1>
+    <TenSP>Furosemid 40mg-MKP</TenSP>
+    <TenHC>Furosemid 40mg</TenHC>
+    <VEN>E</VEN>
+    <DVT>Viên</DVT>
+    <SoLuong>2</SoLuong>
+    <DonGiaVAT>130.0000</DonGiaVAT>
+    <ThanhTien>260.0000</ThanhTien>
+    <Tong>2123433420.3900</Tong>
+  </Table1>
+</tableDanhSach>

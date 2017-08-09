@@ -1,0 +1,36 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <ClinicCode>1</ClinicCode>
+    <ClinicName>PHÒNG KHÁM CHUYÊN KHOA TIM MẠCH - MẠCH MÁU ĐỨC TÍN</ClinicName>
+    <ClinicAddress>Địa chỉ: Số 7 Lô A, Cư Xá Bùi Minh Trực, Đường Bùi Minh Trực, Phường 5, Quận 8 TP Hồ Chí Minh</ClinicAddress>
+    <Province>Tp Hồ Chí Minh</Province>
+    <Phone>Ði?n tho?i: (08) 39812678 | Fax: (08) 37559539</Phone>
+    <Mobile>Ði?n tho?i: (08) 39812678 | Fax: (08) 37559539</Mobile>
+    <Doctor>Ths Bs Lê Đức Tín</Doctor>
+    <WorkingDateLine01 />
+    <WorkingDateLine02 />
+    <WorkingDateLine03 />
+    <KCBBDCode>8080</KCBBDCode>
+  </Table1>
+  <Table2>
+    <PatientReceiveID>135</PatientReceiveID>
+    <PatientCode>14000010</PatientCode>
+    <PatientName>Test Capture Hinh Anh</PatientName>
+    <PatientGendername>Nam</PatientGendername>
+    <PatientBirthday>1990-01-01T00:00:00+07:00</PatientBirthday>
+    <PatientBirthyear>1990</PatientBirthyear>
+    <PatientAge>24</PatientAge>
+    <PatientMobile>0147899</PatientMobile>
+    <PatientEmail>vandongitc@gmail.com</PatientEmail>
+    <MedicalHistory>Tien su benh</MedicalHistory>
+    <Allergy>Di ung benh</Allergy>
+    <PatientAddress>Thanh Pho HCm</PatientAddress>
+    <PatientGender>1</PatientGender>
+    <ObjectCode>2</ObjectCode>
+    <HHvv>2</HHvv>
+    <MIvv>16</MIvv>
+    <Datevv>2014-06-22T00:00:00+07:00</Datevv>
+    <DepartmentName>Phòng Lưu bệnh - ngoại trú ( KP0008 );</DepartmentName>
+  </Table2>
+</NewDataSet>

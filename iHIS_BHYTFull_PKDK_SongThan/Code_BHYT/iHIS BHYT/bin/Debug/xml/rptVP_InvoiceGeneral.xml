@@ -1,0 +1,83 @@
+<?xml version="1.0" standalone="yes"?>
+<Result>
+  <Table1>
+    <ReferenceCode>9886</ReferenceCode>
+    <PatientCode>15001337</PatientCode>
+    <PatientName>Bùi Kim Tím</PatientName>
+    <PatientGendername>Nữ</PatientGendername>
+    <PatientBirthday>1992-09-09T00:00:00+07:00</PatientBirthday>
+    <PatientBirthyear>1992</PatientBirthyear>
+    <PatientAge>23</PatientAge>
+    <PatientMobile />
+    <PatientEmail />
+    <PatientAddress>LINE 18 F1_X09583,Cty TNHH Sungjin Inc Vina</PatientAddress>
+    <TotalAmount>445100.00</TotalAmount>
+    <TotalReal>192220.00</TotalReal>
+    <Exemptions>0.00</Exemptions>
+    <TotalSurcharge>70000.0000</TotalSurcharge>
+  </Table1>
+  <Table2>
+    <PatientCode>15001337</PatientCode>
+    <BHYTPay>252880.00</BHYTPay>
+    <PatientPay>122220.00</PatientPay>
+    <TotalAmount>445100.00</TotalAmount>
+    <TotalReal>192220.00</TotalReal>
+    <PostingDate>2015-10-10T16:27:05.193+07:00</PostingDate>
+    <ServiceModuleCode>KCB</ServiceModuleCode>
+    <DisparityPrice>0.00</DisparityPrice>
+    <Amount>5000.00</Amount>
+    <Exemptions>0.00</Exemptions>
+    <TotalSurcharge>70000.0000</TotalSurcharge>
+    <ServiceModuleName>Khám bệnh/Cấp cứu</ServiceModuleName>
+    <STT>1</STT>
+    <EmployeeName>QUẢN LÝ PHÒNG KHÁM</EmployeeName>
+  </Table2>
+  <Table2>
+    <PatientCode>15001337</PatientCode>
+    <BHYTPay>252880.00</BHYTPay>
+    <PatientPay>122220.00</PatientPay>
+    <TotalAmount>445100.00</TotalAmount>
+    <TotalReal>192220.00</TotalReal>
+    <PostingDate>2015-10-10T16:27:05.193+07:00</PostingDate>
+    <ServiceModuleCode>CDHA</ServiceModuleCode>
+    <DisparityPrice>20000.00</DisparityPrice>
+    <Amount>28000.00</Amount>
+    <Exemptions>0.00</Exemptions>
+    <TotalSurcharge>70000.0000</TotalSurcharge>
+    <ServiceModuleName>Chẩn đoán hình ảnh</ServiceModuleName>
+    <STT>2</STT>
+    <EmployeeName>QUẢN LÝ PHÒNG KHÁM</EmployeeName>
+  </Table2>
+  <Table2>
+    <PatientCode>15001337</PatientCode>
+    <BHYTPay>252880.00</BHYTPay>
+    <PatientPay>122220.00</PatientPay>
+    <TotalAmount>445100.00</TotalAmount>
+    <TotalReal>192220.00</TotalReal>
+    <PostingDate>2015-10-10T16:27:05.193+07:00</PostingDate>
+    <ServiceModuleCode>XN</ServiceModuleCode>
+    <DisparityPrice>0.00</DisparityPrice>
+    <Amount>196000.00</Amount>
+    <Exemptions>0.00</Exemptions>
+    <TotalSurcharge>70000.0000</TotalSurcharge>
+    <ServiceModuleName>Xét nghiệm</ServiceModuleName>
+    <STT>3</STT>
+    <EmployeeName>QUẢN LÝ PHÒNG KHÁM</EmployeeName>
+  </Table2>
+  <Table2>
+    <PatientCode>15001337</PatientCode>
+    <BHYTPay>252880.00</BHYTPay>
+    <PatientPay>122220.00</PatientPay>
+    <TotalAmount>445100.00</TotalAmount>
+    <TotalReal>192220.00</TotalReal>
+    <PostingDate>2015-10-10T16:27:05.193+07:00</PostingDate>
+    <ServiceModuleCode>THUOC</ServiceModuleCode>
+    <DisparityPrice>50000.00</DisparityPrice>
+    <Amount>146100.00</Amount>
+    <Exemptions>0.00</Exemptions>
+    <TotalSurcharge>70000.0000</TotalSurcharge>
+    <ServiceModuleName>Thuốc - vật tư y tế</ServiceModuleName>
+    <STT>6</STT>
+    <EmployeeName>QUẢN LÝ PHÒNG KHÁM</EmployeeName>
+  </Table2>
+</Result>

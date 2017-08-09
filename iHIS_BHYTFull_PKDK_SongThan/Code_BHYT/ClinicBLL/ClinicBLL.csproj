@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{73F1A891-CAF5-4531-B202-56CF26A21A32}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ClinicBLL</RootNamespace>
+    <AssemblyName>ClinicBLL</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ADRBLL.cs" />
+    <Compile Include="BasicPackageBLL.cs" />
+    <Compile Include="DrugCheckBLL.cs" />
+    <Compile Include="Fee_Advance_PaymentBLL.cs" />
+    <Compile Include="Fee_NoteBookBLL.cs" />
+    <Compile Include="HSBA_SynchronizeBLL.cs" />
+    <Compile Include="ReportDiscountBLL.cs" />
+    <Compile Include="Rpt_VuDieuTriBLL.cs" />
+    <Compile Include="SSTBLL.cs" />
+    <Compile Include="TNTTBLL.cs" />
+    <Compile Include="MedicalRecordOutputBLL.cs" />
+    <Compile Include="AdvicesBLL.cs" />
+    <Compile Include="BanksAccountBLL.cs" />
+    <Compile Include="BanksAccountDetailBLL.cs" />
+    <Compile Include="BHYTBLL.cs" />
+    <Compile Include="BHYTParametersBLL.cs" />
+    <Compile Include="BracketPrice_BLL.cs" />
+    <Compile Include="CareerBLL.cs" />
+    <Compile Include="CatalogComputerBLL.cs" />
+    <Compile Include="CatalogDistrictBLL.cs" />
+    <Compile Include="CatalogEthnicBLL.cs" />
+    <Compile Include="CatalogNationalityBLL.cs" />
+    <Compile Include="CatalogProvincialBLL.cs" />
+    <Compile Include="CatalogWardBLL.cs" />
+    <Compile Include="Catalog_BHYTBLL.cs" />
+    <Compile Include="Catalog_ExchangeRateBLL.cs" />
+    <Compile Include="Catalog_FoodBLL.cs" />
+    <Compile Include="Catalog_SurgicalCrewBLL.cs" />
+    <Compile Include="ClinicInformationBLL.cs" />
+    <Compile Include="HospitalTransferBLL.cs" />
+    <Compile Include="iHISAccessConfigDataBLL.cs" />
+    <Compile Include="iLABGetResultBLL.cs" />
+    <Compile Include="PatientsSendSMSBLL.cs" />
+    <Compile Include="ReportBHYTBLL.cs" />
+    <Compile Include="CountryBLL.cs" />
+    <Compile Include="DepartmentBLL.cs" />
+    <Compile Include="DiagnosisAbbreviationsBLL.cs" />
+    <Compile Include="DiagnosisBLL.cs" />
+    <Compile Include="DiagnosisCustomBLL.cs" />
+    <Compile Include="EmployeeBLL.cs" />
+    <Compile Include="EmployeePositionBLL.cs" />
+    <Compile Include="ExportVendorBLL.cs" />
+    <Compile Include="ExportWarehousingBLL.cs" />
+    <Compile Include="FoodCategoryBLL.cs" />
+    <Compile Include="FoodDetailBLL.cs" />
+    <Compile Include="FoodEntryBLL.cs" />
+    <Compile Include="ImmunizationRecordBll.cs" />
+    <Compile Include="InstructionBLL.cs" />
+    <Compile Include="IntroducerBLL.cs" />
+    <Compile Include="InventoryBLL.cs" />
+    <Compile Include="ItemCategoryBLL.cs" />
+    <Compile Include="ItemGroupBLL.cs" />
+    <Compile Include="ItemsBLL.cs" />
+    <Compile Include="KCBBDBLL.cs" />
+    <Compile Include="LaboratoryBLL.cs" />
+    <Compile Include="LaboratoryPackageBLL.cs" />
+    <Compile Include="LaboratoryResultDescriptionBLL.cs" />
+    <Compile Include="MachineListsBLL.cs" />
+    <Compile Include="MedicalEmergencyBLL.cs" />
+    <Compile Include="MedicalHistoryBLL.cs" />
+    <Compile Include="MedicalPatternBLL.cs" />
+    <Compile Include="MedicalReasonBLL.cs" />
+    <Compile Include="MedicalRecord_BLL.cs" />
+    <Compile Include="MedicalSuppliesBLL.cs" />
+    <Compile Include="MedicinesForPatientsBLL.cs" />
+    <Compile Include="MedicinesRetailBLL.cs" />
+    <Compile Include="MenuListBLL.cs" />
+    <Compile Include="MenuSecurityBLL.cs" />
+    <Compile Include="NationalityBLL.cs" />
+    <Compile Include="ObjectBLL.cs" />
+    <Compile Include="PatientAppointment_BLL.cs" />
+    <Compile Include="PatientReceiveBLL.cs" />
+    <Compile Include="PatientReceiveCocumentImageBLL.cs" />
+    <Compile Include="PatientsBLL.cs" />
+    <Compile Include="PatientsRelationBLL.cs" />
+    <Compile Include="PatientsRelationMenuBLL.cs" />
+    <Compile Include="PatientTypeBLL.cs" />
+    <Compile Include="Producer_BLL.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RateBHYTBLL.cs" />
+    <Compile Include="RealMedicinesForPatientsBLL.cs" />
+    <Compile Include="RegionBLL.cs" />
+    <Compile Include="RepositoryCatalog_BLL.cs" />
+    <Compile Include="rpt_Banking_BLL.cs" />
+    <Compile Include="rpt_General_BLL.cs" />
+    <Compile Include="rpt_Medicines_BLL.cs" />
+    <Compile Include="SamplePrescriptionHeader_BLL.cs" />
+    <Compile Include="SamplePrescriptionLine_BLL.cs" />
+    <Compile Include="ServiceBLL.cs" />
+    <Compile Include="ServiceCategoryBLL.cs" />
+    <Compile Include="ServiceGroupBLL.cs" />
+    <Compile Include="ServiceLaboratoryEntryBLL.cs" />
+    <Compile Include="ServiceMenuBLL.cs" />
+    <Compile Include="ServiceModuleBLL.cs" />
+    <Compile Include="ServicePackageBLL.cs" />
+    <Compile Include="ServicePackageDetailBLL.cs" />
+    <Compile Include="ServicePriceBLL.cs" />
+    <Compile Include="ServiceRadiologyBLL.cs" />
+    <Compile Include="ServiceSalesBLL.cs" />
+    <Compile Include="SuggestedServiceReceiptBLL.cs" />
+    <Compile Include="SurgeriesBLL.cs" />
+    <Compile Include="SurviveSignBLL.cs" />
+    <Compile Include="SymptomsBLL.cs" />
+    <Compile Include="SystemParameterBLL.cs" />
+    <Compile Include="Tackle_BLL.cs" />
+    <Compile Include="TemplateDescriptionBLL.cs" />
+    <Compile Include="TemplateItemNormsBLL.cs" />
+    <Compile Include="UnitOfMeasureBLL.cs" />
+    <Compile Include="UnitOfRawBLL.cs" />
+    <Compile Include="UnitValuesBLL.cs" />
+    <Compile Include="UsageBLL.cs" />
+    <Compile Include="VendorBLL.cs" />
+    <Compile Include="Ven_AnalistBLL.cs" />
+    <Compile Include="VP_ServiceGroupPrintBLL.cs" />
+    <Compile Include="Warehousing_BLL.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClinicDAL\ClinicDAL.csproj">
+      <Project>{fabebc26-b925-42eb-bc88-365140f9575f}</Project>
+      <Name>ClinicDAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ClinicLibrary\ClinicLibrary.csproj">
+      <Project>{146a3a0d-5e07-4131-ae35-0d202830ddda}</Project>
+      <Name>ClinicLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ClinicModel\ClinicModel.csproj">
+      <Project>{87a5509f-93a4-4084-8f03-b19c1c1a4f67}</Project>
+      <Name>ClinicModel</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

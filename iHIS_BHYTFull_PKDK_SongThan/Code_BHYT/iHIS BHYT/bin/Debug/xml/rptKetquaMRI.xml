@@ -1,0 +1,40 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <ClinicCode>1</ClinicCode>
+    <ClinicName>PHÒNG KHÁM CHUYÊN KHOA TIM MẠCH - MẠCH MÁU ĐỨC TÍN</ClinicName>
+    <ClinicAddress>Địa chỉ: Số 7 Lô A, Cư Xá Bùi Minh Trực, Đường Bùi Minh Trực, Phường 5, Quận 8 TP Hồ Chí Minh</ClinicAddress>
+    <Province>Tp Hồ Chí Minh</Province>
+    <Phone>Ði?n tho?i: (08) 39812678 | Fax: (08) 37559539</Phone>
+    <Mobile>Ði?n tho?i: (08) 39812678 | Fax: (08) 37559539</Mobile>
+    <Doctor>Ths Bs Lê Đức Tín</Doctor>
+    <WorkingDateLine01 />
+    <WorkingDateLine02 />
+    <WorkingDateLine03 />
+    <KCBBDCode>8080</KCBBDCode>
+  </Table1>
+  <Table2>
+    <ReceiptID>660</ReceiptID>
+    <DepartmentCode>KP0013</DepartmentCode>
+    <ServiceCode>DV000201</ServiceCode>
+    <ServicePrice>3000000.00</ServicePrice>
+    <DisparityPrice>0.00</DisparityPrice>
+    <Status>1</Status>
+    <Paid>0</Paid>
+    <PatientCode>14000012</PatientCode>
+    <ObjectCode>2</ObjectCode>
+    <WorkDate>2014-06-14T21:02:28.023+07:00</WorkDate>
+    <PatientName>Bn Full 12</PatientName>
+    <PatientAddress>Thanh Pho Bac Lieu</PatientAddress>
+    <PatientAge>24</PatientAge>
+    <ObjectName>Thu Phí</ObjectName>
+    <DepartmentName>Phòng chụp MRI</DepartmentName>
+    <PatientGenderName>Nam</PatientGenderName>
+    <PatientBirthyear>1990</PatientBirthyear>
+    <ServiceName>Chụp MRI (có thuốc cản quang)</ServiceName>
+    <Contents>{\rtf1\deff0{\fonttbl{\f0 Times New Roman;}}{\colortbl\red0\green0\blue0 ;\red0\green0\blue255 ;}{\*\listoverridetable}{\stylesheet {\ql Normal;}{\*\cs1 Default Paragraph Font;}{\*\cs2\sbasedon1 Line Number;}{\*\cs3\ul\cf1 Hyperlink;}{\*\ts4\tsrowd\ql\trautofit1\tscellpaddfl3\tscellpaddl108\tscellpaddfr3\tscellpaddr108\tsvertalt\cltxlrtb Normal Table;}{\*\ts5\tsrowd\sbasedon4\ql\trbrdrt\brdrs\brdrw10\trbrdrl\brdrs\brdrw10\trbrdrb\brdrs\brdrw10\trbrdrr\brdrs\brdrw10\trautofit1\tscellpaddfl3\tscellpaddl108\tscellpaddfr3\tscellpaddr108\tsvertalt\cltxlrtb Table Simple 1;}}\nouicompat\splytwnine\htmautsp\sectd\pard\plain\ql{\cf0 K\u7929\'3f thu\u7853\'3ft ch\u7909\'3fp:}\par\pard\plain\ql{\cf0 Ch\u7909\'3fp c\u7897\'3ft s\u7889\'3fng th\u7855\'3ft l\u432\'75ng th\u432\'75\u7901\'3fng quy \u7903\'3f c\u225\'e1c chu\u7895\'3fi xung:}\par\pard\plain\ql{\cf0 - Sagittal T1 TSE, T2 TSE. }\par\pard\plain\ql{\cf0 - Axial T2 TSE.}\par\pard\plain\ql{\cf0 M\u244\'f4 t\u7843\'3f:}\par\pard\plain\ql{\cf0 - Tr\u7909\'3fc c\u7897\'3ft s\u7889\'3fng th\u7855\'3ft l\u432\'75ng b\u236\'ecnh th\u432\'75\u7901\'3fng, gi\u7843\'3fm \u273\'64\u7897\'3f \u432\'75\u7905\'3fn sinh l\u253\'fd}\par\pard\plain\ql{\cf0 - Tho\u225\'e1i h\u242\'f2a gai nh\u7865\'3f c\u7897\'3ft s\u7889\'3fng th\u7855\'3ft l\u432\'75ng t\u7915\'3f L3-L5}\par\pard\plain\ql{\cf0 - Kh\u244\'f4ng th\u7845\'3fy b\u7845\'3ft th\u432\'75\u7901\'3fng th\u224\'e0nh ph\u7847\'3fn sau c\u7897\'3ft s\u7889\'3fng v\u224\'e0 ph\u7847\'3fn m\u7873\'3fm c\u7841\'3fnh s\u7889\'3fng hai b\u234\'ean}\par\pard\plain\ql{\cf0 - Tho\u225\'e1i h\u243\'f3a m\u7845\'3ft n\u432\'75\u7899\'3fc gi\u7843\'3fm t\u237\'edn hi\u7879\'3fu tr\u234\'ean m\u224\'e0n h\u236\'ecnh T2W \u273\'64\u297\'69a \u273\'64\u7879\'3fm t\u7847\'3fng L3/L4, L4/L5, L5/S1.}\par\pard\plain\ql{\cf0 - Kh\u244\'f4ng th\u7845\'3fy l\u7891\'3fi hay tho\u225\'e1t v\u7883\'3f c\u225\'e1c t\u7847\'3fng \u273\'64\u297\'69a \u273\'64\u7879\'3fm c\u7897\'3ft s\u7889\'3fng th\u7855\'3ft l\u432\'75ng c\u242\'f2n l\u7841\'3fi}\par\pard\plain\ql{\cf0 - C\u225\'e1c l\u7895\'3f li\u234\'ean h\u7907\'3fp c\u7897\'3ft s\u7889\'3fng th\u7855\'3ft l\u432\'75ng kh\u244\'f4ng h\u7865\'3fp}\par\pard\plain\ql{\cf0 - Kh\u244\'f4ng th\u7845\'3fy b\u7845\'3ft th\u432\'75\u7901\'3fng ph\u7847\'3fn m\u7873\'3fm c\u7841\'3fnh s\u7889\'3fng tr\u234\'ean phim}\par\pard\plain\ql{\cf0 - H\u236\'ecnh th\u225\'e1i v\u224\'e0 t\u237\'edn hi\u7879\'3fu ch\u243\'f3p c\u249\'f9ng t\u7911\'3fy b\u236\'ecnh th\u432\'75\u7901\'3fng.}\par}</Contents>
+    <Conclusion>sdfasd</Conclusion>
+    <Proposal>sd fasdf sdfasas fsd </Proposal>
+    <EmployeeName>Admin Đồng PV</EmployeeName>
+  </Table2>
+</NewDataSet>

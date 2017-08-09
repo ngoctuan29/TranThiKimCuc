@@ -1,0 +1,5606 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <ItemCode>TH000001</ItemCode>
+    <ItemName>Zinmax</ItemName>
+    <Active>Cefuroxime 500mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>10000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000002</ItemCode>
+    <ItemName>Phenergan</ItemName>
+    <Active>promethazine</Active>
+    <UnitOfMeasureName>Tuyp</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Bôi</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>20000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000003</ItemCode>
+    <ItemName>Dozoltac</ItemName>
+    <Active>Paracetamol 325mg, Chlorpheniramine Maleate 4mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>800.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000004</ItemCode>
+    <ItemName>Ficlotasol</ItemName>
+    <Active>Beclomethason dipropionat 0.064%, acid fusidic 2%</Active>
+    <UnitOfMeasureName>Tuyp</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Bôi</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>30000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000005</ItemCode>
+    <ItemName>Acezin DHG</ItemName>
+    <Active>Alimemazine Tartrate 5mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000006</ItemCode>
+    <ItemName>Calcium Stada 5ml</ItemName>
+    <Active>Calcium, C, PP</Active>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2700.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000007</ItemCode>
+    <ItemName>Hapacol 325</ItemName>
+    <Active>Paracetamol 325mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000008</ItemCode>
+    <ItemName>Hapacol 650</ItemName>
+    <Active>Paracetamol 650mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000009</ItemCode>
+    <ItemName>Obimin (hộp 30 Viên)</ItemName>
+    <UnitOfMeasureName>Hộp</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>50000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000010</ItemCode>
+    <ItemName>Pediasure Kid Ăn Ngon Ngủ Tốt</ItemName>
+    <Active>Lysine,mật Ong, Cao Xương Động Vật....</Active>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3250.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000011</ItemCode>
+    <ItemName>Pediasure Kid Calcium Nano</ItemName>
+    <Active>Calcium Nano, DHA, Taurine.....</Active>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3250.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000012</ItemCode>
+    <ItemName>Salonship miếng dán</ItemName>
+    <Active />
+    <UnitOfMeasureName>Miếng</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Dán trên da</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>15000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000013</ItemCode>
+    <ItemName>Calytos ngậm thảo dược</ItemName>
+    <Active />
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Ngậm</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000014</ItemCode>
+    <ItemName>Asthmatin 10mg</ItemName>
+    <Active>Montelukast 10mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>10000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000015</ItemCode>
+    <ItemName>Scanax 500 Vỉ Nhôm</ItemName>
+    <Active>Ciprofloxacin 500mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>5000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000016</ItemCode>
+    <ItemName>Clarithromycin 500mg</ItemName>
+    <Active>Clarithromycin 500mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>8500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000017</ItemCode>
+    <ItemName>Ribomin</ItemName>
+    <Active>vitamin A,B1,B2,B3,B5,B6...</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000018</ItemCode>
+    <ItemName>Pms-Probio</ItemName>
+    <Active>Men Vi Sinh Đông Khô</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000019</ItemCode>
+    <ItemName>Ybio</ItemName>
+    <Active>Lactobacillus Acidophilus</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000020</ItemCode>
+    <ItemName>Edoz KidS</ItemName>
+    <Active>Chống Đầy Hơi</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000021</ItemCode>
+    <ItemName>Telfast BD 60mg</ItemName>
+    <Active>Fexofenadine hcl</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>5000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000022</ItemCode>
+    <ItemName>Neopeptin</ItemName>
+    <Active>Men tiêu hóa dạng nước</Active>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>50000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000023</ItemCode>
+    <ItemName>Flucoldstad</ItemName>
+    <Active>Paracetamol 500mg, Caffeine 25mg,Phenylephrine Hcl 5mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000024</ItemCode>
+    <ItemName>Ceelin</ItemName>
+    <Active>Vitamin C</Active>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>22000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000025</ItemCode>
+    <ItemName>Dibencozid Stada</ItemName>
+    <Active>Dibencozid 2mg</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000026</ItemCode>
+    <ItemName>Tozinax Syrup</ItemName>
+    <Active>Kẽm 10mg/5ml</Active>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>35000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000027</ItemCode>
+    <ItemName>Alimemazin</ItemName>
+    <Active>Alimemazine Tartrate 50mg</Active>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>23000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000028</ItemCode>
+    <ItemName>Bisolvon kids</ItemName>
+    <Active>Bromhexine Hcl</Active>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>50000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000029</ItemCode>
+    <ItemName>Toplexil</ItemName>
+    <Active>oxomemazin 0,033g, guaifenesin 0,666 g</Active>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>25000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000030</ItemCode>
+    <ItemName>Hasan - C 1000</ItemName>
+    <Active>Vitamin C 1000 Mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000031</ItemCode>
+    <ItemName>Theralene siro/ syrup</ItemName>
+    <Active>Alimemazin 0,045g</Active>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>20000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000032</ItemCode>
+    <ItemName>Acehasan 200</ItemName>
+    <Active>Acetylcystein 200mg</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>4000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000033</ItemCode>
+    <ItemName>Masozym - Zn</ItemName>
+    <Active>Lactobacillus acidophilus, kẽm gluconat</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000034</ItemCode>
+    <ItemName>Mibery gel 4%</ItemName>
+    <Active>Erythomycin 4.0% ( trị mụn )</Active>
+    <UnitOfMeasureName>Tuyp</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Bôi</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>30000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000035</ItemCode>
+    <ItemName>Amtanolon 0,1%</ItemName>
+    <Active>Triamcinolon acetonid 0,1%</Active>
+    <UnitOfMeasureName>Tuyp</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Bôi</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>25000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000036</ItemCode>
+    <ItemName>Sofpaifa</ItemName>
+    <Active>kem bôi muỗi kiến đốt</Active>
+    <UnitOfMeasureName>Tuyp</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Bôi</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>15000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000037</ItemCode>
+    <ItemName>Phenergan</ItemName>
+    <Active>Promethazine 0.2g, Methyl parahydroxybenzoat &lt;= 0.01 g</Active>
+    <UnitOfMeasureName>Tuyp</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Bôi</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>20000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000038</ItemCode>
+    <ItemName>Etoral cream</ItemName>
+    <Active>Ketoconazol 0,1g</Active>
+    <UnitOfMeasureName>Tuyp</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Bôi</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>12000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000039</ItemCode>
+    <ItemName>Sihiron cream</ItemName>
+    <Active>Bethamethason dipropionate 64mg, Clotrimazole 1g, Gentamicin 100mg</Active>
+    <UnitOfMeasureName>Tuyp</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Bôi</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>12000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000040</ItemCode>
+    <ItemName>Medskin soft</ItemName>
+    <Active>Liền vết nứt nẻ,da khô, mềm gót</Active>
+    <UnitOfMeasureName>Tuyp</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Bôi</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>20000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000041</ItemCode>
+    <ItemName>Mibeviru cream</ItemName>
+    <Active>Aciclovir 5%</Active>
+    <UnitOfMeasureName>Tuyp</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Bôi</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>20000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000042</ItemCode>
+    <ItemName>Erossan Anti - Acne</ItemName>
+    <Active>Erythromycin (Trị Mụn)</Active>
+    <UnitOfMeasureName>Tuyp</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Bôi</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>20000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000043</ItemCode>
+    <ItemName>Syntoderm cream</ItemName>
+    <Active>Betamethason dipropionate,clorimazole,gentamicin sulphate cream</Active>
+    <UnitOfMeasureName>Tuyp</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Bôi</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>25000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000044</ItemCode>
+    <ItemName>Silkron</ItemName>
+    <Active>Clotrimazole 10mg,betamethasone 0.64mg,gentamycin 1mg</Active>
+    <UnitOfMeasureName>Tuyp</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Bôi</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>20000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000045</ItemCode>
+    <ItemName>Dopagan 650mg</ItemName>
+    <Active>Paracetamol 650mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000046</ItemCode>
+    <ItemName>Tatanol Trẻ Em</ItemName>
+    <Active>Acetaminophen 120mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000047</ItemCode>
+    <ItemName>Clorpheniramin4</ItemName>
+    <Active>Clorpheniramin maleat 4mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000048</ItemCode>
+    <ItemName>Dobenzic</ItemName>
+    <Active>Dibencozid 2mg</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000049</ItemCode>
+    <ItemName>Pyme Azi 250</ItemName>
+    <Active>Azithromycin 250mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>6000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000050</ItemCode>
+    <ItemName>Aikido Gel Cool Patch</ItemName>
+    <Active>Miếng Dán Hạ Sốt</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Dán trên da</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>15000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000051</ItemCode>
+    <ItemName>Mitoyo cooling patch</ItemName>
+    <Active>Miếng dán hạ sốt</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Dán trên da</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>15000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000052</ItemCode>
+    <ItemName>Hapacol Sủi</ItemName>
+    <Active>Paracetamol 500mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>5000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000053</ItemCode>
+    <ItemName>Prednisolon</ItemName>
+    <Active>Prednosolon acetat 5mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000054</ItemCode>
+    <ItemName>Effe Paracetamol 200mg DHG</ItemName>
+    <Active>Paracetamol 200mg, Vitamin C 200mg</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000055</ItemCode>
+    <ItemName>Cobifen</ItemName>
+    <Active>Paracetamol 200mg, vitamin C 200mg</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000056</ItemCode>
+    <ItemName>Effer Hasan 250mg</ItemName>
+    <Active>Paracetamol 250mg</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>2500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000057</ItemCode>
+    <ItemName>Hapacol 250</ItemName>
+    <Active>Paracetamol 250mg</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000058</ItemCode>
+    <ItemName>Hapacol CS Day</ItemName>
+    <Active>Paracetamol 650mg, Phenyphrine HCL 5mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000059</ItemCode>
+    <ItemName>Hapacol Codein 30</ItemName>
+    <Active>Paracetamol 500mg, Codeine Phosphate 30mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000060</ItemCode>
+    <ItemName>Hapacol Extra</ItemName>
+    <Active>Paracetamol 500mg, Cafein 65mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000061</ItemCode>
+    <ItemName>Hapacol 80</ItemName>
+    <Active>Paracetamol 80mg</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000062</ItemCode>
+    <ItemName>Hapacol 150</ItemName>
+    <Active>Paracetamol 150mg</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000063</ItemCode>
+    <ItemName>Mexcold imp 150</ItemName>
+    <Active>Paracetamol 150mg</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000064</ItemCode>
+    <ItemName>Cobimol</ItemName>
+    <Active>Paracetamol 100mg, clorpheniramine maleate 2mg</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000065</ItemCode>
+    <ItemName>Efferahasan 150mg</ItemName>
+    <Active>Paracetamol 80mg</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000066</ItemCode>
+    <ItemName>Azicine 250mg </ItemName>
+    <Active>Azithromycin 250mg</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>6000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000067</ItemCode>
+    <ItemName>Pyme Azi 500</ItemName>
+    <Active>Azithromycin 500mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>8000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000068</ItemCode>
+    <ItemName>Azithromycin 100</ItemName>
+    <Active>Azithromycin 100mg</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>4000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000069</ItemCode>
+    <ItemName>Azithromycin200</ItemName>
+    <Active>Azithromycin200mg</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>6000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000070</ItemCode>
+    <ItemName>Azihasan 125</ItemName>
+    <Active>Azithromycin 125mg</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>5000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000071</ItemCode>
+    <ItemName>Dầu mù u</ItemName>
+    <Active>Tri bỏng</Active>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Bôi</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>10000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000072</ItemCode>
+    <ItemName>Augmentin 1g</ItemName>
+    <Active>Amoxicillin+kali clavulanate</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>23000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000073</ItemCode>
+    <ItemName>Augmentin 625g</ItemName>
+    <Active>Amoxicillin+kali Clavulanate</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>15000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000074</ItemCode>
+    <ItemName>Zinnat tablets 500mg</ItemName>
+    <Active>Cefuroxime 500mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>28000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000075</ItemCode>
+    <ItemName>Klamentin 500</ItemName>
+    <Active>Amoxicillin+Acid Clavulanic</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>12000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000076</ItemCode>
+    <ItemName>Imexime 50</ItemName>
+    <Active>Cefixime 50mg</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>6000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000077</ItemCode>
+    <ItemName>Hasalbu 2</ItemName>
+    <Active>Salbutamol 2mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000078</ItemCode>
+    <ItemName>Dextromethorphan</ItemName>
+    <Active>Dextromethorphan hydrobromide 10mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000079</ItemCode>
+    <ItemName>Pms-Claminat 500/62.5mg</ItemName>
+    <Active>Amoxicillin 500mg,Acid Clavulanic 62,5mg</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>12000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000080</ItemCode>
+    <ItemName>Pms-Claminat 250mg/31,25mg</ItemName>
+    <Active>Amoxicillin 250mg,Acid Clavulanic 31,25mg</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>9000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000081</ItemCode>
+    <ItemName>Pms-Imeclor</ItemName>
+    <Active>Cefaclor 125mg</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>6000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000082</ItemCode>
+    <ItemName>Pyfaclor kid</ItemName>
+    <Active>Cefaclor 125mg</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>6000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000083</ItemCode>
+    <ItemName>Cefaclor 250</ItemName>
+    <Active>Cefaclor 250mg</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>7000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000084</ItemCode>
+    <ItemName>Hafixim 50</ItemName>
+    <Active>Cefixime 50mg</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>7000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000085</ItemCode>
+    <ItemName>Tataca</ItemName>
+    <Active>Mebendazole 500mg (tẩy giun)</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>13000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000086</ItemCode>
+    <ItemName>Kefcin 125</ItemName>
+    <Active>Cefaclor 125mg</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>6000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000087</ItemCode>
+    <ItemName>Crocin kid-100</ItemName>
+    <Active>cefixime 100mg</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>8000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000088</ItemCode>
+    <ItemName>Hafixim 100</ItemName>
+    <Active>Cefixime 100mg</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>8000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000089</ItemCode>
+    <ItemName>Crocin kid</ItemName>
+    <Active>cefixime 50mg</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>7000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000090</ItemCode>
+    <ItemName>Clorpheniramin4</ItemName>
+    <Active>Clorpheniramin Maleat 4mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000091</ItemCode>
+    <ItemName>Rovas 0.75M</ItemName>
+    <Active>Spiramycin 750,000 IU</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>6000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000092</ItemCode>
+    <ItemName>Cefaclor 125</ItemName>
+    <Active>Cefaclor 125mg</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>6000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000093</ItemCode>
+    <ItemName>Ery Thromycin 250mg</ItemName>
+    <Active>Erythromycin 250mg</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>6000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000094</ItemCode>
+    <ItemName>Emycin DHG 250</ItemName>
+    <Active>Erythromycin 250mg</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>6000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000095</ItemCode>
+    <ItemName>Ery chldren enfants 250mg (pháp)</ItemName>
+    <Active>Erythromycin 250mg </Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>9000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000096</ItemCode>
+    <ItemName>Ery Mekophar</ItemName>
+    <Active>Erythromycin 250mg</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>5000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000097</ItemCode>
+    <ItemName>Duphalac 667g/l</ItemName>
+    <Active />
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>8000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000099</ItemCode>
+    <ItemName>New choice (viên tránh thai)</ItemName>
+    <Active />
+    <UnitOfMeasureName>Hộp</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>10000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000100</ItemCode>
+    <ItemName>Liverstad</ItemName>
+    <Active>Silymarin 70mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1200.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000101</ItemCode>
+    <ItemName>Davita bone</ItemName>
+    <Active>calci vitamin D</Active>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>30000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000102</ItemCode>
+    <ItemName>salonspas  miếng dán</ItemName>
+    <Active />
+    <UnitOfMeasureName>Hộp</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Dán trên da</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>12000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000103</ItemCode>
+    <ItemName>hút mũi con voi trắng</ItemName>
+    <Active />
+    <UnitOfMeasureName>Khác</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>20000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000104</ItemCode>
+    <ItemName>Naturenz</ItemName>
+    <Active>Bột Naturenz 375mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2200.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000105</ItemCode>
+    <ItemName>Ostigold 500 (glucosamine 500mg)</ItemName>
+    <Active>Glucosamine Sulfate 500mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000106</ItemCode>
+    <ItemName>Vitamin E</ItemName>
+    <Active>Vitamin E 400 UI</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000107</ItemCode>
+    <ItemName>Pms-Rolivit</ItemName>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000108</ItemCode>
+    <ItemName>Calcium Corbiere Sanofi 5ml</ItemName>
+    <Active>Vitamine 5ml</Active>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>4500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000109</ItemCode>
+    <ItemName>Vitamin 3B</ItemName>
+    <Active>Vitamin B1+B6+B12</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000110</ItemCode>
+    <ItemName>Ích mẫu</ItemName>
+    <Active />
+    <UnitOfMeasureName>Hộp</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>30000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000111</ItemCode>
+    <ItemName>B1-B6-B12</ItemName>
+    <Active>Vitamin B1+B6+B12</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000112</ItemCode>
+    <ItemName>Marvelon (thuốc ngừa thai)</ItemName>
+    <Active />
+    <UnitOfMeasureName>Hộp</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>60000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000113</ItemCode>
+    <ItemName>Vorifend Forte</ItemName>
+    <Active>Glucosamine Sulfate 500mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000114</ItemCode>
+    <ItemName>Eugica</ItemName>
+    <Active>Eucalyptol 100mg, menthol 0.5mg, tinh dầu tần,tinh dầu gừng</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000115</ItemCode>
+    <ItemName>Calci Millk-D</ItemName>
+    <Active>Tricalci Phosphat Gel 3.6g, Vitamin D3 14400 IU</Active>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>30000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000116</ItemCode>
+    <ItemName>Stugeron</ItemName>
+    <Active>per table 25mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000117</ItemCode>
+    <ItemName>Magnesi B6</ItemName>
+    <Active>Magnesi Lactat 470mg,Pyridoxin HCL 5mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000118</ItemCode>
+    <ItemName>Magnesi - B6</ItemName>
+    <Active>Magnesi lactat dihydrate 470mg, vitamin B6</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000119</ItemCode>
+    <ItemName>Celecoxid Capsules 100mg</ItemName>
+    <Active>Celecoxid 100mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000120</ItemCode>
+    <ItemName>Pms-Do-Parafen F</ItemName>
+    <Active>Paracetamol 650mg,Ibuprofen 200mg,Diphenhydramin 12.5mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000121</ItemCode>
+    <ItemName>No-spa forte</ItemName>
+    <Active>Drotaverine hydrochloride 80mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000122</ItemCode>
+    <ItemName>Omeprazol</ItemName>
+    <Active>Omeprazole 20mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000123</ItemCode>
+    <ItemName>Pms-Moprazol</ItemName>
+    <Active>Omeprazol 20mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000124</ItemCode>
+    <ItemName>Dudencer</ItemName>
+    <Active>Omeprazol 20mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000125</ItemCode>
+    <ItemName>Maalox</ItemName>
+    <Active>Nhôm hydroxyd gel khô 400mg,Magnesi hydroxyd 400mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000126</ItemCode>
+    <ItemName>Cimedine</ItemName>
+    <Active>Cimetidin 300mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000127</ItemCode>
+    <ItemName>Nixki-20</ItemName>
+    <Active>Omeprazole magnesium 20mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000128</ItemCode>
+    <ItemName>Pyme Om20</ItemName>
+    <Active>Omeprazol 20mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000129</ItemCode>
+    <ItemName>Cimetidin Stada 400mg</ItemName>
+    <Active>Cimetidin 400mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000131</ItemCode>
+    <ItemName>Ventolin</ItemName>
+    <Active>Salbutamol 100mcg/ Liều Xịt</Active>
+    <UnitOfMeasureName>Hộp</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Xịt</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>110000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000132</ItemCode>
+    <ItemName>Caldihasan</ItemName>
+    <Active>Calci Carbonat 1250mg, Vitamin D3 125đvqt</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000133</ItemCode>
+    <ItemName>Modom's</ItemName>
+    <Active>Domperidone 10mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000134</ItemCode>
+    <ItemName>Dotium</ItemName>
+    <Active>Domperidone 10mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000135</ItemCode>
+    <ItemName>Choliver</ItemName>
+    <Active>Cao actiso 25mg,cao mật heo 25mg,bột nghệ 50mg</Active>
+    <UnitOfMeasureName>Hộp</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>30000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000136</ItemCode>
+    <ItemName>Calci-D</ItemName>
+    <Active>Calcium carbonate 518mg, Vitamin D3</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000137</ItemCode>
+    <ItemName>Calcium Hasan 500mg</ItemName>
+    <Active>Calci Lactat Gluconat 2940mg,calci Carbonat 300mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>5000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000138</ItemCode>
+    <ItemName>Calcium Stada</ItemName>
+    <Active>Vitamin C,PP</Active>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>4000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000139</ItemCode>
+    <ItemName>Levoquin 250</ItemName>
+    <Active>Levofloxacin 250mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>6000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000140</ItemCode>
+    <ItemName>Levofloxacin 500 D HG</ItemName>
+    <Active>Levofloxacin 500mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>8000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000141</ItemCode>
+    <ItemName>Aikido Gel Cool Patch</ItemName>
+    <Active>Dán Hạ Sốt</Active>
+    <UnitOfMeasureName>Miếng</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Dán trên da</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>15000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000142</ItemCode>
+    <ItemName>Lisinopril Stada 10mg</ItemName>
+    <Active>Lisinopril 10mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000143</ItemCode>
+    <ItemName>B-Complex</ItemName>
+    <Active>Thiamin mononitrat 15mg,Riboflavin10mg,pyridixin hydroclorid 5mg,</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000144</ItemCode>
+    <ItemName>Calcium Corbiere Sanofi 10ml</ItemName>
+    <Active>Calci Glucoheptonat 1.1g,vitamin C 0.1g, Vitamin PP 0,05g</Active>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>5000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000145</ItemCode>
+    <ItemName>Pms-Claminat 625mg</ItemName>
+    <Active>Amoxicillin 500mg, Clavulanic 125mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>10000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000146</ItemCode>
+    <ItemName>Clarithromycin 250mg</ItemName>
+    <Active>clarithromycin 250mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>6000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000147</ItemCode>
+    <ItemName>Simethicon Stada</ItemName>
+    <Active>Simethico 40mg</Active>
+    <UnitOfMeasureName>Hộp</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>30000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000148</ItemCode>
+    <ItemName>Hasancip 500</ItemName>
+    <Active>Ciprofloxacin 500mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000149</ItemCode>
+    <ItemName>Domitazol </ItemName>
+    <Active>Bột hạt malva 250mg,xanh methylen 25mg,camphor monobromid 20mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000150</ItemCode>
+    <ItemName>Bisacodyl DHG (trị Táo Bón)</ItemName>
+    <Active>Bisacodyl 5mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000151</ItemCode>
+    <ItemName>Mibelexin 500mg</ItemName>
+    <Active>cefalexin 500mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000152</ItemCode>
+    <ItemName>cifga</ItemName>
+    <Active>Ciprofloxacin 500mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000153</ItemCode>
+    <ItemName>Cefixim</ItemName>
+    <Active>Cefixim 200mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>5000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000154</ItemCode>
+    <ItemName>Ecoflox-500mg</ItemName>
+    <Active>Ciprofloxacin 500mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000155</ItemCode>
+    <ItemName>Ciprofloxacin 500mg</ItemName>
+    <Active>Ciprofloxacin 500mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000156</ItemCode>
+    <ItemName>Clarithromycin 500mg</ItemName>
+    <Active>Clarithromycin 500mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>8500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000157</ItemCode>
+    <ItemName>Bicebid 100</ItemName>
+    <Active>cefixime 100mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>5000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000158</ItemCode>
+    <ItemName>Fixnat 100</ItemName>
+    <Active>cefpodoxim 100mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>5000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000159</ItemCode>
+    <ItemName>Enterogermina</ItemName>
+    <Active />
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>7000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000160</ItemCode>
+    <ItemName>Haresol</ItemName>
+    <Active>Natri clorid,natri citrat dihydrat,kali clorid , glucose khan</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>4000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000161</ItemCode>
+    <ItemName>Dermatic</ItemName>
+    <Active>Cyclic,polymeric siloxanes,vitamin C</Active>
+    <UnitOfMeasureName>Hộp</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Bôi</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>195000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000162</ItemCode>
+    <ItemName>Sorbitol 5g</ItemName>
+    <Active>Soritol 5g</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000163</ItemCode>
+    <ItemName>Hamett</ItemName>
+    <Active>Diosmectit 3g</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>5000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000164</ItemCode>
+    <ItemName>Smecta</ItemName>
+    <Active>Diosmectit 3g</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>5000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000165</ItemCode>
+    <ItemName>Racecadotril 30</ItemName>
+    <Active>Racecadotril 30mg</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>5000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000166</ItemCode>
+    <ItemName>Hiruscar gel (mờ sẹo)</ItemName>
+    <Active />
+    <UnitOfMeasureName>Hộp</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Bôi</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>110000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000167</ItemCode>
+    <ItemName>Pyme Om20</ItemName>
+    <Active>Omeprazol 20mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000168</ItemCode>
+    <ItemName>Gumas</ItemName>
+    <Active>Magnesi hydroxyl,nhôm hydroxyd,simethicon</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>5000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000169</ItemCode>
+    <ItemName>Phosphalugel</ItemName>
+    <Active>Colloidal aluminium phosphate</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>5000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000170</ItemCode>
+    <ItemName>Alu-P</ItemName>
+    <Active>Nhôm Phosphat Gel 20% 12.38%</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>5000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000171</ItemCode>
+    <ItemName>Gaviscon</ItemName>
+    <Active>Natri alginate 500mg,natri bicarbonate 267mg,calci carbonate 160mg</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>7000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000172</ItemCode>
+    <ItemName>Gelactive</ItemName>
+    <Active>nhôm hydroxyd 300mg,magnesi hydroxyd 400mg,simethicon 30mg</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>4000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000173</ItemCode>
+    <ItemName>Sucrahasan Gel</ItemName>
+    <Active>Sucralfat 1g</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>5000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000174</ItemCode>
+    <ItemName>Misanlugel</ItemName>
+    <Active>Aluminium Phosphat Gel 20% 12.4g</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>5000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000175</ItemCode>
+    <ItemName>Mobic</ItemName>
+    <Active>Meloxicam 7.5mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>13000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000176</ItemCode>
+    <ItemName>Patest</ItemName>
+    <Active>Mephenesin 250mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000177</ItemCode>
+    <ItemName>Alpha Chymotryspin DHG</ItemName>
+    <Active>Chymotrypin 21 Microkatal</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000178</ItemCode>
+    <ItemName>Alpha Chymotryspin</ItemName>
+    <Active>Chymotrypin 4200 Đơn Vị</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000179</ItemCode>
+    <ItemName>Mobimed 7.5mg</ItemName>
+    <Active>Meloxicam 7.5mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000180</ItemCode>
+    <ItemName>Anpha - Kiisin</ItemName>
+    <Active>Chymotrypin 21 Microkatal</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000181</ItemCode>
+    <ItemName>Cotrimstada Forte</ItemName>
+    <Active>Sulfamethoxazole 800mg &amp; Trimethoprim 160mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>5000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000182</ItemCode>
+    <ItemName>Mibecerex</ItemName>
+    <Active>Celecoxid 200mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>4000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000183</ItemCode>
+    <ItemName>Meloxicam</ItemName>
+    <Active>Meloxicam 7.5mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000184</ItemCode>
+    <ItemName>Metronidazol 250 DHG</ItemName>
+    <Active>Metronidazole 250mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000185</ItemCode>
+    <ItemName>Cotrimstada </ItemName>
+    <Active>Sulfamethoxazole 400mg &amp; Trimethoprim 80mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000186</ItemCode>
+    <ItemName>Celecoxid Capsules 200mg</ItemName>
+    <Active>Celecoxil 200mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000187</ItemCode>
+    <ItemName>Sagacoxib 200</ItemName>
+    <Active>Celecoxid capsules 200mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000188</ItemCode>
+    <ItemName>Nystatin </ItemName>
+    <Active>Nystatin 500000 IU</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000189</ItemCode>
+    <ItemName>Doxycyclin Stada 100mg</ItemName>
+    <Active>Doxycyclyne 100mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000190</ItemCode>
+    <ItemName>Loperamid</ItemName>
+    <Active>Loperamid hydroclorid 2mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000191</ItemCode>
+    <ItemName>Mifestad 10</ItemName>
+    <Active>Mifepristone 10mg</Active>
+    <UnitOfMeasureName>Hộp</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>12000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000192</ItemCode>
+    <ItemName>Metronidazol 250 (TH)</ItemName>
+    <Active>Metronidazole 250mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000193</ItemCode>
+    <ItemName>Ambelin 5mg</ItemName>
+    <Active>Amlodipin 5mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000194</ItemCode>
+    <ItemName>Flagyl 250mg</ItemName>
+    <Active>Metronidazole 250mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000195</ItemCode>
+    <ItemName>Nystatin </ItemName>
+    <Active>Nystatin 500000 IU</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000196</ItemCode>
+    <ItemName>spirilix</ItemName>
+    <Active>Sulpirid 50mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000197</ItemCode>
+    <ItemName>Pms-Doxyclin</ItemName>
+    <Active>Doxycyclyne 100mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000198</ItemCode>
+    <ItemName>Acyclovid 800mg</ItemName>
+    <Active>Acyclovir 800mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>8000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000199</ItemCode>
+    <ItemName>Pms-Cetirizine 10</ItemName>
+    <Active>Cetirizin 10mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000200</ItemCode>
+    <ItemName>Tetracyclin</ItemName>
+    <Active>Tetracyclin hydrochlorid 500mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000201</ItemCode>
+    <ItemName>Doxycyclin</ItemName>
+    <Active>Doxycyclyne hydrochlorid 100mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000202</ItemCode>
+    <ItemName>Telmisartan 80mg</ItemName>
+    <Active>Telmisartan 80mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>7000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000203</ItemCode>
+    <ItemName>Bisoprolol 5mg</ItemName>
+    <Active>Bisoprolol fumarat 5mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>4000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000204</ItemCode>
+    <ItemName>Hagizin</ItemName>
+    <Active>Flunarizine 5mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000205</ItemCode>
+    <ItemName>Losartan 50</ItemName>
+    <Active>Losartan kali 50mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000206</ItemCode>
+    <ItemName>Dorover 4mg</ItemName>
+    <Active>Perindopril tert-butylamin 4mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000207</ItemCode>
+    <ItemName>Amlodipin</ItemName>
+    <Active>Amlodipin 5mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000208</ItemCode>
+    <ItemName>Indopril 10</ItemName>
+    <Active>Imidapril hydroclorid 10mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000209</ItemCode>
+    <ItemName>Mibetel 40mg</ItemName>
+    <Active>Telmisartan 40mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>4000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000210</ItemCode>
+    <ItemName>Captohasan Comp 25/12.5</ItemName>
+    <Active>Captopril 25mg+hydrochlorothiazide 12.5mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000211</ItemCode>
+    <ItemName>Imedipin</ItemName>
+    <Active>Amlodipin 5mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000212</ItemCode>
+    <ItemName>Neu-stam 800</ItemName>
+    <Active>Piracetam 800mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000213</ItemCode>
+    <ItemName>Bihasal 2.5</ItemName>
+    <Active>Bisoprolol Fumarat 2.5mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000214</ItemCode>
+    <ItemName>Thyrozol 10mg</ItemName>
+    <Active>Thiamazole 10mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000215</ItemCode>
+    <ItemName>Lisidigal 10mg</ItemName>
+    <Active>Lisinopril 10mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000216</ItemCode>
+    <ItemName>Metformin 850mg</ItemName>
+    <Active>Metformin hydroclorid 850mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000217</ItemCode>
+    <ItemName>Trimetazidine 35mg</ItemName>
+    <Active>Trimetazidin dihydroclorid 35mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000218</ItemCode>
+    <ItemName>Vashasan</ItemName>
+    <Active>Trimetazidin Dihydrochloride 35mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000219</ItemCode>
+    <ItemName>Pymetphage 1000</ItemName>
+    <Active>Metformin 1000mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000220</ItemCode>
+    <ItemName>pymetphage 850</ItemName>
+    <Active>Metformin 850mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000221</ItemCode>
+    <ItemName>Pymetphage 500</ItemName>
+    <Active>Metformin hcl 500mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000222</ItemCode>
+    <ItemName>Glucofine 850mg</ItemName>
+    <Active>Metformin hydroclorid 850mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000223</ItemCode>
+    <ItemName>Simvastatin 10mg</ItemName>
+    <Active>Simvastatin 10mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000224</ItemCode>
+    <ItemName>Atorvastatin 10</ItemName>
+    <Active>Atorvastatin 10mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>4000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000225</ItemCode>
+    <ItemName>Nitrostad Retad 2.5</ItemName>
+    <Active>Nitroglycerin 2,5mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000226</ItemCode>
+    <ItemName>Tilhazem 60</ItemName>
+    <Active>Diltiazem hydroclorid 60mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000227</ItemCode>
+    <ItemName>Aziefti 500mg</ItemName>
+    <Active>Azithromycin 500mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000228</ItemCode>
+    <ItemName>Glumeform 500</ItemName>
+    <Active>Metformin hydroclorid 500mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000229</ItemCode>
+    <ItemName>Mibezisol 2.5</ItemName>
+    <Active>Natri clorid,natri citrat dihydrat,kali clorid , glucose khan</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000230</ItemCode>
+    <ItemName>Oresol 245</ItemName>
+    <Active>Natri clorid,natri citrat dihydrat,kali clorid , glucose khan</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000231</ItemCode>
+    <ItemName>Cammic </ItemName>
+    <Active>Acid tranexamic 500mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000232</ItemCode>
+    <ItemName>Dismin 500</ItemName>
+    <Active>Diosmin 45omg,hesperidin 50mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000233</ItemCode>
+    <ItemName>Daflavon</ItemName>
+    <Active>Diosmin 45omg,hesperidin 50mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000234</ItemCode>
+    <ItemName>Dilodin DHG</ItemName>
+    <Active>Diosmin 45omg,hesperidin 50mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000235</ItemCode>
+    <ItemName>vaco Loratadine</ItemName>
+    <Active>Loratadin 10mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000236</ItemCode>
+    <ItemName>Imexofen</ItemName>
+    <Active>Fexofenadine Hcl 60mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000237</ItemCode>
+    <ItemName>Menison 4mg</ItemName>
+    <Active>Methylprednisolone 4mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000238</ItemCode>
+    <ItemName>Telart 40mg</ItemName>
+    <Active>telmisartan 40mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000239</ItemCode>
+    <ItemName>Telfast BD 180mg</ItemName>
+    <Active>Fexofenadine hcl</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>10000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000240</ItemCode>
+    <ItemName>Fegra 60</ItemName>
+    <Active>Fexofenadin HCL 60mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>4000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000241</ItemCode>
+    <ItemName>Fegra 180</ItemName>
+    <Active>fexofenadan HCL 180mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>8000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000242</ItemCode>
+    <ItemName>Telfast BD 60mg</ItemName>
+    <Active>Fexofenadine hcl 60mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>5000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000243</ItemCode>
+    <ItemName>No-spa  </ItemName>
+    <Active>Drotaverine hydrochloride 40mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000244</ItemCode>
+    <ItemName>Hasancetam 800</ItemName>
+    <Active>Piracetam 800mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000245</ItemCode>
+    <ItemName>Rơ lưỡi Đông Pha</ItemName>
+    <Active />
+    <UnitOfMeasureName>Hộp</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Đánh tưa lưỡi</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>5000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000246</ItemCode>
+    <ItemName>Cinnarizin 25mg</ItemName>
+    <Active>Cinnarizin 25mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000247</ItemCode>
+    <ItemName>Valygyno</ItemName>
+    <Active>Thuốc đặt âm đạo</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Đặt âm đạo</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>8000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000248</ItemCode>
+    <ItemName>Dạ Hương</ItemName>
+    <Active>Dung dịch vệ sinh phụ nữ</Active>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Dung dịch rửa</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>24000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000249</ItemCode>
+    <ItemName>Halozam</ItemName>
+    <Active>Piracetam 400mg, Cinnarizine 25mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000250</ItemCode>
+    <ItemName>Amilavil 10mg</ItemName>
+    <Active>Amitriptylin hydroclorid 10mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000251</ItemCode>
+    <ItemName>Celorstad 250</ItemName>
+    <Active>Cefaclor 250mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>5000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000252</ItemCode>
+    <ItemName>Spinolac 25mg</ItemName>
+    <Active>Spironolacton 25mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>4000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000253</ItemCode>
+    <ItemName>Ivis</ItemName>
+    <Active>Natri Clorid 0.9%</Active>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Dung dịch rửa</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>5000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000254</ItemCode>
+    <ItemName>Maleutyl 500mg</ItemName>
+    <Active>Acetyl -DL-leucin 500mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000255</ItemCode>
+    <ItemName>Gynofar</ItemName>
+    <Active>Đồng Sulfat 0.625g</Active>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Dung dịch rửa</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>17000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000256</ItemCode>
+    <ItemName>Levofloxacin 250</ItemName>
+    <Active>Levofloxacin 250mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>6000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000257</ItemCode>
+    <ItemName>Phytogyno</ItemName>
+    <Active>Alpha-terpineol Thiên Nhiên 1g</Active>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Dung dịch rửa</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>23000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000258</ItemCode>
+    <ItemName>Vipredni 16mg</ItemName>
+    <Active>Methylprednisolone 14mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>4000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000259</ItemCode>
+    <ItemName>Hansazol 40mg</ItemName>
+    <Active>Pantoprazole 40mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>4000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000260</ItemCode>
+    <ItemName>Dochicin 1mg</ItemName>
+    <Active>Colchicin 1mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000261</ItemCode>
+    <ItemName>Glisan 30 Mr</ItemName>
+    <Active>Gliclazide 30mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000263</ItemCode>
+    <ItemName>Tobradex</ItemName>
+    <Active>Tobramycin 0.3% , Dexamethasone 0.1%</Active>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Nhỏ mắt</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>55000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000264</ItemCode>
+    <ItemName>Menison 16mg</ItemName>
+    <Active>Methylprednisolone 16mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>4000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000265</ItemCode>
+    <ItemName>Nyst </ItemName>
+    <Active>Nystatin 25000 IU</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Đánh tưa lưỡi</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000266</ItemCode>
+    <ItemName>Tobidex</ItemName>
+    <Active>Dexamethason Natri Phosphat 5mg,tobramycin 15mg</Active>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Nhỏ mắt</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>25000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000267</ItemCode>
+    <ItemName>Cidetuss</ItemName>
+    <Active>Cetirizin.2HCL 5mg,Guaifenesin 100mg,Dextromethorphan HBr 15mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000268</ItemCode>
+    <ItemName>Aspirin -81mg</ItemName>
+    <Active>Acid acetylsalicylic 81mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000269</ItemCode>
+    <ItemName>Pyme Fucan</ItemName>
+    <Active>Fluconazol 150mg</Active>
+    <UnitOfMeasureName>Hộp</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>20000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000270</ItemCode>
+    <ItemName>Gabahasan 300</ItemName>
+    <Active>Gabapentin 300mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>6000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000271</ItemCode>
+    <ItemName>Bisolvon 8mg</ItemName>
+    <Active>Bromhexine Hydrochloride 8mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000272</ItemCode>
+    <ItemName>Pvp-iodine 10%</ItemName>
+    <Active>Povidon iod 2g,Excipients 20ml</Active>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Dung dịch rửa</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>10000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000273</ItemCode>
+    <ItemName>Hapacol 325</ItemName>
+    <Active>Acetaminophen 325mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000274</ItemCode>
+    <ItemName>Dung dịch Milian</ItemName>
+    <Active>Xanh methylen 0.036g, tím gentian 0.036g, ethanol 70% 0.18g</Active>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Bôi</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>5000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000275</ItemCode>
+    <ItemName>Theostat LP</ItemName>
+    <Active>Theophylline 100mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000276</ItemCode>
+    <ItemName>Gitazol</ItemName>
+    <Active>Omeprazole capsule 20mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000277</ItemCode>
+    <ItemName>Bihasal 5</ItemName>
+    <Active>Bisoprolol Fumarat 5mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>4000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000278</ItemCode>
+    <ItemName>Fluconazol Stada 150mg</ItemName>
+    <Active>Fluconazol 150mg</Active>
+    <UnitOfMeasureName>Hộp</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>20000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000279</ItemCode>
+    <ItemName>Carbomango</ItemName>
+    <Active>Than hoạt tính 100mg,Kha tử 100mg,măng cụt 100mg,...</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>300.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000280</ItemCode>
+    <ItemName>Dorogyne</ItemName>
+    <Active>Spiramycin Base,metronidazol</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000281</ItemCode>
+    <ItemName>Spirastad Plus</ItemName>
+    <Active>Spiramycin 7500.000 IU &amp; Metronidazole 125mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000282</ItemCode>
+    <ItemName>ZidocinDHG</ItemName>
+    <Active>Spiramycin-Metronidazol</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000283</ItemCode>
+    <ItemName>Ích Mẫu</ItemName>
+    <UnitOfMeasureName>Hộp</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>30000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000284</ItemCode>
+    <ItemName>Ich Mẫu</ItemName>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000285</ItemCode>
+    <ItemName>Spiramicin 3 MT</ItemName>
+    <Active>Spiramicin</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>6000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000286</ItemCode>
+    <ItemName>Spiramicin 1.5 MT</ItemName>
+    <Active>Spiramicin</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000287</ItemCode>
+    <ItemName>Tepincodein</ItemName>
+    <Active>Tepincodein</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000288</ItemCode>
+    <ItemName>Neocin</ItemName>
+    <Active>Neomycin Sulfate 25mg</Active>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Nhỏ mắt</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>10000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000289</ItemCode>
+    <ItemName>RHINEX 0,05%</ItemName>
+    <Active>Nhỏ Mũi</Active>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Thuốc mũi</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>10000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000291</ItemCode>
+    <ItemName>Gelactive Fort</ItemName>
+    <Active>Nhôm Hydroxyd 300mg,magnesi Hydroxyd 400mg,Simethicon 30mg</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>5000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000292</ItemCode>
+    <ItemName>Esoxium</ItemName>
+    <Active>Esomeprazol</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>4000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000293</ItemCode>
+    <ItemName>Gitazot</ItemName>
+    <Active>Omeprazole 20mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000294</ItemCode>
+    <ItemName>Terpin Codein</ItemName>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000295</ItemCode>
+    <ItemName>Vitamin B1-B6-B12 USA</ItemName>
+    <Active>Vitamin B1-B6-B12</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000296</ItemCode>
+    <ItemName>Vitamin B1-B6-B12-HV</ItemName>
+    <Active>Vitamin B1-B6-B12</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000297</ItemCode>
+    <ItemName>Vitamin AD</ItemName>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000298</ItemCode>
+    <ItemName>Amoxicillin 500 Mg</ItemName>
+    <Active>Amoxiccilin</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000299</ItemCode>
+    <ItemName>DIMITAZOLBLU</ItemName>
+    <Active>DIMITAZOLBLU</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000300</ItemCode>
+    <ItemName>Siro Ho Ong Vàng</ItemName>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000301</ItemCode>
+    <ItemName>Vitamin C 1g Stada</ItemName>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000302</ItemCode>
+    <ItemName>Cidetuss</ItemName>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000303</ItemCode>
+    <ItemName>Levofloxacin 500mg Stada</ItemName>
+    <Active>Levofloxacin 500mg Stada</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>6000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000304</ItemCode>
+    <ItemName>Lisonopril Stada 10mg</ItemName>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000305</ItemCode>
+    <ItemName>Fluzinstad Stada</ItemName>
+    <Active>Flunarizin</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000306</ItemCode>
+    <ItemName>Centrivit Gingseng</ItemName>
+    <Active>Cao Nhân Sâm, Vitamin A,D3,B1,B2,B6...</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000307</ItemCode>
+    <ItemName>Acetylcystein 200mg IMP</ItemName>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000308</ItemCode>
+    <ItemName>Imexofen 180mg</ItemName>
+    <Active>Fexofenadine Hcl 180mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>8000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000309</ItemCode>
+    <ItemName>VITAFOL Mama 500 +DHA</ItemName>
+    <UnitOfMeasureName>Hộp</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>85000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000310</ItemCode>
+    <ItemName>PROMACARE DHA (lọ 30 Viên)</ItemName>
+    <Active>Viên Sắt Phức Hợp</Active>
+    <UnitOfMeasureName>Hộp</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>85000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000311</ItemCode>
+    <ItemName>Hasalfast 60mg</ItemName>
+    <Active>Fexofenadine 60mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000313</ItemCode>
+    <ItemName>Acehasan 200mg</ItemName>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000314</ItemCode>
+    <ItemName>Pms-Mexcold 650mg</ItemName>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1200.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000315</ItemCode>
+    <ItemName>Zidocin DHG</ItemName>
+    <Active>Spiramycin-metronidazole</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000316</ItemCode>
+    <ItemName>OMIC-20 CAPSULES</ItemName>
+    <Active>Omeprazole </Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>1000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000317</ItemCode>
+    <ItemName>Glusamin Capsules</ItemName>
+    <Active>Glucosamin Sulfat </Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000318</ItemCode>
+    <ItemName>Dầu Phật Limh</ItemName>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Bôi</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>10000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000319</ItemCode>
+    <ItemName>Dầu Khuynh Diệp</ItemName>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Bôi</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>45000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000320</ItemCode>
+    <ItemName>Dầu Trường Sơn</ItemName>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Bôi</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>10000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000321</ItemCode>
+    <ItemName>Dầu Nóng Trường Sơn</ItemName>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Bôi trực tràng</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>15000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000322</ItemCode>
+    <ItemName>Dầu Thái Nhỏ</ItemName>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Bôi</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>15000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000323</ItemCode>
+    <ItemName>Nautamin</ItemName>
+    <Active>Diacefylline</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000324</ItemCode>
+    <ItemName>Dầu Thái Lớn</ItemName>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Bôi</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>25000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000325</ItemCode>
+    <ItemName>Nhiệt Kế</ItemName>
+    <UnitOfMeasureName>Cái</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>15000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000326</ItemCode>
+    <ItemName>Nhiệt Kế Điện Tử</ItemName>
+    <UnitOfMeasureName>Cái</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>35000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000327</ItemCode>
+    <ItemName>Que Thử Điện Tử</ItemName>
+    <UnitOfMeasureName>Cái</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>90000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000328</ItemCode>
+    <ItemName>Nước Muối Natri Clorid 0,9%</ItemName>
+    <Active>Natri Clorid 0,9%</Active>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Dùng ngoài</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>9000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000329</ItemCode>
+    <ItemName>Ống Hít Inhalev</ItemName>
+    <UnitOfMeasureName>Cái</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>8000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000330</ItemCode>
+    <ItemName>Bơm Tiêm 5cc</ItemName>
+    <UnitOfMeasureName>Cái</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000331</ItemCode>
+    <ItemName>Bơm Tiêm 10cc</ItemName>
+    <UnitOfMeasureName>Cái</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>4000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000332</ItemCode>
+    <ItemName>Bơm Tiêm 3cc</ItemName>
+    <UnitOfMeasureName>Cái</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000333</ItemCode>
+    <ItemName>Bơm Tiêm 1cc</ItemName>
+    <UnitOfMeasureName>Cái</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000334</ItemCode>
+    <ItemName>Bơm Tiêm 20cc</ItemName>
+    <UnitOfMeasureName>Cái</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>6000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000335</ItemCode>
+    <ItemName>Găng Tay Y Tế</ItemName>
+    <UnitOfMeasureName>Đôi</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000336</ItemCode>
+    <ItemName>Povidin Lớn</ItemName>
+    <Active>Povidin</Active>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Dung dịch rửa</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000337</ItemCode>
+    <ItemName>Povidin Nhỏ</ItemName>
+    <Active>Povidin Nhỏ</Active>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Dung dịch rửa</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000338</ItemCode>
+    <ItemName>Akido</ItemName>
+    <Active>Dán Hạ Sốt</Active>
+    <UnitOfMeasureName>Bịch</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Dán trên da</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>15000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000339</ItemCode>
+    <ItemName>Băng Cuộn Y Tế</ItemName>
+    <UnitOfMeasureName>Cái</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000340</ItemCode>
+    <ItemName>Bông Hút Nước (bông Gòn) 5gr</ItemName>
+    <UnitOfMeasureName>Bịch</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000341</ItemCode>
+    <ItemName>BIPP C Vị Cam</ItemName>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Ngậm</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000342</ItemCode>
+    <ItemName>Bông Hút Nước (bông Gòn)25gr</ItemName>
+    <UnitOfMeasureName>Bịch</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>8000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000343</ItemCode>
+    <ItemName>Oxy Gìa</ItemName>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Dung dịch rửa</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>5000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000344</ItemCode>
+    <ItemName>Bộ Dây Truyền Dịch</ItemName>
+    <UnitOfMeasureName>Cái</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>4000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000345</ItemCode>
+    <ItemName>Cồn 90</ItemName>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Dung dịch rửa</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>5000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000346</ItemCode>
+    <ItemName>Băng Cá Nhân Zilgo</ItemName>
+    <UnitOfMeasureName>Cái</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Dán trên da</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000347</ItemCode>
+    <ItemName>Vaselin (dán Vết Thương)</ItemName>
+    <UnitOfMeasureName>Bịch</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Dán trên da</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000348</ItemCode>
+    <ItemName>Băng Keo Vải Zilgo</ItemName>
+    <UnitOfMeasureName>Cuộn</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Dán trên da</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>15000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000349</ItemCode>
+    <ItemName>Băng Keo Vải URGO</ItemName>
+    <UnitOfMeasureName>Cuộn</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Dán trên da</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>20000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000350</ItemCode>
+    <ItemName>Băng Thun QM 2 Móc</ItemName>
+    <UnitOfMeasureName>Cuộn</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>18000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000351</ItemCode>
+    <ItemName>Túi Đựng Nước Tiểu</ItemName>
+    <UnitOfMeasureName>Bịch</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>30000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000352</ItemCode>
+    <ItemName>Dây Hút Dịch Phẩu Thuật</ItemName>
+    <UnitOfMeasureName>Bịch</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>35000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000353</ItemCode>
+    <ItemName>Găng Tay Phẩu Thuật</ItemName>
+    <UnitOfMeasureName>Đôi</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000354</ItemCode>
+    <ItemName>POVIDINE 500ML</ItemName>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>DÙNG NGOÀI</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Dùng ngoài</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>45000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000355</ItemCode>
+    <ItemName>POVIDON 20ML</ItemName>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>DÙNG NGOÀI</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Dùng ngoài</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>10000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000356</ItemCode>
+    <ItemName>Bộ Phun Khí Dung</ItemName>
+    <UnitOfMeasureName>Cái</UnitOfMeasureName>
+    <ItemCategoryName>DỤNG CỤ Y TẾ</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khí dung</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>35000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000357</ItemCode>
+    <ItemName>Găng Tay Phẫu Thuật Bestglove</ItemName>
+    <UnitOfMeasureName>Đôi</UnitOfMeasureName>
+    <ItemCategoryName>DỤNG CỤ Y TẾ</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>15000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000358</ItemCode>
+    <ItemName>Găng Tay Phẫu Thuật Vglove</ItemName>
+    <UnitOfMeasureName>Đôi</UnitOfMeasureName>
+    <ItemCategoryName>DỤNG CỤ Y TẾ</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>12000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000359</ItemCode>
+    <ItemName>Găng Tay Phẫu Thuật Surgical Glove</ItemName>
+    <UnitOfMeasureName>Đôi</UnitOfMeasureName>
+    <ItemCategoryName>DỤNG CỤ Y TẾ</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>15000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000360</ItemCode>
+    <ItemName>Băng Thun QM 3 Móc</ItemName>
+    <UnitOfMeasureName>Cuộn</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>22000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000361</ItemCode>
+    <ItemName>Zilgo Keo Lụa Lớn</ItemName>
+    <UnitOfMeasureName>Cái</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>20000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000362</ItemCode>
+    <ItemName>Zilgo Keo Lụa Nhỏ</ItemName>
+    <UnitOfMeasureName>Cái</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>15000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000363</ItemCode>
+    <ItemName>Ulgo Keo Lụa Nhỏ</ItemName>
+    <UnitOfMeasureName>Cuộn</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>18000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000364</ItemCode>
+    <ItemName>Urgosterile (20cm X 9cm)</ItemName>
+    <UnitOfMeasureName>Khác</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>10000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000365</ItemCode>
+    <ItemName>Urgosterile (10cm X 9cm)</ItemName>
+    <UnitOfMeasureName>Khác</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>5000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000366</ItemCode>
+    <ItemName>Urgosterile ( 5,3cm X 7cm)</ItemName>
+    <UnitOfMeasureName>Khác</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>4000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000367</ItemCode>
+    <ItemName>Kim Luồng</ItemName>
+    <UnitOfMeasureName>Cái</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>5000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000368</ItemCode>
+    <ItemName>Khẩu Trang Protesct Mask</ItemName>
+    <UnitOfMeasureName>Khác</UnitOfMeasureName>
+    <ItemCategoryName>BÔNG BĂNG</ItemCategoryName>
+    <GroupName>Vật tư y tế</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000369</ItemCode>
+    <ItemName>Kim Chuyền TM 23</ItemName>
+    <UnitOfMeasureName>Cái</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000370</ItemCode>
+    <ItemName>Kim Tiêm 23</ItemName>
+    <UnitOfMeasureName>Cái</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000371</ItemCode>
+    <ItemName>Kim Tiêm 18</ItemName>
+    <UnitOfMeasureName>Cái</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000372</ItemCode>
+    <ItemName>Kim Tiêm 25</ItemName>
+    <UnitOfMeasureName>Cái</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000373</ItemCode>
+    <ItemName>Bông Ngoáy Tai Lớn</ItemName>
+    <UnitOfMeasureName>Bịch</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000374</ItemCode>
+    <ItemName>Bông Ngoáy Tai Nhỏ</ItemName>
+    <UnitOfMeasureName>Bịch</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000375</ItemCode>
+    <ItemName>Chỉ Phẩu Thuật Surgicyl 910</ItemName>
+    <UnitOfMeasureName>Sợi</UnitOfMeasureName>
+    <ItemCategoryName>DỤNG CỤ Y TẾ</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>70000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000376</ItemCode>
+    <ItemName>Chỉ Phẩu Thuật Carelon 2/0</ItemName>
+    <UnitOfMeasureName>Sợi</UnitOfMeasureName>
+    <ItemCategoryName>DỤNG CỤ Y TẾ</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>50000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000377</ItemCode>
+    <ItemName>Chỉ Phẩu Thuật Carelon 3/0</ItemName>
+    <UnitOfMeasureName>Sợi</UnitOfMeasureName>
+    <ItemCategoryName>DỤNG CỤ Y TẾ</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>60000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000378</ItemCode>
+    <ItemName>Kẹo Ngậm Con Vịt</ItemName>
+    <UnitOfMeasureName>Cái</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>6000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000379</ItemCode>
+    <ItemName>Que Thư Quickstick</ItemName>
+    <UnitOfMeasureName>Cái</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>20000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000380</ItemCode>
+    <ItemName>Que Thử Quick Cheep</ItemName>
+    <UnitOfMeasureName>Cái</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>10000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000381</ItemCode>
+    <ItemName>Bao Cao Su Innova</ItemName>
+    <UnitOfMeasureName>Hộp</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>15000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000382</ItemCode>
+    <ItemName>Skinbibi</ItemName>
+    <UnitOfMeasureName>Hộp</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Bôi</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>23000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000383</ItemCode>
+    <ItemName>Aibezym</ItemName>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000384</ItemCode>
+    <ItemName>Gạc Đông Pha Lớn</ItemName>
+    <UnitOfMeasureName>Cái</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000385</ItemCode>
+    <ItemName>Gạc Đông Pha Nhỏ</ItemName>
+    <UnitOfMeasureName>Cái</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>800.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000386</ItemCode>
+    <ItemName>Ediva Young</ItemName>
+    <Active>Vitamin E, Dầu Hoa Anh Thảo, Sữa Ong Chúa</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000387</ItemCode>
+    <ItemName>Vitafol Mama (hộp 30 Viên)</ItemName>
+    <Active>Viên Sắt Phức Hợp</Active>
+    <UnitOfMeasureName>Hộp</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>85000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000388</ItemCode>
+    <ItemName>Scanax 500 ( Nhỏ )</ItemName>
+    <Active>Ciprofloxacin 500mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000389</ItemCode>
+    <ItemName>Nautamine (say Tàu Xe)</ItemName>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000390</ItemCode>
+    <ItemName>UniKids Kẽm</ItemName>
+    <Active>Kẽm,lysin,canxi,B2,B6...</Active>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Ngậm</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>17000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000391</ItemCode>
+    <ItemName>Trimafort</ItemName>
+    <Active>Aluminum Hydroxide Ge, Magnesi Hydroxydl</Active>
+    <UnitOfMeasureName>Bịch</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>5000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000392</ItemCode>
+    <ItemName>Hasanflon 500</ItemName>
+    <Active>Diosmin 450mg, Hesperidin 50mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000393</ItemCode>
+    <ItemName>Si Rô Ho ONG VÀNG</ItemName>
+    <Active>Tắc,mật Ong, Eucalyptol, Tinh Dầu Quế...</Active>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000394</ItemCode>
+    <ItemName>ZITROMAX (Azithromycin Bột Pha Hỗn Dịch)</ItemName>
+    <Active>Azithromycin</Active>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>145000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000395</ItemCode>
+    <ItemName>CECLOR (pha Hỗn Dịch)</ItemName>
+    <Active>Cefaclor 125mg</Active>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>100000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000396</ItemCode>
+    <ItemName>KLACID (Clarythromycin 125mg/5ml)</ItemName>
+    <Active>Clarithromycin 125mg</Active>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>135000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000397</ItemCode>
+    <ItemName>GINKGO BILOBA 40mg</ItemName>
+    <Active>Cao Ginkgo Biloba 40mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000398</ItemCode>
+    <ItemName>Test</ItemName>
+    <Active>Test</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000399</ItemCode>
+    <ItemName>Vrohto Xanh</ItemName>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Nhỏ mắt</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>45000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000400</ItemCode>
+    <ItemName>Vrohto Cool</ItemName>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Nhỏ mắt</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>40000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000401</ItemCode>
+    <ItemName>Prednison 5mg</ItemName>
+    <Active>Prednisone 5mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000402</ItemCode>
+    <ItemName>Efferalgan 500mg (pháp)</ItemName>
+    <Active>Paracetamol 500mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>5000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000403</ItemCode>
+    <ItemName>Efferalgan Codein (pháp)</ItemName>
+    <Active>Paracetamol 500mg ,codeine 30mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>9000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000404</ItemCode>
+    <ItemName>Partamol Eff Sủi Stada</ItemName>
+    <Active>Paracetamol 500mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>5000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000405</ItemCode>
+    <ItemName>Dopagan 500mg</ItemName>
+    <Active>Paracetamol 500mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000406</ItemCode>
+    <ItemName>ZINNAT 125MG (cốm Pha Hỗn Dịch)</ItemName>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>170000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000407</ItemCode>
+    <ItemName>Chỉ Nha Khoa 0RALTANA</ItemName>
+    <UnitOfMeasureName>Bịch</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>25000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000408</ItemCode>
+    <ItemName>Gạc POVIDIN</ItemName>
+    <UnitOfMeasureName>Miếng</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Dán trên da</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>12000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000409</ItemCode>
+    <ItemName>Gạc Lưới URGO TUL</ItemName>
+    <UnitOfMeasureName>Miếng</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Dán trên da</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>55000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000410</ItemCode>
+    <ItemName>Hapacol Codein Sủi</ItemName>
+    <Active>Paracetamol 500mg, Codein 30mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>6000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000411</ItemCode>
+    <ItemName>Pacegan</ItemName>
+    <Active>Paracetamol 500mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>4000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000412</ItemCode>
+    <ItemName>Bocalex ( Vitamin C 1g)</ItemName>
+    <Active>Vitamin C 1000mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000413</ItemCode>
+    <ItemName>Hasan C 1000</ItemName>
+    <Active>Vitamin C 1000mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000414</ItemCode>
+    <ItemName>Argini PMP ( Bổ Gan)</ItemName>
+    <Active>L-Arginine Hcl 500mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>4000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000415</ItemCode>
+    <ItemName>TADALAFIL STADA 20mg (Cường Dương)</ItemName>
+    <Active>Tadalafil 20mg</Active>
+    <UnitOfMeasureName>Hộp</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>60000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000416</ItemCode>
+    <ItemName>Flucitad Stada</ItemName>
+    <Active>Fusidic Acid 2%</Active>
+    <UnitOfMeasureName>Tuyp</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Bôi</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>35000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000417</ItemCode>
+    <ItemName>Calcium Stada 10ml</ItemName>
+    <Active>Vitamin C, PP</Active>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3300.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000418</ItemCode>
+    <ItemName>Nerobion</ItemName>
+    <Active>B1,B6,B12</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2500.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000419</ItemCode>
+    <ItemName>Pms B1-B6-B12</ItemName>
+    <Active>B1,B6,B12</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000420</ItemCode>
+    <ItemName>DEXAMETHAZOL</ItemName>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Tiêm bắp</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000421</ItemCode>
+    <ItemName>VOLITAREN</ItemName>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Tiêm</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000422</ItemCode>
+    <ItemName>DICLOPHENAT</ItemName>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Tiêm</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000423</ItemCode>
+    <ItemName>NEUTRIVIT 5000</ItemName>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Tiêm</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000424</ItemCode>
+    <ItemName>SOLUMEDEROL</ItemName>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Tiêm</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000425</ItemCode>
+    <ItemName>LIDOCAIN</ItemName>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Tiêm</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000426</ItemCode>
+    <ItemName>HYDROCORTISON</ItemName>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Tiêm vào các khoang của cơ thể</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000427</ItemCode>
+    <ItemName>CEFTRIACXON</ItemName>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Tiêm</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000428</ItemCode>
+    <ItemName>FUROSREMIDE</ItemName>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Tiêm</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000429</ItemCode>
+    <ItemName>TANGANIL</ItemName>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Tiêm</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000430</ItemCode>
+    <ItemName>AMIKACIN</ItemName>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Tiêm</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000431</ItemCode>
+    <ItemName>PIRACETAM</ItemName>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Tiêm vào các khoang của cơ thể</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000432</ItemCode>
+    <ItemName>ACID TRANEXAMIC</ItemName>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Tiêm</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000433</ItemCode>
+    <ItemName>PARACETAMOL</ItemName>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Tiêm</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000434</ItemCode>
+    <ItemName>ALPHACHOAY</ItemName>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Tiêm vào các khoang của cơ thể</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000435</ItemCode>
+    <ItemName>CIMETIDIN</ItemName>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Tiêm</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000436</ItemCode>
+    <ItemName>BIDIZYM</ItemName>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Tiêm</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000437</ItemCode>
+    <ItemName>NOSPA</ItemName>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Tiêm</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000438</ItemCode>
+    <ItemName>PULMICORT</ItemName>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Tiêm</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000439</ItemCode>
+    <ItemName>COMBIVEN</ItemName>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Tiêm</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000440</ItemCode>
+    <ItemName>VENTOLIN</ItemName>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Tiêm</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000441</ItemCode>
+    <ItemName>VENTOLIN</ItemName>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Tiêm</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000442</ItemCode>
+    <ItemName>GENTAMYCIN</ItemName>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Tiêm</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000443</ItemCode>
+    <ItemName>VITAMIN B12</ItemName>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Tiêm</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000444</ItemCode>
+    <ItemName>PARACETAMOL</ItemName>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Tiêm</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000445</ItemCode>
+    <ItemName>LACTATRINGER</ItemName>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Tiêm</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000446</ItemCode>
+    <ItemName>NATRICLORUA 0,9%</ItemName>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Tiêm vào các khoang của cơ thể</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000447</ItemCode>
+    <ItemName>GLUCOSE 5%</ItemName>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Tiêm</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000448</ItemCode>
+    <ItemName>GLUCOSE 10%</ItemName>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Tiêm</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000449</ItemCode>
+    <ItemName>LACTATLINGER SÀNH</ItemName>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Tiêm</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000450</ItemCode>
+    <ItemName>Paracetampol</ItemName>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000451</ItemCode>
+    <ItemName>Paracetampol</ItemName>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Đặt hậu môn</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000452</ItemCode>
+    <ItemName>Paracetampol</ItemName>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Đặt hậu môn</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000453</ItemCode>
+    <ItemName>Captopril</ItemName>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000454</ItemCode>
+    <ItemName>Chỉ Linol</ItemName>
+    <UnitOfMeasureName>Sợi</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000455</ItemCode>
+    <ItemName>Chỉ Lionl</ItemName>
+    <UnitOfMeasureName>Sợi</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000456</ItemCode>
+    <ItemName>Chỉ Lionl</ItemName>
+    <UnitOfMeasureName>Sợi</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000457</ItemCode>
+    <ItemName>Chỉ Lionl</ItemName>
+    <UnitOfMeasureName>Sợi</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000458</ItemCode>
+    <ItemName>Vyclin</ItemName>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000459</ItemCode>
+    <ItemName>Omeprazol</ItemName>
+    <UnitOfMeasureName>Lọ</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Tiêm</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000460</ItemCode>
+    <ItemName>Adrenalin</ItemName>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Tiêm</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000461</ItemCode>
+    <ItemName>Gạc Nhỏ 3x4</ItemName>
+    <UnitOfMeasureName>Miếng</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000462</ItemCode>
+    <ItemName>Gạc Lớn 6x8</ItemName>
+    <UnitOfMeasureName>Miếng</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000463</ItemCode>
+    <ItemName>Băng Chun 3 Móc</ItemName>
+    <UnitOfMeasureName>Cái</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000464</ItemCode>
+    <ItemName>Băng Chun 2 Móc</ItemName>
+    <UnitOfMeasureName>Cái</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000465</ItemCode>
+    <ItemName>Băng Gạc Cuộn</ItemName>
+    <UnitOfMeasureName>Cái</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000466</ItemCode>
+    <ItemName>Dao Mổ</ItemName>
+    <UnitOfMeasureName>Cái</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000467</ItemCode>
+    <ItemName>Bơm Tiêm 1CC</ItemName>
+    <UnitOfMeasureName>Cái</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000468</ItemCode>
+    <ItemName>Bơm Tiêm 3CC</ItemName>
+    <UnitOfMeasureName>Cái</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000469</ItemCode>
+    <ItemName>Bơm Tiêm 5CC</ItemName>
+    <UnitOfMeasureName>Cái</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000470</ItemCode>
+    <ItemName>Bơm Tiêm 10CC</ItemName>
+    <UnitOfMeasureName>Cái</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000471</ItemCode>
+    <ItemName>Bơm Tiêm 20CC</ItemName>
+    <UnitOfMeasureName>Cái</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000472</ItemCode>
+    <ItemName>Kim Luồn</ItemName>
+    <UnitOfMeasureName>Cái</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000473</ItemCode>
+    <ItemName>Dây Truyền</ItemName>
+    <UnitOfMeasureName>Cái</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000474</ItemCode>
+    <ItemName>Kim Bướm</ItemName>
+    <UnitOfMeasureName>Cái</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000475</ItemCode>
+    <ItemName>Cồn 90 Độ</ItemName>
+    <UnitOfMeasureName>Lọ</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000476</ItemCode>
+    <ItemName>Povidin</ItemName>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000477</ItemCode>
+    <ItemName>Oxy Già</ItemName>
+    <UnitOfMeasureName>Lọ</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000478</ItemCode>
+    <ItemName>Nacloric 0.9%</ItemName>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000479</ItemCode>
+    <ItemName>Nacloric 0.9%</ItemName>
+    <UnitOfMeasureName>Lọ</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Khác</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000480</ItemCode>
+    <ItemName>Mobic</ItemName>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Tiêm</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>0</ListService>
+    <SalesPrice>0.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000481</ItemCode>
+    <ItemName>Calcium Corbiere S (viên Sủi Sanofi)</ItemName>
+    <Active>Calcium</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>5000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000482</ItemCode>
+    <ItemName>Hapacol Đau Nhức</ItemName>
+    <Active>Paracetamol 325mg, Ibuprofen 200mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>1000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000483</ItemCode>
+    <ItemName>EDIVA PURE</ItemName>
+    <Active>Dầu Hoa Anh Thảo, Vitamin E, Dầu Gấc</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>3000.000</SalesPrice>
+  </Table1>
+  <Table1>
+    <ItemCode>TH000484</ItemCode>
+    <ItemName>Trimibelin 10</ItemName>
+    <Active>Amitriptyline Hydrochloride 10mg</Active>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <GroupName>Thuốc</GroupName>
+    <UsageName>Uống</UsageName>
+    <ListBHYT>0</ListBHYT>
+    <ListService>1</ListService>
+    <SalesPrice>2000.000</SalesPrice>
+  </Table1>
+</NewDataSet>

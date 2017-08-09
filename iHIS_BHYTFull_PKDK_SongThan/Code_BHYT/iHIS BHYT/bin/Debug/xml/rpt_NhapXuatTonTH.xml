@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Table1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ItemCode" type="xs:string" minOccurs="0" />
+              <xs:element name="ItemName" type="xs:string" minOccurs="0" />
+              <xs:element name="UnitOfMeasureName" type="xs:string" minOccurs="0" />
+              <xs:element name="ItemCategoryName" type="xs:string" minOccurs="0" />
+              <xs:element name="UnitPrice" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ToalQuantityBegin" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TotalAmountBegin" type="xs:decimal" minOccurs="0" />
+              <xs:element name="QtyImport" type="xs:decimal" minOccurs="0" />
+              <xs:element name="AmountImport" type="xs:decimal" minOccurs="0" />
+              <xs:element name="QtyImpTransfer" type="xs:decimal" minOccurs="0" />
+              <xs:element name="AmountImportTransfer" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TotalQuantityImport" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TotalAmountImport" type="xs:decimal" minOccurs="0" />
+              <xs:element name="QtyExport" type="xs:decimal" minOccurs="0" />
+              <xs:element name="AmountExport" type="xs:decimal" minOccurs="0" />
+              <xs:element name="QtyRepaid" type="xs:decimal" minOccurs="0" />
+              <xs:element name="AmountRepaid" type="xs:decimal" minOccurs="0" />
+              <xs:element name="QtyRepaidVen" type="xs:decimal" minOccurs="0" />
+              <xs:element name="AmountRepaidVen" type="xs:decimal" minOccurs="0" />
+              <xs:element name="QtyTransfer" type="xs:decimal" minOccurs="0" />
+              <xs:element name="AmountTransfer" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TotalQuantityExport" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TotalAmountExport" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TotalQuantityEnd" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TotalAmountEnd" type="xs:decimal" minOccurs="0" />
+              <xs:element name="GroupName" type="xs:string" minOccurs="0" />
+              <xs:element name="SafelyQuantity" type="xs:int" minOccurs="0" />
+              <xs:element name="QtyOfMeasure" type="xs:int" minOccurs="0" />
+              <xs:element name="Packed" type="xs:string" minOccurs="0" />
+              <xs:element name="Note" type="xs:string" minOccurs="0" />
+              <xs:element name="Generic_BD" type="xs:string" minOccurs="0" />
+              <xs:element name="VendorCode" type="xs:string" minOccurs="0" />
+              <xs:element name="ATCCode" type="xs:string" minOccurs="0" />
+              <xs:element name="SalesPrice" type="xs:decimal" minOccurs="0" />
+              <xs:element name="CountryName" type="xs:string" minOccurs="0" />
+              <xs:element name="VENCode" type="xs:string" minOccurs="0" />
+              <xs:element name="Active" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

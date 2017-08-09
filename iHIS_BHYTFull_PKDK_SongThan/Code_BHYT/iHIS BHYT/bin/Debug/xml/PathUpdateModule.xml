@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<updateModule>
+  <path>
+    <srcPath>\\SERVERIHIS\Update</srcPath>
+    <destPath>D:\work\Tuan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\iHIS BHYT\bin\Debug</destPath>
+    <currentPath>D:\work\Tuan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\iHIS BHYT\bin\Debug</currentPath>
+    <version>2017.07.17.01</version>
+    <auto>1</auto>
+    <module>iHIS Solutions</module>
+  </path>
+</updateModule>

@@ -1,0 +1,288 @@
+<?xml version="1.0" standalone="yes"?>
+<tableDanhSach>
+  <Table1>
+    <ItemName>Calcium Hasan sủi (300+2940)mg</ItemName>
+    <Active>Calcium carbonat 300mg+ calci gluconolactat 2940mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>N</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>27456</Quantity>
+    <UnitPriceVAT>1575.0000</UnitPriceVAT>
+    <Amount>43243200.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>2.03</TiLe>
+    <TiLeTL>40.67</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Air-X 80mg tab.</ItemName>
+    <Active>Simethicon 80mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>N</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>30241</Quantity>
+    <UnitPriceVAT>805.9900</UnitPriceVAT>
+    <Amount>24373943.5900</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>1.14</TiLe>
+    <TiLeTL>63.02</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Mecob 500mcg-Davi</ItemName>
+    <Active>Mecobalamin 500mcg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>N</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>22811</Quantity>
+    <UnitPriceVAT>1000.0000</UnitPriceVAT>
+    <Amount>22811000.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>1.07</TiLe>
+    <TiLeTL>64.09</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Sirô Ceelin 30ml</ItemName>
+    <Active>Vitamin C 100mg/5ml</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>N</VEN>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <Quantity>836</Quantity>
+    <UnitPriceVAT>14469.0000</UnitPriceVAT>
+    <Amount>12096084.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.56</TiLe>
+    <TiLeTL>76.09</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Vitamin B1 250mg-Vidi</ItemName>
+    <Active>Vitamin B1 250mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>N</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>36291</Quantity>
+    <UnitPriceVAT>252.0000</UnitPriceVAT>
+    <Amount>9145332.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.43</TiLe>
+    <TiLeTL>79.90000000000002</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Alphachymotrypsin-TW2</ItemName>
+    <Active>Alphachymotrypsin 4200UI</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>N</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>26412</Quantity>
+    <UnitPriceVAT>294.0000</UnitPriceVAT>
+    <Amount>7765128.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.36</TiLe>
+    <TiLeTL>83.730000000000018</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Nutroplex sp 60ml</ItemName>
+    <Active>Vitamin A+ D+ B1+ B2+ B3+ B6+ B12+ Sắt nguyên tố+ Calci Glycerophosphat+ Magnesi Gluconat+ Lysin HCl</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>N</VEN>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <Quantity>320</Quantity>
+    <UnitPriceVAT>17499.3000</UnitPriceVAT>
+    <Amount>5599776.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.26</TiLe>
+    <TiLeTL>89.410000000000011</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Ampha E-400 Caps</ItemName>
+    <Active>Vitamin E 400UI</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>N</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>8199</Quantity>
+    <UnitPriceVAT>665.0000</UnitPriceVAT>
+    <Amount>5452335.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.25</TiLe>
+    <TiLeTL>89.910000000000011</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Magdivix (5+470)mg</ItemName>
+    <Active>B6 + magnesi (5+470)mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>N</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>24312</Quantity>
+    <UnitPriceVAT>178.5000</UnitPriceVAT>
+    <Amount>4339692.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.2</TiLe>
+    <TiLeTL>91.860000000000014</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Vitamin C 500mg-Vidi</ItemName>
+    <Active>Vitamin C 500mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>N</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>12877</Quantity>
+    <UnitPriceVAT>147.0000</UnitPriceVAT>
+    <Amount>1892919.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.08</TiLe>
+    <TiLeTL>96.020000000000039</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Ferlin Sp 30ml</ItemName>
+    <Active>Sắt nguyên tố+B1+B6+B12(30mg+10mg+10mg+50mcg)</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>N</VEN>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <Quantity>85</Quantity>
+    <UnitPriceVAT>17325.0000</UnitPriceVAT>
+    <Amount>1472625.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.06</TiLe>
+    <TiLeTL>96.719999999999985</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Vitamin A-D (5000+400)UI</ItemName>
+    <Active>Vitamin A_5.000UI+D_400UI</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>N</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>5655</Quantity>
+    <UnitPriceVAT>236.0000</UnitPriceVAT>
+    <Amount>1334580.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.06</TiLe>
+    <TiLeTL>97.08</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Vitamin PP 500mg-Mebi</ItemName>
+    <Active>VitaminPP 500mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>N</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>2283</Quantity>
+    <UnitPriceVAT>279.3000</UnitPriceVAT>
+    <Amount>637641.9000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.03</TiLe>
+    <TiLeTL>98.340000000000046</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Vitamin A 5.000UI-Bidi</ItemName>
+    <Active>Vitamin A 5000UI</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>N</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>594</Quantity>
+    <UnitPriceVAT>220.5000</UnitPriceVAT>
+    <Amount>130977.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Diacerein 50mg-Vaco</ItemName>
+    <Active>Diacerein 50mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>N</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>56</Quantity>
+    <UnitPriceVAT>1183.0000</UnitPriceVAT>
+    <Amount>66248.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Vitamin C 500mg-Vidi</ItemName>
+    <Active>Vitamin C 500mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>N</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>133</Quantity>
+    <UnitPriceVAT>214.2000</UnitPriceVAT>
+    <Amount>28488.6000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Calcium Hasan sủi (300+2940)mg</ItemName>
+    <Active>Calcium carbonat 300mg+ calci gluconolactat 2940mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>N</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>4</Quantity>
+    <UnitPriceVAT>2100.0000</UnitPriceVAT>
+    <Amount>8400.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Cevit 500mg/5ml</ItemName>
+    <Active>Vitamin C 10% (500mg/5ml)</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>N</VEN>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <Quantity>1</Quantity>
+    <UnitPriceVAT>1556.9400</UnitPriceVAT>
+    <Amount>1556.9400</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Rutin - vitamin C (50mg+50mg)</ItemName>
+    <Active>Vitamin C 50mg+ rutine 50mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>N</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>4</Quantity>
+    <UnitPriceVAT>144.0000</UnitPriceVAT>
+    <Amount>576.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+</tableDanhSach>

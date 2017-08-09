@@ -1,0 +1,4338 @@
+<?xml version="1.0" standalone="yes"?>
+<tableDanhSach>
+  <Table1>
+    <ItemName>NovoMix 30 Flexpen 300UI (đơn vị)</ItemName>
+    <Active>Insulin aspart Biphasic (DNA tái tổ hợp) 100UI</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>V</VEN>
+    <UnitOfMeasureName>UI</UnitOfMeasureName>
+    <Quantity>230261</Quantity>
+    <UnitPriceVAT>759.5000</UnitPriceVAT>
+    <Amount>174883229.5000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>8.23</TiLe>
+    <TiLeTL>8.23</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Mibetel 40mg-Hasan</ItemName>
+    <Active>Telmisartan 40mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>40876</Quantity>
+    <UnitPriceVAT>2625.0000</UnitPriceVAT>
+    <Amount>107299500.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>5.05</TiLe>
+    <TiLeTL>13.280000000000001</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Concor COR Tab 2.5mg</ItemName>
+    <Active>Bisoprolol 2.5mg</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>35820</Quantity>
+    <UnitPriceVAT>2878.0000</UnitPriceVAT>
+    <Amount>103089960.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>4.85</TiLe>
+    <TiLeTL>18.130000000000003</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>SaVi Rosuvastatin 5</ItemName>
+    <Active>Rosuvastatin 5mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>30977</Quantity>
+    <UnitPriceVAT>2890.0000</UnitPriceVAT>
+    <Amount>89523530.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>4.21</TiLe>
+    <TiLeTL>22.340000000000003</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Neotazin MR 35mg-Ampharco</ItemName>
+    <Active>Trimetazidin 35mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>79118</Quantity>
+    <UnitPriceVAT>968.0000</UnitPriceVAT>
+    <Amount>76586224.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>3.6</TiLe>
+    <TiLeTL>25.940000000000005</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Glucophage XR Tab 500mg</ItemName>
+    <Active>Metformin XR 500mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>30456</Quantity>
+    <UnitPriceVAT>1950.0000</UnitPriceVAT>
+    <Amount>59389200.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>2.79</TiLe>
+    <TiLeTL>28.730000000000004</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Idatril 10mg</ItemName>
+    <Active>Imidapril 10mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>11931</Quantity>
+    <UnitPriceVAT>4799.9900</UnitPriceVAT>
+    <Amount>57268680.6900</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>2.69</TiLe>
+    <TiLeTL>31.420000000000005</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Savi Dimin 500mg</ItemName>
+    <Active>Diosmine 450mg+Hesperidine 50mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>28199</Quantity>
+    <UnitPriceVAT>1954.0000</UnitPriceVAT>
+    <Amount>55100846.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>2.59</TiLe>
+    <TiLeTL>34.010000000000005</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Cetamet 250mg</ItemName>
+    <Active>CEFETAMET 250MG</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>5566</Quantity>
+    <UnitPriceVAT>8900.0000</UnitPriceVAT>
+    <Amount>49537400.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>2.33</TiLe>
+    <TiLeTL>36.34</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Amaryl 4mg</ItemName>
+    <Active>Glimepirid 4mg</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>9020</Quantity>
+    <UnitPriceVAT>5435.9900</UnitPriceVAT>
+    <Amount>49032629.8000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>2.3</TiLe>
+    <TiLeTL>38.64</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Calcium Hasan sủi (300+2940)mg</ItemName>
+    <Active>Calcium carbonat 300mg+ calci gluconolactat 2940mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>N</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>27456</Quantity>
+    <UnitPriceVAT>1575.0000</UnitPriceVAT>
+    <Amount>43243200.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>2.03</TiLe>
+    <TiLeTL>40.67</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Varogel-shinpoong 0,4g+..</ItemName>
+    <Active>Magnesi hydroxid 0.8004g+ nhôm hydroxid 0.4g+ simethicon 0.08g</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <Quantity>17046</Quantity>
+    <UnitPriceVAT>2399.9900</UnitPriceVAT>
+    <Amount>40910229.5400</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>1.92</TiLe>
+    <TiLeTL>42.59</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Amaryl 2mg</ItemName>
+    <Active>Glimepirid 2mg</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>9716</Quantity>
+    <UnitPriceVAT>3938.9700</UnitPriceVAT>
+    <Amount>38271032.5200</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>1.8</TiLe>
+    <TiLeTL>44.39</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Cefuroxim 500mg-VMinh</ItemName>
+    <Active>Cefuroxim 500mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>9532</Quantity>
+    <UnitPriceVAT>3799.9500</UnitPriceVAT>
+    <Amount>36221123.4000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>1.7</TiLe>
+    <TiLeTL>46.09</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Natrilix SR 1.5mg</ItemName>
+    <Active>Indapamid 1.5mg</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>11061</Quantity>
+    <UnitPriceVAT>3115.3500</UnitPriceVAT>
+    <Amount>34458886.3500</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>1.62</TiLe>
+    <TiLeTL>47.71</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Ofmantine-Domesco 625mg</ItemName>
+    <Active>Amoxycylline 500mg+Acid Clavulanic125mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>11828</Quantity>
+    <UnitPriceVAT>2789.8500</UnitPriceVAT>
+    <Amount>32998345.8000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>1.55</TiLe>
+    <TiLeTL>49.26</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Dorocron MR 30mg</ItemName>
+    <Active>Gliclazide 30mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>41016</Quantity>
+    <UnitPriceVAT>774.9000</UnitPriceVAT>
+    <Amount>31783298.4000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>1.49</TiLe>
+    <TiLeTL>50.75</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Inmelox 15mg</ItemName>
+    <Active>Meloxicam 15mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>35214</Quantity>
+    <UnitPriceVAT>900.0000</UnitPriceVAT>
+    <Amount>31692600.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>1.49</TiLe>
+    <TiLeTL>52.24</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Singulair Tab 5mg</ItemName>
+    <Active>Montelukast 5mg</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>2576</Quantity>
+    <UnitPriceVAT>12264.0000</UnitPriceVAT>
+    <Amount>31592064.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>1.48</TiLe>
+    <TiLeTL>53.72</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Fortum Inj 1g</ItemName>
+    <Active>Ceftazidime 1g</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Lọ</UnitOfMeasureName>
+    <Quantity>417</Quantity>
+    <UnitPriceVAT>75600.0000</UnitPriceVAT>
+    <Amount>31525200.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>1.48</TiLe>
+    <TiLeTL>55.199999999999996</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Symbicort (160+4,5)mcg 60liều</ItemName>
+    <Active>Budesonid+formoterol (160+4,5)mcg</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Lọ</UnitOfMeasureName>
+    <Quantity>106</Quantity>
+    <UnitPriceVAT>286440.0000</UnitPriceVAT>
+    <Amount>30362640.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>1.42</TiLe>
+    <TiLeTL>56.62</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Alsiful SR 10mg</ItemName>
+    <Active>Alfuzosin 10mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>3361</Quantity>
+    <UnitPriceVAT>8800.0000</UnitPriceVAT>
+    <Amount>29576800.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>1.39</TiLe>
+    <TiLeTL>58.01</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Dioridin 75mg</ItemName>
+    <Active>Clopidrogel  75mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>9958</Quantity>
+    <UnitPriceVAT>2890.0000</UnitPriceVAT>
+    <Amount>28778620.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>1.35</TiLe>
+    <TiLeTL>59.36</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Augmentin 250/31.25 Sac</ItemName>
+    <Active>Amoxycylline+Acid Clavulanic(250+31.25)mg</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <Quantity>2490</Quantity>
+    <UnitPriceVAT>10998.0000</UnitPriceVAT>
+    <Amount>27385020.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>1.28</TiLe>
+    <TiLeTL>60.64</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Vacoomez-20mg</ItemName>
+    <Active>Omeprazole 20mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>98531</Quantity>
+    <UnitPriceVAT>269.0000</UnitPriceVAT>
+    <Amount>26504839.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>1.24</TiLe>
+    <TiLeTL>61.88</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Air-X 80mg tab.</ItemName>
+    <Active>Simethicon 80mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>N</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>30241</Quantity>
+    <UnitPriceVAT>805.9900</UnitPriceVAT>
+    <Amount>24373943.5900</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>1.14</TiLe>
+    <TiLeTL>63.02</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Mecob 500mcg-Davi</ItemName>
+    <Active>Mecobalamin 500mcg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>N</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>22811</Quantity>
+    <UnitPriceVAT>1000.0000</UnitPriceVAT>
+    <Amount>22811000.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>1.07</TiLe>
+    <TiLeTL>64.09</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Travinat 250mg</ItemName>
+    <Active>Cefuroxim 250mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>3370</Quantity>
+    <UnitPriceVAT>6600.0000</UnitPriceVAT>
+    <Amount>22242000.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>1.04</TiLe>
+    <TiLeTL>65.13000000000001</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Eulosan 50mg</ItemName>
+    <Active>Losartan 50mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>17596</Quantity>
+    <UnitPriceVAT>1190.0000</UnitPriceVAT>
+    <Amount>20939240.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.98</TiLe>
+    <TiLeTL>66.110000000000014</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Xatral SR 5mg</ItemName>
+    <Active>Alfuzosin 5mg</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>2718</Quantity>
+    <UnitPriceVAT>7500.0000</UnitPriceVAT>
+    <Amount>20385000.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.96</TiLe>
+    <TiLeTL>67.070000000000007</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Duphalac 10g</ItemName>
+    <Active>Lactulose Solution 10g</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <Quantity>4546</Quantity>
+    <UnitPriceVAT>4000.0000</UnitPriceVAT>
+    <Amount>18184000.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.85</TiLe>
+    <TiLeTL>67.92</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Dorotyl 250mg</ItemName>
+    <Active>Mephenesine 250mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>72744</Quantity>
+    <UnitPriceVAT>229.9500</UnitPriceVAT>
+    <Amount>16727482.8000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.78</TiLe>
+    <TiLeTL>68.7</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Cefotaxim ACS DOBFAR 1g-VDC</ItemName>
+    <Active>Cefotaxim 1g</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Lọ</UnitOfMeasureName>
+    <Quantity>448</Quantity>
+    <UnitPriceVAT>36500.0000</UnitPriceVAT>
+    <Amount>16352000.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.77</TiLe>
+    <TiLeTL>69.47</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Savi Alendronate forte 70mg</ItemName>
+    <Active>Alendronat 70mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>758</Quantity>
+    <UnitPriceVAT>20900.0000</UnitPriceVAT>
+    <Amount>15842200.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.74</TiLe>
+    <TiLeTL>70.21</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Seretide Evo (L) 25/250mcg</ItemName>
+    <Active>Salmeterol+fluticason propionat (25/250mcg)</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>V</VEN>
+    <UnitOfMeasureName>Lọ</UnitOfMeasureName>
+    <Quantity>55</Quantity>
+    <UnitPriceVAT>278089.9900</UnitPriceVAT>
+    <Amount>15294949.4500</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.72</TiLe>
+    <TiLeTL>70.929999999999993</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Lopilcar A (5+50)mg</ItemName>
+    <Active>Amlodipine+Atenolol</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>9269</Quantity>
+    <UnitPriceVAT>1649.9900</UnitPriceVAT>
+    <Amount>15293757.3100</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.72</TiLe>
+    <TiLeTL>71.649999999999991</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Perilac 10mg</ItemName>
+    <Active>Ketorolac 10mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>6016</Quantity>
+    <UnitPriceVAT>2500.0000</UnitPriceVAT>
+    <Amount>15040000.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.7</TiLe>
+    <TiLeTL>72.35</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Flixonase Nasal SPR 0.05%</ItemName>
+    <Active>Fluticasone propionate 0.05% 60liều</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Lọ</UnitOfMeasureName>
+    <Quantity>103</Quantity>
+    <UnitPriceVAT>134498.0000</UnitPriceVAT>
+    <Amount>13853294.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.65</TiLe>
+    <TiLeTL>73</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Efticele 200mg</ItemName>
+    <Active>Celecoxib 200mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>17426</Quantity>
+    <UnitPriceVAT>790.0000</UnitPriceVAT>
+    <Amount>13766540.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.64</TiLe>
+    <TiLeTL>73.64</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Concor 5mg</ItemName>
+    <Active>Bisoprolol 5mg</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>3471</Quantity>
+    <UnitPriceVAT>3936.0000</UnitPriceVAT>
+    <Amount>13661856.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.64</TiLe>
+    <TiLeTL>74.28</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Coversyl 5mg</ItemName>
+    <Active>Perindopril 5mg</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>2632</Quantity>
+    <UnitPriceVAT>5182.0000</UnitPriceVAT>
+    <Amount>13639024.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.64</TiLe>
+    <TiLeTL>74.92</TiLeTL>
+    <ABC>A</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Zestril 5mg</ItemName>
+    <Active>Lisinopril 5mg</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>2895</Quantity>
+    <UnitPriceVAT>4534.0000</UnitPriceVAT>
+    <Amount>13125930.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.61</TiLe>
+    <TiLeTL>75.53</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Sirô Ceelin 30ml</ItemName>
+    <Active>Vitamin C 100mg/5ml</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>N</VEN>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <Quantity>836</Quantity>
+    <UnitPriceVAT>14469.0000</UnitPriceVAT>
+    <Amount>12096084.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.56</TiLe>
+    <TiLeTL>76.09</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Zestril 10mg</ItemName>
+    <Active>Lisinopril 10mg</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>1818</Quantity>
+    <UnitPriceVAT>6097.0000</UnitPriceVAT>
+    <Amount>11084346.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.52</TiLe>
+    <TiLeTL>76.61</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Menison 4mg</ItemName>
+    <Active>Methyl prednisolon 4mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>13959</Quantity>
+    <UnitPriceVAT>779.9900</UnitPriceVAT>
+    <Amount>10887880.4100</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.51</TiLe>
+    <TiLeTL>77.12</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Tanatril 10mg</ItemName>
+    <Active>Imidapril 10mg</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>1800</Quantity>
+    <UnitPriceVAT>6048.0000</UnitPriceVAT>
+    <Amount>10886400.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.51</TiLe>
+    <TiLeTL>77.63000000000001</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Tanatril 5mg</ItemName>
+    <Active>Imidapril 5mg</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>2442</Quantity>
+    <UnitPriceVAT>4414.0000</UnitPriceVAT>
+    <Amount>10778988.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.5</TiLe>
+    <TiLeTL>78.13000000000001</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Servigesic 500mg</ItemName>
+    <Active>Paracetamol 500mg tab.</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>35167</Quantity>
+    <UnitPriceVAT>280.0000</UnitPriceVAT>
+    <Amount>9846760.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.46</TiLe>
+    <TiLeTL>78.59</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Glucofine 1000mg</ItemName>
+    <Active>Metformin 1000mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>10071</Quantity>
+    <UnitPriceVAT>966.0000</UnitPriceVAT>
+    <Amount>9728586.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.45</TiLe>
+    <TiLeTL>79.04</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Opeclari 500mg</ItemName>
+    <Active>Clarithromycin 500mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>2550</Quantity>
+    <UnitPriceVAT>3600.0000</UnitPriceVAT>
+    <Amount>9180000.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.43</TiLe>
+    <TiLeTL>79.470000000000013</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Vitamin B1 250mg-Vidi</ItemName>
+    <Active>Vitamin B1 250mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>N</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>36291</Quantity>
+    <UnitPriceVAT>252.0000</UnitPriceVAT>
+    <Amount>9145332.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.43</TiLe>
+    <TiLeTL>79.90000000000002</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Reinal 5mg-Davi</ItemName>
+    <Active>Flunarizine 5mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>12936</Quantity>
+    <UnitPriceVAT>695.0000</UnitPriceVAT>
+    <Amount>8990520.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.42</TiLe>
+    <TiLeTL>80.320000000000022</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Eyaren ophthalmic Drops 10ml</ItemName>
+    <Active>Kali iodide + natri iodide (3+3)mg/1ml</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Lọ</UnitOfMeasureName>
+    <Quantity>295</Quantity>
+    <UnitPriceVAT>29781.1500</UnitPriceVAT>
+    <Amount>8785439.2500</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.41</TiLe>
+    <TiLeTL>80.730000000000018</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Procoralan 7.5mg</ItemName>
+    <Active>Ivabradin 7.5mg</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>784</Quantity>
+    <UnitPriceVAT>11101.0000</UnitPriceVAT>
+    <Amount>8703184.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.4</TiLe>
+    <TiLeTL>81.130000000000024</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Detriat 100mg-Spm</ItemName>
+    <Active>Trimebutin 100mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>13868</Quantity>
+    <UnitPriceVAT>591.9900</UnitPriceVAT>
+    <Amount>8209717.3200</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.38</TiLe>
+    <TiLeTL>81.510000000000019</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Asthmatin 10mg-Stada</ItemName>
+    <Active>Montelukast 10mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>2135</Quantity>
+    <UnitPriceVAT>3824.9400</UnitPriceVAT>
+    <Amount>8166246.9000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.38</TiLe>
+    <TiLeTL>81.890000000000015</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Kacetam 800mg</ItemName>
+    <Active>Piracetam 800mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>18287</Quantity>
+    <UnitPriceVAT>444.0000</UnitPriceVAT>
+    <Amount>8119428.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.38</TiLe>
+    <TiLeTL>82.27000000000001</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Amdicor  5mg-Mkp</ItemName>
+    <Active>Amlodipine 5mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>37428</Quantity>
+    <UnitPriceVAT>215.0000</UnitPriceVAT>
+    <Amount>8047020.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.37</TiLe>
+    <TiLeTL>82.640000000000015</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Nitrostad 2,5mg retard</ItemName>
+    <Active>Glyceryl trinitrate 2.5mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>10927</Quantity>
+    <UnitPriceVAT>719.9700</UnitPriceVAT>
+    <Amount>7867112.1900</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.37</TiLe>
+    <TiLeTL>83.010000000000019</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Fumafer-B9 Corbiere</ItemName>
+    <Active>Sắt fumarat + folic acid (182.04mg + 0.4mg)</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>6257</Quantity>
+    <UnitPriceVAT>1244.0000</UnitPriceVAT>
+    <Amount>7783708.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.36</TiLe>
+    <TiLeTL>83.370000000000019</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Alphachymotrypsin-TW2</ItemName>
+    <Active>Alphachymotrypsin 4200UI</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>N</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>26412</Quantity>
+    <UnitPriceVAT>294.0000</UnitPriceVAT>
+    <Amount>7765128.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.36</TiLe>
+    <TiLeTL>83.730000000000018</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Spinolac 25mg</ItemName>
+    <Active>Spironolacton 25mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>5887</Quantity>
+    <UnitPriceVAT>1291.5000</UnitPriceVAT>
+    <Amount>7603060.5000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.35</TiLe>
+    <TiLeTL>84.080000000000013</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Hapacol 500mg sủi</ItemName>
+    <Active>Paracetamol 500mg sủi</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>4780</Quantity>
+    <UnitPriceVAT>1575.0000</UnitPriceVAT>
+    <Amount>7528500.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.35</TiLe>
+    <TiLeTL>84.43</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Glocor 2.5mg</ItemName>
+    <Active>Bisoprolol 2.5mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>9351</Quantity>
+    <UnitPriceVAT>800.0000</UnitPriceVAT>
+    <Amount>7480800.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.35</TiLe>
+    <TiLeTL>84.78</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Pataday 0.2% 2.5ml</ItemName>
+    <Active>Olopatadin (hydroclorid)</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Lọ</UnitOfMeasureName>
+    <Quantity>56</Quantity>
+    <UnitPriceVAT>130999.0500</UnitPriceVAT>
+    <Amount>7335946.8000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.34</TiLe>
+    <TiLeTL>85.12</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Savi Tenofovir 300</ItemName>
+    <Active>Tenofovir 300mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>406</Quantity>
+    <UnitPriceVAT>17900.0000</UnitPriceVAT>
+    <Amount>7267400.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.34</TiLe>
+    <TiLeTL>85.460000000000008</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>pms-Probio 75mg</ItemName>
+    <Active>Lactobacillus acidophilus 75mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <Quantity>8205</Quantity>
+    <UnitPriceVAT>882.0000</UnitPriceVAT>
+    <Amount>7236810.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.34</TiLe>
+    <TiLeTL>85.800000000000011</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Lifibrat 300mg-Mkp</ItemName>
+    <Active>Fenofibrat 300mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>6774</Quantity>
+    <UnitPriceVAT>1050.0000</UnitPriceVAT>
+    <Amount>7112700.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.33</TiLe>
+    <TiLeTL>86.13000000000001</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Vigamox Drop 0.5% 5ml</ItemName>
+    <Active>Moxifloxacin 0.5% 5ml</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Lọ</UnitOfMeasureName>
+    <Quantity>79</Quantity>
+    <UnitPriceVAT>89998.6500</UnitPriceVAT>
+    <Amount>7109893.3500</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.33</TiLe>
+    <TiLeTL>86.460000000000008</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Zinnat Tab 500mg</ItemName>
+    <Active>Cefuroxim 500mg</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>278</Quantity>
+    <UnitPriceVAT>24589.0000</UnitPriceVAT>
+    <Amount>6835742.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.32</TiLe>
+    <TiLeTL>86.78</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Diserti 16mg</ItemName>
+    <Active>Betahistine 16mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>6585</Quantity>
+    <UnitPriceVAT>1008.0000</UnitPriceVAT>
+    <Amount>6637680.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.31</TiLe>
+    <TiLeTL>87.09</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Metinim 850mg-Glomed</ItemName>
+    <Active>Metformin 850mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>13048</Quantity>
+    <UnitPriceVAT>505.0000</UnitPriceVAT>
+    <Amount>6589240.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.31</TiLe>
+    <TiLeTL>87.4</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Nifedipin T20 Stada Retard 20mg</ItemName>
+    <Active>Nifedipin 20mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>12183</Quantity>
+    <UnitPriceVAT>539.9800</UnitPriceVAT>
+    <Amount>6578576.3400</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.3</TiLe>
+    <TiLeTL>87.7</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Desratel 5mg-Davi</ItemName>
+    <Active>Desloratadin 5mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>7650</Quantity>
+    <UnitPriceVAT>850.0000</UnitPriceVAT>
+    <Amount>6502500.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.3</TiLe>
+    <TiLeTL>88</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Lisidigal 5mg</ItemName>
+    <Active>Lisinopril 5mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>6083</Quantity>
+    <UnitPriceVAT>1050.0000</UnitPriceVAT>
+    <Amount>6387150.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.3</TiLe>
+    <TiLeTL>88.3</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Vartel 20mg</ItemName>
+    <Active>Trimetazidin 20mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>15537</Quantity>
+    <UnitPriceVAT>400.0000</UnitPriceVAT>
+    <Amount>6214800.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.29</TiLe>
+    <TiLeTL>88.59</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Nootropil inj. 3g/15ml</ItemName>
+    <Active>Piracetam 3g/15ml</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <Quantity>189</Quantity>
+    <UnitPriceVAT>31525.0000</UnitPriceVAT>
+    <Amount>5958225.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.28</TiLe>
+    <TiLeTL>88.87</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Fefasdin 180mg</ItemName>
+    <Active>Fexofenadin 180mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>4509</Quantity>
+    <UnitPriceVAT>1320.0000</UnitPriceVAT>
+    <Amount>5951880.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.28</TiLe>
+    <TiLeTL>89.15</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Nutroplex sp 60ml</ItemName>
+    <Active>Vitamin A+ D+ B1+ B2+ B3+ B6+ B12+ Sắt nguyên tố+ Calci Glycerophosphat+ Magnesi Gluconat+ Lysin HCl</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>N</VEN>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <Quantity>320</Quantity>
+    <UnitPriceVAT>17499.3000</UnitPriceVAT>
+    <Amount>5599776.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.26</TiLe>
+    <TiLeTL>89.410000000000011</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Glufort-Mix 500mg/5mg</ItemName>
+    <Active>Metformin+ Glibenclamid (500+5)mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>7147</Quantity>
+    <UnitPriceVAT>765.0000</UnitPriceVAT>
+    <Amount>5467455.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.25</TiLe>
+    <TiLeTL>89.660000000000011</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Ampha E-400 Caps</ItemName>
+    <Active>Vitamin E 400UI</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>N</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>8199</Quantity>
+    <UnitPriceVAT>665.0000</UnitPriceVAT>
+    <Amount>5452335.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.25</TiLe>
+    <TiLeTL>89.910000000000011</TiLeTL>
+    <ABC>B</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Lactat ringer 500ml-Mkp</ItemName>
+    <Active>Lactat ringer</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <Quantity>614</Quantity>
+    <UnitPriceVAT>8665.0000</UnitPriceVAT>
+    <Amount>5320310.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.25</TiLe>
+    <TiLeTL>90.160000000000011</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Terpin Codein (100+15)mg-Vidi</ItemName>
+    <Active>Terpin codein (100+15)mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>15961</Quantity>
+    <UnitPriceVAT>315.0000</UnitPriceVAT>
+    <Amount>5027715.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.23</TiLe>
+    <TiLeTL>90.390000000000015</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Vacomuc 100mg gói</ItemName>
+    <Active>N-Acetycystein 100mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <Quantity>8647</Quantity>
+    <UnitPriceVAT>564.0000</UnitPriceVAT>
+    <Amount>4876908.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.22</TiLe>
+    <TiLeTL>90.610000000000014</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Lipidcare 200mg</ItemName>
+    <Active>Fenofibrat 200mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>4629</Quantity>
+    <UnitPriceVAT>1050.0000</UnitPriceVAT>
+    <Amount>4860450.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.22</TiLe>
+    <TiLeTL>90.830000000000013</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Berodual MDI (0,05+0,02)mg-10ml Spray</ItemName>
+    <Active>Fenoterol + ipratropium (0,05mg+0.02mg)</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>V</VEN>
+    <UnitOfMeasureName>Lọ</UnitOfMeasureName>
+    <Quantity>36</Quantity>
+    <UnitPriceVAT>132322.0500</UnitPriceVAT>
+    <Amount>4763593.8000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.22</TiLe>
+    <TiLeTL>91.050000000000011</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Pycip 500mg</ItemName>
+    <Active>Ciprofloxacin 500mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>1603</Quantity>
+    <UnitPriceVAT>2800.0000</UnitPriceVAT>
+    <Amount>4488400.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.21</TiLe>
+    <TiLeTL>91.26</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Gikanin 500mg</ItemName>
+    <Active>Acetyl leucin 500mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>8659</Quantity>
+    <UnitPriceVAT>510.0000</UnitPriceVAT>
+    <Amount>4416090.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.2</TiLe>
+    <TiLeTL>91.460000000000008</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Hasanclar 250mg</ItemName>
+    <Active>Clarithromycin 250mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>2183</Quantity>
+    <UnitPriceVAT>1995.0000</UnitPriceVAT>
+    <Amount>4355085.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.2</TiLe>
+    <TiLeTL>91.660000000000011</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Magdivix (5+470)mg</ItemName>
+    <Active>B6 + magnesi (5+470)mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>N</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>24312</Quantity>
+    <UnitPriceVAT>178.5000</UnitPriceVAT>
+    <Amount>4339692.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.2</TiLe>
+    <TiLeTL>91.860000000000014</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Tobidex 5ml</ItemName>
+    <Active>Tobramycin+Dexamethasone(3mg+1mg/1ml)</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Lọ</UnitOfMeasureName>
+    <Quantity>211</Quantity>
+    <UnitPriceVAT>19950.0000</UnitPriceVAT>
+    <Amount>4209450.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.19</TiLe>
+    <TiLeTL>92.050000000000011</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Tanganil Inj 500mg/5ml-Vime</ItemName>
+    <Active>Acetyl leucin 500mg/5ml</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <Quantity>286</Quantity>
+    <UnitPriceVAT>13697.8800</UnitPriceVAT>
+    <Amount>3917593.6800</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.18</TiLe>
+    <TiLeTL>92.230000000000018</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Europulgite (2.5g+0.5g)</ItemName>
+    <Active>Actapulgite 3g</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <Quantity>1932</Quantity>
+    <UnitPriceVAT>2000.0000</UnitPriceVAT>
+    <Amount>3864000.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.18</TiLe>
+    <TiLeTL>92.410000000000025</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Stugeron 25mg</ItemName>
+    <Active>Cinnarizine 25mg</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>6286</Quantity>
+    <UnitPriceVAT>614.0000</UnitPriceVAT>
+    <Amount>3859604.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.18</TiLe>
+    <TiLeTL>92.590000000000032</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Aspegic 100mg</ItemName>
+    <Active>Acetylsalicylic acid 100mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <Quantity>3996</Quantity>
+    <UnitPriceVAT>960.7500</UnitPriceVAT>
+    <Amount>3839157.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.18</TiLe>
+    <TiLeTL>92.770000000000039</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Lipitor 10mg</ItemName>
+    <Active>Atorvastatin 10mg</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>239</Quantity>
+    <UnitPriceVAT>15941.0000</UnitPriceVAT>
+    <Amount>3809899.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.17</TiLe>
+    <TiLeTL>92.94000000000004</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Augmentin BD 625mg</ItemName>
+    <Active>Amoxycylline 500mg+Acid Clavulanic125mg</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>304</Quantity>
+    <UnitPriceVAT>11936.0000</UnitPriceVAT>
+    <Amount>3628544.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.17</TiLe>
+    <TiLeTL>93.110000000000042</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Rofba (4+1.25)mg-Davi</ItemName>
+    <Active>Perindopril+ indapamid (4+1.25)mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>2232</Quantity>
+    <UnitPriceVAT>1590.0000</UnitPriceVAT>
+    <Amount>3548880.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.16</TiLe>
+    <TiLeTL>93.270000000000039</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Glocor 5mg</ItemName>
+    <Active>Bisoprolol 5mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>2798</Quantity>
+    <UnitPriceVAT>1265.0000</UnitPriceVAT>
+    <Amount>3539470.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.16</TiLe>
+    <TiLeTL>93.430000000000035</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Felodipin Stada  5mg retard</ItemName>
+    <Active>Felodipin 5mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>3896</Quantity>
+    <UnitPriceVAT>900.0000</UnitPriceVAT>
+    <Amount>3506400.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.16</TiLe>
+    <TiLeTL>93.590000000000032</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Dopagan-Effervescent 500mg sủi</ItemName>
+    <Active>Paracetamol 500mg sủi</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>4081</Quantity>
+    <UnitPriceVAT>849.4500</UnitPriceVAT>
+    <Amount>3466605.4500</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.16</TiLe>
+    <TiLeTL>93.750000000000028</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Prednisolon 5mg-T.Hóa</ItemName>
+    <Active>Prednisolon 5mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>17583</Quantity>
+    <UnitPriceVAT>187.9900</UnitPriceVAT>
+    <Amount>3305428.1700</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.15</TiLe>
+    <TiLeTL>93.900000000000034</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Dermovate Cream 15g</ItemName>
+    <Active>Clobetasol propionat 0.05% 15g</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Tube</UnitOfMeasureName>
+    <Quantity>73</Quantity>
+    <UnitPriceVAT>42812.0000</UnitPriceVAT>
+    <Amount>3125276.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.14</TiLe>
+    <TiLeTL>94.040000000000035</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Flunex AQ 0.05%</ItemName>
+    <Active>Fluticasone propionate 27.5mcg/liều 120 liều</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Lọ</UnitOfMeasureName>
+    <Quantity>19</Quantity>
+    <UnitPriceVAT>160000.0000</UnitPriceVAT>
+    <Amount>3040000.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.14</TiLe>
+    <TiLeTL>94.180000000000035</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Micardis 40mg</ItemName>
+    <Active>Telmisartan 40mg</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>273</Quantity>
+    <UnitPriceVAT>10348.9800</UnitPriceVAT>
+    <Amount>2825271.5400</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.13</TiLe>
+    <TiLeTL>94.310000000000031</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Azopt Drop 1% 5ml</ItemName>
+    <Active>Brinzolamid 1% 5ml</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Lọ</UnitOfMeasureName>
+    <Quantity>24</Quantity>
+    <UnitPriceVAT>116698.0600</UnitPriceVAT>
+    <Amount>2800753.4400</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.13</TiLe>
+    <TiLeTL>94.440000000000026</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Nexium inj 40mg 1's</ItemName>
+    <Active>Esomeprazol 40mg inj</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>V</VEN>
+    <UnitOfMeasureName>Lọ</UnitOfMeasureName>
+    <Quantity>18</Quantity>
+    <UnitPriceVAT>153559.9900</UnitPriceVAT>
+    <Amount>2764079.8200</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.13</TiLe>
+    <TiLeTL>94.570000000000022</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Murihol 500mg/2.5mg</ItemName>
+    <Active>Metformin+ Glibenclamid (500+2.5)mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>3159</Quantity>
+    <UnitPriceVAT>850.0000</UnitPriceVAT>
+    <Amount>2685150.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.12</TiLe>
+    <TiLeTL>94.690000000000026</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Connec 50mg</ItemName>
+    <Active>CAO PYGEUM AFRICANUM 50MG</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>378</Quantity>
+    <UnitPriceVAT>6993.0000</UnitPriceVAT>
+    <Amount>2643354.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.12</TiLe>
+    <TiLeTL>94.810000000000031</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Glucofine 500mg</ItemName>
+    <Active>Metformin 500mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>6432</Quantity>
+    <UnitPriceVAT>409.5000</UnitPriceVAT>
+    <Amount>2633904.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.12</TiLe>
+    <TiLeTL>94.930000000000035</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Imidu 60mg</ItemName>
+    <Active>Isosorbide mononitrate 60mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>1559</Quantity>
+    <UnitPriceVAT>1680.0000</UnitPriceVAT>
+    <Amount>2619120.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.12</TiLe>
+    <TiLeTL>95.05000000000004</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Cefpodoxime-MKP 200</ItemName>
+    <Active>Cefpodoxim 200mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>746</Quantity>
+    <UnitPriceVAT>3410.0000</UnitPriceVAT>
+    <Amount>2543860.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.11</TiLe>
+    <TiLeTL>95.160000000000039</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Efticol 0.9% 10ml</ItemName>
+    <Active>Natri Clorid 0.9%/10ml</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Lọ</UnitOfMeasureName>
+    <Quantity>1603</Quantity>
+    <UnitPriceVAT>1575.0000</UnitPriceVAT>
+    <Amount>2524725.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.11</TiLe>
+    <TiLeTL>95.270000000000039</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Forair 25/250mcg</ItemName>
+    <Active>Salmeterol+fluticason propionat (25/250mcg)</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>V</VEN>
+    <UnitOfMeasureName>Lọ</UnitOfMeasureName>
+    <Quantity>14</Quantity>
+    <UnitPriceVAT>174999.3000</UnitPriceVAT>
+    <Amount>2449990.2000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.11</TiLe>
+    <TiLeTL>95.380000000000038</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Diclofenac 50mg -MKP</ItemName>
+    <Active>Diclofenac 50mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>17417</Quantity>
+    <UnitPriceVAT>130.0000</UnitPriceVAT>
+    <Amount>2264210.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.1</TiLe>
+    <TiLeTL>95.480000000000032</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Vastarel MR 35mg</ItemName>
+    <Active>Trimetazidin 35mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>861</Quantity>
+    <UnitPriceVAT>2483.0000</UnitPriceVAT>
+    <Amount>2137863.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.1</TiLe>
+    <TiLeTL>95.580000000000027</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Berodual MDI (0,05+0,02)mg-10ml Spray</ItemName>
+    <Active>Fenoterol + ipratropium (0,05mg+0.02mg)</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>V</VEN>
+    <UnitOfMeasureName>Lọ</UnitOfMeasureName>
+    <Quantity>16</Quantity>
+    <UnitPriceVAT>132322.0600</UnitPriceVAT>
+    <Amount>2117152.9600</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.09</TiLe>
+    <TiLeTL>95.67000000000003</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Omegit inj</ItemName>
+    <Active>Omeprazole 40mg inj.</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>V</VEN>
+    <UnitOfMeasureName>Lọ</UnitOfMeasureName>
+    <Quantity>48</Quantity>
+    <UnitPriceVAT>43890.0000</UnitPriceVAT>
+    <Amount>2106720.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.09</TiLe>
+    <TiLeTL>95.760000000000034</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Smec-meyer 3g</ItemName>
+    <Active>Diosmectide 3g</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <Quantity>1328</Quantity>
+    <UnitPriceVAT>1528.0000</UnitPriceVAT>
+    <Amount>2029184.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.09</TiLe>
+    <TiLeTL>95.850000000000037</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Proctolog sup. (120mg+10mg)</ItemName>
+    <Active>Trimebutin 120mg+ ruscogenines10mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>412</Quantity>
+    <UnitPriceVAT>4770.0000</UnitPriceVAT>
+    <Amount>1965240.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.09</TiLe>
+    <TiLeTL>95.94000000000004</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Vitamin C 500mg-Vidi</ItemName>
+    <Active>Vitamin C 500mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>N</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>12877</Quantity>
+    <UnitPriceVAT>147.0000</UnitPriceVAT>
+    <Amount>1892919.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.08</TiLe>
+    <TiLeTL>96.020000000000039</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Amoxicilin 500mg-TW2</ItemName>
+    <Active>Amoxycyllin 500mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>3284</Quantity>
+    <UnitPriceVAT>525.0000</UnitPriceVAT>
+    <Amount>1724100.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.08</TiLe>
+    <TiLeTL>96.100000000000037</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Seretide Evo (L) 25/250mcg</ItemName>
+    <Active>Salmeterol+fluticason propionat (25/250mcg)</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>V</VEN>
+    <UnitOfMeasureName>Lọ</UnitOfMeasureName>
+    <Quantity>6</Quantity>
+    <UnitPriceVAT>278089.9800</UnitPriceVAT>
+    <Amount>1668539.8800</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.07</TiLe>
+    <TiLeTL>96.17000000000003</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Utrogestan 100mg</ItemName>
+    <Active>Progesteron 100mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>256</Quantity>
+    <UnitPriceVAT>6499.9900</UnitPriceVAT>
+    <Amount>1663997.4400</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.07</TiLe>
+    <TiLeTL>96.240000000000023</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Sulpirid 50mg-Vidi</ItemName>
+    <Active>Sulpiride 50mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>8145</Quantity>
+    <UnitPriceVAT>202.6500</UnitPriceVAT>
+    <Amount>1650584.2500</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.07</TiLe>
+    <TiLeTL>96.310000000000016</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Domitazol (250+20+20)mg</ItemName>
+    <Active>Malvapurpurea+camphoronobrominat+methylen blue (250+20+25)mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>2029</Quantity>
+    <UnitPriceVAT>778.8900</UnitPriceVAT>
+    <Amount>1580367.8100</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.07</TiLe>
+    <TiLeTL>96.38000000000001</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Ventolin Inh 100mcg 200dose</ItemName>
+    <Active>Salbutamol 100mcg</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>V</VEN>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <Quantity>22</Quantity>
+    <UnitPriceVAT>71300.0000</UnitPriceVAT>
+    <Amount>1568600.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.07</TiLe>
+    <TiLeTL>96.45</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Amigold 8.5% 250ml</ItemName>
+    <Active>Acid amin* 8.5% 250ml</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Túi</UnitOfMeasureName>
+    <Quantity>23</Quantity>
+    <UnitPriceVAT>67998.0000</UnitPriceVAT>
+    <Amount>1563954.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.07</TiLe>
+    <TiLeTL>96.52</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Mutecium-M 1mg/1ml 30ml</ItemName>
+    <Active>Domperidone 1mg/1ml</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <Quantity>112</Quantity>
+    <UnitPriceVAT>13400.0000</UnitPriceVAT>
+    <Amount>1500800.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.07</TiLe>
+    <TiLeTL>96.589999999999989</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Meyerralgan 150mg gói</ItemName>
+    <Active>Paracetamol 150mg gói</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <Quantity>2194</Quantity>
+    <UnitPriceVAT>684.0000</UnitPriceVAT>
+    <Amount>1500696.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.07</TiLe>
+    <TiLeTL>96.659999999999982</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Ferlin Sp 30ml</ItemName>
+    <Active>Sắt nguyên tố+B1+B6+B12(30mg+10mg+10mg+50mcg)</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>N</VEN>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <Quantity>85</Quantity>
+    <UnitPriceVAT>17325.0000</UnitPriceVAT>
+    <Amount>1472625.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.06</TiLe>
+    <TiLeTL>96.719999999999985</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Topralsin-Pharimex</ItemName>
+    <Active>Oxomemazine+Guaifenesin+paracetamol+natri benzoate (1.66+33.33+33.33+33.33)mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>7590</Quantity>
+    <UnitPriceVAT>190.0000</UnitPriceVAT>
+    <Amount>1442100.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.06</TiLe>
+    <TiLeTL>96.779999999999987</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>New Tobi 80mg/2ml</ItemName>
+    <Active>Tobramycin 80mg/2ml</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <Quantity>65</Quantity>
+    <UnitPriceVAT>22000.0000</UnitPriceVAT>
+    <Amount>1430000.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.06</TiLe>
+    <TiLeTL>96.839999999999989</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Acepron 250mg gói</ItemName>
+    <Active>Paracetamol 250mg gói</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <Quantity>2468</Quantity>
+    <UnitPriceVAT>567.0000</UnitPriceVAT>
+    <Amount>1399356.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.06</TiLe>
+    <TiLeTL>96.899999999999991</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Pyme No-spain 40mg</ItemName>
+    <Active>Drotaverin 40mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>3087</Quantity>
+    <UnitPriceVAT>441.0000</UnitPriceVAT>
+    <Amount>1361367.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.06</TiLe>
+    <TiLeTL>96.96</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Amlor 5mg tab</ItemName>
+    <Active>Amlodipine 5mg</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>179</Quantity>
+    <UnitPriceVAT>7593.0000</UnitPriceVAT>
+    <Amount>1359147.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.06</TiLe>
+    <TiLeTL>97.02</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Vitamin A-D (5000+400)UI</ItemName>
+    <Active>Vitamin A_5.000UI+D_400UI</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>N</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>5655</Quantity>
+    <UnitPriceVAT>236.0000</UnitPriceVAT>
+    <Amount>1334580.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.06</TiLe>
+    <TiLeTL>97.08</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Tobcol 0.3% 5ml</ItemName>
+    <Active>Tobramycin 0.3% 5ml</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Lọ</UnitOfMeasureName>
+    <Quantity>144</Quantity>
+    <UnitPriceVAT>9240.0000</UnitPriceVAT>
+    <Amount>1330560.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.06</TiLe>
+    <TiLeTL>97.14</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Sorbitol 5g</ItemName>
+    <Active>Sorbitol 5g</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <Quantity>2783</Quantity>
+    <UnitPriceVAT>469.9900</UnitPriceVAT>
+    <Amount>1307982.1700</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.06</TiLe>
+    <TiLeTL>97.2</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Siro Air-x 15ml</ItemName>
+    <Active>Simethicon 40mg/0.6ml</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <Quantity>68</Quantity>
+    <UnitPriceVAT>18900.0000</UnitPriceVAT>
+    <Amount>1285200.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.06</TiLe>
+    <TiLeTL>97.26</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Domperidon 10mg-Vaco</ItemName>
+    <Active>Domperidone 10mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>10850</Quantity>
+    <UnitPriceVAT>115.0000</UnitPriceVAT>
+    <Amount>1247750.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.05</TiLe>
+    <TiLeTL>97.31</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Cefaclor 125mg gói-TVP</ItemName>
+    <Active>Cefaclor 125mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <Quantity>850</Quantity>
+    <UnitPriceVAT>1400.0000</UnitPriceVAT>
+    <Amount>1190000.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.05</TiLe>
+    <TiLeTL>97.36</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Flixotide Evo SPR 125mcg</ItemName>
+    <Active>Fluticason propionat 125mcg/liều xịt</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Lọ</UnitOfMeasureName>
+    <Quantity>11</Quantity>
+    <UnitPriceVAT>106462.0000</UnitPriceVAT>
+    <Amount>1171082.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.05</TiLe>
+    <TiLeTL>97.41</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Parazacol 1g /100ml-Pharbaco</ItemName>
+    <Active>Paracetamol 1g/100ml</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>V</VEN>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <Quantity>37</Quantity>
+    <UnitPriceVAT>30200.0000</UnitPriceVAT>
+    <Amount>1117400.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.05</TiLe>
+    <TiLeTL>97.46</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Seretide Evo (L) 25/250mcg</ItemName>
+    <Active>Salmeterol+fluticason propionat (25/250mcg)</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>V</VEN>
+    <UnitOfMeasureName>Lọ</UnitOfMeasureName>
+    <Quantity>4</Quantity>
+    <UnitPriceVAT>278090.0000</UnitPriceVAT>
+    <Amount>1112360.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.05</TiLe>
+    <TiLeTL>97.509999999999991</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Ranitidine 150mg-K.Hòa</ItemName>
+    <Active>Ranitidine 150mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>3931</Quantity>
+    <UnitPriceVAT>280.0000</UnitPriceVAT>
+    <Amount>1100680.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.05</TiLe>
+    <TiLeTL>97.559999999999988</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Emerazol 20mg</ItemName>
+    <Active>Esomeprazol 20mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>V</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>433</Quantity>
+    <UnitPriceVAT>2520.0000</UnitPriceVAT>
+    <Amount>1091160.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.05</TiLe>
+    <TiLeTL>97.609999999999985</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Gynofar 250ml</ItemName>
+    <Active>Đồng Sulfate 0.25g/250ml</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <Quantity>135</Quantity>
+    <UnitPriceVAT>7980.0000</UnitPriceVAT>
+    <Amount>1077300.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.05</TiLe>
+    <TiLeTL>97.659999999999982</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Rhinocort Aqua Spr 64mcg</ItemName>
+    <Active>Budesonide 64mcg/liều</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Lọ</UnitOfMeasureName>
+    <Quantity>5</Quantity>
+    <UnitPriceVAT>203522.0000</UnitPriceVAT>
+    <Amount>1017610.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.04</TiLe>
+    <TiLeTL>97.699999999999989</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Augmentin 1.2g inj-Gsk</ItemName>
+    <Active>Amoxycylline 1g +Acid Clavulanic 200mg</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Lọ</UnitOfMeasureName>
+    <Quantity>23</Quantity>
+    <UnitPriceVAT>42308.0000</UnitPriceVAT>
+    <Amount>973084.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.04</TiLe>
+    <TiLeTL>97.74</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Sagacid I.V 40mg</ItemName>
+    <Active>Pantoprazole 40mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Lọ</UnitOfMeasureName>
+    <Quantity>12</Quantity>
+    <UnitPriceVAT>79999.5000</UnitPriceVAT>
+    <Amount>959994.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.04</TiLe>
+    <TiLeTL>97.78</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Medisamin 250mg</ItemName>
+    <Active>Tranexamic acid 250mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>V</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>430</Quantity>
+    <UnitPriceVAT>2200.0000</UnitPriceVAT>
+    <Amount>946000.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.04</TiLe>
+    <TiLeTL>97.820000000000007</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Crestor Tab 10mg</ItemName>
+    <Active>Rosuvastatin 10mg</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>56</Quantity>
+    <UnitPriceVAT>16170.0000</UnitPriceVAT>
+    <Amount>905520.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.04</TiLe>
+    <TiLeTL>97.860000000000014</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Betaserc 16mg</ItemName>
+    <Active>Betahistine 16mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>284</Quantity>
+    <UnitPriceVAT>3178.0000</UnitPriceVAT>
+    <Amount>902552.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.04</TiLe>
+    <TiLeTL>97.90000000000002</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Decolic 24mg</ItemName>
+    <Active>Trimebutin 24mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <Quantity>592</Quantity>
+    <UnitPriceVAT>1500.0000</UnitPriceVAT>
+    <Amount>888000.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.04</TiLe>
+    <TiLeTL>97.940000000000026</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Hydrocortisone sodium succinat Rotex-Vime</ItemName>
+    <Active>Hydrocortisone 100mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>V</VEN>
+    <UnitOfMeasureName>Lọ</UnitOfMeasureName>
+    <Quantity>27</Quantity>
+    <UnitPriceVAT>32000.0000</UnitPriceVAT>
+    <Amount>864000.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.04</TiLe>
+    <TiLeTL>97.980000000000032</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Cefalexin 500mg-Mebiphar</ItemName>
+    <Active>Cephalexine 500mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>1108</Quantity>
+    <UnitPriceVAT>724.5000</UnitPriceVAT>
+    <Amount>802746.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.03</TiLe>
+    <TiLeTL>98.010000000000034</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Aspirin 81mg-Vidi</ItemName>
+    <Active>Acetylsalicylic acid 81mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>7530</Quantity>
+    <UnitPriceVAT>101.8500</UnitPriceVAT>
+    <Amount>766930.5000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.03</TiLe>
+    <TiLeTL>98.040000000000035</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Tanakan 40mg</ItemName>
+    <Active>Ginkobiloba 40mg</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>207</Quantity>
+    <UnitPriceVAT>3667.0000</UnitPriceVAT>
+    <Amount>759069.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.03</TiLe>
+    <TiLeTL>98.070000000000036</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Diamicron MR 30mg</ItemName>
+    <Active>Gliclazide 30mg</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>269</Quantity>
+    <UnitPriceVAT>2627.0000</UnitPriceVAT>
+    <Amount>706663.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.03</TiLe>
+    <TiLeTL>98.100000000000037</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Tytxym 100mg gói</ItemName>
+    <Active>Cefixim 100mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <Quantity>185</Quantity>
+    <UnitPriceVAT>3800.0000</UnitPriceVAT>
+    <Amount>703000.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.03</TiLe>
+    <TiLeTL>98.130000000000038</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Solu-medrol inj. 40mg</ItemName>
+    <Active>Methyl prednisolon 40mg</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>V</VEN>
+    <UnitOfMeasureName>Lọ</UnitOfMeasureName>
+    <Quantity>21</Quantity>
+    <UnitPriceVAT>33099.9900</UnitPriceVAT>
+    <Amount>695099.7900</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.03</TiLe>
+    <TiLeTL>98.160000000000039</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Berberin 100mg-Mkp</ItemName>
+    <Active>Berberin 100mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>1876</Quantity>
+    <UnitPriceVAT>367.0000</UnitPriceVAT>
+    <Amount>688492.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.03</TiLe>
+    <TiLeTL>98.19000000000004</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Medisolone 16mg-Spm</ItemName>
+    <Active>Methyl prednisolon 16mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>449</Quantity>
+    <UnitPriceVAT>1500.0000</UnitPriceVAT>
+    <Amount>673500.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.03</TiLe>
+    <TiLeTL>98.220000000000041</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Voltaren 75mg/3ml inj.</ItemName>
+    <Active>Diclofenac 75mg/3ml</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>V</VEN>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <Quantity>45</Quantity>
+    <UnitPriceVAT>14943.8100</UnitPriceVAT>
+    <Amount>672471.4500</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.03</TiLe>
+    <TiLeTL>98.250000000000043</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Natri Chloride  0.9% 500ml-Kabi</ItemName>
+    <Active>Natri Clorid 0.9%/500ml</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <Quantity>81</Quantity>
+    <UnitPriceVAT>7951.6500</UnitPriceVAT>
+    <Amount>644083.6500</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.03</TiLe>
+    <TiLeTL>98.280000000000044</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Aciclovir MKP 800mg</ItemName>
+    <Active>Aciclovir 800mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>225</Quantity>
+    <UnitPriceVAT>2858.0000</UnitPriceVAT>
+    <Amount>643050.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.03</TiLe>
+    <TiLeTL>98.310000000000045</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Vitamin PP 500mg-Mebi</ItemName>
+    <Active>VitaminPP 500mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>N</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>2283</Quantity>
+    <UnitPriceVAT>279.3000</UnitPriceVAT>
+    <Amount>637641.9000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.03</TiLe>
+    <TiLeTL>98.340000000000046</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Ofloxacin 200mg-Mkp</ItemName>
+    <Active>Ofloxacin 200mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>1570</Quantity>
+    <UnitPriceVAT>395.0000</UnitPriceVAT>
+    <Amount>620150.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.02</TiLe>
+    <TiLeTL>98.360000000000042</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Lamivudin Hasan 100mg</ItemName>
+    <Active>Lamivudin 100mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>266</Quantity>
+    <UnitPriceVAT>2289.0000</UnitPriceVAT>
+    <Amount>608874.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.02</TiLe>
+    <TiLeTL>98.380000000000038</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Bromhexin 8mg-Dp3/2</ItemName>
+    <Active>Bromhexin 8mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>11497</Quantity>
+    <UnitPriceVAT>52.5000</UnitPriceVAT>
+    <Amount>603592.5000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.02</TiLe>
+    <TiLeTL>98.400000000000034</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Clopheniramin 4mg-BĐ</ItemName>
+    <Active>Chlorpheniramin 4mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>14773</Quantity>
+    <UnitPriceVAT>39.9000</UnitPriceVAT>
+    <Amount>589442.7000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.02</TiLe>
+    <TiLeTL>98.42000000000003</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Theralene 5mg tab.</ItemName>
+    <Active>Alimemazine 5mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>1593</Quantity>
+    <UnitPriceVAT>366.9800</UnitPriceVAT>
+    <Amount>584599.1400</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.02</TiLe>
+    <TiLeTL>98.440000000000026</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Amoxicilin 250mg gói-MDân</ItemName>
+    <Active>Amoxycyllin 250mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <Quantity>747</Quantity>
+    <UnitPriceVAT>777.0000</UnitPriceVAT>
+    <Amount>580419.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.02</TiLe>
+    <TiLeTL>98.460000000000022</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Intas simtas 10mg</ItemName>
+    <Active>Simvastatin 10mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>426</Quantity>
+    <UnitPriceVAT>1350.0000</UnitPriceVAT>
+    <Amount>575100.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.02</TiLe>
+    <TiLeTL>98.480000000000018</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Thyrozol Tab 5mg</ItemName>
+    <Active>Thiamazol 5mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>462</Quantity>
+    <UnitPriceVAT>1223.0000</UnitPriceVAT>
+    <Amount>565026.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.02</TiLe>
+    <TiLeTL>98.500000000000014</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Buscopan 10mg tab.</ItemName>
+    <Active>Hyoscine 10mg</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>485</Quantity>
+    <UnitPriceVAT>1119.9900</UnitPriceVAT>
+    <Amount>543195.1500</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.02</TiLe>
+    <TiLeTL>98.52000000000001</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Plavix 75mg</ItemName>
+    <Active>Clopidrogel  75mg</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>26</Quantity>
+    <UnitPriceVAT>20221.9500</UnitPriceVAT>
+    <Amount>525770.7000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.02</TiLe>
+    <TiLeTL>98.54</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Brexin 20mg</ItemName>
+    <Active>Piroxicam</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>64</Quantity>
+    <UnitPriceVAT>7582.0000</UnitPriceVAT>
+    <Amount>485248.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.02</TiLe>
+    <TiLeTL>98.56</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Vacodedian 80mg</ItemName>
+    <Active>Gliclazide 80mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>1281</Quantity>
+    <UnitPriceVAT>373.0000</UnitPriceVAT>
+    <Amount>477813.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.02</TiLe>
+    <TiLeTL>98.58</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Colposeptine suppo (200+10)mg</ItemName>
+    <Active>Chlorquinaldol 200mg+Promestriene 10mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>92</Quantity>
+    <UnitPriceVAT>5082.0000</UnitPriceVAT>
+    <Amount>467544.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.02</TiLe>
+    <TiLeTL>98.6</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Ovestin 0.5mg ĐÂĐ</ItemName>
+    <Active>Estriol 0.5mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>62</Quantity>
+    <UnitPriceVAT>7301.0000</UnitPriceVAT>
+    <Amount>452662.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.02</TiLe>
+    <TiLeTL>98.61999999999999</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Zuryk 300mg</ItemName>
+    <Active>Allopurinol 300mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>530</Quantity>
+    <UnitPriceVAT>800.0000</UnitPriceVAT>
+    <Amount>424000.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.01</TiLe>
+    <TiLeTL>98.63</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Lipanthyl 200mg</ItemName>
+    <Active>Fenofibrat 200mg</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>54</Quantity>
+    <UnitPriceVAT>7053.0000</UnitPriceVAT>
+    <Amount>380862.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.01</TiLe>
+    <TiLeTL>98.64</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Imdur 30mg</ItemName>
+    <Active>Isosorbide mononitrate 30mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>116</Quantity>
+    <UnitPriceVAT>3245.0000</UnitPriceVAT>
+    <Amount>376420.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.01</TiLe>
+    <TiLeTL>98.65</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Allopsel 300mg</ItemName>
+    <Active>Allopurinol 300mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>490</Quantity>
+    <UnitPriceVAT>749.9900</UnitPriceVAT>
+    <Amount>367495.1000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.01</TiLe>
+    <TiLeTL>98.660000000000011</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Cazerol 200mg-pyme</ItemName>
+    <Active>Carbamazepin 200mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>188</Quantity>
+    <UnitPriceVAT>1890.0000</UnitPriceVAT>
+    <Amount>355320.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.01</TiLe>
+    <TiLeTL>98.670000000000016</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Forlax 10g</ItemName>
+    <Active>Macrogol 10g</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <Quantity>80</Quantity>
+    <UnitPriceVAT>4275.0000</UnitPriceVAT>
+    <Amount>342000.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.01</TiLe>
+    <TiLeTL>98.680000000000021</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Renatab 5mg-KP</ItemName>
+    <Active>Enalapril 5mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>696</Quantity>
+    <UnitPriceVAT>489.9000</UnitPriceVAT>
+    <Amount>340970.4000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.01</TiLe>
+    <TiLeTL>98.690000000000026</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Penicilline V Kali 1.000.000 IU</ItemName>
+    <Active>Phenoxymethylpenicilline 1.000.000UI</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>414</Quantity>
+    <UnitPriceVAT>822.1500</UnitPriceVAT>
+    <Amount>340370.1000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.01</TiLe>
+    <TiLeTL>98.700000000000031</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Splozarsin Plus</ItemName>
+    <Active>Losartan + hydroclorothiazid (50mg+12.5mg)</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>238</Quantity>
+    <UnitPriceVAT>1349.9900</UnitPriceVAT>
+    <Amount>321297.6200</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.01</TiLe>
+    <TiLeTL>98.710000000000036</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Adrenalin IV 1mg/1ml -TW1-Viện Phí</ItemName>
+    <Active>Adrenalin 1mg/1ml</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>V</VEN>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <Quantity>49</Quantity>
+    <UnitPriceVAT>6300.0000</UnitPriceVAT>
+    <Amount>308700.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.01</TiLe>
+    <TiLeTL>98.720000000000041</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Buscopan 20mg/1ml inj.</ItemName>
+    <Active>Hyoscine 20mg/1ml</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>V</VEN>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <Quantity>36</Quantity>
+    <UnitPriceVAT>8375.9500</UnitPriceVAT>
+    <Amount>301534.2000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.01</TiLe>
+    <TiLeTL>98.730000000000047</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Captopril 25mg-DMC</ItemName>
+    <Active>Captopril 25mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>995</Quantity>
+    <UnitPriceVAT>299.2500</UnitPriceVAT>
+    <Amount>297753.7500</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.01</TiLe>
+    <TiLeTL>98.740000000000052</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Renatab 10mg-KP</ItemName>
+    <Active>Enalapril 10mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>462</Quantity>
+    <UnitPriceVAT>589.9900</UnitPriceVAT>
+    <Amount>272575.3800</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.01</TiLe>
+    <TiLeTL>98.750000000000057</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Furosemid 40mg-MKP</ItemName>
+    <Active>Furosemid 40mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>2050</Quantity>
+    <UnitPriceVAT>126.0000</UnitPriceVAT>
+    <Amount>258300.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.01</TiLe>
+    <TiLeTL>98.760000000000062</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Ketoconazol 200mg tab.</ItemName>
+    <Active>Ketoconazole 200mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>388</Quantity>
+    <UnitPriceVAT>648.0000</UnitPriceVAT>
+    <Amount>251424.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.01</TiLe>
+    <TiLeTL>98.770000000000067</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Glucose 5% 500ml-Mkp</ItemName>
+    <Active>Glucose 5% 500ml</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <Quantity>31</Quantity>
+    <UnitPriceVAT>8050.0000</UnitPriceVAT>
+    <Amount>249550.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.01</TiLe>
+    <TiLeTL>98.780000000000072</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Allerfar 4mg-SG</ItemName>
+    <Active>Chlorpheniramin 4mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>5036</Quantity>
+    <UnitPriceVAT>48.5000</UnitPriceVAT>
+    <Amount>244246.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.01</TiLe>
+    <TiLeTL>98.790000000000077</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Digoxine Qualy 0,25mg tab.</ItemName>
+    <Active>Digoxin 0.25mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>V</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>371</Quantity>
+    <UnitPriceVAT>619.5000</UnitPriceVAT>
+    <Amount>229834.5000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.01</TiLe>
+    <TiLeTL>98.800000000000082</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Metrima 100mg</ItemName>
+    <Active>Clotrimazol 100mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>236</Quantity>
+    <UnitPriceVAT>945.0000</UnitPriceVAT>
+    <Amount>223020.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0.01</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Hydrite tab. (0.35+...)</ItemName>
+    <Active>Natri clorid+natri bicarbonat+kali clorid+dextrose khan (0.35+0.25+0.15+2)g</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>212</Quantity>
+    <UnitPriceVAT>992.0000</UnitPriceVAT>
+    <Amount>210304.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Neo-Gynoternan (500mg+...)</ItemName>
+    <Active>Metronidazole+neomycin+nystatin 500 mg+ (65.000+100.000) UI</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>119</Quantity>
+    <UnitPriceVAT>1750.0000</UnitPriceVAT>
+    <Amount>208250.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Plavix 75mg</ItemName>
+    <Active>Clopidrogel  75mg</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>10</Quantity>
+    <UnitPriceVAT>20222.5500</UnitPriceVAT>
+    <Amount>202225.5000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>pms-Probio 75mg</ItemName>
+    <Active>Lactobacillus acidophilus 75mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <Quantity>192</Quantity>
+    <UnitPriceVAT>969.9900</UnitPriceVAT>
+    <Amount>186238.0800</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Vaslor 10</ItemName>
+    <Active>Atorvastatin 10mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>378</Quantity>
+    <UnitPriceVAT>490.0000</UnitPriceVAT>
+    <Amount>185220.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Berlthyrox Tab 100mcg</ItemName>
+    <Active>Levothyroxine 100mcg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>434</Quantity>
+    <UnitPriceVAT>405.0000</UnitPriceVAT>
+    <Amount>175770.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Nadypharlax 10g</ItemName>
+    <Active>Macrogol 10g</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <Quantity>56</Quantity>
+    <UnitPriceVAT>3055.5000</UnitPriceVAT>
+    <Amount>171108.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Orgametril 5mg</ItemName>
+    <Active>Lynestrenol 5mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>104</Quantity>
+    <UnitPriceVAT>1605.0000</UnitPriceVAT>
+    <Amount>166920.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Kaldyum 600mg</ItemName>
+    <Active>Kali chloride 600mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>107</Quantity>
+    <UnitPriceVAT>1509.9000</UnitPriceVAT>
+    <Amount>161559.3000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Salbutamol 2mg-Bidi</ItemName>
+    <Active>Salbutamol 2mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>2893</Quantity>
+    <UnitPriceVAT>52.5000</UnitPriceVAT>
+    <Amount>151882.5000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Cefpodoxime-MKP 100mg</ItemName>
+    <Active>Cefpodoxim 100mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>72</Quantity>
+    <UnitPriceVAT>1998.0000</UnitPriceVAT>
+    <Amount>143856.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Dopagan-Effervescent 80mg gói</ItemName>
+    <Active>Paracetamol 80mg gói</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <Quantity>229</Quantity>
+    <UnitPriceVAT>599.5500</UnitPriceVAT>
+    <Amount>137296.9500</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Colchicine Galien 1mg-3/2</ItemName>
+    <Active>Colchicin 1mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>206</Quantity>
+    <UnitPriceVAT>651.0000</UnitPriceVAT>
+    <Amount>134106.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Vitamin A 5.000UI-Bidi</ItemName>
+    <Active>Vitamin A 5000UI</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>N</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>594</Quantity>
+    <UnitPriceVAT>220.5000</UnitPriceVAT>
+    <Amount>130977.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Acyclovir Stada cream 5%</ItemName>
+    <Active>Aciclovir 5% 5g</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Tube</UnitOfMeasureName>
+    <Quantity>10</Quantity>
+    <UnitPriceVAT>11998.3500</UnitPriceVAT>
+    <Amount>119983.5000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Zantac 50mg/2ml</ItemName>
+    <Active>Ranitidine 50mg/2ml</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <Quantity>4</Quantity>
+    <UnitPriceVAT>27708.0000</UnitPriceVAT>
+    <Amount>110832.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Atropine sulfate Aguettant 0. 5mg/ml B/10</ItemName>
+    <Active>Atropin 0.5mg/1 ml</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>V</VEN>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <Quantity>5</Quantity>
+    <UnitPriceVAT>19899.9100</UnitPriceVAT>
+    <Amount>99499.5500</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Natri clorid 0.9% 500ml-B.Braun</ItemName>
+    <Active>Natri Clorid 0.9%/500ml</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <Quantity>9</Quantity>
+    <UnitPriceVAT>10500.0000</UnitPriceVAT>
+    <Amount>94500.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Smecta 3g (Orange - Vanilla)</ItemName>
+    <Active>Diosmectide 3g</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <Quantity>29</Quantity>
+    <UnitPriceVAT>3160.0000</UnitPriceVAT>
+    <Amount>91640.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Nootropyl inj. 1g/5ml</ItemName>
+    <Active>Piracetam 1g/5ml</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <Quantity>8</Quantity>
+    <UnitPriceVAT>10508.0000</UnitPriceVAT>
+    <Amount>84064.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Primperan inj 10mg/2ml-Sanofi</ItemName>
+    <Active>Metoclopramide 10mg/2ml</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>V</VEN>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <Quantity>28</Quantity>
+    <UnitPriceVAT>3001.9500</UnitPriceVAT>
+    <Amount>84054.6000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Salgad 150mg-Davi</ItemName>
+    <Active>Fluconazol 150mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>11</Quantity>
+    <UnitPriceVAT>7500.0000</UnitPriceVAT>
+    <Amount>82500.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Vinphatoxin inj 5 UI</ItemName>
+    <Active>Oxytocin 5UI/ml</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>V</VEN>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <Quantity>28</Quantity>
+    <UnitPriceVAT>2900.0000</UnitPriceVAT>
+    <Amount>81200.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Themaxtene 5mg tab.</ItemName>
+    <Active>Alimemazine 5mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>666</Quantity>
+    <UnitPriceVAT>111.3000</UnitPriceVAT>
+    <Amount>74125.8000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Bricanyl 0.5mg/ml</ItemName>
+    <Active>Terbutaline 0.5mg/1ml</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>V</VEN>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <Quantity>6</Quantity>
+    <UnitPriceVAT>11990.0000</UnitPriceVAT>
+    <Amount>71940.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Curam 1.2g inj</ItemName>
+    <Active>Amoxycylline 1g +Acid Clavulanic 200mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Lọ</UnitOfMeasureName>
+    <Quantity>2</Quantity>
+    <UnitPriceVAT>35779.8000</UnitPriceVAT>
+    <Amount>71559.6000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Metronidazol 250mg-Dp3/2</ItemName>
+    <Active>Metronidazole 250mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>610</Quantity>
+    <UnitPriceVAT>115.5000</UnitPriceVAT>
+    <Amount>70455.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Diazepam 5mg Vidi-TW1</ItemName>
+    <Active>Diazepam 5mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>496</Quantity>
+    <UnitPriceVAT>141.9900</UnitPriceVAT>
+    <Amount>70427.0400</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Paciflam 5mg/1ml Hameln</ItemName>
+    <Active>Midazolam 5mg/ml</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>V</VEN>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <Quantity>4</Quantity>
+    <UnitPriceVAT>16800.0000</UnitPriceVAT>
+    <Amount>67200.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Vinzix 20mg/2ml Inj</ItemName>
+    <Active>Furosemid 20mg/2ml</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>V</VEN>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <Quantity>22</Quantity>
+    <UnitPriceVAT>3045.0000</UnitPriceVAT>
+    <Amount>66990.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Diacerein 50mg-Vaco</ItemName>
+    <Active>Diacerein 50mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>N</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>56</Quantity>
+    <UnitPriceVAT>1183.0000</UnitPriceVAT>
+    <Amount>66248.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Domitazol (250+20+20)mg</ItemName>
+    <Active>Malvapurpurea+camphoronobrominat+methylen blue (250+20+25)mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>71</Quantity>
+    <UnitPriceVAT>919.8000</UnitPriceVAT>
+    <Amount>65305.8000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Bikozol 2%; 5g-Bidi</ItemName>
+    <Active>Ketoconazole 2% 5g</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Tube</UnitOfMeasureName>
+    <Quantity>17</Quantity>
+    <UnitPriceVAT>3486.0000</UnitPriceVAT>
+    <Amount>59262.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Dorocardyl 40mg</ItemName>
+    <Active>Propranolol 40mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>V</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>216</Quantity>
+    <UnitPriceVAT>273.0000</UnitPriceVAT>
+    <Amount>58968.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Nước cất pha tiêm-3/2</ItemName>
+    <Active>Nước cất pha tiêm 5ml</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <Quantity>89</Quantity>
+    <UnitPriceVAT>649.9500</UnitPriceVAT>
+    <Amount>57845.5500</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Cồn boric 3% 10ml</ItemName>
+    <Active>ACID BORIC 300MG+CỒN 70</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Lọ</UnitOfMeasureName>
+    <Quantity>9</Quantity>
+    <UnitPriceVAT>6300.0000</UnitPriceVAT>
+    <Amount>56700.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Fucidin 2% 15g</ItemName>
+    <Active>Fucidic acid 2% 15g</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Tube</UnitOfMeasureName>
+    <Quantity>1</Quantity>
+    <UnitPriceVAT>56595.0000</UnitPriceVAT>
+    <Amount>56595.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Debridat Tab 100mg</ItemName>
+    <Active>Trimebutin 100mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>21</Quantity>
+    <UnitPriceVAT>2690.0000</UnitPriceVAT>
+    <Amount>56490.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Kaleorid Tab 600mg 30's</ItemName>
+    <Active>Kali chloride 600mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>31</Quantity>
+    <UnitPriceVAT>1738.0000</UnitPriceVAT>
+    <Amount>53878.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Biorindol 4mg</ItemName>
+    <Active>Perindopril 4mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>28</Quantity>
+    <UnitPriceVAT>1890.0000</UnitPriceVAT>
+    <Amount>52920.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Pimeran 10mg-SG</ItemName>
+    <Active>Metoclopramide 10mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>342</Quantity>
+    <UnitPriceVAT>147.0000</UnitPriceVAT>
+    <Amount>50274.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Furosemide 20mg/2ml Inj-Rotex-SG</ItemName>
+    <Active>Furosemid 20mg/2ml</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>V</VEN>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <Quantity>10</Quantity>
+    <UnitPriceVAT>4849.9900</UnitPriceVAT>
+    <Amount>48499.9000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Mixtard 30 HM 1000UI (đổi đơn vị)-Viện Phí</ItemName>
+    <Active>Insulin trộn (M) 100UI</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>V</VEN>
+    <UnitOfMeasureName>UI</UnitOfMeasureName>
+    <Quantity>188</Quantity>
+    <UnitPriceVAT>249.3800</UnitPriceVAT>
+    <Amount>46883.4400</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Efferalgan 300mg sup.</ItemName>
+    <Active>Paracetamol 300mg suppo</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>V</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>16</Quantity>
+    <UnitPriceVAT>2830.9100</UnitPriceVAT>
+    <Amount>45294.5600</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Gloverin 40mg-Glomed</ItemName>
+    <Active>Alverine 40mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>124</Quantity>
+    <UnitPriceVAT>350.0000</UnitPriceVAT>
+    <Amount>43400.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Povidine 10% 90ml-Pharmedic</ItemName>
+    <Active>Povidone iodine 10% 500ml</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Lọ</UnitOfMeasureName>
+    <Quantity>4</Quantity>
+    <UnitPriceVAT>10186.0000</UnitPriceVAT>
+    <Amount>40744.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Tranoxel 250mg/5ml</ItemName>
+    <Active>Tranexamic acid 250mg/5ml inj.</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>V</VEN>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <Quantity>5</Quantity>
+    <UnitPriceVAT>8000.0000</UnitPriceVAT>
+    <Amount>40000.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Dorotyl 250mg</ItemName>
+    <Active>Mephenesine 250mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>172</Quantity>
+    <UnitPriceVAT>230.0000</UnitPriceVAT>
+    <Amount>39560.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Augbactam 1g</ItemName>
+    <Active>Amoxycylline 875mg +Acid Clavulanic 125mg</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>8</Quantity>
+    <UnitPriceVAT>4750.0000</UnitPriceVAT>
+    <Amount>38000.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Adrenoxyl 10mg</ItemName>
+    <Active>Carbazochrom dihydrat 10mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>30</Quantity>
+    <UnitPriceVAT>1249.9600</UnitPriceVAT>
+    <Amount>37498.8000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Mekozetel 400-Mkp</ItemName>
+    <Active>Albendazol 400mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>34</Quantity>
+    <UnitPriceVAT>934.9900</UnitPriceVAT>
+    <Amount>31789.6600</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Mebendazole 500mg-Mkp</ItemName>
+    <Active>Mebendazole 500mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>28</Quantity>
+    <UnitPriceVAT>1043.9900</UnitPriceVAT>
+    <Amount>29231.7200</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Cefuroxime  250mg-MDân</ItemName>
+    <Active>Cefuroxim 250mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>14</Quantity>
+    <UnitPriceVAT>2037.0000</UnitPriceVAT>
+    <Amount>28518.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Vitamin C 500mg-Vidi</ItemName>
+    <Active>Vitamin C 500mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>N</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>133</Quantity>
+    <UnitPriceVAT>214.2000</UnitPriceVAT>
+    <Amount>28488.6000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Efferalgan 150mg sup.</ItemName>
+    <Active>Paracetamol 150mg suppo</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>V</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>12</Quantity>
+    <UnitPriceVAT>2304.9600</UnitPriceVAT>
+    <Amount>27659.5200</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Biocalcium 650mg</ItemName>
+    <Active>Calci Lactate 650mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>112</Quantity>
+    <UnitPriceVAT>239.3500</UnitPriceVAT>
+    <Amount>26807.2000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Spinolac 25mg</ItemName>
+    <Active>Spironolacton 25mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>15</Quantity>
+    <UnitPriceVAT>1669.5000</UnitPriceVAT>
+    <Amount>25042.5000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Dospasmine 40mg</ItemName>
+    <Active>Alverine 40mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>160</Quantity>
+    <UnitPriceVAT>156.4500</UnitPriceVAT>
+    <Amount>25032.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Digoxin inj 0.5mg/2ml Warraw</ItemName>
+    <Active>Digoxin 0.5mg/2ml</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>V</VEN>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <Quantity>1</Quantity>
+    <UnitPriceVAT>21000.0000</UnitPriceVAT>
+    <Amount>21000.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Augmentin BD 625mg</ItemName>
+    <Active>Amoxycylline 500mg+Acid Clavulanic125mg</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>2</Quantity>
+    <UnitPriceVAT>10377.0000</UnitPriceVAT>
+    <Amount>20754.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Colchicine Galien 1mg-3/2</ItemName>
+    <Active>Colchicin 1mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>35</Quantity>
+    <UnitPriceVAT>567.0000</UnitPriceVAT>
+    <Amount>19845.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Glucose 30% 5ml-Bidiphar</ItemName>
+    <Active>Glucose 30% 5ml</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>V</VEN>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <Quantity>18</Quantity>
+    <UnitPriceVAT>1008.0000</UnitPriceVAT>
+    <Amount>18144.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Timmak 3mg</ItemName>
+    <Active>Dihydroergotamin 3mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>8</Quantity>
+    <UnitPriceVAT>2163.0000</UnitPriceVAT>
+    <Amount>17304.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Disolvan 8mg-MKP</ItemName>
+    <Active>Bromhexin 8mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>315</Quantity>
+    <UnitPriceVAT>43.0000</UnitPriceVAT>
+    <Amount>13545.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Nifedipin Hasan 20 Retard</ItemName>
+    <Active>Nifedipin 20mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>28</Quantity>
+    <UnitPriceVAT>462.0000</UnitPriceVAT>
+    <Amount>12936.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Nitrostad 2,5mg retard</ItemName>
+    <Active>Glyceryl trinitrate 2.5mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>20</Quantity>
+    <UnitPriceVAT>639.9900</UnitPriceVAT>
+    <Amount>12799.8000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Glucovance 500mg/2.5mg</ItemName>
+    <Active>Metformin+ Glibenclamid (500+2.5)mg</Active>
+    <BietDuoc1>B</BietDuoc1>
+    <Generic xml:space="preserve"> </Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>3</Quantity>
+    <UnitPriceVAT>4183.0000</UnitPriceVAT>
+    <Amount>12549.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Imdur Tab 60mg</ItemName>
+    <Active>Isosorbide mononitrate 60mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>2</Quantity>
+    <UnitPriceVAT>5848.0000</UnitPriceVAT>
+    <Amount>11696.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Nystatin 25000IU-3/2</ItemName>
+    <Active>Nystatin 25000UI</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <Quantity>9</Quantity>
+    <UnitPriceVAT>1050.0000</UnitPriceVAT>
+    <Amount>9450.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Savi Cipro 500mg</ItemName>
+    <Active>Ciprofloxacin 500mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>7</Quantity>
+    <UnitPriceVAT>1250.0000</UnitPriceVAT>
+    <Amount>8750.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Calcium Hasan sủi (300+2940)mg</ItemName>
+    <Active>Calcium carbonat 300mg+ calci gluconolactat 2940mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>N</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>4</Quantity>
+    <UnitPriceVAT>2100.0000</UnitPriceVAT>
+    <Amount>8400.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Sodium Chlorid 0.9% 500ml-Mkp</ItemName>
+    <Active>Natri Clorid 0.9%/500ml</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Chai</UnitOfMeasureName>
+    <Quantity>1</Quantity>
+    <UnitPriceVAT>7499.9900</UnitPriceVAT>
+    <Amount>7499.9900</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Acyvir 200mg-Spm</ItemName>
+    <Active>Aciclovir 200mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>10</Quantity>
+    <UnitPriceVAT>594.0000</UnitPriceVAT>
+    <Amount>5940.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Flagyl 250mg-Sanofi</ItemName>
+    <Active>Metronidazole 250mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>12</Quantity>
+    <UnitPriceVAT>480.9500</UnitPriceVAT>
+    <Amount>5771.4000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Prednisolon 5mg-Vidi</ItemName>
+    <Active>Prednisolon 5mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>26</Quantity>
+    <UnitPriceVAT>198.4500</UnitPriceVAT>
+    <Amount>5159.7000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Mekozitex 10mg</ItemName>
+    <Active>Cetirizin 10mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>39</Quantity>
+    <UnitPriceVAT>125.0000</UnitPriceVAT>
+    <Amount>4875.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Efferalgan 80mg suppo</ItemName>
+    <Active>Paracetamol 80mg suppo</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>V</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>2</Quantity>
+    <UnitPriceVAT>2026.0000</UnitPriceVAT>
+    <Amount>4052.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Morphine 10mg/1ml-Vidi</ItemName>
+    <Active>Morphine (clohydrate) 10mg/ml</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>V</VEN>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <Quantity>1</Quantity>
+    <UnitPriceVAT>4024.6500</UnitPriceVAT>
+    <Amount>4024.6500</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Morphine 10mg/1ml-Vidi</ItemName>
+    <Active>Morphine (clohydrate) 10mg/ml</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>V</VEN>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <Quantity>1</Quantity>
+    <UnitPriceVAT>3360.0000</UnitPriceVAT>
+    <Amount>3360.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Biragan 150mg suppo.</ItemName>
+    <Active>Paracetamol 150mg suppo</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>V</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>2</Quantity>
+    <UnitPriceVAT>1680.0000</UnitPriceVAT>
+    <Amount>3360.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Terpin codein (0.1+0.01)g-TV</ItemName>
+    <Active>Terpin codein(0.1+ 0.01)g</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>9</Quantity>
+    <UnitPriceVAT>279.9900</UnitPriceVAT>
+    <Amount>2519.9100</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Efferalgan 80mg suppo</ItemName>
+    <Active>Paracetamol 80mg suppo</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>V</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>1</Quantity>
+    <UnitPriceVAT>2025.9800</UnitPriceVAT>
+    <Amount>2025.9800</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Chlopheniramine 4mg-MKP</ItemName>
+    <Active>Chlorpheniramin 4mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>48</Quantity>
+    <UnitPriceVAT>42.0000</UnitPriceVAT>
+    <Amount>2016.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Cevit 500mg/5ml</ItemName>
+    <Active>Vitamin C 10% (500mg/5ml)</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>N</VEN>
+    <UnitOfMeasureName>Ống</UnitOfMeasureName>
+    <Quantity>1</Quantity>
+    <UnitPriceVAT>1556.9400</UnitPriceVAT>
+    <Amount>1556.9400</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Rutin - vitamin C (50mg+50mg)</ItemName>
+    <Active>Vitamin C 50mg+ rutine 50mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>N</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>4</Quantity>
+    <UnitPriceVAT>144.0000</UnitPriceVAT>
+    <Amount>576.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Glotal 250mg</ItemName>
+    <Active>Mephenesine 250mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>2</Quantity>
+    <UnitPriceVAT>255.0000</UnitPriceVAT>
+    <Amount>510.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Melomax 7.5mg</ItemName>
+    <Active>Meloxicam 7.5mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>1</Quantity>
+    <UnitPriceVAT>500.0000</UnitPriceVAT>
+    <Amount>500.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+  <Table1>
+    <ItemName>Furosemid 40mg-MKP</ItemName>
+    <Active>Furosemid 40mg</Active>
+    <BietDuoc1 xml:space="preserve"> </BietDuoc1>
+    <Generic>G</Generic>
+    <VEN>E</VEN>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <Quantity>2</Quantity>
+    <UnitPriceVAT>130.0000</UnitPriceVAT>
+    <Amount>260.0000</Amount>
+    <Total>2123433420.3900</Total>
+    <TiLe>0</TiLe>
+    <TiLeTL>98.810000000000088</TiLeTL>
+    <ABC>C</ABC>
+  </Table1>
+</tableDanhSach>

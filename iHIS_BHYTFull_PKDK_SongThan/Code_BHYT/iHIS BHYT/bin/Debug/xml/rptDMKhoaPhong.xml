@@ -1,0 +1,165 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <RowID>1011</RowID>
+    <DepartmentCode>KP0020</DepartmentCode>
+    <DepartmentName>PHÒNG KHÁM DA LIỄU</DepartmentName>
+    <ServiceGroupCode>KCB</ServiceGroupCode>
+    <Hide>0</Hide>
+    <IdBv>1</IdBv>
+    <KBHYT>K01</KBHYT>
+  </Table1>
+  <Table1>
+    <RowID>1010</RowID>
+    <DepartmentCode>KP0019</DepartmentCode>
+    <DepartmentName>Phòng khám Cơ Xương Khớp</DepartmentName>
+    <ServiceGroupCode>KCB</ServiceGroupCode>
+    <Hide>1</Hide>
+    <IdBv>1</IdBv>
+    <KBHYT>K01</KBHYT>
+  </Table1>
+  <Table1>
+    <RowID>1009</RowID>
+    <DepartmentCode>KP0018</DepartmentCode>
+    <DepartmentName>PHÒNG KHÁM MẮT</DepartmentName>
+    <ServiceGroupCode>KCB</ServiceGroupCode>
+    <Hide>1</Hide>
+    <IdBv>1</IdBv>
+    <KBHYT>K01</KBHYT>
+  </Table1>
+  <Table1>
+    <RowID>1008</RowID>
+    <DepartmentCode>KP0017</DepartmentCode>
+    <DepartmentName>PHÒNG KHÁM RHM</DepartmentName>
+    <ServiceGroupCode>KCB</ServiceGroupCode>
+    <Hide>0</Hide>
+    <IdBv>1</IdBv>
+    <KBHYT>K01</KBHYT>
+  </Table1>
+  <Table1>
+    <RowID>1007</RowID>
+    <DepartmentCode>KP0016</DepartmentCode>
+    <DepartmentName>PHÒNG KHÁM TMH</DepartmentName>
+    <ServiceGroupCode>KCB</ServiceGroupCode>
+    <Hide>0</Hide>
+    <IdBv>1</IdBv>
+    <KBHYT>K01</KBHYT>
+  </Table1>
+  <Table1>
+    <RowID>1006</RowID>
+    <DepartmentCode>KP0015</DepartmentCode>
+    <DepartmentName>PHÒNG KHÁM TIM MẠCH</DepartmentName>
+    <ServiceGroupCode>KCB</ServiceGroupCode>
+    <Hide>1</Hide>
+    <IdBv>1</IdBv>
+    <KBHYT>K01</KBHYT>
+  </Table1>
+  <Table1>
+    <RowID>1005</RowID>
+    <DepartmentCode>KP0014</DepartmentCode>
+    <DepartmentName>Phòng Tiêm Chủng</DepartmentName>
+    <ServiceGroupCode>TC</ServiceGroupCode>
+    <Hide>1</Hide>
+    <IdBv>1</IdBv>
+    <KBHYT>K01</KBHYT>
+  </Table1>
+  <Table1>
+    <RowID>1004</RowID>
+    <DepartmentCode>KP0013</DepartmentCode>
+    <DepartmentName>Phòng Điện Tim</DepartmentName>
+    <ServiceGroupCode>CDHA</ServiceGroupCode>
+    <Hide>1</Hide>
+    <IdBv>1</IdBv>
+    <KBHYT>K01</KBHYT>
+  </Table1>
+  <Table1>
+    <RowID>1003</RowID>
+    <DepartmentCode>KP0012</DepartmentCode>
+    <DepartmentName>Phòng Nội Soi</DepartmentName>
+    <ServiceGroupCode>CDHA</ServiceGroupCode>
+    <Hide>0</Hide>
+    <IdBv>1</IdBv>
+    <KBHYT>K01</KBHYT>
+  </Table1>
+  <Table1>
+    <RowID>10</RowID>
+    <DepartmentCode>KP0010</DepartmentCode>
+    <DepartmentName>Phòng Tiểu Phẫu</DepartmentName>
+    <ServiceGroupCode>PTTT</ServiceGroupCode>
+    <Hide>1</Hide>
+    <IdBv>1</IdBv>
+    <KBHYT>K01</KBHYT>
+  </Table1>
+  <Table1>
+    <RowID>9</RowID>
+    <DepartmentCode>KP0009</DepartmentCode>
+    <DepartmentName>Phòng Xét Nghiệm</DepartmentName>
+    <ServiceGroupCode>XN</ServiceGroupCode>
+    <Hide>0</Hide>
+    <IdBv>1</IdBv>
+    <KBHYT>K01</KBHYT>
+  </Table1>
+  <Table1>
+    <RowID>8</RowID>
+    <DepartmentCode>KP0008</DepartmentCode>
+    <DepartmentName>Phòng X-Quang</DepartmentName>
+    <ServiceGroupCode>CDHA</ServiceGroupCode>
+    <Hide>1</Hide>
+    <IdBv>1</IdBv>
+    <KBHYT>K01</KBHYT>
+  </Table1>
+  <Table1>
+    <RowID>7</RowID>
+    <DepartmentCode>KP0007</DepartmentCode>
+    <DepartmentName>Phòng Siêu Âm</DepartmentName>
+    <ServiceGroupCode>CDHA</ServiceGroupCode>
+    <Hide>0</Hide>
+    <IdBv>1</IdBv>
+    <KBHYT>K01</KBHYT>
+  </Table1>
+  <Table1>
+    <RowID>6</RowID>
+    <DepartmentCode>KP0006</DepartmentCode>
+    <DepartmentName>Phòng Cấp Cứu </DepartmentName>
+    <ServiceGroupCode>KCB</ServiceGroupCode>
+    <Hide>1</Hide>
+    <IdBv>1</IdBv>
+    <KBHYT>K01</KBHYT>
+  </Table1>
+  <Table1>
+    <RowID>4</RowID>
+    <DepartmentCode>KP0004</DepartmentCode>
+    <DepartmentName>PHÒNG KHÁM SẢN</DepartmentName>
+    <ServiceGroupCode>KCB</ServiceGroupCode>
+    <Hide>1</Hide>
+    <IdBv>1</IdBv>
+    <KBHYT>K01</KBHYT>
+  </Table1>
+  <Table1>
+    <RowID>3</RowID>
+    <DepartmentCode>KP0003</DepartmentCode>
+    <DepartmentName>PHÒNG KHÁM NGOẠI</DepartmentName>
+    <ServiceGroupCode>KCB</ServiceGroupCode>
+    <Hide>1</Hide>
+    <IdBv>1</IdBv>
+    <KBHYT>K01</KBHYT>
+  </Table1>
+  <Table1>
+    <RowID>2</RowID>
+    <DepartmentCode>KP0002</DepartmentCode>
+    <DepartmentName>PHÒNG KHÁM NHI</DepartmentName>
+    <ServiceGroupCode>KCB</ServiceGroupCode>
+    <Hide>1</Hide>
+    <IdBv>1</IdBv>
+    <KBHYT>K01</KBHYT>
+  </Table1>
+  <Table1>
+    <RowID>1</RowID>
+    <DepartmentCode>KP0001</DepartmentCode>
+    <DepartmentName>PHÒNG KHÁM NỘI</DepartmentName>
+    <ServiceGroupCode>KCB</ServiceGroupCode>
+    <Hide>0</Hide>
+    <IdBv>1</IdBv>
+    <KBHYT>K01</KBHYT>
+  </Table1>
+</NewDataSet>

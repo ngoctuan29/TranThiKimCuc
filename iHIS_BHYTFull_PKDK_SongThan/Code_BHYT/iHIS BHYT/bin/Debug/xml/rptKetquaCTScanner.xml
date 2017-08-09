@@ -1,0 +1,40 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <ClinicCode>1</ClinicCode>
+    <ClinicName>PHÒNG KHÁM CHUYÊN KHOA TIM MẠCH - MẠCH MÁU ĐỨC TÍN</ClinicName>
+    <ClinicAddress>Địa chỉ: Số 7 Lô A, Cư Xá Bùi Minh Trực, Đường Bùi Minh Trực, Phường 5, Quận 8 TP Hồ Chí Minh</ClinicAddress>
+    <Province>Tp Hồ Chí Minh</Province>
+    <Phone>Ði?n tho?i: (08) 39812678 | Fax: (08) 37559539</Phone>
+    <Mobile>Ði?n tho?i: (08) 39812678 | Fax: (08) 37559539</Mobile>
+    <Doctor>Ths Bs Lê Đức Tín</Doctor>
+    <WorkingDateLine01 />
+    <WorkingDateLine02 />
+    <WorkingDateLine03 />
+    <KCBBDCode>8080</KCBBDCode>
+  </Table1>
+  <Table2>
+    <ReceiptID>657</ReceiptID>
+    <DepartmentCode>KP0006</DepartmentCode>
+    <ServiceCode>DV000037</ServiceCode>
+    <ServicePrice>900000.00</ServicePrice>
+    <DisparityPrice>0.00</DisparityPrice>
+    <Status>1</Status>
+    <Paid>0</Paid>
+    <PatientCode>14000012</PatientCode>
+    <ObjectCode>2</ObjectCode>
+    <WorkDate>2014-06-14T21:02:28.02+07:00</WorkDate>
+    <PatientName>Bn Full 12</PatientName>
+    <PatientAddress>Thanh Pho Bac Lieu</PatientAddress>
+    <PatientAge>24</PatientAge>
+    <ObjectName>Thu Phí</ObjectName>
+    <DepartmentName>Phòng chụp CT-Scanner</DepartmentName>
+    <PatientGenderName>Nam</PatientGenderName>
+    <PatientBirthyear>1990</PatientBirthyear>
+    <ServiceName>Chụp CT-Scan (Bụng-chậu)</ServiceName>
+    <Contents>{\rtf1\deff0{\fonttbl{\f0 Times New Roman;}}{\colortbl\red0\green0\blue0 ;\red0\green0\blue255 ;}{\*\listoverridetable}{\stylesheet {\ql Normal;}{\*\cs1 Default Paragraph Font;}{\*\cs2\sbasedon1 Line Number;}{\*\cs3\ul\cf1 Hyperlink;}{\*\ts4\tsrowd\ql\trautofit1\tscellpaddfl3\tscellpaddl108\tscellpaddfr3\tscellpaddr108\tsvertalt\cltxlrtb Normal Table;}{\*\ts5\tsrowd\sbasedon4\ql\trbrdrt\brdrs\brdrw10\trbrdrl\brdrs\brdrw10\trbrdrb\brdrs\brdrw10\trbrdrr\brdrs\brdrw10\trautofit1\tscellpaddfl3\tscellpaddl108\tscellpaddfr3\tscellpaddr108\tsvertalt\cltxlrtb Table Simple 1;}}\nouicompat\splytwnine\htmautsp\sectd\pard\plain\ql{\cf0 K\u7929\'3f thu\u7853\'3ft th\u7921\'3fc hi\u7879\'3fn:}\par\pard\plain\ql{\cf0 C\u225\'e1c l\u225\'e1t c\u7855\'3ft xo\u7855\'3fn li\u234\'ean t\u7909\'3fc d\u224\'e0y 2.5mm t\u7915\'3f v\u242\'f2m ho\u224\'e0nh qua h\u7871\'3ft kh\u7899\'3fp mu tr\u432\'75\u7899\'3fc v\u224\'e0 sau ti\u234\'eam thu\u7889\'3fc t\u432\'75\u417\'6fng ph\u7843\'3fn. T\u225\'e1i t\u7841\'3fo v\u224\'e0 tr\u236\'ecnh b\u224\'e0y v\u7899\'3fi k\u7929\'3f thu\u7853\'3ft MPR.}\par\pard\plain\ql\par\pard\plain\ql{\cf0 M\u244\'f4 t\u7843\'3f:}\par\pard\plain\ql{\cf0 -              Gan b\u7901\'3f \u273\'64\u7873\'3fu, k\u237\'edch th\u432\'75\u7899\'3fc gan kh\u244\'f4ng l\u7899\'3fn. \u272\'d0\u432\'75\u7901\'3fng m\u7853\'3ft trong v\u224\'e0 ngo\u224\'e0i gan kh\u244\'f4ng gi\u227\'e3n, kh\u244\'f4ng th\u7845\'3fy s\u7887\'3fi \u273\'64\u432\'75\u7901\'3fng m\u7853\'3ft. T\u250\'fai m\u7853\'3ft kh\u244\'f4ng l\u7899\'3fn, th\u224\'e0nh \u273\'64\u7873\'3fu kh\u244\'f4ng d\u224\'e0y.}\par\pard\plain\ql\par\pard\plain\ql{\cf0 -\tab Kh\u244\'f4ng th\u7845\'3fy b\u7845\'3ft th\u432\'75\u7901\'3fng h\u236\'ecnh d\u7841\'3fng, k\u237\'edch th\u432\'75\u7899\'3fc v\u224\'e0 \u273\'64\u7853\'3fm \u273\'64\u7897\'3f nhu m\u244\'f4 l\u225\'e1ch.}\par\pard\plain\ql\par\pard\plain\ql{\cf0 -\tab Kh\u244\'f4ng th\u7845\'3fy b\u7845\'3ft th\u432\'75\u7901\'3fng h\u236\'ecnh d\u7841\'3fng v\u224\'e0 \u273\'64\u7853\'3fm \u273\'64\u7897\'3f nhu m\u244\'f4 t\u7909\'3fy. Kh\u244\'f4ng th\u7845\'3fy gi\u227\'e3n \u7889\'3fng t\u7909\'3fy.}\par\pard\plain\ql\par\pard\plain\ql{\cf0 -\tab Kh\u244\'f4ng th\u7845\'3fy b\u7845\'3ft th\u432\'75\u7901\'3fng h\u236\'ecnh d\u7841\'3fng, k\u237\'edch th\u432\'75\u7899\'3fc v\u224\'e0 \u273\'64\u7853\'3fm \u273\'64\u7897\'3f nhu m\u244\'f4 hai th\u7853\'3fn. \u272\'d0\u224\'e0i-b\u7875\'3f th\u7853\'3fn v\u224\'e0 ni\u7879\'3fu qu\u7843\'3fn hai b\u234\'ean kh\u244\'f4ng gi\u227\'e3n, kh\u244\'f4ng th\u7845\'3fy s\u7887\'3fi h\u7879\'3f ni\u7879\'3fu.}\par\pard\plain\ql\par\pard\plain\ql{\cf0 -\tab Kh\u244\'f4ng th\u7845\'3ft b\u7845\'3ft th\u432\'75\u7901\'3fng \u7889\'3fng ti\u234\'eau h\u243\'f3a.}\par\pard\plain\ql\par\pard\plain\ql{\cf0 -\tab Kh\u244\'f4ng th\u7845\'3fy b\u7845\'3ft th\u432\'75\u7901\'3fng m\u7841\'3fch m\u225\'e1u v\u249\'f9ng b\u7909\'3fng.}\par\pard\plain\ql\par\pard\plain\ql{\cf0 -\tab Kh\u244\'f4ng th\u7845\'3fy d\u7883\'3fch t\u7921\'3f do trong \u7893\'3f b\u7909\'3fng.}\par\pard\plain\ql\par\pard\plain\ql{\cf0 -\tab Kh\u244\'f4ng th\u7845\'3fy kh\u237\'ed t\u7921\'3f do trong \u7893\'3f b\u7909\'3fng.}\par\pard\plain\ql\par\pard\plain\ql{\cf0 -\tab Kh\u244\'f4ng th\u7845\'3fy r\u245\'f5 r\u7879\'3ft h\u7841\'3fch b\u7879\'3fnh l\u253\'fd \u7893\'3f b\u7909\'3fng.}\par\pard\plain\ql\par\pard\plain\ql{\cf0 -\tab Kh\u244\'f4ng th\u7845\'3fy b\u7845\'3ft th\u432\'75\u7901\'3fng v\u249\'f9ng ti\u7875\'3fu khung.}\par\pard\plain\ql\par\pard\plain\ql{\cf0 -\tab Kh\u244\'f4ng th\u7845\'3fy tr\u224\'e0n d\u7883\'3fch m\u224\'e0ng ph\u7893\'3fi hai b\u234\'ean.}\par\pard\plain\ql\par\pard\plain\ql{\cf0 -\tab Kh\u244\'f4ng th\u7845\'3fy t\u7893\'3fn th\u432\'75\u417\'6fng th\u224\'e0nh b\u7909\'3fng.}\par}</Contents>
+    <Conclusion>Không thấy dịch tự do ổ bụng hay tổn thương các cơ quan trong ổ bụng.</Conclusion>
+    <Proposal>jif ji</Proposal>
+    <EmployeeName>Admin Đồng PV</EmployeeName>
+  </Table2>
+</NewDataSet>

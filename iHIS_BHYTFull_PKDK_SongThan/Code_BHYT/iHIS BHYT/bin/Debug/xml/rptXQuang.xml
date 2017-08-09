@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <ClinicCode>1</ClinicCode>
+    <ClinicName>PHONG KHAM A</ClinicName>
+    <ClinicAddress>dia chi</ClinicAddress>
+    <Province>thanh pho</Province>
+    <Phone>dien thoai</Phone>
+    <Mobile>di dong</Mobile>
+    <Doctor>pham van dong</Doctor>
+    <WorkingDateLine01>lam viec 1</WorkingDateLine01>
+    <WorkingDateLine02>lam v2</WorkingDateLine02>
+    <WorkingDateLine03>lam viec3</WorkingDateLine03>
+    <KCBBDCode>8080</KCBBDCode>
+  </Table1>
+</NewDataSet>

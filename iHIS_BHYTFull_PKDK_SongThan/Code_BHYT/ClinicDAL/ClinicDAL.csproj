@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{FABEBC26-B925-42EB-BC88-365140F9575F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ClinicDAL</RootNamespace>
+    <AssemblyName>ClinicDAL</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.SqlServer.Smo, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ADRDAL.cs" />
+    <Compile Include="BasicPackageDAL.cs" />
+    <Compile Include="ConnectDataExcel.cs" />
+    <Compile Include="DrugCheckDAL.cs" />
+    <Compile Include="Fee_Advance_PaymentDAL.cs" />
+    <Compile Include="Fee_NoteBookDAL.cs" />
+    <Compile Include="HSBA_SynchronizeDal.cs" />
+    <Compile Include="ReportDiscountDal.cs" />
+    <Compile Include="Rpt_VuDieuTriDAL.cs" />
+    <Compile Include="SSTDAL.cs" />
+    <Compile Include="TNTTDal.cs" />
+    <Compile Include="MedicalRecordOutputDAL.cs" />
+    <Compile Include="AdvicesDal.cs" />
+    <Compile Include="BanksAccountDal.cs" />
+    <Compile Include="BanksAccountDetailDal.cs" />
+    <Compile Include="BHYTDal.cs" />
+    <Compile Include="BHYTParametersDal.cs" />
+    <Compile Include="BracketPrice_DAL.cs" />
+    <Compile Include="CareerDAL.cs" />
+    <Compile Include="CatalogComputerDAL.cs" />
+    <Compile Include="CatalogDistrictDAL.cs" />
+    <Compile Include="CatalogEthnicDAL.cs" />
+    <Compile Include="CatalogNationalityDAL.cs" />
+    <Compile Include="CatalogProvincialDal.cs" />
+    <Compile Include="CatalogWardDAL.cs" />
+    <Compile Include="Catalog_BHYTDAL.cs" />
+    <Compile Include="Catalog_ExchangeRateDAL.cs" />
+    <Compile Include="Catalog_FoodDAL.cs" />
+    <Compile Include="Catalog_SurgicalCrewDAL.cs" />
+    <Compile Include="ClinicInformationDal.cs" />
+    <Compile Include="ConnectDB.cs" />
+    <Compile Include="ConnectDBiLAB.cs" />
+    <Compile Include="HospitalTransferDAL.cs" />
+    <Compile Include="iHISAccessConfigDataDAL.cs" />
+    <Compile Include="PatientsSendSMSDAL.cs" />
+    <Compile Include="ReportBHYTDal.cs" />
+    <Compile Include="CountryDAL.cs" />
+    <Compile Include="DepartmentDal.cs" />
+    <Compile Include="DiagnosisAbbreviationsDal.cs" />
+    <Compile Include="DiagnosisCustomDAL.cs" />
+    <Compile Include="DiagnosisDal.cs" />
+    <Compile Include="EmployeeDal.cs" />
+    <Compile Include="EmployeePositionDal.cs" />
+    <Compile Include="ExportVendorDal.cs" />
+    <Compile Include="ExportWarehousingDAL.cs" />
+    <Compile Include="FoodCategoryDAL.cs" />
+    <Compile Include="FoodDetailDAL.cs" />
+    <Compile Include="FoodEntryDAL.cs" />
+    <Compile Include="ImmunizationRecordDal.cs" />
+    <Compile Include="InstructionDal.cs" />
+    <Compile Include="IntroducerDAL.cs" />
+    <Compile Include="InventoryDal.cs" />
+    <Compile Include="ItemCategoryDal.cs" />
+    <Compile Include="ItemGroupDAL.cs" />
+    <Compile Include="Items_Dal.cs" />
+    <Compile Include="KCBBDDal.cs" />
+    <Compile Include="LaboratoryDAL.cs" />
+    <Compile Include="LaboratoryPackageDal.cs" />
+    <Compile Include="LaboratoryResultDescriptionDAL.cs" />
+    <Compile Include="MachineListsDal.cs" />
+    <Compile Include="MedicalEmergencyDAL.cs" />
+    <Compile Include="MedicalHistoryDal.cs" />
+    <Compile Include="MedicalPatternDAL.cs" />
+    <Compile Include="MedicalReasonDAL.cs" />
+    <Compile Include="MedicalRecord_DAL.cs" />
+    <Compile Include="MedicalSuppliesDAL.cs" />
+    <Compile Include="MedicinesForPatientsDal.cs" />
+    <Compile Include="MedicinesRetailDAL.cs" />
+    <Compile Include="MenuSecurityDal.cs" />
+    <Compile Include="MenuListDal.cs" />
+    <Compile Include="NationalityDal.cs" />
+    <Compile Include="ObjectDal.cs" />
+    <Compile Include="PatientAppointment_DAL.cs" />
+    <Compile Include="PatientReceiveCocumentImageDAL.cs" />
+    <Compile Include="PatientReceiveDal.cs" />
+    <Compile Include="PatientsDal.cs" />
+    <Compile Include="PatientsRelationDal.cs" />
+    <Compile Include="PatientsRelationMenuDAL.cs" />
+    <Compile Include="PatientTypeDAL.cs" />
+    <Compile Include="Producer_DAL.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RateBHYTDal.cs" />
+    <Compile Include="RealMedicinesForPatientsDAL.cs" />
+    <Compile Include="RegionDal.cs" />
+    <Compile Include="RepositoryCatalog_Dal.cs" />
+    <Compile Include="rpt_Banking_DAL.cs" />
+    <Compile Include="rpt_General_DAL.cs" />
+    <Compile Include="rpt_Medicines_DAL.cs" />
+    <Compile Include="SamplePrescriptionHeader_DAL.cs" />
+    <Compile Include="SamplePrescriptionLine_DAL.cs" />
+    <Compile Include="ServiceCategoryDal.cs" />
+    <Compile Include="ServiceDal.cs" />
+    <Compile Include="ServiceGroupDal.cs" />
+    <Compile Include="iLABGetResultDAL.cs" />
+    <Compile Include="ServiceLaboratoryEntryDAL.cs" />
+    <Compile Include="ServiceMenuDAL.cs" />
+    <Compile Include="ServiceModuleDAL.cs" />
+    <Compile Include="ServicePackageDal.cs" />
+    <Compile Include="ServicePackageDetailDal.cs" />
+    <Compile Include="ServicePriceDal.cs" />
+    <Compile Include="ServiceRadiologyDal.cs" />
+    <Compile Include="ServiceSalesDAL.cs" />
+    <Compile Include="SuggestedServiceReceiptDal.cs" />
+    <Compile Include="SurgeriesDAL.cs" />
+    <Compile Include="SurviveSignDal.cs" />
+    <Compile Include="SymptomsDal.cs" />
+    <Compile Include="SystemParameterDal.cs" />
+    <Compile Include="Tackle_DAL.cs" />
+    <Compile Include="TemplateDescriptionDal.cs" />
+    <Compile Include="TemplateItemNormsDal.cs" />
+    <Compile Include="UnitOfMeasureDal.cs" />
+    <Compile Include="UnitOfRawDAL.cs" />
+    <Compile Include="UnitValuesDAL.cs" />
+    <Compile Include="UsageDal.cs" />
+    <Compile Include="VendorDal.cs" />
+    <Compile Include="Ven_AnalistDAL.cs" />
+    <Compile Include="VP_ServiceGroupPrintDal.cs" />
+    <Compile Include="Warehousing_DAL.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClinicModel\ClinicModel.csproj">
+      <Project>{87a5509f-93a4-4084-8f03-b19c1c1a4f67}</Project>
+      <Name>ClinicModel</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

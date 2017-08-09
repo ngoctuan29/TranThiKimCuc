@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<table>
+  <tableDuongDung>
+    <STT>1</STT>
+    <DuongDung />
+    <SoLuong>3.0000</SoLuong>
+    <TyLe>100.0000</TyLe>
+  </tableDuongDung>
+  <tableATC>
+    <STT>1</STT>
+    <PhanLoai>A</PhanLoai>
+    <NhomThuoc>Đường tiêu hóa và chuyển hóa</NhomThuoc>
+    <SoLuong>1.0000</SoLuong>
+    <TyLe>33.3333</TyLe>
+  </tableATC>
+  <tableATC>
+    <STT>2</STT>
+    <PhanLoai>C</PhanLoai>
+    <NhomThuoc>Hệ tim mạch</NhomThuoc>
+    <SoLuong>1.0000</SoLuong>
+    <TyLe>33.3333</TyLe>
+  </tableATC>
+  <tableATC>
+    <STT>3</STT>
+    <PhanLoai>D</PhanLoai>
+    <NhomThuoc>Thuốc dùng trên da</NhomThuoc>
+    <SoLuong>1.0000</SoLuong>
+    <TyLe>33.3333</TyLe>
+  </tableATC>
+  <tableNghiNgo>
+    <STT>1</STT>
+    <TenThuoc>dd</TenThuoc>
+    <SoLuong>1.0000</SoLuong>
+    <TyLe>33.3333</TyLe>
+  </tableNghiNgo>
+  <tableNghiNgo>
+    <STT>2</STT>
+    <TenThuoc>f</TenThuoc>
+    <SoLuong>1.0000</SoLuong>
+    <TyLe>33.3333</TyLe>
+  </tableNghiNgo>
+  <tableNghiNgo>
+    <STT>3</STT>
+    <TenThuoc>ư</TenThuoc>
+    <SoLuong>1.0000</SoLuong>
+    <TyLe>33.3333</TyLe>
+  </tableNghiNgo>
+</table>

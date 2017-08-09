@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<table>
+  <tableTuoi>
+    <STT>1</STT>
+    <Tuoi>&lt;= 01 tuổi</Tuoi>
+    <SoLuong>0.0000</SoLuong>
+    <TyLe>0.0000</TyLe>
+  </tableTuoi>
+  <tableTuoi>
+    <STT>2</STT>
+    <Tuoi>&gt;01-12 tuổi</Tuoi>
+    <SoLuong>0.0000</SoLuong>
+    <TyLe>0.0000</TyLe>
+  </tableTuoi>
+  <tableTuoi>
+    <STT>3</STT>
+    <Tuoi>&gt;12-18 tuổi</Tuoi>
+    <SoLuong>1.0000</SoLuong>
+    <TyLe>100.0000</TyLe>
+  </tableTuoi>
+  <tableTuoi>
+    <STT>4</STT>
+    <Tuoi>&gt;18-60 tuổi</Tuoi>
+    <SoLuong>0.0000</SoLuong>
+    <TyLe>0.0000</TyLe>
+  </tableTuoi>
+  <tableTuoi>
+    <STT>5</STT>
+    <Tuoi>&gt;60 tuổi</Tuoi>
+    <SoLuong>0.0000</SoLuong>
+    <TyLe>0.0000</TyLe>
+  </tableTuoi>
+  <tableTuoi>
+    <STT>6</STT>
+    <Tuoi>Không có thông tin	</Tuoi>
+    <SoLuong>0.0000</SoLuong>
+    <TyLe>0.0000</TyLe>
+  </tableTuoi>
+  <tableGioiTinh>
+    <STT>1</STT>
+    <GioiTinh>Nam</GioiTinh>
+    <SoLuong>1.0000</SoLuong>
+    <TyLe>100.0000</TyLe>
+  </tableGioiTinh>
+</table>

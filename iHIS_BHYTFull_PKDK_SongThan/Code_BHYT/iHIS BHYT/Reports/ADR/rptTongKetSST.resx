@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="xrLabel5.Text" xml:space="preserve">
+    <value>- Căn cứ Thông tư số 31/2012/TT  BYT ngày 20/12/2012 về hướng dẫn hoạt động dược lâm sàng trong bệnh viện.
+ 
+- Căn cứ Thông tư số 21/2013/TT BYT ngày 08/08/2013 quy định về tổ chức và hoạt động của Hội đồng thuốc và điều trị trong bệnh viện.
+ 
+- Căn cứ quyết định sô 4858/QĐ BYT ngày 3/12/2013 của Bộ trưởng Bộ Y tế ban hành thí điểm Bộ tiêu chí đánh giá chất lượng bệnh viện về tiêu chí C9.5 thông tin thuốc theo dõi báo cáo ADR kịp thời, đầy đủ.
+ 
+- Căn cứ Quyết định 2111/ QĐ BYT ngày 01/06/2015 về việc ban hành hướng dẫn quốc gia về cảnh giác dược trong đó hướng dẫn chi tiết về hoạt động giám sát phản ứng có hại và các vấn đề bất lợi khác liên quan đến thuốc tại Việt Nam.</value>
+  </data>
+  <data name="txtNhanXetKhoaPhong.Text" xml:space="preserve">
+    <value>Nhận thấy, Phòng khám BHYT có sai sót liên quan đến thuốc nhiều nhất chiếm tỷ lệ 47% (38 trường hợp). Tuy nhiên, các sai sót trên đã được bộ phận giám định đơn thuốc phát hiện kịp thời và liên hệ bác sĩ để chỉnh sửa nhằm phòng tránh các sai sót liên quan đến thuốc, đây là đặc điểm quan trọng nhất và vì vậy việc ngăn chặn và giảm thiểu sai sót liên quan đến thuốc trở thành một mục tiêu quan trọng trong chính sách an toàn thuốc của mỗi Quốc gia cũng như của các cơ sở y tế. </value>
+  </data>
+  <data name="xrLabel30.Text" xml:space="preserve">
+    <value>	Trong thực hành lâm sàng, sai sót liên quan đến thuốc có tác động tiêu cực đến người bệnh, làm tăng chi phí điều trị, ảnh hưởng lớn đến chất lượng dịch vụ chăm sóc sức khỏe. Đây là trách nhiệm chung của các bác sĩ, dược sĩ, điều dưỡng viên, kỹ thuật viên, hộ sinh…Do đó, cần hiểu rõ trách nhiệm của lãnh đạo quản lý và cá nhân để gia tăng an toàn trong quản lý sử dụng thuốc.
+
+	Khi có sai sót xảy ra, nhân viên y tế cần báo cáo với bộ phận phụ trách như Tiểu ban giám sát ADR, nhân viên giám sát sai sót trong điều trị,… bộ phận này sẽ thu nhận thông tin và giúp HĐT&amp;ĐT của bệnh viện tổ chức hội chẩn; thảo luận, đánh giá để đi đến kết luận cho hướng xử trí và đề xuất các biện pháp dự phòng tiếp theo. Những thông tin về sai sót cũng cần được thông báo hoặc tập huấn để rút kinh nghiệm trong cơ sở, đồng thời có thể cập nhật, bổ sung, sửa đổi danh mục thuốc, hướng dẫn điều trị và các quy trình chuyên môn khác tại cơ sở để phòng tránh sai sót. Ngoài ra, cần khuyến khích nhân viên y tế báo cáo tất cả các sai sót liên quan đến thuốc gặp phải trong quá trình khám và điều trị tại bệnh viện.
+</value>
+  </data>
+  <data name="$this.DataSourceSchema" xml:space="preserve">
+    <value>&lt;?xml version="1.0"?&gt;
+&lt;xs:schema id="tableDanhSach" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata"&gt;
+  &lt;xs:element name="tableDanhSach" msdata:IsDataSet="true" msdata:UseCurrentLocale="true"&gt;
+    &lt;xs:complexType&gt;
+      &lt;xs:choice minOccurs="0" maxOccurs="unbounded"&gt;
+        &lt;xs:element name="dtKhoaPhong"&gt;
+          &lt;xs:complexType&gt;
+            &lt;xs:sequence&gt;
+              &lt;xs:element name="STT" type="xs:string" minOccurs="0" /&gt;
+              &lt;xs:element name="KhoaPhong" type="xs:string" minOccurs="0" /&gt;
+              &lt;xs:element name="SoLuong" type="xs:string" minOccurs="0" /&gt;
+              &lt;xs:element name="TyLe" type="xs:string" minOccurs="0" /&gt;
+            &lt;/xs:sequence&gt;
+          &lt;/xs:complexType&gt;
+        &lt;/xs:element&gt;
+        &lt;xs:element name="dtHinhThuc"&gt;
+          &lt;xs:complexType&gt;
+            &lt;xs:sequence&gt;
+              &lt;xs:element name="STT" type="xs:string" minOccurs="0" /&gt;
+              &lt;xs:element name="HinhThuc" type="xs:string" minOccurs="0" /&gt;
+              &lt;xs:element name="SoLuong" type="xs:string" minOccurs="0" /&gt;
+              &lt;xs:element name="TyLe" type="xs:string" minOccurs="0" /&gt;
+            &lt;/xs:sequence&gt;
+          &lt;/xs:complexType&gt;
+        &lt;/xs:element&gt;
+        &lt;xs:element name="dtPhanLoai"&gt;
+          &lt;xs:complexType&gt;
+            &lt;xs:sequence&gt;
+              &lt;xs:element name="STT" type="xs:string" minOccurs="0" /&gt;
+              &lt;xs:element name="PhanLoai" type="xs:string" minOccurs="0" /&gt;
+              &lt;xs:element name="Nhom" type="xs:string" minOccurs="0" /&gt;
+              &lt;xs:element name="SoLuong" type="xs:string" minOccurs="0" /&gt;
+              &lt;xs:element name="TyLe" type="xs:string" minOccurs="0" /&gt;
+            &lt;/xs:sequence&gt;
+          &lt;/xs:complexType&gt;
+        &lt;/xs:element&gt;
+      &lt;/xs:choice&gt;
+    &lt;/xs:complexType&gt;
+  &lt;/xs:element&gt;
+&lt;/xs:schema&gt;</value>
+  </data>
+</root>

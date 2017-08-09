@@ -1,0 +1,327 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <ItemCode>TH000008</ItemCode>
+    <ItemName>Adalat 10</ItemName>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <TotalQtyBegin>1000.000</TotalQtyBegin>
+    <TotalAmountBegin>2253000.00000</TotalAmountBegin>
+    <QtyImport>0.00</QtyImport>
+    <AmountImport>0.0000</AmountImport>
+    <QtyImpTransfer>0.000</QtyImpTransfer>
+    <AmountImportTransfer>0.00000</AmountImportTransfer>
+    <QtyExport>0.00</QtyExport>
+    <AmountExport>0.0000</AmountExport>
+    <QtyRepaid>0.0000</QtyRepaid>
+    <AmountRepaid>0.000000</AmountRepaid>
+    <QtyRepaidVen>0.0000</QtyRepaidVen>
+    <AmountRepaidVen>0.000000</AmountRepaidVen>
+    <QtyTransfer>0.0000</QtyTransfer>
+    <AmountTransfer>0.000000</AmountTransfer>
+    <TotalQuantity>1000.000</TotalQuantity>
+    <TotalAmount>2253000.00000</TotalAmount>
+    <TotalQuantityEnd>1000.0000</TotalQuantityEnd>
+    <TotalAmountEnd>2253000.000000</TotalAmountEnd>
+    <TotalQuantityImport>0.00</TotalQuantityImport>
+    <TotalAmountImport>0.00000</TotalAmountImport>
+    <TotalQuantityExport>0.0000</TotalQuantityExport>
+    <TotalAmountExport>0.000000</TotalAmountExport>
+    <GroupName>Thuốc</GroupName>
+    <SafelyQuantity>0</SafelyQuantity>
+    <DateEnd>2017-01-31T00:00:00+07:00</DateEnd>
+    <UnitPrice>2253.00</UnitPrice>
+    <Shipment />
+    <QtyOfMeasure />
+    <Packed />
+    <Note />
+  </Table1>
+  <Table1>
+    <ItemCode>TH000017</ItemCode>
+    <ItemName>Alfachim</ItemName>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <TotalQtyBegin>1000.000</TotalQtyBegin>
+    <TotalAmountBegin>172000.00000</TotalAmountBegin>
+    <QtyImport>0.00</QtyImport>
+    <AmountImport>0.0000</AmountImport>
+    <QtyImpTransfer>0.000</QtyImpTransfer>
+    <AmountImportTransfer>0.00000</AmountImportTransfer>
+    <QtyExport>0.00</QtyExport>
+    <AmountExport>0.0000</AmountExport>
+    <QtyRepaid>0.0000</QtyRepaid>
+    <AmountRepaid>0.000000</AmountRepaid>
+    <QtyRepaidVen>0.0000</QtyRepaidVen>
+    <AmountRepaidVen>0.000000</AmountRepaidVen>
+    <QtyTransfer>0.0000</QtyTransfer>
+    <AmountTransfer>0.000000</AmountTransfer>
+    <TotalQuantity>1000.000</TotalQuantity>
+    <TotalAmount>172000.00000</TotalAmount>
+    <TotalQuantityEnd>1000.0000</TotalQuantityEnd>
+    <TotalAmountEnd>172000.000000</TotalAmountEnd>
+    <TotalQuantityImport>0.00</TotalQuantityImport>
+    <TotalAmountImport>0.00000</TotalAmountImport>
+    <TotalQuantityExport>0.0000</TotalQuantityExport>
+    <TotalAmountExport>0.000000</TotalAmountExport>
+    <GroupName>Thuốc</GroupName>
+    <SafelyQuantity>0</SafelyQuantity>
+    <DateEnd>2017-01-31T00:00:00+07:00</DateEnd>
+    <UnitPrice>172.00</UnitPrice>
+    <Shipment />
+    <QtyOfMeasure />
+    <Packed />
+    <Note />
+  </Table1>
+  <Table1>
+    <ItemCode>TH000028</ItemCode>
+    <ItemName>Ailaxon</ItemName>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <TotalQtyBegin>1000.000</TotalQtyBegin>
+    <TotalAmountBegin>148000.00000</TotalAmountBegin>
+    <QtyImport>0.00</QtyImport>
+    <AmountImport>0.0000</AmountImport>
+    <QtyImpTransfer>0.000</QtyImpTransfer>
+    <AmountImportTransfer>0.00000</AmountImportTransfer>
+    <QtyExport>0.00</QtyExport>
+    <AmountExport>0.0000</AmountExport>
+    <QtyRepaid>0.0000</QtyRepaid>
+    <AmountRepaid>0.000000</AmountRepaid>
+    <QtyRepaidVen>0.0000</QtyRepaidVen>
+    <AmountRepaidVen>0.000000</AmountRepaidVen>
+    <QtyTransfer>0.0000</QtyTransfer>
+    <AmountTransfer>0.000000</AmountTransfer>
+    <TotalQuantity>1000.000</TotalQuantity>
+    <TotalAmount>148000.00000</TotalAmount>
+    <TotalQuantityEnd>1000.0000</TotalQuantityEnd>
+    <TotalAmountEnd>148000.000000</TotalAmountEnd>
+    <TotalQuantityImport>0.00</TotalQuantityImport>
+    <TotalAmountImport>0.00000</TotalAmountImport>
+    <TotalQuantityExport>0.0000</TotalQuantityExport>
+    <TotalAmountExport>0.000000</TotalAmountExport>
+    <GroupName>Thuốc</GroupName>
+    <SafelyQuantity>0</SafelyQuantity>
+    <DateEnd>2017-01-31T00:00:00+07:00</DateEnd>
+    <UnitPrice>148.00</UnitPrice>
+    <Shipment />
+    <QtyOfMeasure />
+    <Packed />
+    <Note />
+  </Table1>
+  <Table1>
+    <ItemCode>TH000032</ItemCode>
+    <ItemName>Acepron 250mg</ItemName>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <TotalQtyBegin>1000.000</TotalQtyBegin>
+    <TotalAmountBegin>470000.00000</TotalAmountBegin>
+    <QtyImport>0.00</QtyImport>
+    <AmountImport>0.0000</AmountImport>
+    <QtyImpTransfer>0.000</QtyImpTransfer>
+    <AmountImportTransfer>0.00000</AmountImportTransfer>
+    <QtyExport>0.00</QtyExport>
+    <AmountExport>0.0000</AmountExport>
+    <QtyRepaid>0.0000</QtyRepaid>
+    <AmountRepaid>0.000000</AmountRepaid>
+    <QtyRepaidVen>0.0000</QtyRepaidVen>
+    <AmountRepaidVen>0.000000</AmountRepaidVen>
+    <QtyTransfer>0.0000</QtyTransfer>
+    <AmountTransfer>0.000000</AmountTransfer>
+    <TotalQuantity>1000.000</TotalQuantity>
+    <TotalAmount>470000.00000</TotalAmount>
+    <TotalQuantityEnd>1000.0000</TotalQuantityEnd>
+    <TotalAmountEnd>470000.000000</TotalAmountEnd>
+    <TotalQuantityImport>0.00</TotalQuantityImport>
+    <TotalAmountImport>0.00000</TotalAmountImport>
+    <TotalQuantityExport>0.0000</TotalQuantityExport>
+    <TotalAmountExport>0.000000</TotalAmountExport>
+    <GroupName>Thuốc</GroupName>
+    <SafelyQuantity>0</SafelyQuantity>
+    <DateEnd>2017-01-31T00:00:00+07:00</DateEnd>
+    <UnitPrice>470.00</UnitPrice>
+    <Shipment />
+    <QtyOfMeasure />
+    <Packed />
+    <Note />
+  </Table1>
+  <Table1>
+    <ItemCode>TH000033</ItemCode>
+    <ItemName>Acepron 80</ItemName>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <TotalQtyBegin>1000.000</TotalQtyBegin>
+    <TotalAmountBegin>400000.00000</TotalAmountBegin>
+    <QtyImport>0.00</QtyImport>
+    <AmountImport>0.0000</AmountImport>
+    <QtyImpTransfer>0.000</QtyImpTransfer>
+    <AmountImportTransfer>0.00000</AmountImportTransfer>
+    <QtyExport>0.00</QtyExport>
+    <AmountExport>0.0000</AmountExport>
+    <QtyRepaid>0.0000</QtyRepaid>
+    <AmountRepaid>0.000000</AmountRepaid>
+    <QtyRepaidVen>0.0000</QtyRepaidVen>
+    <AmountRepaidVen>0.000000</AmountRepaidVen>
+    <QtyTransfer>0.0000</QtyTransfer>
+    <AmountTransfer>0.000000</AmountTransfer>
+    <TotalQuantity>1000.000</TotalQuantity>
+    <TotalAmount>400000.00000</TotalAmount>
+    <TotalQuantityEnd>1000.0000</TotalQuantityEnd>
+    <TotalAmountEnd>400000.000000</TotalAmountEnd>
+    <TotalQuantityImport>0.00</TotalQuantityImport>
+    <TotalAmountImport>0.00000</TotalAmountImport>
+    <TotalQuantityExport>0.0000</TotalQuantityExport>
+    <TotalAmountExport>0.000000</TotalAmountExport>
+    <GroupName>Thuốc</GroupName>
+    <SafelyQuantity>0</SafelyQuantity>
+    <DateEnd>2017-01-31T00:00:00+07:00</DateEnd>
+    <UnitPrice>400.00</UnitPrice>
+    <Shipment />
+    <QtyOfMeasure />
+    <Packed />
+    <Note />
+  </Table1>
+  <Table1>
+    <ItemCode>TH000062</ItemCode>
+    <ItemName>AMBRON</ItemName>
+    <UnitOfMeasureName>Gói</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <TotalQtyBegin>1000.000</TotalQtyBegin>
+    <TotalAmountBegin>1000000.00000</TotalAmountBegin>
+    <QtyImport>0.00</QtyImport>
+    <AmountImport>0.0000</AmountImport>
+    <QtyImpTransfer>0.000</QtyImpTransfer>
+    <AmountImportTransfer>0.00000</AmountImportTransfer>
+    <QtyExport>0.00</QtyExport>
+    <AmountExport>0.0000</AmountExport>
+    <QtyRepaid>0.0000</QtyRepaid>
+    <AmountRepaid>0.000000</AmountRepaid>
+    <QtyRepaidVen>0.0000</QtyRepaidVen>
+    <AmountRepaidVen>0.000000</AmountRepaidVen>
+    <QtyTransfer>0.0000</QtyTransfer>
+    <AmountTransfer>0.000000</AmountTransfer>
+    <TotalQuantity>1000.000</TotalQuantity>
+    <TotalAmount>1000000.00000</TotalAmount>
+    <TotalQuantityEnd>1000.0000</TotalQuantityEnd>
+    <TotalAmountEnd>1000000.000000</TotalAmountEnd>
+    <TotalQuantityImport>0.00</TotalQuantityImport>
+    <TotalAmountImport>0.00000</TotalAmountImport>
+    <TotalQuantityExport>0.0000</TotalQuantityExport>
+    <TotalAmountExport>0.000000</TotalAmountExport>
+    <GroupName>Thuốc</GroupName>
+    <SafelyQuantity>0</SafelyQuantity>
+    <DateEnd>2017-01-31T00:00:00+07:00</DateEnd>
+    <UnitPrice>1000.00</UnitPrice>
+    <Shipment />
+    <QtyOfMeasure />
+    <Packed />
+    <Note />
+  </Table1>
+  <Table1>
+    <ItemCode>TH000115</ItemCode>
+    <ItemName>Amikacin Kabi 250mg</ItemName>
+    <UnitOfMeasureName>Lọ</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <TotalQtyBegin>2000.000</TotalQtyBegin>
+    <TotalAmountBegin>21630000.00000</TotalAmountBegin>
+    <QtyImport>0.00</QtyImport>
+    <AmountImport>0.0000</AmountImport>
+    <QtyImpTransfer>0.000</QtyImpTransfer>
+    <AmountImportTransfer>0.00000</AmountImportTransfer>
+    <QtyExport>0.00</QtyExport>
+    <AmountExport>0.0000</AmountExport>
+    <QtyRepaid>0.0000</QtyRepaid>
+    <AmountRepaid>0.000000</AmountRepaid>
+    <QtyRepaidVen>0.0000</QtyRepaidVen>
+    <AmountRepaidVen>0.000000</AmountRepaidVen>
+    <QtyTransfer>0.0000</QtyTransfer>
+    <AmountTransfer>0.000000</AmountTransfer>
+    <TotalQuantity>2000.000</TotalQuantity>
+    <TotalAmount>21630000.00000</TotalAmount>
+    <TotalQuantityEnd>2000.0000</TotalQuantityEnd>
+    <TotalAmountEnd>21630000.000000</TotalAmountEnd>
+    <TotalQuantityImport>0.00</TotalQuantityImport>
+    <TotalAmountImport>0.00000</TotalAmountImport>
+    <TotalQuantityExport>0.0000</TotalQuantityExport>
+    <TotalAmountExport>0.000000</TotalAmountExport>
+    <GroupName>Thuốc</GroupName>
+    <SafelyQuantity>0</SafelyQuantity>
+    <DateEnd>2017-01-31T00:00:00+07:00</DateEnd>
+    <UnitPrice>10815.00</UnitPrice>
+    <Shipment />
+    <QtyOfMeasure />
+    <Packed />
+    <Note />
+  </Table1>
+  <Table1>
+    <ItemCode>TH000119</ItemCode>
+    <ItemName>Acyclovir VPC 200</ItemName>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <TotalQtyBegin>1000.000</TotalQtyBegin>
+    <TotalAmountBegin>380000.00000</TotalAmountBegin>
+    <QtyImport>0.00</QtyImport>
+    <AmountImport>0.0000</AmountImport>
+    <QtyImpTransfer>0.000</QtyImpTransfer>
+    <AmountImportTransfer>0.00000</AmountImportTransfer>
+    <QtyExport>0.00</QtyExport>
+    <AmountExport>0.0000</AmountExport>
+    <QtyRepaid>0.0000</QtyRepaid>
+    <AmountRepaid>0.000000</AmountRepaid>
+    <QtyRepaidVen>0.0000</QtyRepaidVen>
+    <AmountRepaidVen>0.000000</AmountRepaidVen>
+    <QtyTransfer>0.0000</QtyTransfer>
+    <AmountTransfer>0.000000</AmountTransfer>
+    <TotalQuantity>1000.000</TotalQuantity>
+    <TotalAmount>380000.00000</TotalAmount>
+    <TotalQuantityEnd>1000.0000</TotalQuantityEnd>
+    <TotalAmountEnd>380000.000000</TotalAmountEnd>
+    <TotalQuantityImport>0.00</TotalQuantityImport>
+    <TotalAmountImport>0.00000</TotalAmountImport>
+    <TotalQuantityExport>0.0000</TotalQuantityExport>
+    <TotalAmountExport>0.000000</TotalAmountExport>
+    <GroupName>Thuốc</GroupName>
+    <SafelyQuantity>0</SafelyQuantity>
+    <DateEnd>2017-01-31T00:00:00+07:00</DateEnd>
+    <UnitPrice>380.00</UnitPrice>
+    <Shipment />
+    <QtyOfMeasure />
+    <Packed />
+    <Note />
+  </Table1>
+  <Table1>
+    <ItemCode>TH000120</ItemCode>
+    <ItemName>Acyclovir</ItemName>
+    <UnitOfMeasureName>Tuyp</UnitOfMeasureName>
+    <ItemCategoryName>KXD</ItemCategoryName>
+    <TotalQtyBegin>1000.000</TotalQtyBegin>
+    <TotalAmountBegin>4450000.00000</TotalAmountBegin>
+    <QtyImport>0.00</QtyImport>
+    <AmountImport>0.0000</AmountImport>
+    <QtyImpTransfer>0.000</QtyImpTransfer>
+    <AmountImportTransfer>0.00000</AmountImportTransfer>
+    <QtyExport>0.00</QtyExport>
+    <AmountExport>0.0000</AmountExport>
+    <QtyRepaid>0.0000</QtyRepaid>
+    <AmountRepaid>0.000000</AmountRepaid>
+    <QtyRepaidVen>0.0000</QtyRepaidVen>
+    <AmountRepaidVen>0.000000</AmountRepaidVen>
+    <QtyTransfer>0.0000</QtyTransfer>
+    <AmountTransfer>0.000000</AmountTransfer>
+    <TotalQuantity>1000.000</TotalQuantity>
+    <TotalAmount>4450000.00000</TotalAmount>
+    <TotalQuantityEnd>1000.0000</TotalQuantityEnd>
+    <TotalAmountEnd>4450000.000000</TotalAmountEnd>
+    <TotalQuantityImport>0.00</TotalQuantityImport>
+    <TotalAmountImport>0.00000</TotalAmountImport>
+    <TotalQuantityExport>0.0000</TotalQuantityExport>
+    <TotalAmountExport>0.000000</TotalAmountExport>
+    <GroupName>Thuốc</GroupName>
+    <SafelyQuantity>0</SafelyQuantity>
+    <DateEnd>2017-01-31T00:00:00+07:00</DateEnd>
+    <UnitPrice>4450.00</UnitPrice>
+    <Shipment />
+    <QtyOfMeasure />
+    <Packed />
+    <Note />
+  </Table1>
+</NewDataSet>

@@ -1,0 +1,427 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <ClinicCode>1</ClinicCode>
+    <ClinicName>VIỆN SỐT RÉT - KÝ SINH TRÙNG - CÔN TRÙNG - TP. HỒ CHÍ MINH</ClinicName>
+    <ClinicAddress>Địa chỉ: Số 699 Trần Hưng Đạo - Quận 5 - TP. Hồ Chí Minh</ClinicAddress>
+    <Province>Tp Hồ Chí Minh</Province>
+    <Phone>Ði?n tho?i: 08.3923.9946 / 3923.7422 / 3923.8091 /</Phone>
+    <Mobile>Ði?n tho?i: 08.3923.9946 / 3923.7422 / 3923.8091 /</Mobile>
+    <Doctor>Bs Lương Trường Sơn</Doctor>
+    <WorkingDateLine01>Sáng</WorkingDateLine01>
+    <WorkingDateLine02>Trưa</WorkingDateLine02>
+    <WorkingDateLine03>Thứ 7 &amp; CN</WorkingDateLine03>
+    <KCBBDCode>8080</KCBBDCode>
+  </Table1>
+  <Table2>
+    <RowID>25</RowID>
+    <PatientCode>15000004</PatientCode>
+    <ReferenceCode>BA000000002097</ReferenceCode>
+    <Conclusion />
+    <Proposal />
+    <PostingDate>2015-06-11T22:56:19.267+07:00</PostingDate>
+    <PatientReceiveID>5130</PatientReceiveID>
+    <ServiceCategoryCode>LO0016</ServiceCategoryCode>
+    <STT>1</STT>
+    <Status>2</Status>
+    <EmployeeCode>NV00006</EmployeeCode>
+    <ObjectCode>2</ObjectCode>
+    <PatientName>Lê Thị Ngọc Ánh</PatientName>
+    <PatientGenderName>Nữ</PatientGenderName>
+    <PatientBirthday>1986-01-01T00:00:00+07:00</PatientBirthday>
+    <PatientBirthyear>1986</PatientBirthyear>
+    <PatientAge>29</PatientAge>
+    <PatientAddress>B12/4 Ấp 2</PatientAddress>
+    <PatientMobile>01656 726 065</PatientMobile>
+    <PatientEmail />
+    <MedicalHistory />
+    <Allergy />
+    <ServiceCategoryName>Huyết học</ServiceCategoryName>
+    <EmployeeName>QUẢN LÝ PHÒNG KHÁM</EmployeeName>
+    <ObjectName>Khám thường</ObjectName>
+  </Table2>
+  <Table3>
+    <ServiceCode>DV000012</ServiceCode>
+    <UnitValues>mm</UnitValues>
+    <ValuesEntry />
+    <ValuedFemale />
+    <ValuedMale />
+    <ValuedNormal />
+    <MinValuedFemale>0</MinValuedFemale>
+    <MaxValuedFemale>0</MaxValuedFemale>
+    <MinValuedMale>0</MinValuedMale>
+    <MaxValuedMale>0</MaxValuedMale>
+    <Normal />
+    <NormalID>0</NormalID>
+    <LaboratoryName>Giờ I</LaboratoryName>
+    <ServiceName>Máu lắng - VS</ServiceName>
+  </Table3>
+  <Table3>
+    <ServiceCode>DV000012</ServiceCode>
+    <UnitValues>mm</UnitValues>
+    <ValuesEntry />
+    <ValuedFemale />
+    <ValuedMale />
+    <ValuedNormal />
+    <MinValuedFemale>0</MinValuedFemale>
+    <MaxValuedFemale>0</MaxValuedFemale>
+    <MinValuedMale>0</MinValuedMale>
+    <MaxValuedMale>0</MaxValuedMale>
+    <Normal />
+    <NormalID>0</NormalID>
+    <LaboratoryName>Giờ II</LaboratoryName>
+    <ServiceName>Máu lắng - VS</ServiceName>
+  </Table3>
+  <Table3>
+    <ServiceCode>DV000032</ServiceCode>
+    <UnitValues>K/µL</UnitValues>
+    <ValuesEntry>5</ValuesEntry>
+    <ValuedFemale>(4.8-10.8)</ValuedFemale>
+    <ValuedMale>(4.8-10.8)</ValuedMale>
+    <ValuedNormal>(4.8-10.8)</ValuedNormal>
+    <MinValuedFemale>5</MinValuedFemale>
+    <MaxValuedFemale>11</MaxValuedFemale>
+    <MinValuedMale>5</MinValuedMale>
+    <MaxValuedMale>11</MaxValuedMale>
+    <Normal />
+    <NormalID>0</NormalID>
+    <LaboratoryName>WBC(Bạch cầu)</LaboratoryName>
+    <ServiceName>Huyết Đồ - 18 Thông Số</ServiceName>
+  </Table3>
+  <Table3>
+    <ServiceCode>DV000032</ServiceCode>
+    <UnitValues>K/µL</UnitValues>
+    <ValuesEntry>5</ValuesEntry>
+    <ValuedFemale>(1.4-6.5)</ValuedFemale>
+    <ValuedMale>(1.4-6.5)</ValuedMale>
+    <ValuedNormal>(1.4-6.5)</ValuedNormal>
+    <MinValuedFemale>1</MinValuedFemale>
+    <MaxValuedFemale>7</MaxValuedFemale>
+    <MinValuedMale>1</MinValuedMale>
+    <MaxValuedMale>7</MaxValuedMale>
+    <Normal />
+    <NormalID>0</NormalID>
+    <LaboratoryName>Neut#</LaboratoryName>
+    <ServiceName>Huyết Đồ - 18 Thông Số</ServiceName>
+  </Table3>
+  <Table3>
+    <ServiceCode>DV000032</ServiceCode>
+    <UnitValues>K/µL</UnitValues>
+    <ValuesEntry>5</ValuesEntry>
+    <ValuedFemale>(1.2-3.4)</ValuedFemale>
+    <ValuedMale>(1.2-3.4)</ValuedMale>
+    <ValuedNormal>(1.2-3.4)</ValuedNormal>
+    <MinValuedFemale>1</MinValuedFemale>
+    <MaxValuedFemale>3</MaxValuedFemale>
+    <MinValuedMale>1</MinValuedMale>
+    <MaxValuedMale>3</MaxValuedMale>
+    <Normal>x</Normal>
+    <NormalID>1</NormalID>
+    <LaboratoryName>Lymp#</LaboratoryName>
+    <ServiceName>Huyết Đồ - 18 Thông Số</ServiceName>
+  </Table3>
+  <Table3>
+    <ServiceCode>DV000032</ServiceCode>
+    <UnitValues>K/µL</UnitValues>
+    <ValuesEntry>5</ValuesEntry>
+    <ValuedFemale>(0.1-0.6)</ValuedFemale>
+    <ValuedMale>(0.1-0.6)</ValuedMale>
+    <ValuedNormal>(0.1-0.6)</ValuedNormal>
+    <MinValuedFemale>0</MinValuedFemale>
+    <MaxValuedFemale>1</MaxValuedFemale>
+    <MinValuedMale>0</MinValuedMale>
+    <MaxValuedMale>1</MaxValuedMale>
+    <Normal>x</Normal>
+    <NormalID>1</NormalID>
+    <LaboratoryName>Mono#</LaboratoryName>
+    <ServiceName>Huyết Đồ - 18 Thông Số</ServiceName>
+  </Table3>
+  <Table3>
+    <ServiceCode>DV000032</ServiceCode>
+    <UnitValues>K/µL</UnitValues>
+    <ValuesEntry />
+    <ValuedFemale>(0.0-0.7)</ValuedFemale>
+    <ValuedMale>(0.0-0.7)</ValuedMale>
+    <ValuedNormal>(0.0-0.7)</ValuedNormal>
+    <MinValuedFemale>0</MinValuedFemale>
+    <MaxValuedFemale>1</MaxValuedFemale>
+    <MinValuedMale>0</MinValuedMale>
+    <MaxValuedMale>1</MaxValuedMale>
+    <Normal />
+    <NormalID>0</NormalID>
+    <LaboratoryName>Eos#</LaboratoryName>
+    <ServiceName>Huyết Đồ - 18 Thông Số</ServiceName>
+  </Table3>
+  <Table3>
+    <ServiceCode>DV000032</ServiceCode>
+    <UnitValues>K/µL</UnitValues>
+    <ValuesEntry>5</ValuesEntry>
+    <ValuedFemale>(0.0-0.1)</ValuedFemale>
+    <ValuedMale>(0.0-0.1)</ValuedMale>
+    <ValuedNormal>(0.0-0.1)</ValuedNormal>
+    <MinValuedFemale>0</MinValuedFemale>
+    <MaxValuedFemale>0</MaxValuedFemale>
+    <MinValuedMale>0</MinValuedMale>
+    <MaxValuedMale>0</MaxValuedMale>
+    <Normal>x</Normal>
+    <NormalID>1</NormalID>
+    <LaboratoryName>Bas#</LaboratoryName>
+    <ServiceName>Huyết Đồ - 18 Thông Số</ServiceName>
+  </Table3>
+  <Table3>
+    <ServiceCode>DV000032</ServiceCode>
+    <UnitValues>%</UnitValues>
+    <ValuesEntry />
+    <ValuedFemale>(42.0-75.2)</ValuedFemale>
+    <ValuedMale>(42.0-75.2)</ValuedMale>
+    <ValuedNormal>(42.0-75.2)</ValuedNormal>
+    <MinValuedFemale>42</MinValuedFemale>
+    <MaxValuedFemale>75</MaxValuedFemale>
+    <MinValuedMale>42</MinValuedMale>
+    <MaxValuedMale>75</MaxValuedMale>
+    <Normal />
+    <NormalID>0</NormalID>
+    <LaboratoryName>Neut%</LaboratoryName>
+    <ServiceName>Huyết Đồ - 18 Thông Số</ServiceName>
+  </Table3>
+  <Table3>
+    <ServiceCode>DV000032</ServiceCode>
+    <UnitValues>%</UnitValues>
+    <ValuesEntry>5</ValuesEntry>
+    <ValuedFemale>(20.0-51.1)</ValuedFemale>
+    <ValuedMale>(20.0-51.1)</ValuedMale>
+    <ValuedNormal>(20.0-51.1)</ValuedNormal>
+    <MinValuedFemale>20</MinValuedFemale>
+    <MaxValuedFemale>51</MaxValuedFemale>
+    <MinValuedMale>20</MinValuedMale>
+    <MaxValuedMale>51</MaxValuedMale>
+    <Normal>x</Normal>
+    <NormalID>1</NormalID>
+    <LaboratoryName>Lymp%</LaboratoryName>
+    <ServiceName>Huyết Đồ - 18 Thông Số</ServiceName>
+  </Table3>
+  <Table3>
+    <ServiceCode>DV000032</ServiceCode>
+    <UnitValues>%</UnitValues>
+    <ValuesEntry>5</ValuesEntry>
+    <ValuedFemale>(1.7-9.3)</ValuedFemale>
+    <ValuedMale>(1.7-9.3)</ValuedMale>
+    <ValuedNormal>(1.7-9.3)</ValuedNormal>
+    <MinValuedFemale>2</MinValuedFemale>
+    <MaxValuedFemale>9</MaxValuedFemale>
+    <MinValuedMale>2</MinValuedMale>
+    <MaxValuedMale>9</MaxValuedMale>
+    <Normal />
+    <NormalID>0</NormalID>
+    <LaboratoryName>Mono%</LaboratoryName>
+    <ServiceName>Huyết Đồ - 18 Thông Số</ServiceName>
+  </Table3>
+  <Table3>
+    <ServiceCode>DV000032</ServiceCode>
+    <UnitValues>%</UnitValues>
+    <ValuesEntry>5</ValuesEntry>
+    <ValuedFemale>(0.0-3.0)</ValuedFemale>
+    <ValuedMale>(0.0-3.0)</ValuedMale>
+    <ValuedNormal>(0.0-3.0)</ValuedNormal>
+    <MinValuedFemale>0</MinValuedFemale>
+    <MaxValuedFemale>3</MaxValuedFemale>
+    <MinValuedMale>0</MinValuedMale>
+    <MaxValuedMale>3</MaxValuedMale>
+    <Normal>x</Normal>
+    <NormalID>1</NormalID>
+    <LaboratoryName>Eos%</LaboratoryName>
+    <ServiceName>Huyết Đồ - 18 Thông Số</ServiceName>
+  </Table3>
+  <Table3>
+    <ServiceCode>DV000032</ServiceCode>
+    <UnitValues>%</UnitValues>
+    <ValuesEntry>5</ValuesEntry>
+    <ValuedFemale>(0.0-3.0)</ValuedFemale>
+    <ValuedMale>(0.0-3.0)</ValuedMale>
+    <ValuedNormal>(0.0-3.0)</ValuedNormal>
+    <MinValuedFemale>0</MinValuedFemale>
+    <MaxValuedFemale>3</MaxValuedFemale>
+    <MinValuedMale>0</MinValuedMale>
+    <MaxValuedMale>3</MaxValuedMale>
+    <Normal>x</Normal>
+    <NormalID>1</NormalID>
+    <LaboratoryName>Bas%</LaboratoryName>
+    <ServiceName>Huyết Đồ - 18 Thông Số</ServiceName>
+  </Table3>
+  <Table3>
+    <ServiceCode>DV000032</ServiceCode>
+    <UnitValues>M/µL</UnitValues>
+    <ValuesEntry>5</ValuesEntry>
+    <ValuedFemale>(4.2-6.1)</ValuedFemale>
+    <ValuedMale>(4.2-6.1)</ValuedMale>
+    <ValuedNormal>(4.2-6.1)</ValuedNormal>
+    <MinValuedFemale>4</MinValuedFemale>
+    <MaxValuedFemale>6</MaxValuedFemale>
+    <MinValuedMale>4</MinValuedMale>
+    <MaxValuedMale>6</MaxValuedMale>
+    <Normal />
+    <NormalID>0</NormalID>
+    <LaboratoryName>RBC(Hồng cầu)</LaboratoryName>
+    <ServiceName>Huyết Đồ - 18 Thông Số</ServiceName>
+  </Table3>
+  <Table3>
+    <ServiceCode>DV000032</ServiceCode>
+    <UnitValues>g/dL</UnitValues>
+    <ValuesEntry>5</ValuesEntry>
+    <ValuedFemale>(12.0-16.0)</ValuedFemale>
+    <ValuedMale>(12.0-16.0)</ValuedMale>
+    <ValuedNormal>(12.0-16.0)</ValuedNormal>
+    <MinValuedFemale>12</MinValuedFemale>
+    <MaxValuedFemale>16</MaxValuedFemale>
+    <MinValuedMale>12</MinValuedMale>
+    <MaxValuedMale>16</MaxValuedMale>
+    <Normal>x</Normal>
+    <NormalID>1</NormalID>
+    <LaboratoryName>Hgb</LaboratoryName>
+    <ServiceName>Huyết Đồ - 18 Thông Số</ServiceName>
+  </Table3>
+  <Table3>
+    <ServiceCode>DV000032</ServiceCode>
+    <UnitValues>%</UnitValues>
+    <ValuesEntry>5</ValuesEntry>
+    <ValuedFemale>(37.0-47.0)</ValuedFemale>
+    <ValuedMale>(37.0-47.0)</ValuedMale>
+    <ValuedNormal>(37.0-47.0)</ValuedNormal>
+    <MinValuedFemale>37</MinValuedFemale>
+    <MaxValuedFemale>47</MaxValuedFemale>
+    <MinValuedMale>37</MinValuedMale>
+    <MaxValuedMale>47</MaxValuedMale>
+    <Normal>x</Normal>
+    <NormalID>1</NormalID>
+    <LaboratoryName>Hct%</LaboratoryName>
+    <ServiceName>Huyết Đồ - 18 Thông Số</ServiceName>
+  </Table3>
+  <Table3>
+    <ServiceCode>DV000032</ServiceCode>
+    <UnitValues>fL</UnitValues>
+    <ValuesEntry>5</ValuesEntry>
+    <ValuedFemale>(81.0-99.0)</ValuedFemale>
+    <ValuedMale>(81.0-99.0)</ValuedMale>
+    <ValuedNormal>(81.0-99.0)</ValuedNormal>
+    <MinValuedFemale>81</MinValuedFemale>
+    <MaxValuedFemale>99</MaxValuedFemale>
+    <MinValuedMale>81</MinValuedMale>
+    <MaxValuedMale>99</MaxValuedMale>
+    <Normal>x</Normal>
+    <NormalID>1</NormalID>
+    <LaboratoryName>MCV</LaboratoryName>
+    <ServiceName>Huyết Đồ - 18 Thông Số</ServiceName>
+  </Table3>
+  <Table3>
+    <ServiceCode>DV000032</ServiceCode>
+    <UnitValues>pg</UnitValues>
+    <ValuesEntry />
+    <ValuedFemale>(10.0-31.0)</ValuedFemale>
+    <ValuedMale>(10.0-31.0)</ValuedMale>
+    <ValuedNormal>(10.0-31.0)</ValuedNormal>
+    <MinValuedFemale>10</MinValuedFemale>
+    <MaxValuedFemale>31</MaxValuedFemale>
+    <MinValuedMale>10</MinValuedMale>
+    <MaxValuedMale>31</MaxValuedMale>
+    <Normal />
+    <NormalID>0</NormalID>
+    <LaboratoryName>MCH</LaboratoryName>
+    <ServiceName>Huyết Đồ - 18 Thông Số</ServiceName>
+  </Table3>
+  <Table3>
+    <ServiceCode>DV000032</ServiceCode>
+    <UnitValues>g/dL</UnitValues>
+    <ValuesEntry>5</ValuesEntry>
+    <ValuedFemale>(33.0-37.0)</ValuedFemale>
+    <ValuedMale>(33.0-37.0)</ValuedMale>
+    <ValuedNormal>(33.0-37.0)</ValuedNormal>
+    <MinValuedFemale>33</MinValuedFemale>
+    <MaxValuedFemale>37</MaxValuedFemale>
+    <MinValuedMale>33</MinValuedMale>
+    <MaxValuedMale>37</MaxValuedMale>
+    <Normal>x</Normal>
+    <NormalID>1</NormalID>
+    <LaboratoryName>MCHC</LaboratoryName>
+    <ServiceName>Huyết Đồ - 18 Thông Số</ServiceName>
+  </Table3>
+  <Table3>
+    <ServiceCode>DV000032</ServiceCode>
+    <UnitValues>%</UnitValues>
+    <ValuesEntry />
+    <ValuedFemale>(5.5-14.5)</ValuedFemale>
+    <ValuedMale>(5.5-14.5)</ValuedMale>
+    <ValuedNormal>(5.5-14.5)</ValuedNormal>
+    <MinValuedFemale>6</MinValuedFemale>
+    <MaxValuedFemale>15</MaxValuedFemale>
+    <MinValuedMale>6</MinValuedMale>
+    <MaxValuedMale>15</MaxValuedMale>
+    <Normal />
+    <NormalID>0</NormalID>
+    <LaboratoryName>RDW%</LaboratoryName>
+    <ServiceName>Huyết Đồ - 18 Thông Số</ServiceName>
+  </Table3>
+  <Table3>
+    <ServiceCode>DV000032</ServiceCode>
+    <UnitValues>K/µL</UnitValues>
+    <ValuesEntry />
+    <ValuedFemale>(130-400)</ValuedFemale>
+    <ValuedMale>(130-400)</ValuedMale>
+    <ValuedNormal>(130-400)</ValuedNormal>
+    <MinValuedFemale>130</MinValuedFemale>
+    <MaxValuedFemale>400</MaxValuedFemale>
+    <MinValuedMale>130</MinValuedMale>
+    <MaxValuedMale>400</MaxValuedMale>
+    <Normal />
+    <NormalID>0</NormalID>
+    <LaboratoryName>Plt</LaboratoryName>
+    <ServiceName>Huyết Đồ - 18 Thông Số</ServiceName>
+  </Table3>
+  <Table3>
+    <ServiceCode>DV000032</ServiceCode>
+    <UnitValues>fL</UnitValues>
+    <ValuesEntry>5</ValuesEntry>
+    <ValuedFemale>(7.4-10.4)</ValuedFemale>
+    <ValuedMale>(7.4-10.4)</ValuedMale>
+    <ValuedNormal>(7.4-10.4)</ValuedNormal>
+    <MinValuedFemale>7</MinValuedFemale>
+    <MaxValuedFemale>10</MaxValuedFemale>
+    <MinValuedMale>7</MinValuedMale>
+    <MaxValuedMale>10</MaxValuedMale>
+    <Normal>x</Normal>
+    <NormalID>1</NormalID>
+    <LaboratoryName>MPV</LaboratoryName>
+    <ServiceName>Huyết Đồ - 18 Thông Số</ServiceName>
+  </Table3>
+  <Table3>
+    <ServiceCode>DV000032</ServiceCode>
+    <UnitValues>%</UnitValues>
+    <ValuesEntry />
+    <ValuedFemale>(0.01-15.00)</ValuedFemale>
+    <ValuedMale>(0.01-15.00)</ValuedMale>
+    <ValuedNormal>(0.01-15.00)</ValuedNormal>
+    <MinValuedFemale>0</MinValuedFemale>
+    <MaxValuedFemale>15</MaxValuedFemale>
+    <MinValuedMale>0</MinValuedMale>
+    <MaxValuedMale>15</MaxValuedMale>
+    <Normal />
+    <NormalID>0</NormalID>
+    <LaboratoryName>PCT%</LaboratoryName>
+    <ServiceName>Huyết Đồ - 18 Thông Số</ServiceName>
+  </Table3>
+  <Table3>
+    <ServiceCode>DV000032</ServiceCode>
+    <UnitValues>%</UnitValues>
+    <ValuesEntry />
+    <ValuedFemale>(9.0-15.0)</ValuedFemale>
+    <ValuedMale>(9.0-15.0)</ValuedMale>
+    <ValuedNormal>(9.0-15.0)</ValuedNormal>
+    <MinValuedFemale>9</MinValuedFemale>
+    <MaxValuedFemale>15</MaxValuedFemale>
+    <MinValuedMale>9</MinValuedMale>
+    <MaxValuedMale>15</MaxValuedMale>
+    <Normal />
+    <NormalID>0</NormalID>
+    <LaboratoryName>PDW</LaboratoryName>
+    <ServiceName>Huyết Đồ - 18 Thông Số</ServiceName>
+  </Table3>
+</NewDataSet>

@@ -1,0 +1,89 @@
+<?xml version="1.0" standalone="yes"?>
+<Result>
+  <Table1>
+    <ReferenceCode>172925</ReferenceCode>
+    <PatientCode>16000001</PatientCode>
+    <PatientName>Test</PatientName>
+    <PatientGendername>Nam</PatientGendername>
+    <PatientBirthday>1990-12-10T00:00:00+07:00</PatientBirthday>
+    <PatientBirthyear>1990</PatientBirthyear>
+    <PatientAge>26</PatientAge>
+    <PatientMobile>dien thoai</PatientMobile>
+    <PatientEmail>email</PatientEmail>
+    <PatientAddress>Xã Sơn Thành, Huyện Yên Thành, Tỉnh Nghệ An</PatientAddress>
+    <TotalAmount>115000.00</TotalAmount>
+    <TotalReal>115000.00</TotalReal>
+    <Exemptions>0.00</Exemptions>
+    <TotalSurcharge>0.0000</TotalSurcharge>
+    <PostingDate>21/12/2016</PostingDate>
+    <Invoice_MauSo>AS</Invoice_MauSo>
+    <Invoice_KyHieu />
+    <Invoice_HoTenKH>TEST</Invoice_HoTenKH>
+    <Invoice_DiaChi>XÃ SƠN THÀNH, HUYỆN YÊN THÀNH, TỈNH NGHỆ AN</Invoice_DiaChi>
+    <Invoice_MaSoThue />
+    <Invoice_DienThoai>DIEN THOAI</Invoice_DienThoai>
+    <Invoice_HTThanhToan>TM</Invoice_HTThanhToan>
+    <Invoice_VAT>0</Invoice_VAT>
+    <Invoice_DonVi />
+  </Table1>
+  <Table2>
+    <PatientCode>16000001</PatientCode>
+    <BHYTPay>0.00</BHYTPay>
+    <PatientPay>115000.00</PatientPay>
+    <TotalAmount>115000.00</TotalAmount>
+    <TotalReal>115000.00</TotalReal>
+    <PostingDate>2016-12-21T17:53:33.2+07:00</PostingDate>
+    <ServiceName>Khám Nội</ServiceName>
+    <ServiceModuleCode>KCB</ServiceModuleCode>
+    <ServicePrice>20000.00</ServicePrice>
+    <DisparityPrice>0.00</DisparityPrice>
+    <Quantity>1</Quantity>
+    <Amount>20000.00</Amount>
+    <Exemptions>0.00</Exemptions>
+    <TotalSurcharge>0.0000</TotalSurcharge>
+    <ServiceModuleName>Khám bệnh/Cấp cứu</ServiceModuleName>
+    <DVT>Lần</DVT>
+    <STT>1</STT>
+    <NoInvoice>AAA</NoInvoice>
+  </Table2>
+  <Table2>
+    <PatientCode>16000001</PatientCode>
+    <BHYTPay>0.00</BHYTPay>
+    <PatientPay>115000.00</PatientPay>
+    <TotalAmount>115000.00</TotalAmount>
+    <TotalReal>115000.00</TotalReal>
+    <PostingDate>2016-12-21T17:53:33.2+07:00</PostingDate>
+    <ServiceName>Siêu âm tim</ServiceName>
+    <ServiceModuleCode>CDHA</ServiceModuleCode>
+    <ServicePrice>50000.00</ServicePrice>
+    <DisparityPrice>0.00</DisparityPrice>
+    <Quantity>1</Quantity>
+    <Amount>50000.00</Amount>
+    <Exemptions>0.00</Exemptions>
+    <TotalSurcharge>0.0000</TotalSurcharge>
+    <ServiceModuleName>Chẩn đoán hình ảnh</ServiceModuleName>
+    <DVT>Lần</DVT>
+    <STT>2</STT>
+    <NoInvoice>AAA</NoInvoice>
+  </Table2>
+  <Table2>
+    <PatientCode>16000001</PatientCode>
+    <BHYTPay>0.00</BHYTPay>
+    <PatientPay>115000.00</PatientPay>
+    <TotalAmount>115000.00</TotalAmount>
+    <TotalReal>115000.00</TotalReal>
+    <PostingDate>2016-12-21T17:53:33.2+07:00</PostingDate>
+    <ServiceName>Tổng phân tích tế bào máu bằng máy đếm laser</ServiceName>
+    <ServiceModuleCode>XN</ServiceModuleCode>
+    <ServicePrice>45000.00</ServicePrice>
+    <DisparityPrice>0.00</DisparityPrice>
+    <Quantity>1</Quantity>
+    <Amount>45000.00</Amount>
+    <Exemptions>0.00</Exemptions>
+    <TotalSurcharge>0.0000</TotalSurcharge>
+    <ServiceModuleName>Xét nghiệm</ServiceModuleName>
+    <DVT>Lần</DVT>
+    <STT>3</STT>
+    <NoInvoice>AAA</NoInvoice>
+  </Table2>
+</Result>

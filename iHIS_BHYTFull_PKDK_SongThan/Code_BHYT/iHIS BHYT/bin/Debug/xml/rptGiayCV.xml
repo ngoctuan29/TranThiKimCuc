@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="Result" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="Result" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Table1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="HospitalTransfer" type="xs:string" minOccurs="0" />
+              <xs:element name="PatientReceiveID" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ObjectCode" type="xs:int" minOccurs="0" />
+              <xs:element name="DepartmentCode" type="xs:string" minOccurs="0" />
+              <xs:element name="DateIn" type="xs:string" minOccurs="0" />
+              <xs:element name="HourIn" type="xs:string" minOccurs="0" />
+              <xs:element name="DateMedical" type="xs:string" minOccurs="0" />
+              <xs:element name="HourMedical" type="xs:string" minOccurs="0" />
+              <xs:element name="Symptoms" type="xs:string" minOccurs="0" />
+              <xs:element name="LabResult" type="xs:string" minOccurs="0" />
+              <xs:element name="DiagnosisCustom" type="xs:string" minOccurs="0" />
+              <xs:element name="DrugUsed" type="xs:string" minOccurs="0" />
+              <xs:element name="ReferenceCode" type="xs:string" minOccurs="0" />
+              <xs:element name="Result" type="xs:string" minOccurs="0" />
+              <xs:element name="Reason" type="xs:string" minOccurs="0" />
+              <xs:element name="DateTransfer" type="xs:string" minOccurs="0" />
+              <xs:element name="HourTransfer" type="xs:string" minOccurs="0" />
+              <xs:element name="NumberSave" type="xs:string" minOccurs="0" />
+              <xs:element name="NumberTransfer" type="xs:string" minOccurs="0" />
+              <xs:element name="TransferExpediency" type="xs:string" minOccurs="0" />
+              <xs:element name="TransferFullName" type="xs:string" minOccurs="0" />
+              <xs:element name="EmployeeCode" type="xs:string" minOccurs="0" />
+              <xs:element name="DirectorApproval" type="xs:boolean" minOccurs="0" />
+              <xs:element name="PatientApproval" type="xs:boolean" minOccurs="0" />
+              <xs:element name="EmployeeCodeDoctor" type="xs:string" minOccurs="0" />
+              <xs:element name="WorkDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="PatientAddress" type="xs:string" minOccurs="0" />
+              <xs:element name="Serial01" type="xs:string" minOccurs="0" />
+              <xs:element name="Serial02" type="xs:string" minOccurs="0" />
+              <xs:element name="Serial03" type="xs:string" minOccurs="0" />
+              <xs:element name="Serial04" type="xs:string" minOccurs="0" />
+              <xs:element name="Serial05" type="xs:string" minOccurs="0" />
+              <xs:element name="Serial06" type="xs:string" minOccurs="0" />
+              <xs:element name="FromDate" type="xs:string" minOccurs="0" />
+              <xs:element name="ToDate" type="xs:string" minOccurs="0" />
+              <xs:element name="PatientName" type="xs:string" minOccurs="0" />
+              <xs:element name="PatientAge" type="xs:int" minOccurs="0" />
+              <xs:element name="PatientBirthday" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="EThnicName" type="xs:string" minOccurs="0" />
+              <xs:element name="CareerName" type="xs:string" minOccurs="0" />
+              <xs:element name="EmployeeNameDoctor" type="xs:string" minOccurs="0" />
+              <xs:element name="PatientGender" type="xs:string" minOccurs="0" />
+              <xs:element name="PatientMonth" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

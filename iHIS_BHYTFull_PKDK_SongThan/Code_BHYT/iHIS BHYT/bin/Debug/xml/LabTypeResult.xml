@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Lab>
+  <Parameter>
+    <Title>Trả kết quả theo thông số</Title>
+    <Value>1</Value>
+  </Parameter>
+  <Parameter>
+    <Title>Trả kết quả theo mẫu mô tả</Title>
+    <Value>2</Value>
+  </Parameter>
+</Lab>

@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<Result>
+  <Table1>
+    <ClinicCode>1</ClinicCode>
+    <ClinicName>PHÒNG KHÁM CHUYÊN KHOA TIM MẠCH - MẠCH MÁU ĐỨC TÍN</ClinicName>
+    <ClinicAddress>Địa chỉ: Số 7 Lô A, Cư Xá Bùi Minh Trực, Đường Bùi Minh Trực, Phường 5, Quận 8 TP Hồ Chí Minh</ClinicAddress>
+    <Province>Tp Hồ Chí Minh</Province>
+    <Phone>Phone: (08) 39812678 | Fax: (08) 37559539</Phone>
+    <Mobile>Phone: (08) 39812678 | Fax: (08) 37559539</Mobile>
+    <Doctor>Ths Bs Lê Đức Tín</Doctor>
+    <WorkingDateLine01>Sáng</WorkingDateLine01>
+    <WorkingDateLine02>Trưa</WorkingDateLine02>
+    <WorkingDateLine03>Thứ 7 &amp; CN</WorkingDateLine03>
+    <KCBBDCode>8080</KCBBDCode>
+  </Table1>
+  <Table2>
+    <MedicalRecordCode>BA000000000102</MedicalRecordCode>
+    <DiagnosisCode>K29     </DiagnosisCode>
+    <DiagnosisName>Viêm dạ dày và tá tràng                                                                                                                                         </DiagnosisName>
+    <PatientName>THỊ ĐƯỢC</PatientName>
+    <PatientAge>58</PatientAge>
+    <PatientBirthyear>1956</PatientBirthyear>
+    <PatientGenderName>Nữ</PatientGenderName>
+    <PatientAddress>316 TỔ 16, PHAN ĐÌNH GIÓT, HUYỆN THỐT NỐT, CẦN THƠ</PatientAddress>
+    <ObjectCode>2</ObjectCode>
+    <ObjectName>Thu Phí</ObjectName>
+    <AdvicesName>U?ng thu?c theo toa. </AdvicesName>
+    <EmployeeName>Ths Bs Lê Đức Tín</EmployeeName>
+    <TackleName>Cấp toa cho về</TackleName>
+    <DepartmentName>Phòng lưu bệnh</DepartmentName>
+    <ICD10KT>Bệnh Parkinson(G20);</ICD10KT>
+    <AppointmentDate>06/09/2014</AppointmentDate>
+  </Table2>
+  <Table3>
+    <MedicalRecordCode>BA000000000102</MedicalRecordCode>
+    <ItemCode>TH000002</ItemCode>
+    <ItemName>Allopurinol DMC </ItemName>
+    <DateOfIssues>1</DateOfIssues>
+    <Morning />
+    <Noon />
+    <Afternoon />
+    <Evening />
+    <Quantity>10.00</Quantity>
+    <Instruction />
+    <UnitPrice>1600.0000</UnitPrice>
+    <SalesPrice>1600.000</SalesPrice>
+    <RateBHYT>0</RateBHYT>
+    <Amount>16000.0000</Amount>
+    <UnitOfMeasureName>Viên</UnitOfMeasureName>
+    <BHYTPrice>580.000</BHYTPrice>
+    <Status>0</Status>
+    <RepositoryCode>KHO004</RepositoryCode>
+    <RepositoryName>Nhà thuốc</RepositoryName>
+  </Table3>
+</Result>

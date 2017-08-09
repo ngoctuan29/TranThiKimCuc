@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes"?>
+<table>
+  <Table1>
+    <PatientCode>17000034</PatientCode>
+    <PatientName>THUPHI11</PatientName>
+    <PatientReceiveID>212933</PatientReceiveID>
+    <CreateDate>2017-02-09T09:59:00+07:00</CreateDate>
+    <PatientBirthday>1990-01-01T00:00:00+07:00</PatientBirthday>
+    <PatientAge>27</PatientAge>
+    <PatientGenderName>Nữ</PatientGenderName>
+    <Address>Sai Gon</Address>
+    <WardName>Phường Điện Biên</WardName>
+    <DistrictName>Quận Ba Đình</DistrictName>
+    <ProvincialName>Thành phố Hà Nội</ProvincialName>
+    <PatientMobile />
+    <ObjectName>Thu phí</ObjectName>
+  </Table1>
+  <Table1>
+    <PatientCode>17000028</PatientCode>
+    <PatientName>NGUYỄN THỊ NGỌC HUYỀN</PatientName>
+    <PatientReceiveID>212934</PatientReceiveID>
+    <CreateDate>2017-02-09T12:08:00+07:00</CreateDate>
+    <PatientBirthday>1990-01-01T00:00:00+07:00</PatientBirthday>
+    <PatientAge>27</PatientAge>
+    <PatientGenderName>Nữ</PatientGenderName>
+    <Address>An Lạc Tây, Kế Sách, Sóc Trăng</Address>
+    <PatientMobile />
+    <ObjectName>BHYT</ObjectName>
+  </Table1>
+</table>

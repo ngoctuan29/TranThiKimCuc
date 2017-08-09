@@ -1,0 +1,72 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <RowID>1</RowID>
+    <PatientReceiveID>218320</PatientReceiveID>
+    <PatientCode>17039457</PatientCode>
+    <DepartmentCode>KP0001</DepartmentCode>
+    <ShiftWork>PM</ShiftWork>
+    <EmployeeCode>NV00001</EmployeeCode>
+    <MedicalRecordCode>BA20170712144630040</MedicalRecordCode>
+    <ObjectCode>2</ObjectCode>
+    <FullNameFamily />
+    <MobileFamily />
+    <DateIn>12/07/2017</DateIn>
+    <DiagnosisIntroduce />
+    <ReasonIn />
+    <Pathological_Process />
+    <Anamnesis_Personal />
+    <Anamnesis_Family />
+    <KB_Totality />
+    <KB_Parts />
+    <Pulse />
+    <Temperature />
+    <BloodPressure />
+    <BloodPressure1 />
+    <Weight_ />
+    <Breath />
+    <CLS_Brief />
+    <Drug_Brief />
+    <Treatment_DateFrom>12/07/2017</Treatment_DateFrom>
+    <Treatment_DateTo>12/07/2017</Treatment_DateTo>
+    <BenhAn_DienBienLamSang />
+    <BenhAn_TomTatXetNghiem />
+    <BenhAn_BenhKemTheo />
+    <BenhAn_BenhKemTheoTen />
+    <BenhAn_PPDieuTri />
+    <BenhAn_TTRaVien />
+    <BenhAn_HuongDieuTri />
+    <BenhAn_HSXQuang />
+    <BenhAn_HSCTScanner />
+    <BenhAn_HSSieuAm />
+    <BenhAn_HSXetNghiem />
+    <BenhAn_HSKhac />
+    <BenhAn_NguoiGiaoHS>NV00001</BenhAn_NguoiGiaoHS>
+    <BenhAn_NguoiNhanHS>NV00001</BenhAn_NguoiNhanHS>
+    <EmployeeDoctorCode>NV00109</EmployeeDoctorCode>
+    <DateWorking>2017-07-12T00:00:00+07:00</DateWorking>
+    <SoLuuTru>1</SoLuuTru>
+    <Cancel>false</Cancel>
+    <isYTe>false</isYTe>
+    <isTuDen>true</isTuDen>
+    <Initial_DiagnosisName />
+    <ICD10_OutName />
+    <BenhAn_BenhChinhTen />
+    <Workplace />
+    <HourIn>14</HourIn>
+    <MinuteIn>46</MinuteIn>
+    <PatientName>NGUYỄN THỊ A</PatientName>
+    <PatientAddress />
+    <PatientBirthday>1999-01-01T00:00:00+07:00</PatientBirthday>
+    <PatientAge>19</PatientAge>
+    <PatientGender>0</PatientGender>
+    <CareerName>Khác</CareerName>
+    <DepartmentName>PHÒNG KHÁM NỘI</DepartmentName>
+    <EmployeeName>Quản trị hệ thống</EmployeeName>
+    <EmployeeDoctorName>Đỗ Đặng Anh Đào</EmployeeDoctorName>
+    <NguoiGiaoHS>Quản trị hệ thống</NguoiGiaoHS>
+    <NguoiNhanHS>Quản trị hệ thống</NguoiNhanHS>
+    <EThnicName>Kinh</EThnicName>
+    <EThnicID>1</EThnicID>
+  </Table1>
+</NewDataSet>

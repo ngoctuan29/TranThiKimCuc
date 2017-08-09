@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <ClinicCode>1</ClinicCode>
+    <ClinicName>PHÒNG KHÁM ĐA KHOA SÓNG THẦN</ClinicName>
+    <ClinicAddress>244/1 KP.Thạnh Hòa B, P. An Thạnh, TX. Thuận An, Bình Dương</ClinicAddress>
+    <Province>Tỉnh Bình Dương</Province>
+    <Phone>(0650)3799769</Phone>
+    <Mobile />
+    <Doctor>Ths. Bs ...</Doctor>
+    <WorkingDateLine01 />
+    <WorkingDateLine02 />
+    <WorkingDateLine03 />
+    <KCBBDCode>74-74-150</KCBBDCode>
+    <PK247Code />
+    <UserName_BV />
+    <PassWord_BV />
+    <UserName_TC />
+    <PassWord_TC />
+  </Table1>
+  <Table2>
+    <ReceiptID>72129</ReceiptID>
+    <DepartmentCode>KP0012</DepartmentCode>
+    <ServiceCode>DV000362</ServiceCode>
+    <ServicePrice>140000.00</ServicePrice>
+    <DisparityPrice>0.00</DisparityPrice>
+    <Status>1</Status>
+    <Paid>1</Paid>
+    <PatientCode>17000105</PatientCode>
+    <ObjectCode>2</ObjectCode>
+    <WorkDateReceive>2017-04-17T14:16:00+07:00</WorkDateReceive>
+    <PatientName>THU PHI NOI SOI</PatientName>
+    <PatientAddress />
+    <PatientAge>27</PatientAge>
+    <ObjectName>Thu phí</ObjectName>
+    <DepartmentName>PHÒNG NỘI SOI</DepartmentName>
+    <PatientGenderName>Nam</PatientGenderName>
+    <PatientBirthyear>1990</PatientBirthyear>
+    <ServiceName>Nội Soi Tai Họng</ServiceName>
+    <Contents>{\rtf1\deff0{\fonttbl{\f0 Calibri;}{\f1 Times New Roman;}}{\colortbl ;\red0\green0\blue255 ;\red255\green0\blue0 ;}{\*\defchp \fs22}{\stylesheet {\ql\fs22 Normal;}{\*\cs1\fs22 Default Paragraph Font;}{\*\cs2\sbasedon1\fs22 Line Number;}{\*\cs3\ul\fs22\cf1 Hyperlink;}{\*\ts4\tsrowd\fs22\ql\tscellpaddfl3\tscellpaddl108\tscellpaddfb3\tscellpaddfr3\tscellpaddr108\tscellpaddft3\tsvertalt\cltxlrtb Normal Table;}{\*\ts5\tsrowd\sbasedon4\fs22\ql\trbrdrt\brdrs\brdrw10\trbrdrl\brdrs\brdrw10\trbrdrb\brdrs\brdrw10\trbrdrr\brdrs\brdrw10\trbrdrh\brdrs\brdrw10\trbrdrv\brdrs\brdrw10\tscellpaddfl3\tscellpaddl108\tscellpaddfr3\tscellpaddr108\tsvertalt\cltxlrtb Table Simple 1;}}{\*\listoverridetable}\nouicompat\splytwnine\htmautsp\sectd\marglsxn1440\margrsxn1440\margtsxn360\margbsxn1440\pard\plain\qc\nowidctlpar{\b\f1\fs41\cf2 N\u7896\'3fI SOI TAI H\u7884\'3fNG}\b\f1\fs32\cf2\par\pard\plain\ql\nowidctlpar{\b\f1\fs32\cf2 Tai:}\f1\fs32\par\pard\plain\ql\nowidctlpar{\f1\fs32\cf0  - \u7888\'3fng tai ngo\u224\'e0i: Kh\u244\'f4}\f1\fs32\par\pard\plain\ql\nowidctlpar{\f1\fs32\cf0  - M\u224\'e0ng nh\u297\'69: trong, nguy\u234\'ean v\u7865\'3fn}\f1\fs32\par\pard\plain\ql\nowidctlpar{\f1\fs32\cf0  - C\u225\'e1n b\u250\'faa: C\u242\'f2n}\f1\fs32\par\pard\plain\ql\nowidctlpar{\f1\fs32\cf0  - H\u242\'f2m nh\u297\'69: Kh\u244\'f4}\f1\fs32\par\pard\plain\ql\nowidctlpar{\f1\fs32\cf0  - VALSAVA: D\u432\'75\u417\'6fng t\u237\'ednh}\f1\fs32\par\pard\plain\ql\nowidctlpar{\b\f1\fs32\cf2 H\u7885\'3fng - Thanh qu\u7843\'3fn:}\f1\fs32\par\pard\plain\ql\nowidctlpar{\f1\fs32\cf0  - \u272\'d0\u225\'e1y l\u432\'75\u7905\'3fi: Amidan kh\u244\'f4ng qu\u225\'e1 ph\u225\'e1t}\f1\fs32\par\pard\plain\ql\nowidctlpar{\f1\fs32\cf0  - H\u7841\'3f h\u7885\'3fng: ni\u234\'eam m\u7841\'3fc h\u7891\'3fng}\f1\fs32\par\pard\plain\ql\nowidctlpar{\f1\fs32\cf0  - Xoang l\u234\'ea: th\u244\'f4ng tho\u225\'e1ng}\f1\fs32\par\pard\plain\ql\nowidctlpar{\f1\fs32\cf0  - Mi\u7879\'3fng th\u7921\'3fc qu\u7843\'3fn: ni\u234\'eam m\u7841\'3fc h\u7891\'3fng}\f1\fs32\par\pard\plain\ql\nowidctlpar{\f1\fs32\cf0  - S\u7909\'3fn ph\u7877\'3fu: h\u7891\'3fng}\f1\fs32\par\pard\plain\ql\nowidctlpar{\f1\fs32\cf0  - D\u226\'e2y thanh: tr\u417\'6fn l\u225\'e1ng}\f1\fs32\par\pard\plain\ql\nowidctlpar{\f1\fs32\cf0  - B\u259\'61ng thanh th\u7845\'3ft: th\u244\'f4ng tho\u225\'e1ng}\f1\fs32\par\pard\plain\ql\nowidctlpar{\f1\fs32\cf2 Ch\u250\'fa \u253\'fd: Nh\u7899\'3f mang theo phi\u7871\'3fu n\u224\'e0y khi kh\u225\'e1m l\u7841\'3fi l\u7847\'3fn sau}\f1\fs32\cf2\par\pard\plain\ql\f1\fs22\par\pard\plain\ql\f1\fs22\par}</Contents>
+    <Conclusion>{\rtf1\deff0{\fonttbl{\f0 Calibri;}{\f1 Times New Roman;}}{\colortbl ;\red0\green0\blue255 ;}{\*\defchp \fs22}{\stylesheet {\ql\fs22 Normal;}{\*\cs1\f1\fs20 Default Paragraph Font;}{\*\cs2\sbasedon1\f1\fs20 Line Number;}{\*\cs3\ul\fs22\cf1 Hyperlink;}{\*\ts4\tsrowd\fs22\ql\tscellpaddfl3\tscellpaddl108\tscellpaddfb3\tscellpaddfr3\tscellpaddr108\tscellpaddft3\tsvertalt\cltxlrtb Normal Table;}{\*\ts5\tsrowd\sbasedon4\fs22\ql\trbrdrt\brdrs\brdrw10\trbrdrl\brdrs\brdrw10\trbrdrb\brdrs\brdrw10\trbrdrr\brdrs\brdrw10\trbrdrh\brdrs\brdrw10\trbrdrv\brdrs\brdrw10\tscellpaddfl3\tscellpaddl108\tscellpaddfr3\tscellpaddr108\tsvertalt\cltxlrtb Table Simple 1;}}{\*\listoverridetable}\nouicompat\splytwnine\htmautsp\sectd\pard\plain\ql\f1\fs20\par}</Conclusion>
+    <Proposal />
+    <Symptoms>D</Symptoms>
+    <DiagnosisCode>0</DiagnosisCode>
+    <EmployeeNameHand>Võ Duy Thiện</EmployeeNameHand>
+    <EmployeeNameDoctor>Phan Ngọc Minh</EmployeeNameDoctor>
+    <DiagnosisCustom>D</DiagnosisCustom>
+    <Note />
+    <PostingDate>2017-04-17T14:17:00+07:00</PostingDate>
+    <WorkDateHand>2017-04-17T00:00:00+07:00</WorkDateHand>
+  </Table2>
+</NewDataSet>

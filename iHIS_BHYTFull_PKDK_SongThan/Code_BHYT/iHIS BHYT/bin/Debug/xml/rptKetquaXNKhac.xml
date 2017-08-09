@@ -1,0 +1,112 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <ClinicCode>1</ClinicCode>
+    <ClinicName>PHÒNG KHÁM 123 HÙNG VƯƠNG</ClinicName>
+    <ClinicAddress>Địa chỉ: Số 123 Hùng Vương, Phường Tân Bình, Thị Xã Đồng Xoài, Tỉnh Bình Phước</ClinicAddress>
+    <Province>Bình Phước</Province>
+    <Phone>Phone: (065) 13881639</Phone>
+    <Mobile>0918 787 966 </Mobile>
+    <Doctor>Bs Nguyễn Thị Lan</Doctor>
+    <WorkingDateLine01 />
+    <WorkingDateLine02 />
+    <WorkingDateLine03 />
+    <KCBBDCode>8080</KCBBDCode>
+  </Table1>
+  <Table2>
+    <PatientCode>14123410</PatientCode>
+    <ReferenceCode>BA000000000010</ReferenceCode>
+    <Conclusion />
+    <Proposal />
+    <PostingDate>2014-09-07T07:15:51.72+07:00</PostingDate>
+    <PatientReceiveID>358</PatientReceiveID>
+    <ServiceCategoryCode>LO0008</ServiceCategoryCode>
+    <STT>1</STT>
+    <Status>2</Status>
+    <EmployeeCode>NV00004</EmployeeCode>
+    <ObjectCode>2</ObjectCode>
+    <PatientName>NGUYỄN VŨ MINH DUY</PatientName>
+    <PatientGenderName>Nam</PatientGenderName>
+    <PatientBirthday>1983-01-01T00:00:00+07:00</PatientBirthday>
+    <PatientBirthyear>1983</PatientBirthyear>
+    <PatientAge>31</PatientAge>
+    <PatientAddress>Hồ Chí Minh</PatientAddress>
+    <PatientMobile />
+    <PatientEmail />
+    <MedicalHistory />
+    <Allergy />
+    <ServiceCategoryName>HÓA SINH</ServiceCategoryName>
+    <EmployeeName>Quản trị hệ thống</EmployeeName>
+    <ObjectName>Thu Phí</ObjectName>
+  </Table2>
+  <Table3>
+    <ServiceCode>DV000015</ServiceCode>
+    <UnitValues>U/L-37oC</UnitValues>
+    <ValuesEntry />
+    <ValuedFemale>≤ 40</ValuedFemale>
+    <ValuedMale>≤ 40</ValuedMale>
+    <MinValuedFemale>0</MinValuedFemale>
+    <MaxValuedFemale>40</MaxValuedFemale>
+    <MinValuedMale>0</MinValuedMale>
+    <MaxValuedMale>40</MaxValuedMale>
+    <Normal />
+    <LaboratoryName>SGPT (ALT)</LaboratoryName>
+    <ServiceName>Men gan SGPT</ServiceName>
+  </Table3>
+  <Table3>
+    <ServiceCode>DV000019</ServiceCode>
+    <UnitValues xml:space="preserve"> </UnitValues>
+    <ValuesEntry />
+    <ValuedFemale>Âm tính</ValuedFemale>
+    <ValuedMale>Âm tính</ValuedMale>
+    <MinValuedFemale>0</MinValuedFemale>
+    <MaxValuedFemale>0</MaxValuedFemale>
+    <MinValuedMale>0</MinValuedMale>
+    <MaxValuedMale>0</MaxValuedMale>
+    <Normal />
+    <LaboratoryName>Test HBsAg</LaboratoryName>
+    <ServiceName>Test nhanh HBsAg máu</ServiceName>
+  </Table3>
+  <Table3>
+    <ServiceCode>DV000021</ServiceCode>
+    <UnitValues xml:space="preserve"> </UnitValues>
+    <ValuesEntry />
+    <ValuedFemale>Âm tính</ValuedFemale>
+    <ValuedMale>Âm tính</ValuedMale>
+    <MinValuedFemale>0</MinValuedFemale>
+    <MaxValuedFemale>0</MaxValuedFemale>
+    <MinValuedMale>0</MinValuedMale>
+    <MaxValuedMale>0</MaxValuedMale>
+    <Normal />
+    <LaboratoryName>Test HIV</LaboratoryName>
+    <ServiceName>Test nhanh HIV máu</ServiceName>
+  </Table3>
+  <Table3>
+    <ServiceCode>DV000029</ServiceCode>
+    <UnitValues>mmol/L</UnitValues>
+    <ValuesEntry />
+    <ValuedFemale>2.5-7.5</ValuedFemale>
+    <ValuedMale>2.5-7.5</ValuedMale>
+    <MinValuedFemale>3</MinValuedFemale>
+    <MaxValuedFemale>8</MaxValuedFemale>
+    <MinValuedMale>3</MinValuedMale>
+    <MaxValuedMale>8</MaxValuedMale>
+    <Normal />
+    <LaboratoryName>Urea</LaboratoryName>
+    <ServiceName>Ure máu</ServiceName>
+  </Table3>
+  <Table3>
+    <ServiceCode>DV000033</ServiceCode>
+    <UnitValues>mmol/L</UnitValues>
+    <ValuesEntry />
+    <ValuedFemale>3.9-6.4</ValuedFemale>
+    <ValuedMale>3.9-6.4</ValuedMale>
+    <MinValuedFemale>4</MinValuedFemale>
+    <MaxValuedFemale>6</MaxValuedFemale>
+    <MinValuedMale>4</MinValuedMale>
+    <MaxValuedMale>6</MaxValuedMale>
+    <Normal />
+    <LaboratoryName>Glucose</LaboratoryName>
+    <ServiceName>Đường huyết lúc đói</ServiceName>
+  </Table3>
+</NewDataSet>

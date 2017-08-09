@@ -1,0 +1,80 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <ServiceCode>DV000046</ServiceCode>
+    <ServiceName>Siêu âm bụng tổng quát</ServiceName>
+    <ServicePrice>200000.0000</ServicePrice>
+    <Quantity>1</Quantity>
+    <AmountTotal>200000.00</AmountTotal>
+    <ServiceGroupName>Chẩn Đoán Hình Ảnh</ServiceGroupName>
+    <ServiceCategoryName>Siêu Âm</ServiceCategoryName>
+    <AmountDisparity>0.00</AmountDisparity>
+    <AmountSalesOff>0.00</AmountSalesOff>
+  </Table1>
+  <Table1>
+    <ServiceCode>DV000089</ServiceCode>
+    <ServiceName>Điện Tim</ServiceName>
+    <ServicePrice>50000.0000</ServicePrice>
+    <Quantity>1</Quantity>
+    <AmountTotal>50000.00</AmountTotal>
+    <ServiceGroupName>Chẩn Đoán Hình Ảnh</ServiceGroupName>
+    <ServiceCategoryName>Điện Tim</ServiceCategoryName>
+    <AmountDisparity>0.00</AmountDisparity>
+    <AmountSalesOff>0.00</AmountSalesOff>
+  </Table1>
+  <Table1>
+    <ServiceCode>DV000155</ServiceCode>
+    <ServiceName>Điện Não Đồ</ServiceName>
+    <ServicePrice>50000.0000</ServicePrice>
+    <Quantity>1</Quantity>
+    <AmountTotal>50000.00</AmountTotal>
+    <ServiceGroupName>Chẩn Đoán Hình Ảnh</ServiceGroupName>
+    <ServiceCategoryName>Điện Não</ServiceCategoryName>
+    <AmountDisparity>0.00</AmountDisparity>
+    <AmountSalesOff>0.00</AmountSalesOff>
+  </Table1>
+  <Table1>
+    <ServiceCode>DV000166</ServiceCode>
+    <ServiceName>Soi Nhuộm Huyết Trắng</ServiceName>
+    <ServicePrice>85000.0000</ServicePrice>
+    <Quantity>1</Quantity>
+    <AmountTotal>85000.00</AmountTotal>
+    <ServiceGroupName>Xét Nghiệm</ServiceGroupName>
+    <ServiceCategoryName>Xét Nghiệm Ký Sinh Trùng</ServiceCategoryName>
+    <AmountDisparity>0.00</AmountDisparity>
+    <AmountSalesOff>0.00</AmountSalesOff>
+  </Table1>
+  <Table1>
+    <ServiceCode>DV000170</ServiceCode>
+    <ServiceName>Bilirubin Toàn Phần</ServiceName>
+    <ServicePrice>100000.0000</ServicePrice>
+    <Quantity>1</Quantity>
+    <AmountTotal>100000.00</AmountTotal>
+    <ServiceGroupName>Xét Nghiệm</ServiceGroupName>
+    <ServiceCategoryName>Xét Nghiệm Sinh Hóa</ServiceCategoryName>
+    <AmountDisparity>0.00</AmountDisparity>
+    <AmountSalesOff>0.00</AmountSalesOff>
+  </Table1>
+  <Table1>
+    <ServiceCode>DV000184</ServiceCode>
+    <ServiceName>CK-MB</ServiceName>
+    <ServicePrice>70000.0000</ServicePrice>
+    <Quantity>1</Quantity>
+    <AmountTotal>70000.00</AmountTotal>
+    <ServiceGroupName>Xét Nghiệm</ServiceGroupName>
+    <ServiceCategoryName>Xét Nghiệm Sinh Hóa</ServiceCategoryName>
+    <AmountDisparity>0.00</AmountDisparity>
+    <AmountSalesOff>0.00</AmountSalesOff>
+  </Table1>
+  <Table1>
+    <ServiceCode>DV000352</ServiceCode>
+    <ServiceName>Khám Nội</ServiceName>
+    <ServicePrice>49000.0000</ServicePrice>
+    <Quantity>1</Quantity>
+    <AmountTotal>49000.00</AmountTotal>
+    <ServiceGroupName>Khám Bệnh</ServiceGroupName>
+    <ServiceCategoryName>Công Khám</ServiceCategoryName>
+    <AmountDisparity>0.00</AmountDisparity>
+    <AmountSalesOff>0.00</AmountSalesOff>
+  </Table1>
+</NewDataSet>

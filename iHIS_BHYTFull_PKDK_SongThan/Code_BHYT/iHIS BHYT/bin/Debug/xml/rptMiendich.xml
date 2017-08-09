@@ -1,0 +1,210 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <ClinicCode>1</ClinicCode>
+    <ClinicName>PHÒNG KHÁM 123 HÙNG VƯƠNG</ClinicName>
+    <ClinicAddress>Địa chỉ: Số 123 Hùng Vương, Phường Tân Bình, Thị Xã Đồng Xoài, Tỉnh Bình Phước</ClinicAddress>
+    <Province>Bình Phước</Province>
+    <Phone>Phone: (065) 13881639</Phone>
+    <Mobile>0918 787 966 </Mobile>
+    <Doctor>Bs Nguyễn Thị Lan</Doctor>
+    <WorkingDateLine01 />
+    <WorkingDateLine02 />
+    <WorkingDateLine03 />
+    <KCBBDCode>8080</KCBBDCode>
+  </Table1>
+  <Table2>
+    <PatientCode>14130274</PatientCode>
+    <ReferenceCode>BA000000000006</ReferenceCode>
+    <Conclusion />
+    <Proposal />
+    <PostingDate>2014-09-04T00:00:00+07:00</PostingDate>
+    <PatientReceiveID>310</PatientReceiveID>
+    <ServiceCategoryCode>LO0011</ServiceCategoryCode>
+    <STT>2</STT>
+    <Status>2</Status>
+    <EmployeeCode>NV00004</EmployeeCode>
+    <ObjectCode>2</ObjectCode>
+    <PatientName>PHẠM THỊ NGUYỆT</PatientName>
+    <PatientGenderName>Nữ</PatientGenderName>
+    <PatientBirthday>1987-01-01T00:00:00+07:00</PatientBirthday>
+    <PatientBirthyear>1987</PatientBirthyear>
+    <PatientAge>27</PatientAge>
+    <PatientAddress>Ấp 3 - Minh Lập</PatientAddress>
+    <PatientMobile>972021450</PatientMobile>
+    <PatientEmail />
+    <MedicalHistory>KHÔNG</MedicalHistory>
+    <Allergy>KHÔNG</Allergy>
+    <ServiceCategoryName>XN KHÁC</ServiceCategoryName>
+    <EmployeeName>Quản trị hệ thống</EmployeeName>
+    <ObjectName>Thu Phí</ObjectName>
+  </Table2>
+  <Table3>
+    <ServiceCode>DV000017</ServiceCode>
+    <UnitValues xml:space="preserve"> </UnitValues>
+    <ValuesEntry>10</ValuesEntry>
+    <ValuedFemale />
+    <ValuedMale />
+    <MinValuedFemale>0</MinValuedFemale>
+    <MaxValuedFemale>0</MaxValuedFemale>
+    <MinValuedMale>0</MinValuedMale>
+    <MaxValuedMale>0</MaxValuedMale>
+    <Normal />
+    <LaboratoryName>Pap Smear</LaboratoryName>
+    <ServiceName>Pap'smear</ServiceName>
+  </Table3>
+  <Table3>
+    <ServiceCode>DV000018</ServiceCode>
+    <UnitValues xml:space="preserve"> </UnitValues>
+    <ValuesEntry>20</ValuesEntry>
+    <ValuedFemale />
+    <ValuedMale />
+    <MinValuedFemale>0</MinValuedFemale>
+    <MaxValuedFemale>0</MaxValuedFemale>
+    <MinValuedMale>0</MinValuedMale>
+    <MaxValuedMale>0</MaxValuedMale>
+    <Normal />
+    <LaboratoryName>Nhận xét:</LaboratoryName>
+    <ServiceName>Soi tươi huyết trắng</ServiceName>
+  </Table3>
+  <Table3>
+    <ServiceCode>DV000018</ServiceCode>
+    <UnitValues xml:space="preserve"> </UnitValues>
+    <ValuesEntry>20</ValuesEntry>
+    <ValuedFemale />
+    <ValuedMale />
+    <MinValuedFemale>0</MinValuedFemale>
+    <MaxValuedFemale>0</MaxValuedFemale>
+    <MinValuedMale>0</MinValuedMale>
+    <MaxValuedMale>0</MaxValuedMale>
+    <Normal />
+    <LaboratoryName>Tính chất:</LaboratoryName>
+    <ServiceName>Soi tươi huyết trắng</ServiceName>
+  </Table3>
+  <Table3>
+    <ServiceCode>DV000018</ServiceCode>
+    <UnitValues xml:space="preserve"> </UnitValues>
+    <ValuesEntry />
+    <ValuedFemale />
+    <ValuedMale />
+    <MinValuedFemale>0</MinValuedFemale>
+    <MaxValuedFemale>0</MaxValuedFemale>
+    <MinValuedMale>0</MinValuedMale>
+    <MaxValuedMale>0</MaxValuedMale>
+    <Normal />
+    <LaboratoryName>Màu sắc:</LaboratoryName>
+    <ServiceName>Soi tươi huyết trắng</ServiceName>
+  </Table3>
+  <Table3>
+    <ServiceCode>DV000018</ServiceCode>
+    <UnitValues xml:space="preserve"> </UnitValues>
+    <ValuesEntry>30</ValuesEntry>
+    <ValuedFemale />
+    <ValuedMale />
+    <MinValuedFemale>0</MinValuedFemale>
+    <MaxValuedFemale>0</MaxValuedFemale>
+    <MinValuedMale>0</MinValuedMale>
+    <MaxValuedMale>0</MaxValuedMale>
+    <Normal />
+    <LaboratoryName>Mùi:</LaboratoryName>
+    <ServiceName>Soi tươi huyết trắng</ServiceName>
+  </Table3>
+  <Table3>
+    <ServiceCode>DV000018</ServiceCode>
+    <UnitValues xml:space="preserve"> </UnitValues>
+    <ValuesEntry>20</ValuesEntry>
+    <ValuedFemale />
+    <ValuedMale />
+    <MinValuedFemale>0</MinValuedFemale>
+    <MaxValuedFemale>0</MaxValuedFemale>
+    <MinValuedMale>0</MinValuedMale>
+    <MaxValuedMale>0</MaxValuedMale>
+    <Normal />
+    <LaboratoryName>Vi thể:</LaboratoryName>
+    <ServiceName>Soi tươi huyết trắng</ServiceName>
+  </Table3>
+  <Table3>
+    <ServiceCode>DV000018</ServiceCode>
+    <UnitValues xml:space="preserve"> </UnitValues>
+    <ValuesEntry>1</ValuesEntry>
+    <ValuedFemale />
+    <ValuedMale />
+    <MinValuedFemale>0</MinValuedFemale>
+    <MaxValuedFemale>0</MaxValuedFemale>
+    <MinValuedMale>0</MinValuedMale>
+    <MaxValuedMale>0</MaxValuedMale>
+    <Normal />
+    <LaboratoryName>Bạch cầu:</LaboratoryName>
+    <ServiceName>Soi tươi huyết trắng</ServiceName>
+  </Table3>
+  <Table3>
+    <ServiceCode>DV000018</ServiceCode>
+    <UnitValues xml:space="preserve"> </UnitValues>
+    <ValuesEntry />
+    <ValuedFemale />
+    <ValuedMale />
+    <MinValuedFemale>0</MinValuedFemale>
+    <MaxValuedFemale>0</MaxValuedFemale>
+    <MinValuedMale>0</MinValuedMale>
+    <MaxValuedMale>0</MaxValuedMale>
+    <Normal />
+    <LaboratoryName>Hồng cầu</LaboratoryName>
+    <ServiceName>Soi tươi huyết trắng</ServiceName>
+  </Table3>
+  <Table3>
+    <ServiceCode>DV000018</ServiceCode>
+    <UnitValues xml:space="preserve"> </UnitValues>
+    <ValuesEntry>0</ValuesEntry>
+    <ValuedFemale />
+    <ValuedMale />
+    <MinValuedFemale>0</MinValuedFemale>
+    <MaxValuedFemale>0</MaxValuedFemale>
+    <MinValuedMale>0</MinValuedMale>
+    <MaxValuedMale>0</MaxValuedMale>
+    <Normal />
+    <LaboratoryName>Tế bào âm đạo:</LaboratoryName>
+    <ServiceName>Soi tươi huyết trắng</ServiceName>
+  </Table3>
+  <Table3>
+    <ServiceCode>DV000018</ServiceCode>
+    <UnitValues xml:space="preserve"> </UnitValues>
+    <ValuesEntry>0</ValuesEntry>
+    <ValuedFemale />
+    <ValuedMale />
+    <MinValuedFemale>0</MinValuedFemale>
+    <MaxValuedFemale>0</MaxValuedFemale>
+    <MinValuedMale>0</MinValuedMale>
+    <MaxValuedMale>0</MaxValuedMale>
+    <Normal />
+    <LaboratoryName>Clue Cells:</LaboratoryName>
+    <ServiceName>Soi tươi huyết trắng</ServiceName>
+  </Table3>
+  <Table3>
+    <ServiceCode>DV000018</ServiceCode>
+    <UnitValues xml:space="preserve"> </UnitValues>
+    <ValuesEntry>0</ValuesEntry>
+    <ValuedFemale />
+    <ValuedMale />
+    <MinValuedFemale>0</MinValuedFemale>
+    <MaxValuedFemale>0</MaxValuedFemale>
+    <MinValuedMale>0</MinValuedMale>
+    <MaxValuedMale>0</MaxValuedMale>
+    <Normal />
+    <LaboratoryName>Trùng roi Trichomonas Vaginamlis:</LaboratoryName>
+    <ServiceName>Soi tươi huyết trắng</ServiceName>
+  </Table3>
+  <Table3>
+    <ServiceCode>DV000018</ServiceCode>
+    <UnitValues xml:space="preserve"> </UnitValues>
+    <ValuesEntry />
+    <ValuedFemale />
+    <ValuedMale />
+    <MinValuedFemale>0</MinValuedFemale>
+    <MaxValuedFemale>0</MaxValuedFemale>
+    <MinValuedMale>0</MinValuedMale>
+    <MaxValuedMale>0</MaxValuedMale>
+    <Normal />
+    <LaboratoryName>Nấm:</LaboratoryName>
+    <ServiceName>Soi tươi huyết trắng</ServiceName>
+  </Table3>
+</NewDataSet>

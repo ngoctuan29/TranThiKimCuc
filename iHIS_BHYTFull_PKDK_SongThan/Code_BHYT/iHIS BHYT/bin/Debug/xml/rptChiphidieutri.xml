@@ -1,0 +1,81 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="Result" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="Result" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Table1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PatientReceiveID" type="xs:decimal" minOccurs="0" />
+              <xs:element name="PatientCode" type="xs:string" minOccurs="0" />
+              <xs:element name="PatientName" type="xs:string" minOccurs="0" />
+              <xs:element name="PatientGendername" type="xs:string" minOccurs="0" />
+              <xs:element name="PatientBirthday" type="xs:string" minOccurs="0" />
+              <xs:element name="PatientBirthyear" type="xs:int" minOccurs="0" />
+              <xs:element name="PatientAge" type="xs:int" minOccurs="0" />
+              <xs:element name="PatientMobile" type="xs:string" minOccurs="0" />
+              <xs:element name="PatientEmail" type="xs:string" minOccurs="0" />
+              <xs:element name="CodeArise" type="xs:string" minOccurs="0" />
+              <xs:element name="MedicalHistory" type="xs:string" minOccurs="0" />
+              <xs:element name="Allergy" type="xs:string" minOccurs="0" />
+              <xs:element name="Serial" type="xs:string" minOccurs="0" />
+              <xs:element name="KCBBDName" type="xs:string" minOccurs="0" />
+              <xs:element name="StartDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="EndDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="TraiTuyen" type="xs:int" minOccurs="0" />
+              <xs:element name="DungTuyen" type="xs:int" minOccurs="0" />
+              <xs:element name="RateFalse" type="xs:int" minOccurs="0" />
+              <xs:element name="RateTrue" type="xs:int" minOccurs="0" />
+              <xs:element name="PatientAddress" type="xs:string" minOccurs="0" />
+              <xs:element name="PatientGender" type="xs:int" minOccurs="0" />
+              <xs:element name="ObjectCode" type="xs:int" minOccurs="0" />
+              <xs:element name="ObjectName" type="xs:string" minOccurs="0" />
+              <xs:element name="KCBBDCode" type="xs:string" minOccurs="0" />
+              <xs:element name="HHvv" type="xs:string" minOccurs="0" />
+              <xs:element name="Datevv" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="DepartmentName" type="xs:string" minOccurs="0" />
+              <xs:element name="Symptoms" type="xs:string" minOccurs="0" />
+              <xs:element name="DiagnosisCode" type="xs:string" minOccurs="0" />
+              <xs:element name="OutDate" type="xs:string" minOccurs="0" />
+              <xs:element name="HHrv" type="xs:string" minOccurs="0" />
+              <xs:element name="DateTotal" type="xs:int" minOccurs="0" />
+              <xs:element name="DescriptionNode" type="xs:string" minOccurs="0" />
+              <xs:element name="Advices" type="xs:string" minOccurs="0" />
+              <xs:element name="DiagnosisCustom" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Table2">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ReferenceCode" type="xs:decimal" minOccurs="0" />
+              <xs:element name="PatientCode" type="xs:string" minOccurs="0" />
+              <xs:element name="BHYTPayTotal" type="xs:int" minOccurs="0" />
+              <xs:element name="PatientPayTotal" type="xs:int" minOccurs="0" />
+              <xs:element name="Exemptions" type="xs:int" minOccurs="0" />
+              <xs:element name="TotalAmount" type="xs:int" minOccurs="0" />
+              <xs:element name="ObjectName" type="xs:string" minOccurs="0" />
+              <xs:element name="ServicePrice" type="xs:decimal" minOccurs="0" />
+              <xs:element name="DisparityPrice" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Quantity" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ObjectCode" type="xs:int" minOccurs="0" />
+              <xs:element name="ServiceCode" type="xs:string" minOccurs="0" />
+              <xs:element name="ServiceName" type="xs:string" minOccurs="0" />
+              <xs:element name="ServiceCategoryName" type="xs:string" minOccurs="0" />
+              <xs:element name="ServiceModuleCode" type="xs:string" minOccurs="0" />
+              <xs:element name="RateBHYT" type="xs:decimal" minOccurs="0" />
+              <xs:element name="DVT" type="xs:string" minOccurs="0" />
+              <xs:element name="Amount" type="xs:decimal" minOccurs="0" />
+              <xs:element name="BHYTPay" type="xs:int" minOccurs="0" />
+              <xs:element name="PatientPay" type="xs:int" minOccurs="0" />
+              <xs:element name="GroupName" type="xs:string" minOccurs="0" />
+              <xs:element name="ModuleName" type="xs:string" minOccurs="0" />
+              <xs:element name="WorkDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="ListBHYT" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

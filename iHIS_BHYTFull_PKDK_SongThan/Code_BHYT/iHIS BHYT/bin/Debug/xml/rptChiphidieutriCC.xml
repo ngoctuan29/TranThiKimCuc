@@ -1,0 +1,289 @@
+<?xml version="1.0" standalone="yes"?>
+<Result>
+  <Table1>
+    <ClinicCode>1</ClinicCode>
+    <ClinicName>PHÒNG KHÁM CHUYÊN KHOA TIM MẠCH - MẠCH MÁU ĐỨC TÍN</ClinicName>
+    <ClinicAddress>Địa chỉ: Số 7 Lô A, Cư Xá Bùi Minh Trực, Đường Bùi Minh Trực, Phường 5, Quận 8 TP Hồ Chí Minh</ClinicAddress>
+    <Province>Tp Hồ Chí Minh</Province>
+    <Phone>Phone: (08) 39812678 | Fax: (08) 37559539</Phone>
+    <Mobile>Phone: (08) 39812678 | Fax: (08) 37559539</Mobile>
+    <Doctor>Ths Bs Lê Đức Tín</Doctor>
+    <WorkingDateLine01>Sáng</WorkingDateLine01>
+    <WorkingDateLine02>Trưa</WorkingDateLine02>
+    <WorkingDateLine03>Thứ 7 &amp; CN</WorkingDateLine03>
+    <KCBBDCode>8080</KCBBDCode>
+  </Table1>
+  <Table2>
+    <PatientReceiveID>216</PatientReceiveID>
+    <PatientCode>14000062</PatientCode>
+    <PatientName>Test Bn Cap Cuu</PatientName>
+    <PatientGendername>Nam</PatientGendername>
+    <PatientBirthday>1987-01-01T00:00:00+07:00</PatientBirthday>
+    <PatientBirthyear>1987</PatientBirthyear>
+    <PatientAge>27</PatientAge>
+    <PatientMobile>01478956</PatientMobile>
+    <PatientEmail>phamvandong@net2e.vn</PatientEmail>
+    <MedicalHistory>Tien su benh</MedicalHistory>
+    <Allergy>Di ung benh</Allergy>
+    <PatientAddress>Sai Gon</PatientAddress>
+    <PatientGender>1</PatientGender>
+    <ObjectCode>2</ObjectCode>
+    <DepartmentName>Phòng lưu bệnh ( KP0011 );</DepartmentName>
+    <DateOn>2014-08-18T00:00:00+07:00</DateOn>
+    <TimeOn>08:52</TimeOn>
+    <ICD10Namevv>Nhiễm Shigella do Shigella flexneri                                                                                                                             </ICD10Namevv>
+    <ICD10vv>G65</ICD10vv>
+    <ICD10KTvv>Viêm khớp do thương hàn(A01.04);Nhiễm salmonella không xác định khác(A02.9);</ICD10KTvv>
+    <ICD10KTrv />
+  </Table2>
+  <Table3>
+    <ReferenceCode>216</ReferenceCode>
+    <PatientCode>14000062</PatientCode>
+    <BHYTPayTotal>0</BHYTPayTotal>
+    <PatientPayTotal>0</PatientPayTotal>
+    <Exemptions>0</Exemptions>
+    <TotalAmount>0</TotalAmount>
+    <ObjectName>Thu Phí</ObjectName>
+    <ServicePrice>80000.0000</ServicePrice>
+    <DisparityPrice>0.00</DisparityPrice>
+    <Quantity>1.00</Quantity>
+    <ObjectCode>2</ObjectCode>
+    <ServiceCode>DV000199</ServiceCode>
+    <ServiceName>Cấp cứu</ServiceName>
+    <ServiceCategoryName>CÔNG KHÁM</ServiceCategoryName>
+    <ServiceModuleCode>KCB</ServiceModuleCode>
+    <RateBHYT>100</RateBHYT>
+    <DVT>Lần</DVT>
+    <Amount>80000.0000</Amount>
+    <BHYTPay>0</BHYTPay>
+    <PatientPay>80000</PatientPay>
+    <GroupName>KHÁM CHỮA BỆNH</GroupName>
+    <ModuleName>KHÁM CHỮA BỆNH</ModuleName>
+    <WorkDate>2014-08-18T00:00:00+07:00</WorkDate>
+  </Table3>
+  <Table3>
+    <ReferenceCode>216</ReferenceCode>
+    <PatientCode>14000062</PatientCode>
+    <BHYTPayTotal>0</BHYTPayTotal>
+    <PatientPayTotal>0</PatientPayTotal>
+    <Exemptions>0</Exemptions>
+    <TotalAmount>0</TotalAmount>
+    <ObjectName>Thu Phí</ObjectName>
+    <ServicePrice>180000.0000</ServicePrice>
+    <DisparityPrice>0.00</DisparityPrice>
+    <Quantity>1.00</Quantity>
+    <ObjectCode>2</ObjectCode>
+    <ServiceCode>DV000232</ServiceCode>
+    <ServiceName>HT_Helicobacterpylori </ServiceName>
+    <ServiceCategoryName>XN MÁU</ServiceCategoryName>
+    <ServiceModuleCode>XN</ServiceModuleCode>
+    <RateBHYT>100</RateBHYT>
+    <DVT>Lần</DVT>
+    <Amount>180000.0000</Amount>
+    <BHYTPay>0</BHYTPay>
+    <PatientPay>180000</PatientPay>
+    <GroupName>XÉT NGHIỆM</GroupName>
+    <ModuleName>XÉT NGHIỆM</ModuleName>
+    <WorkDate>2014-08-18T00:00:00+07:00</WorkDate>
+  </Table3>
+  <Table3>
+    <ReferenceCode>216</ReferenceCode>
+    <PatientCode>14000062</PatientCode>
+    <BHYTPayTotal>0</BHYTPayTotal>
+    <PatientPayTotal>0</PatientPayTotal>
+    <Exemptions>0</Exemptions>
+    <TotalAmount>0</TotalAmount>
+    <ObjectName>Thu Phí</ObjectName>
+    <ServicePrice>250000.0000</ServicePrice>
+    <DisparityPrice>0.00</DisparityPrice>
+    <Quantity>1.00</Quantity>
+    <ObjectCode>2</ObjectCode>
+    <ServiceCode>DV000171</ServiceCode>
+    <ServiceName>Cấy nước tiểu - KSĐ</ServiceName>
+    <ServiceCategoryName>XN NƯỚC TIỂU</ServiceCategoryName>
+    <ServiceModuleCode>XN</ServiceModuleCode>
+    <RateBHYT>100</RateBHYT>
+    <DVT>Lần</DVT>
+    <Amount>250000.0000</Amount>
+    <BHYTPay>0</BHYTPay>
+    <PatientPay>250000</PatientPay>
+    <GroupName>XÉT NGHIỆM</GroupName>
+    <ModuleName>XÉT NGHIỆM</ModuleName>
+    <WorkDate>2014-08-18T00:00:00+07:00</WorkDate>
+  </Table3>
+  <Table3>
+    <ReferenceCode>216</ReferenceCode>
+    <PatientCode>14000062</PatientCode>
+    <BHYTPayTotal>0</BHYTPayTotal>
+    <PatientPayTotal>0</PatientPayTotal>
+    <Exemptions>0</Exemptions>
+    <TotalAmount>0</TotalAmount>
+    <ObjectName>Thu Phí</ObjectName>
+    <ServicePrice>250000.0000</ServicePrice>
+    <DisparityPrice>0.00</DisparityPrice>
+    <Quantity>1.00</Quantity>
+    <ObjectCode>2</ObjectCode>
+    <ServiceCode>DV000176</ServiceCode>
+    <ServiceName>Cấy phân - KSĐ</ServiceName>
+    <ServiceCategoryName>XN PHÂN</ServiceCategoryName>
+    <ServiceModuleCode>XN</ServiceModuleCode>
+    <RateBHYT>100</RateBHYT>
+    <DVT>Lần</DVT>
+    <Amount>250000.0000</Amount>
+    <BHYTPay>0</BHYTPay>
+    <PatientPay>250000</PatientPay>
+    <GroupName>XÉT NGHIỆM</GroupName>
+    <ModuleName>XÉT NGHIỆM</ModuleName>
+    <WorkDate>2014-08-18T00:00:00+07:00</WorkDate>
+  </Table3>
+  <Table3>
+    <ReferenceCode>216</ReferenceCode>
+    <PatientCode>14000062</PatientCode>
+    <BHYTPayTotal>0</BHYTPayTotal>
+    <PatientPayTotal>0</PatientPayTotal>
+    <Exemptions>0</Exemptions>
+    <TotalAmount>0</TotalAmount>
+    <ObjectName>Thu Phí</ObjectName>
+    <ServicePrice>1000000.0000</ServicePrice>
+    <DisparityPrice>0.00</DisparityPrice>
+    <Quantity>1.00</Quantity>
+    <ObjectCode>2</ObjectCode>
+    <ServiceCode>DV000194</ServiceCode>
+    <ServiceName>HCV Genotype (Sequencing)</ServiceName>
+    <ServiceCategoryName>XN KHÁC</ServiceCategoryName>
+    <ServiceModuleCode>XN</ServiceModuleCode>
+    <RateBHYT>100</RateBHYT>
+    <DVT>Lần</DVT>
+    <Amount>1000000.0000</Amount>
+    <BHYTPay>0</BHYTPay>
+    <PatientPay>1000000</PatientPay>
+    <GroupName>XÉT NGHIỆM</GroupName>
+    <ModuleName>XÉT NGHIỆM</ModuleName>
+    <WorkDate>2014-08-18T00:00:00+07:00</WorkDate>
+  </Table3>
+  <Table3>
+    <ReferenceCode>216</ReferenceCode>
+    <PatientCode>14000062</PatientCode>
+    <BHYTPayTotal>0</BHYTPayTotal>
+    <PatientPayTotal>0</PatientPayTotal>
+    <Exemptions>0</Exemptions>
+    <TotalAmount>0</TotalAmount>
+    <ObjectName>Thu Phí</ObjectName>
+    <ServicePrice>100000.0000</ServicePrice>
+    <DisparityPrice>0.00</DisparityPrice>
+    <Quantity>1.00</Quantity>
+    <ObjectCode>2</ObjectCode>
+    <ServiceCode>DV000001</ServiceCode>
+    <ServiceName>Siêu âm bụng tổng quát</ServiceName>
+    <ServiceCategoryName>SIÊU ÂM</ServiceCategoryName>
+    <ServiceModuleCode>CDHA</ServiceModuleCode>
+    <RateBHYT>100</RateBHYT>
+    <DVT>Lần</DVT>
+    <Amount>100000.0000</Amount>
+    <BHYTPay>0</BHYTPay>
+    <PatientPay>100000</PatientPay>
+    <GroupName>CĐHA - TDCN - DỊCH VỤ</GroupName>
+    <ModuleName>CĐHA - TDCN</ModuleName>
+    <WorkDate>2014-08-18T00:00:00+07:00</WorkDate>
+  </Table3>
+  <Table3>
+    <ReferenceCode>216</ReferenceCode>
+    <PatientCode>14000062</PatientCode>
+    <BHYTPayTotal>0</BHYTPayTotal>
+    <PatientPayTotal>0</PatientPayTotal>
+    <Exemptions>0</Exemptions>
+    <TotalAmount>0</TotalAmount>
+    <ObjectName>Thu Phí</ObjectName>
+    <ServicePrice>0.0000</ServicePrice>
+    <DisparityPrice>0.00</DisparityPrice>
+    <Quantity>1.00</Quantity>
+    <ObjectCode>2</ObjectCode>
+    <ServiceCode>DV000230</ServiceCode>
+    <ServiceName>NGỰC</ServiceName>
+    <ServiceCategoryName>CT Scan CÓ CẢN QUANG</ServiceCategoryName>
+    <ServiceModuleCode>CDHA</ServiceModuleCode>
+    <RateBHYT>100</RateBHYT>
+    <DVT>Lần</DVT>
+    <Amount>0.0000</Amount>
+    <BHYTPay>0</BHYTPay>
+    <PatientPay>0</PatientPay>
+    <GroupName>CĐHA - TDCN - DỊCH VỤ</GroupName>
+    <ModuleName>CĐHA - TDCN</ModuleName>
+    <WorkDate>2014-08-18T00:00:00+07:00</WorkDate>
+  </Table3>
+  <Table3>
+    <ReferenceCode>216</ReferenceCode>
+    <PatientCode>14000062</PatientCode>
+    <BHYTPayTotal>0</BHYTPayTotal>
+    <PatientPayTotal>0</PatientPayTotal>
+    <Exemptions>0</Exemptions>
+    <TotalAmount>0</TotalAmount>
+    <ObjectName>Thu Phí</ObjectName>
+    <ServicePrice>120000.0000</ServicePrice>
+    <DisparityPrice>0.00</DisparityPrice>
+    <Quantity>1.00</Quantity>
+    <ObjectCode>2</ObjectCode>
+    <ServiceCode>DV000032</ServiceCode>
+    <ServiceName>Đo điện tim (ECG)</ServiceName>
+    <ServiceCategoryName>ĐIỆN TIM (ECG)</ServiceCategoryName>
+    <ServiceModuleCode>CDHA</ServiceModuleCode>
+    <RateBHYT>100</RateBHYT>
+    <DVT>Lần</DVT>
+    <Amount>120000.0000</Amount>
+    <BHYTPay>0</BHYTPay>
+    <PatientPay>120000</PatientPay>
+    <GroupName>CĐHA - TDCN - DỊCH VỤ</GroupName>
+    <ModuleName>CĐHA - TDCN</ModuleName>
+    <WorkDate>2014-08-18T00:00:00+07:00</WorkDate>
+  </Table3>
+  <Table3>
+    <ReferenceCode>216</ReferenceCode>
+    <PatientCode>14000062</PatientCode>
+    <BHYTPayTotal>0</BHYTPayTotal>
+    <PatientPayTotal>0</PatientPayTotal>
+    <Exemptions>0</Exemptions>
+    <TotalAmount>0</TotalAmount>
+    <ObjectName>Thu Phí</ObjectName>
+    <ServicePrice>1600.0000</ServicePrice>
+    <DisparityPrice>0.00</DisparityPrice>
+    <Quantity>3.00</Quantity>
+    <ObjectCode>2</ObjectCode>
+    <ServiceCode>TH000002</ServiceCode>
+    <ServiceName>Allopurinol DMC </ServiceName>
+    <ServiceCategoryName>Thuốc điều trị gout</ServiceCategoryName>
+    <ServiceModuleCode>THUOC</ServiceModuleCode>
+    <RateBHYT>0</RateBHYT>
+    <DVT>Viên</DVT>
+    <Amount>4800.0000</Amount>
+    <BHYTPay>0</BHYTPay>
+    <PatientPay>4800</PatientPay>
+    <GroupName>THUỐC GIẢM ĐAU, HẠ SỐT, KHÁNG VIÊM NON STEROID, TRỊ GOUT VÀ CÁC BỆNH XƯƠNG KHỚP</GroupName>
+    <ModuleName>THUỐC &amp; VTYT</ModuleName>
+    <WorkDate>2014-08-18T00:00:00+07:00</WorkDate>
+  </Table3>
+  <Table3>
+    <ReferenceCode>216</ReferenceCode>
+    <PatientCode>14000062</PatientCode>
+    <BHYTPayTotal>0</BHYTPayTotal>
+    <PatientPayTotal>0</PatientPayTotal>
+    <Exemptions>0</Exemptions>
+    <TotalAmount>0</TotalAmount>
+    <ObjectName>Thu Phí</ObjectName>
+    <ServicePrice>2500.0000</ServicePrice>
+    <DisparityPrice>0.00</DisparityPrice>
+    <Quantity>2.00</Quantity>
+    <ObjectCode>2</ObjectCode>
+    <ServiceCode>TH000116</ServiceCode>
+    <ServiceName>Captopril Stada 25mg</ServiceName>
+    <ServiceCategoryName>Thuốc điều trị tăng huyết áp</ServiceCategoryName>
+    <ServiceModuleCode>THUOC</ServiceModuleCode>
+    <RateBHYT>0</RateBHYT>
+    <DVT>Viên</DVT>
+    <Amount>5000.0000</Amount>
+    <BHYTPay>0</BHYTPay>
+    <PatientPay>5000</PatientPay>
+    <GroupName>THUỐC TIM MẠCH</GroupName>
+    <ModuleName>THUỐC &amp; VTYT</ModuleName>
+    <WorkDate>2014-08-18T00:00:00+07:00</WorkDate>
+  </Table3>
+</Result>

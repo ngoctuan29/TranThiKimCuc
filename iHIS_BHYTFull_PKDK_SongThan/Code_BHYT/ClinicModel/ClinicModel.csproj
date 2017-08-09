@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{87A5509F-93A4-4084-8F03-B19C1C1A4F67}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ClinicModel</RootNamespace>
+    <AssemblyName>ClinicModel</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ADRInf.cs" />
+    <Compile Include="CaptureInf.cs" />
+    <Compile Include="Fee_Advance_PaymentInf.cs" />
+    <Compile Include="Fee_NoteBookInf.cs" />
+    <Compile Include="HSBA_ObjMedicalrecordsInf.cs" />
+    <Compile Include="Items_BHYTInf.cs" />
+    <Compile Include="MedicalRecordOutputInf.cs" />
+    <Compile Include="AdvicesInf.cs" />
+    <Compile Include="BanksAccountDetailInf.cs" />
+    <Compile Include="BanksAccountInf.cs" />
+    <Compile Include="BHYTInf.cs" />
+    <Compile Include="BHYTParametersInf.cs" />
+    <Compile Include="BracketPrice_INF.cs" />
+    <Compile Include="CareerInf.cs" />
+    <Compile Include="CatalogComputerInf.cs" />
+    <Compile Include="CatalogDistrictInf.cs" />
+    <Compile Include="CatalogEthnicInf.cs" />
+    <Compile Include="CatalogProvincialInf.cs" />
+    <Compile Include="CatalogWardInf.cs" />
+    <Compile Include="Catalog_BHYTINF.cs" />
+    <Compile Include="Catalog_ExchangeRateInf.cs" />
+    <Compile Include="Catalog_FoodINF.cs" />
+    <Compile Include="Catalog_SurgicalCrewINF.cs" />
+    <Compile Include="ClinicInformationInf.cs" />
+    <Compile Include="HospitalTransferINF.cs" />
+    <Compile Include="iHISHospitalInfo.cs" />
+    <Compile Include="ListVitualPacs_DemoInf.cs" />
+    <Compile Include="PatientsSendSMSInf.cs" />
+    <Compile Include="PictureInf.cs" />
+    <Compile Include="ReportBHYTInf.cs" />
+    <Compile Include="CountryInf.cs" />
+    <Compile Include="DepartmentInf.cs" />
+    <Compile Include="DiagnosisAbbreviationsInf.cs" />
+    <Compile Include="DiagnosisInf.cs" />
+    <Compile Include="DistrictInf.cs" />
+    <Compile Include="EmployeeInf.cs" />
+    <Compile Include="EmployeePositionInf.cs" />
+    <Compile Include="ExportVendorDetailInf.cs" />
+    <Compile Include="ExportVendorInf.cs" />
+    <Compile Include="ExportWarehousingDetailInf.cs" />
+    <Compile Include="ExportWarehousingInf.cs" />
+    <Compile Include="FoodCategoryINF.cs" />
+    <Compile Include="FoodDetailINF.cs" />
+    <Compile Include="FoodEntryINF.cs" />
+    <Compile Include="ImmunizationRecordInf.cs" />
+    <Compile Include="InstructionInf.cs" />
+    <Compile Include="IntroducerInf.cs" />
+    <Compile Include="InventoryInf.cs" />
+    <Compile Include="ItemCategoryInf.cs" />
+    <Compile Include="ItemGroupInf.cs" />
+    <Compile Include="Items_Inf.cs" />
+    <Compile Include="KCBBDInf.cs" />
+    <Compile Include="LaboratoryInf.cs" />
+    <Compile Include="LaboratoryPackageInf.cs" />
+    <Compile Include="LaboratoryResultDescriptionInf.cs" />
+    <Compile Include="MachineListMaps.cs" />
+    <Compile Include="MachineLists.cs" />
+    <Compile Include="MedicalEmergencyINF.cs" />
+    <Compile Include="MedicalHistoryInf.cs" />
+    <Compile Include="MedicalPatternInf.cs" />
+    <Compile Include="MedicalReasonINF.cs" />
+    <Compile Include="MedicalRecord_INF.cs" />
+    <Compile Include="MedicalSuppliesINF.cs" />
+    <Compile Include="MedicinesForPatients.cs" />
+    <Compile Include="MedicinesRetailInf.cs" />
+    <Compile Include="MenuListInf.cs" />
+    <Compile Include="MenuSecurityInf.cs" />
+    <Compile Include="Model_Chidinh.cs" />
+    <Compile Include="Model_ListServiceBank.cs" />
+    <Compile Include="NationalityInf.cs" />
+    <Compile Include="ObjectInf.cs" />
+    <Compile Include="PatientAppointment_INF.cs" />
+    <Compile Include="PatientReceiveCocumentImageInf.cs" />
+    <Compile Include="PatientReceiveInf.cs" />
+    <Compile Include="PatientsInf.cs" />
+    <Compile Include="PatientsRelationInf.cs" />
+    <Compile Include="PatientsRelationMenuInf.cs" />
+    <Compile Include="PatientTypeINF.cs" />
+    <Compile Include="Producer_INF.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ProvincialInf.cs" />
+    <Compile Include="RateBHYTInf.cs" />
+    <Compile Include="RealMedicinesForPatientsINF.cs" />
+    <Compile Include="RegionInf.cs" />
+    <Compile Include="ReportDiscountInf.cs" />
+    <Compile Include="RepositoryCatalog_Inf.cs" />
+    <Compile Include="Rpt_VuDieuTriInf.cs" />
+    <Compile Include="SamplePrescriptionHeader_INF.cs" />
+    <Compile Include="SamplePrescriptionLine_INF.cs" />
+    <Compile Include="ServerInfo.cs" />
+    <Compile Include="ServiceCategoryInf.cs" />
+    <Compile Include="ServiceGroupInf.cs" />
+    <Compile Include="ServiceInf.cs" />
+    <Compile Include="ServiceLaboratoryEntryINF.cs" />
+    <Compile Include="ServiceLimitInf.cs" />
+    <Compile Include="ServiceMenuINF.cs" />
+    <Compile Include="ServiceModuleInf.cs" />
+    <Compile Include="ServicePackageDetailInf.cs" />
+    <Compile Include="ServicePackageInf.cs" />
+    <Compile Include="ServicePriceInf.cs" />
+    <Compile Include="ServiceRadiologyEntryInf.cs" />
+    <Compile Include="ServiceSalesInf.cs" />
+    <Compile Include="SSTInf.cs" />
+    <Compile Include="SuggestedServiceReceiptInf.cs" />
+    <Compile Include="SurgeriesINF.cs" />
+    <Compile Include="SurviveSignInf.cs" />
+    <Compile Include="SymptomsInf.cs" />
+    <Compile Include="SystemParameterInf.cs" />
+    <Compile Include="TackleInf.cs" />
+    <Compile Include="TemplateDescriptionInf.cs" />
+    <Compile Include="TemplateItemNormsInf.cs" />
+    <Compile Include="TNTTInf.cs" />
+    <Compile Include="TreatmentResultsINF.cs" />
+    <Compile Include="UnitOfMeasureInf.cs" />
+    <Compile Include="UnitOfRawINF.cs" />
+    <Compile Include="UnitValuesInf.cs" />
+    <Compile Include="UsageInf.cs" />
+    <Compile Include="VendorInf.cs" />
+    <Compile Include="view_DoctorAppointedInf.cs" />
+    <Compile Include="view_MedicinesPatientEmergencyInf.cs" />
+    <Compile Include="view_SurviveSignInf.cs" />
+    <Compile Include="view_TreatmentCostsINF.cs" />
+    <Compile Include="VP_ServiceGroupPrintInf.cs" />
+    <Compile Include="Warehousing_INF.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

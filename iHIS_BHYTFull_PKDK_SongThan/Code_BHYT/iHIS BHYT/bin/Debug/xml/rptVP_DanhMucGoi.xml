@@ -1,0 +1,696 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <ServiceName>Khám Chuyên Khoa</ServiceName>
+    <servicecode>DV000355</servicecode>
+    <ServiceCategoryName>Công Khám</ServiceCategoryName>
+    <ServicePackageCode>PK0001</ServicePackageCode>
+    <ServicePackageName>GÓI T-M-H</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>X - Quang Xoang</ServiceName>
+    <servicecode>DV000356</servicecode>
+    <ServiceCategoryName>X - Quang Mặt</ServiceCategoryName>
+    <ServicePackageCode>PK0001</ServicePackageCode>
+    <ServicePackageName>GÓI T-M-H</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Siêu âm tuyến giáp</ServiceName>
+    <servicecode>DV000050</servicecode>
+    <ServiceCategoryName>Siêu Âm</ServiceCategoryName>
+    <ServicePackageCode>PK0001</ServicePackageCode>
+    <ServicePackageName>GÓI T-M-H</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Nội Soi TMH</ServiceName>
+    <servicecode>DV000357</servicecode>
+    <ServiceCategoryName>Nội Soi</ServiceCategoryName>
+    <ServicePackageCode>PK0001</ServicePackageCode>
+    <ServicePackageName>GÓI T-M-H</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Khám Chuyên Khoa</ServiceName>
+    <servicecode>DV000355</servicecode>
+    <ServiceCategoryName>Công Khám</ServiceCategoryName>
+    <ServicePackageCode>PK0002</ServicePackageCode>
+    <ServicePackageName>GÓI TIM MẠCH</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>X - Quang Phổi</ServiceName>
+    <servicecode>DV000358</servicecode>
+    <ServiceCategoryName>X - Quang Loại Khác</ServiceCategoryName>
+    <ServicePackageCode>PK0002</ServicePackageCode>
+    <ServicePackageName>GÓI TIM MẠCH</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Điện tim</ServiceName>
+    <servicecode>DV000089</servicecode>
+    <ServiceCategoryName>Điện Tim</ServiceCategoryName>
+    <ServicePackageCode>PK0002</ServicePackageCode>
+    <ServicePackageName>GÓI TIM MẠCH</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>HDL cholesterol</ServiceName>
+    <servicecode>DV000180</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Sinh Hóa</ServiceCategoryName>
+    <ServicePackageCode>PK0002</ServicePackageCode>
+    <ServicePackageName>GÓI TIM MẠCH</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>LDL cholesterol</ServiceName>
+    <servicecode>DV000181</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Sinh Hóa</ServiceCategoryName>
+    <ServicePackageCode>PK0002</ServicePackageCode>
+    <ServicePackageName>GÓI TIM MẠCH</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Triglycerides</ServiceName>
+    <servicecode>DV000178</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Sinh Hóa</ServiceCategoryName>
+    <ServicePackageCode>PK0002</ServicePackageCode>
+    <ServicePackageName>GÓI TIM MẠCH</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Cholesterol</ServiceName>
+    <servicecode>DV000179</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Sinh Hóa</ServiceCategoryName>
+    <ServicePackageCode>PK0002</ServicePackageCode>
+    <ServicePackageName>GÓI TIM MẠCH</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Glucose</ServiceName>
+    <servicecode>DV000173</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Sinh Hóa</ServiceCategoryName>
+    <ServicePackageCode>PK0002</ServicePackageCode>
+    <ServicePackageName>GÓI TIM MẠCH</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>HbA1c</ServiceName>
+    <servicecode>DV000174</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Sinh Hóa</ServiceCategoryName>
+    <ServicePackageCode>PK0002</ServicePackageCode>
+    <ServicePackageName>GÓI TIM MẠCH</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Khám Chuyên Khoa</ServiceName>
+    <servicecode>DV000355</servicecode>
+    <ServiceCategoryName>Công Khám</ServiceCategoryName>
+    <ServicePackageCode>PK0003</ServicePackageCode>
+    <ServicePackageName>GÓI SẢN-PHỤ KHÓA</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Siêu âm phụ khoa</ServiceName>
+    <servicecode>DV000055</servicecode>
+    <ServiceCategoryName>Siêu Âm</ServiceCategoryName>
+    <ServicePackageCode>PK0003</ServicePackageCode>
+    <ServicePackageName>GÓI SẢN-PHỤ KHÓA</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Creatinin</ServiceName>
+    <servicecode>DV000176</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Sinh Hóa</ServiceCategoryName>
+    <ServicePackageCode>PK0003</ServicePackageCode>
+    <ServicePackageName>GÓI SẢN-PHỤ KHÓA</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Glucose</ServiceName>
+    <servicecode>DV000173</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Sinh Hóa</ServiceCategoryName>
+    <ServicePackageCode>PK0003</ServicePackageCode>
+    <ServicePackageName>GÓI SẢN-PHỤ KHÓA</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Test Anti - HCV</ServiceName>
+    <servicecode>DV000359</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Miễn Dịch</ServiceCategoryName>
+    <ServicePackageCode>PK0003</ServicePackageCode>
+    <ServicePackageName>GÓI SẢN-PHỤ KHÓA</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Nhóm máu ABO</ServiceName>
+    <servicecode>DV000194</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Huyết Học</ServiceCategoryName>
+    <ServicePackageCode>PK0003</ServicePackageCode>
+    <ServicePackageName>GÓI SẢN-PHỤ KHÓA</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>HbsAg test nhanh</ServiceName>
+    <servicecode>DV000202</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Miễn Dịch</ServiceCategoryName>
+    <ServicePackageCode>PK0003</ServicePackageCode>
+    <ServicePackageName>GÓI SẢN-PHỤ KHÓA</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Tổng phân tích tế bào máu bằng máy đếm laser</ServiceName>
+    <servicecode>DV000192</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Huyết Học</ServiceCategoryName>
+    <ServicePackageCode>PK0003</ServicePackageCode>
+    <ServicePackageName>GÓI SẢN-PHỤ KHÓA</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Tổng phân tích nước tiểu 10 thông số</ServiceName>
+    <servicecode>DV000300</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Nước Tiểu</ServiceCategoryName>
+    <ServicePackageCode>PK0003</ServicePackageCode>
+    <ServicePackageName>GÓI SẢN-PHỤ KHÓA</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Syphilis TP</ServiceName>
+    <servicecode>DV000333</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Miễn Dịch</ServiceCategoryName>
+    <ServicePackageCode>PK0003</ServicePackageCode>
+    <ServicePackageName>GÓI SẢN-PHỤ KHÓA</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Khám Chuyên Khoa</ServiceName>
+    <servicecode>DV000355</servicecode>
+    <ServiceCategoryName>Công Khám</ServiceCategoryName>
+    <ServicePackageCode>PK0004</ServicePackageCode>
+    <ServicePackageName>GÓI NHIỄM</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>X - Quang Phổi</ServiceName>
+    <servicecode>DV000358</servicecode>
+    <ServiceCategoryName>X - Quang Loại Khác</ServiceCategoryName>
+    <ServicePackageCode>PK0004</ServicePackageCode>
+    <ServicePackageName>GÓI NHIỄM</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Test Anti - HCV</ServiceName>
+    <servicecode>DV000359</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Miễn Dịch</ServiceCategoryName>
+    <ServicePackageCode>PK0004</ServicePackageCode>
+    <ServicePackageName>GÓI NHIỄM</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>HbsAg test nhanh</ServiceName>
+    <servicecode>DV000202</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Miễn Dịch</ServiceCategoryName>
+    <ServicePackageCode>PK0004</ServicePackageCode>
+    <ServicePackageName>GÓI NHIỄM</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Tổng phân tích tế bào máu bằng máy đếm laser</ServiceName>
+    <servicecode>DV000192</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Huyết Học</ServiceCategoryName>
+    <ServicePackageCode>PK0004</ServicePackageCode>
+    <ServicePackageName>GÓI NHIỄM</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>BK/ Đàm</ServiceName>
+    <servicecode>DV000360</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Nội Tiết - HORMON</ServiceCategoryName>
+    <ServicePackageCode>PK0004</ServicePackageCode>
+    <ServicePackageName>GÓI NHIỄM</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Syphilis TP</ServiceName>
+    <servicecode>DV000333</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Miễn Dịch</ServiceCategoryName>
+    <ServicePackageCode>PK0004</ServicePackageCode>
+    <ServicePackageName>GÓI NHIỄM</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>IDR ( Mantoux)</ServiceName>
+    <servicecode>DV000361</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Miễn Dịch</ServiceCategoryName>
+    <ServicePackageCode>PK0004</ServicePackageCode>
+    <ServicePackageName>GÓI NHIỄM</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Mũi</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Khám Chuyên Khoa</ServiceName>
+    <servicecode>DV000355</servicecode>
+    <ServiceCategoryName>Công Khám</ServiceCategoryName>
+    <ServicePackageCode>PK0005</ServicePackageCode>
+    <ServicePackageName>GÓI VIÊM GAN</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Siêu âm bụng tổng quát</ServiceName>
+    <servicecode>DV000046</servicecode>
+    <ServiceCategoryName>Siêu Âm</ServiceCategoryName>
+    <ServicePackageCode>PK0005</ServicePackageCode>
+    <ServicePackageName>GÓI VIÊM GAN</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>SGOT (AST)</ServiceName>
+    <servicecode>DV000167</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Sinh Hóa</ServiceCategoryName>
+    <ServicePackageCode>PK0005</ServicePackageCode>
+    <ServicePackageName>GÓI VIÊM GAN</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>SGPT (ALT)</ServiceName>
+    <servicecode>DV000168</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Sinh Hóa</ServiceCategoryName>
+    <ServicePackageCode>PK0005</ServicePackageCode>
+    <ServicePackageName>GÓI VIÊM GAN</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Test Anti - HCV</ServiceName>
+    <servicecode>DV000359</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Miễn Dịch</ServiceCategoryName>
+    <ServicePackageCode>PK0005</ServicePackageCode>
+    <ServicePackageName>GÓI VIÊM GAN</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Tổng phân tích tế bào máu bằng máy đếm laser</ServiceName>
+    <servicecode>DV000192</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Huyết Học</ServiceCategoryName>
+    <ServicePackageCode>PK0005</ServicePackageCode>
+    <ServicePackageName>GÓI VIÊM GAN</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>GGT</ServiceName>
+    <servicecode>DV000362</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Sinh Hóa</ServiceCategoryName>
+    <ServicePackageCode>PK0005</ServicePackageCode>
+    <ServicePackageName>GÓI VIÊM GAN</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>HbsAg test nhanh</ServiceName>
+    <servicecode>DV000202</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Miễn Dịch</ServiceCategoryName>
+    <ServicePackageCode>PK0005</ServicePackageCode>
+    <ServicePackageName>GÓI VIÊM GAN</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Tổng phân tích tế bào máu bằng máy đếm laser</ServiceName>
+    <servicecode>DV000192</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Huyết Học</ServiceCategoryName>
+    <ServicePackageCode>PK0007</ServicePackageCode>
+    <ServicePackageName>GÓI XÉT NGHIỆM TỔNG QUÁT</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>SGOT (AST)</ServiceName>
+    <servicecode>DV000167</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Sinh Hóa</ServiceCategoryName>
+    <ServicePackageCode>PK0007</ServicePackageCode>
+    <ServicePackageName>GÓI XÉT NGHIỆM TỔNG QUÁT</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>SGPT (ALT)</ServiceName>
+    <servicecode>DV000168</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Sinh Hóa</ServiceCategoryName>
+    <ServicePackageCode>PK0007</ServicePackageCode>
+    <ServicePackageName>GÓI XÉT NGHIỆM TỔNG QUÁT</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>GGT</ServiceName>
+    <servicecode>DV000362</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Sinh Hóa</ServiceCategoryName>
+    <ServicePackageCode>PK0007</ServicePackageCode>
+    <ServicePackageName>GÓI XÉT NGHIỆM TỔNG QUÁT</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Urea</ServiceName>
+    <servicecode>DV000175</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Sinh Hóa</ServiceCategoryName>
+    <ServicePackageCode>PK0007</ServicePackageCode>
+    <ServicePackageName>GÓI XÉT NGHIỆM TỔNG QUÁT</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Creatinin</ServiceName>
+    <servicecode>DV000176</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Sinh Hóa</ServiceCategoryName>
+    <ServicePackageCode>PK0007</ServicePackageCode>
+    <ServicePackageName>GÓI XÉT NGHIỆM TỔNG QUÁT</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Cholesterol</ServiceName>
+    <servicecode>DV000179</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Sinh Hóa</ServiceCategoryName>
+    <ServicePackageCode>PK0007</ServicePackageCode>
+    <ServicePackageName>GÓI XÉT NGHIỆM TỔNG QUÁT</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>LDL cholesterol</ServiceName>
+    <servicecode>DV000181</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Sinh Hóa</ServiceCategoryName>
+    <ServicePackageCode>PK0007</ServicePackageCode>
+    <ServicePackageName>GÓI XÉT NGHIỆM TỔNG QUÁT</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>HDL cholesterol</ServiceName>
+    <servicecode>DV000180</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Sinh Hóa</ServiceCategoryName>
+    <ServicePackageCode>PK0007</ServicePackageCode>
+    <ServicePackageName>GÓI XÉT NGHIỆM TỔNG QUÁT</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Triglycerides</ServiceName>
+    <servicecode>DV000178</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Sinh Hóa</ServiceCategoryName>
+    <ServicePackageCode>PK0007</ServicePackageCode>
+    <ServicePackageName>GÓI XÉT NGHIỆM TỔNG QUÁT</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Test Anti - HCV</ServiceName>
+    <servicecode>DV000359</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Miễn Dịch</ServiceCategoryName>
+    <ServicePackageCode>PK0007</ServicePackageCode>
+    <ServicePackageName>GÓI XÉT NGHIỆM TỔNG QUÁT</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>HbsAg test nhanh</ServiceName>
+    <servicecode>DV000202</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Miễn Dịch</ServiceCategoryName>
+    <ServicePackageCode>PK0007</ServicePackageCode>
+    <ServicePackageName>GÓI XÉT NGHIỆM TỔNG QUÁT</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>HbsAb test nhanh</ServiceName>
+    <servicecode>DV000205</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Miễn Dịch</ServiceCategoryName>
+    <ServicePackageCode>PK0007</ServicePackageCode>
+    <ServicePackageName>GÓI XÉT NGHIỆM TỔNG QUÁT</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>HbA1c</ServiceName>
+    <servicecode>DV000174</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Sinh Hóa</ServiceCategoryName>
+    <ServicePackageCode>PK0007</ServicePackageCode>
+    <ServicePackageName>GÓI XÉT NGHIỆM TỔNG QUÁT</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Siêu âm bụng tổng quát</ServiceName>
+    <servicecode>DV000046</servicecode>
+    <ServiceCategoryName>Siêu Âm</ServiceCategoryName>
+    <ServicePackageCode>PK0007</ServicePackageCode>
+    <ServicePackageName>GÓI XÉT NGHIỆM TỔNG QUÁT</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Glucose</ServiceName>
+    <servicecode>DV000173</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Sinh Hóa</ServiceCategoryName>
+    <ServicePackageCode>PK0007</ServicePackageCode>
+    <ServicePackageName>GÓI XÉT NGHIỆM TỔNG QUÁT</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Tổng phân tích tế bào máu bằng máy đếm laser</ServiceName>
+    <servicecode>DV000192</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Huyết Học</ServiceCategoryName>
+    <ServicePackageCode>PK0006</ServicePackageCode>
+    <ServicePackageName>GÓI XÉT NGHIỆM GAN - THẬN - MỠ MÁU </ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>SGOT (AST)</ServiceName>
+    <servicecode>DV000167</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Sinh Hóa</ServiceCategoryName>
+    <ServicePackageCode>PK0006</ServicePackageCode>
+    <ServicePackageName>GÓI XÉT NGHIỆM GAN - THẬN - MỠ MÁU </ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>SGPT (ALT)</ServiceName>
+    <servicecode>DV000168</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Sinh Hóa</ServiceCategoryName>
+    <ServicePackageCode>PK0006</ServicePackageCode>
+    <ServicePackageName>GÓI XÉT NGHIỆM GAN - THẬN - MỠ MÁU </ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>GGT</ServiceName>
+    <servicecode>DV000362</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Sinh Hóa</ServiceCategoryName>
+    <ServicePackageCode>PK0006</ServicePackageCode>
+    <ServicePackageName>GÓI XÉT NGHIỆM GAN - THẬN - MỠ MÁU </ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Urea</ServiceName>
+    <servicecode>DV000175</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Sinh Hóa</ServiceCategoryName>
+    <ServicePackageCode>PK0006</ServicePackageCode>
+    <ServicePackageName>GÓI XÉT NGHIỆM GAN - THẬN - MỠ MÁU </ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Creatinin</ServiceName>
+    <servicecode>DV000176</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Sinh Hóa</ServiceCategoryName>
+    <ServicePackageCode>PK0006</ServicePackageCode>
+    <ServicePackageName>GÓI XÉT NGHIỆM GAN - THẬN - MỠ MÁU </ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Test Anti - HCV</ServiceName>
+    <servicecode>DV000359</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Miễn Dịch</ServiceCategoryName>
+    <ServicePackageCode>PK0006</ServicePackageCode>
+    <ServicePackageName>GÓI XÉT NGHIỆM GAN - THẬN - MỠ MÁU </ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>HbsAb test nhanh</ServiceName>
+    <servicecode>DV000205</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Miễn Dịch</ServiceCategoryName>
+    <ServicePackageCode>PK0006</ServicePackageCode>
+    <ServicePackageName>GÓI XÉT NGHIỆM GAN - THẬN - MỠ MÁU </ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>HbsAg test nhanh</ServiceName>
+    <servicecode>DV000202</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Miễn Dịch</ServiceCategoryName>
+    <ServicePackageCode>PK0006</ServicePackageCode>
+    <ServicePackageName>GÓI XÉT NGHIỆM GAN - THẬN - MỠ MÁU </ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Cholesterol</ServiceName>
+    <servicecode>DV000179</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Sinh Hóa</ServiceCategoryName>
+    <ServicePackageCode>PK0006</ServicePackageCode>
+    <ServicePackageName>GÓI XÉT NGHIỆM GAN - THẬN - MỠ MÁU </ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>HDL cholesterol</ServiceName>
+    <servicecode>DV000180</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Sinh Hóa</ServiceCategoryName>
+    <ServicePackageCode>PK0006</ServicePackageCode>
+    <ServicePackageName>GÓI XÉT NGHIỆM GAN - THẬN - MỠ MÁU </ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>LDL cholesterol</ServiceName>
+    <servicecode>DV000181</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Sinh Hóa</ServiceCategoryName>
+    <ServicePackageCode>PK0006</ServicePackageCode>
+    <ServicePackageName>GÓI XÉT NGHIỆM GAN - THẬN - MỠ MÁU </ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Triglycerides</ServiceName>
+    <servicecode>DV000178</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Sinh Hóa</ServiceCategoryName>
+    <ServicePackageCode>PK0006</ServicePackageCode>
+    <ServicePackageName>GÓI XÉT NGHIỆM GAN - THẬN - MỠ MÁU </ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Siêu âm tuyến giáp</ServiceName>
+    <servicecode>DV000050</servicecode>
+    <ServiceCategoryName>Siêu Âm</ServiceCategoryName>
+    <ServicePackageCode>PK0003</ServicePackageCode>
+    <ServicePackageName>GÓI SẢN-PHỤ KHÓA</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Siêu âm vùng chậu qua ngã âm đạo</ServiceName>
+    <servicecode>DV000056</servicecode>
+    <ServiceCategoryName>Siêu Âm</ServiceCategoryName>
+    <ServicePackageCode>PK0003</ServicePackageCode>
+    <ServicePackageName>GÓI SẢN-PHỤ KHÓA</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Fibrinogen</ServiceName>
+    <servicecode>DV000199</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Huyết Học</ServiceCategoryName>
+    <ServicePackageCode>PK0003</ServicePackageCode>
+    <ServicePackageName>GÓI SẢN-PHỤ KHÓA</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Siêu âm tuyến vú</ServiceName>
+    <servicecode>DV000051</servicecode>
+    <ServiceCategoryName>Siêu Âm</ServiceCategoryName>
+    <ServicePackageCode>PK0003</ServicePackageCode>
+    <ServicePackageName>GÓI SẢN-PHỤ KHÓA</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>IgM</ServiceName>
+    <servicecode>DV000420</servicecode>
+    <ServiceCategoryName>Xét Nghiệm Miễn Dịch</ServiceCategoryName>
+    <ServicePackageCode>PK0006</ServicePackageCode>
+    <ServicePackageName>GÓI XÉT NGHIỆM GAN - THẬN - MỠ MÁU </ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Siêu âm tuyến vú</ServiceName>
+    <servicecode>DV000051</servicecode>
+    <ServiceCategoryName>Siêu Âm</ServiceCategoryName>
+    <ServicePackageCode>PK0002</ServicePackageCode>
+    <ServicePackageName>GÓI TIM MẠCH</ServicePackageName>
+    <ServicePrice>0.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Siêu âm phụ khoa</ServiceName>
+    <servicecode>DV000055</servicecode>
+    <ServiceCategoryName>Siêu Âm</ServiceCategoryName>
+    <ServicePackageCode>PK0002</ServicePackageCode>
+    <ServicePackageName>GÓI TIM MẠCH</ServicePackageName>
+    <ServicePrice>80000.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Siêu âm tuyến giáp</ServiceName>
+    <servicecode>DV000050</servicecode>
+    <ServiceCategoryName>Siêu Âm</ServiceCategoryName>
+    <ServicePackageCode>PK0002</ServicePackageCode>
+    <ServicePackageName>GÓI TIM MẠCH</ServicePackageName>
+    <ServicePrice>95000.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+  <Table1>
+    <ServiceName>Siêu âm thai hình thái học</ServiceName>
+    <servicecode>DV000049</servicecode>
+    <ServiceCategoryName>Siêu Âm</ServiceCategoryName>
+    <ServicePackageCode>PK0002</ServicePackageCode>
+    <ServicePackageName>GÓI TIM MẠCH</ServicePackageName>
+    <ServicePrice>80000.00</ServicePrice>
+    <UnitOfMeasureName>Lần</UnitOfMeasureName>
+  </Table1>
+</NewDataSet>
