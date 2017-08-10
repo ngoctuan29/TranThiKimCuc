@@ -327,10 +327,17 @@ namespace ClinicBLL
             //    return MedicalRecord_DAL.ListPatient_WaitingBrowse(iStatus, 0, sRepCode, typeMedical, done);
             return MedicalRecord_DAL.ListPatient_WaitingBrowse(iStatus, sRepCode, typeMedical, done, dateFrom, dateTo);
         }
-
+        public static Int32 Done(Decimal MedicalRecordCode)
+        {
+            return MedicalRecord_DAL.Done(MedicalRecordCode);
+        }
         public static List<MedicalRecord_WaitingBrowseModel> ListPatient_WaitingBrowseForBHYT(Int32 iStatus, string sRepCode, Int32 typeMedical, Int32 done, DateTime dateFrom, DateTime dateTo, string objectCode)
         {
             return MedicalRecord_DAL.ListPatient_WaitingBrowseForBHYT(iStatus, sRepCode, typeMedical, done, dateFrom, dateTo, objectCode);
+        }
+        public static List<MedicalRecord_WaitingBrowseModel> ListPatient_WaitingBrowseForBHYTCAPPHAT(Int32 iStatus, string sRepCode, Int32 typeMedical, Int32 done, DateTime dateFrom, DateTime dateTo, string objectCode)
+        {
+            return MedicalRecord_DAL.ListPatient_WaitingBrowseForBHYTCAPPHAT(iStatus, sRepCode, typeMedical, done, dateFrom, dateTo, objectCode);
         }
 
         public static List<MedicalRecordHistoryModel> ListHistoryMedicalReceive(string sPatientCode)

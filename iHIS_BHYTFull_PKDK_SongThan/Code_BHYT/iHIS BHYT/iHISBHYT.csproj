@@ -201,10 +201,12 @@
     <Reference Include="DicomImageViewer">
       <HintPath>C:\Users\DEV07\Desktop\run_real\DicomImageViewer.dll</HintPath>
     </Reference>
-    <Reference Include="DirectX.Capture">
+    <Reference Include="DirectX.Capture, Version=0.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>libDLL\DirectX.Capture.dll</HintPath>
     </Reference>
-    <Reference Include="DShowNET">
+    <Reference Include="DShowNET, Version=1.0.0.2, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>libDLL\DShowNET.dll</HintPath>
     </Reference>
     <Reference Include="ICSharpCode.SharpZipLib">

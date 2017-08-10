@@ -314,7 +314,7 @@ namespace ClinicDAL
                     else
                         dr[18] = 0;
                     dr[19] = ireader.GetInt32(19);
-                    dr[20] = Convert.ToInt32(ireader.GetValue(20)); 
+                    dr[20] = Convert.ToInt32(ireader.GetValue(20));
                     dr.EndEdit();
                     dt.Rows.Add(dr);
                 }
@@ -585,7 +585,7 @@ namespace ClinicDAL
                     dt = cn.ExecuteQuery(string.Format(sql, sMedicalCode, iObjectCode, sRepCode, iStatus, dRowIDMedicines));
                     ///ireader = cn.ExecuteReader(CommandType.Text, string.Format(sql, sMedicalCode, iObjectCode, sRepCode, iStatus, dRowIDMedicines), null);
                 }
-                
+
             }
             catch { }
             return dt;
@@ -635,7 +635,7 @@ namespace ClinicDAL
                         ";
                     if (!objectCode_Medical.Equals(-1))
                         sql += " and a.ObjectCode =" + objectCode_Medical;
-                    dt = cn.ExecuteQuery(string.Format(sql, medicalCode, objectCode, repCode, status));                    
+                    dt = cn.ExecuteQuery(string.Format(sql, medicalCode, objectCode, repCode, status));
                 }
                 else
                 {
@@ -767,7 +767,7 @@ namespace ClinicDAL
                         Symptoms,Status,ObjectCode, Advices, DiagnosisEnclosed, TackleCode,RowIDMedicalPattern,ContentMedicalPattern,DiagnosisCustom,Treatments,EmployeeCodeDoctor,ICD10_Custom,ICD10Name_Custom
                         from MedicalRecord where PatientReceiveID={0} and DepartmentCode in('{1}')";
                 IDataReader ireader = cn.ExecuteReader(CommandType.Text, string.Format(sql, dReceiveID, sDepartmentCode), null);
-                if(ireader.Read())
+                if (ireader.Read())
                 {
                     inf.RowID = ireader.GetDecimal(0);
                     inf.MedicalRecordCode = ireader.GetString(1);
@@ -1160,7 +1160,7 @@ namespace ClinicDAL
                 param[15].Value = info.Protein;
                 param[16] = new SqlParameter("@XNHIV", SqlDbType.NVarChar, 200);
                 param[16].Value = info.XNHIV;
-                param[17] = new SqlParameter("@XNKhac", SqlDbType.NVarChar,  200);
+                param[17] = new SqlParameter("@XNKhac", SqlDbType.NVarChar, 200);
                 param[17].Value = info.XNKhac;
                 param[18] = new SqlParameter("@TienLuongDe", SqlDbType.NVarChar, 200);
                 param[18].Value = info.TienLuongDe;
@@ -1182,7 +1182,7 @@ namespace ClinicDAL
                 else
                     return false;
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 msgError = ex.Message;
                 return false;
@@ -1531,8 +1531,10 @@ namespace ClinicDAL
                 param[21].Value = objectCode_Patient;
                 return cn.ExecuteNonQuery(CommandType.StoredProcedure, "pro_Ins_MedicalPrescriptionDetail", param);
             }
-            catch {
-                return -2; }
+            catch
+            {
+                return -2;
+            }
         }
 
         public static Int32 UpdMedicalRecordDetailForNew(string sMedicalRecordCode)
@@ -1960,7 +1962,38 @@ namespace ClinicDAL
             catch { list = null; }
             return list;
         }
-
+        public static Int32 Done(Decimal MedicalRecordCode)
+        {
+            ConnectDB cn = new ConnectDB();
+            try
+            {
+                string sql1 = string.Empty;
+                sql1 = @"select distinct MedicalRecordCode from MedicinesForPatients m inner join BanksAccount p on m.PatientReceiveID=p.ReferenceCode where p.ReferenceCode in ('{0}')";
+                IDataReader ireader1 = cn.ExecuteReader(CommandType.Text, string.Format(sql1, MedicalRecordCode));
+                if (ireader1.Read())
+                {
+                    string s = ireader1.GetValue(0).ToString();
+                    string sql = string.Empty;
+                    sql = @"select Done from MedicinesForPatients where MedicalRecordCode = '" + s + "'";
+                    IDataReader ireader = cn.ExecuteReader(CommandType.Text, string.Format(sql, MedicalRecordCode));
+                    if (ireader.Read() == true)
+                    {
+                        if (ireader.GetInt32(0) == 1)
+                            return 1;
+                        else
+                            return 0;
+                    }
+                    else
+                        return 0;
+                }
+                else
+                {
+                    return 0;
+                }
+            }
+            catch { }
+            return 0;
+        }
         public static List<MedicalRecord_WaitingBrowseModel> ListPatient_WaitingBrowseForBHYT(Int32 istatus, string sRepCode, Int32 typeMedical, Int32 done, DateTime dateFrom, DateTime dateTo, string objectCode)
         {
             ConnectDB cn = new ConnectDB();
@@ -1995,6 +2028,79 @@ namespace ClinicDAL
                         group by a.MedicalRecordCode,a.PatientReceiveID,c.DepartmentName,a.PatientCode,d.PatientName,d.PatientAge,d.PatientBirthyear,d.PatientGender,
                         a.ObjectCode,e.ObjectName,f.RowID,f.DateApproved,convert(date,a.PostingDate,103),a1.Address,b1.WardName,b2.DistrictName,b3.ProvincialName,a3.EmployeeName
                         order by f.RowID desc ";
+                }
+                IDataReader ireader = cn.ExecuteReader(CommandType.Text, string.Format(sql, istatus, dateFrom.ToShortDateString(), sRepCode, typeMedical, done, dateTo.ToShortDateString(), objectCode), null);
+                while (ireader.Read())
+                {
+                    MedicalRecord_WaitingBrowseModel inf = new MedicalRecord_WaitingBrowseModel();
+                    inf.MedicalRecordCode = ireader.GetString(0);
+                    inf.PatientReceiveID = ireader.GetDecimal(1);
+                    inf.DepartmentName = ireader.GetValue(2).ToString();
+                    inf.PatientCode = ireader.GetValue(3).ToString();
+                    inf.PatientName = ireader.GetValue(4).ToString();
+                    inf.PatientAge = ireader.GetInt32(5);
+                    inf.PatientBirthyear = ireader.GetInt32(6);
+                    inf.PatientGenderName = ireader.GetValue(7).ToString();
+                    inf.ObjectCode = ireader.GetInt32(8);
+                    inf.ObjectName = ireader.GetValue(9).ToString();
+                    inf.RowIDMedicinesFor = Convert.ToDecimal(ireader.GetValue(10));
+                    inf.DateApproved = ireader.GetValue(11).ToString();
+                    inf.PostingDate = ireader.GetValue(12).ToString();
+                    inf.PatientAddress = ireader.GetValue(13).ToString();
+                    inf.Printer = ireader.GetInt32(14);
+                    inf.EmployeeName = ireader.GetValue(15).ToString();
+                    list.Add(inf);
+                }
+                if (!ireader.IsClosed)
+                {
+                    ireader.Close();
+                    ireader.Dispose();
+                }
+            }
+            catch { list = null; }
+            return list;
+        }
+        public static List<MedicalRecord_WaitingBrowseModel> ListPatient_WaitingBrowseForBHYTCAPPHAT(Int32 istatus, string sRepCode, Int32 typeMedical, Int32 done, DateTime dateFrom, DateTime dateTo, string objectCode)
+        {
+            ConnectDB cn = new ConnectDB();
+            List<MedicalRecord_WaitingBrowseModel> list = new List<MedicalRecord_WaitingBrowseModel>();
+            try
+            {
+                string sql = string.Empty;
+                if (istatus == 0)
+                {
+                    sql = @" select a.MedicalRecordCode,a.PatientReceiveID,c.DepartmentName,a.PatientCode,d.PatientName,
+                        d.PatientAge,d.PatientBirthyear,(case when d.PatientGender=0 then N'Nữ' else N'Nam' end)PatientGenderName,
+                        a.ObjectCode,e.ObjectName,0 RowIDMedicinesFor, '' as DateApproved,convert(date,a.PostingDate,103) PostingDate,[dbo].func_PatientOfAddressFull(a1.Address,b1.WardName,b2.DistrictName,b3.ProvincialName) PatientAddress, 0 as Printer,'' EmployeeName
+                        from MedicalRecord a inner join MedicalPrescriptionDetail b on a.MedicalRecordCode=b.MedicalRecordCode
+                        inner join Department c on a.DepartmentCode=c.DepartmentCode inner join Patients d on a.PatientCode=d.PatientCode inner join Object e on a.ObjectCode=e.ObjectCode 
+                        inner join PatientReceive a1 on a.PatientReceiveID=a1.PatientReceiveID left join Catalog_Ward b1 on a1.WardCode=b1.WardCode left join Catalog_District b2 on a1.DistrictCode=b2.DistrictCode left join Catalog_Provincial b3 on a1.ProvincialCode=b3.ProvincialCode
+                        where b.status in({0}) and CONVERT(date,a.PostingDate,103) between CONVERT(date,'{1}',103) and CONVERT(date,'{5}',103) and b.RepositoryCode in('{2}')  and a.typeMedical in({3}) and b.ObjectCode in({6})
+                        group by a.MedicalRecordCode,a.PatientReceiveID,c.DepartmentName,a.PatientCode,d.PatientName,d.PatientAge,d.PatientBirthyear,d.PatientGender,
+                        a.ObjectCode,e.ObjectName,convert(date,a.PostingDate,103),a1.Address,b1.WardName,b2.DistrictName,b3.ProvincialName
+                        order by a.MedicalRecordCode asc ";
+                }
+                else
+                {
+                    sql = @"select a.MedicalRecordCode,a.PatientReceiveID,c.DepartmentName,a.PatientCode,d.PatientName,
+                        d.PatientAge,d.PatientBirthyear,(case when d.PatientGender=0 then N'Nữ' else N'Nam' end)PatientGenderName,
+                        a.ObjectCode,e.ObjectName,f.RowID RowIDMedicinesFor,f.DateApproved,convert(date,a.PostingDate,103) PostingDate,[dbo].func_PatientOfAddressFull(a1.Address,b1.WardName,b2.DistrictName,b3.ProvincialName) PatientAddress,0 as Printer,a3.EmployeeName
+                        from MedicalRecord a inner join MedicalPrescriptionDetail b on a.MedicalRecordCode=b.MedicalRecordCode
+                        inner join Department c on a.DepartmentCode=c.DepartmentCode 
+						inner join Patients d on a.PatientCode=d.PatientCode
+                        inner join [Object] e on a.ObjectCode=e.ObjectCode 
+						inner join MedicinesForPatients f on a.MedicalRecordCode=f.MedicalRecordCode and a.PatientReceiveID=f.PatientReceiveID
+                        inner join PatientReceive a1 on a.PatientReceiveID=a1.PatientReceiveID 
+						left join Catalog_Ward b1 on a1.WardCode=b1.WardCode 
+						left join Catalog_District b2 on a1.DistrictCode=b2.DistrictCode 
+						left join Catalog_Provincial b3 on a1.ProvincialCode=b3.ProvincialCode
+                        and a.MedicalRecordCode=f.MedicalRecordCode and f.PatientReceiveID=a1.PatientReceiveID 
+						left join Employee a3 on f.EmployeeCode=a3.EmployeeCode
+                        left join MedicinesForPatientsDetail m on m.MedicalRecordCode = a.MedicalRecordCode    
+                        where b.status in({0}) and CONVERT(date,a.PostingDate,103) between CONVERT(date,'{1}',103) and CONVERT(date,'{5}',103) and b.RepositoryCode in('{2}') and a.typeMedical in({3}) and f.Done in({4}) and b.ObjectCode in({6}) and m.Paid='1'
+                        group by a.MedicalRecordCode,a.PatientReceiveID,c.DepartmentName,a.PatientCode,d.PatientName,d.PatientAge,d.PatientBirthyear,d.PatientGender,
+                        a.ObjectCode,e.ObjectName,f.RowID,f.DateApproved,convert(date,a.PostingDate,103),a1.Address,b1.WardName,b2.DistrictName,b3.ProvincialName,a3.EmployeeName
+                        order by f.RowID desc";
                 }
                 IDataReader ireader = cn.ExecuteReader(CommandType.Text, string.Format(sql, istatus, dateFrom.ToShortDateString(), sRepCode, typeMedical, done, dateTo.ToShortDateString(), objectCode), null);
                 while (ireader.Read())
@@ -2220,7 +2326,7 @@ namespace ClinicDAL
                 SqlParameter[] param = new SqlParameter[2];
                 param[0] = new SqlParameter("@PatientReceiveID", SqlDbType.Decimal);
                 param[0].Value = dPatientReceiveID;
-                param[1] = new SqlParameter("@PatientCode", SqlDbType.VarChar,50);
+                param[1] = new SqlParameter("@PatientCode", SqlDbType.VarChar, 50);
                 param[1].Value = sPatientCode;
                 dt = cn.CallProcedureTable(CommandType.StoredProcedure, sql, param);
                 //IDataReader ireader = cn.ExecuteReader(CommandType.Text, sql, param);

@@ -18,11 +18,13 @@ using ClinicLibrary;
 using DevExpress.XtraTab;
 using DevExpress.XtraGrid.Views.Grid;
 using System.Reflection;
+using DevExpress.XtraGrid.Views.Grid.ViewInfo;
 
 namespace Ps.Clinic.Entry
 {
     public partial class frmPhieuThuTien : DevExpress.XtraBars.Ribbon.RibbonForm
     {
+        private string referencescode = string.Empty;
         private decimal dPatientReceiveID = 0;
         private string bankEntryCode = string.Empty;
         private string userid = string.Empty, sTheBHYT = string.Empty;
@@ -1130,7 +1132,6 @@ namespace Ps.Clinic.Entry
                     this.iCancel = Convert.ToInt32(this.gridView_BankList.GetRowCellValue(this.gridView_BankList.FocusedRowHandle, "Cancel").ToString());
                     //this.dTilePhuThu = Convert.ToDecimal(gridView_BankList.GetRowCellValue(gridView_BankList.FocusedRowHandle, "RateSurcharge").ToString());
                     //this.dTotalPhuThu = Convert.ToDecimal(gridView_BankList.GetRowCellValue(gridView_BankList.FocusedRowHandle, "TotalSurcharge").ToString());
-
                     //this.dTileGiam = Convert.ToDecimal(gridView_BankList.GetRowCellValue(gridView_BankList.FocusedRowHandle, "RateExemptions").ToString());
                     decimal amountExemptionsDone = Convert.ToDecimal(this.gridView_BankList.GetRowCellValue(this.gridView_BankList.FocusedRowHandle, "Exemptions").ToString());
                     //sLookUpNguoiGT.EditValue = gridView_BankList.GetRowCellValue(gridView_BankList.FocusedRowHandle, "IntroCode").ToString();
@@ -1178,6 +1179,7 @@ namespace Ps.Clinic.Entry
 
         private void butCancel_Click(object sender, EventArgs e)
         {
+
             if (!string.IsNullOrEmpty(bankEntryCode))
             {
                 if (this.iCancel == 0)
@@ -1193,41 +1195,51 @@ namespace Ps.Clinic.Entry
                             XtraMessageBox.Show("Khác ngày việc không được phép xóa! Chỉ quản trị hệ thông mới được phép xóa.", "Bệnh viện điện tử .NET.", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                             return;
                         }
-                        if (this.bAdmin || this.userid == this.employeeCodeOld)
+                        if (MedicalRecord_BLL.Done(this.dPatientReceiveID) ==1)
                         {
-                            ViewPopup.frmLyDoHuyPhieuThu frmCancel = new ViewPopup.frmLyDoHuyPhieuThu();
-                            frmCancel.ShowDialog();
-                            if (string.IsNullOrEmpty(frmCancel.reason))
-                                return;
-                            else
-                            {
-                                if (BanksAccountBLL.DelBanksAccount(this.bankEntryCode, this.txtMabn.Text.TrimEnd(), this.dPatientReceiveID, this.shiftWork, this.userid, frmCancel.reason) >= 1)
-                                {
-                                    if (this.tableDetailPayment != null && this.tableDetailPayment.Rows.Count > 0)
-                                    {
-                                        DateTime dtserverTemp = Utils.DateTimeServer();
-                                        foreach (DataRow row in this.tableDetailPayment.Rows)
-                                        {
-                                            Fee_Advance_PaymentBLL.UpdPaidFee_AdvancePayment(Convert.ToDecimal(row["RowID"]), this.dPatientReceiveID, bankEntryCode, 0, true, this.userid, dtserverTemp.ToString("dd/MM/yyyy HH:mm:ss"));
-                                        }
-                                    }
-                                    XtraMessageBox.Show(" Hoàn trả phiếu thu thành công!", "Bệnh viện điện tử .NET", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                                    this.iCancel = 0;
-                                    this.EnableButton(true);
-                                    this.ClearData();
-                                }
-                                else
-                                {
-                                    XtraMessageBox.Show(" Việc hoàn trả thất bại!", "Bệnh viện điện tử .NET", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                                    return;
-                                }
-                            }
+                            XtraMessageBox.Show("Đã được cấp thuốc không được phép hoàn!", "Bệnh viện điện tử .NET", MessageBoxButtons.OK, MessageBoxIcon.Information);
                         }
                         else
                         {
-                            XtraMessageBox.Show("User không có quyền hủy phiếu thu này! Vui lòng liên hệ quản trị hệ thống.", "Bệnh viện điện tử .NET", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                            return;
+                            if (this.bAdmin || this.userid == this.employeeCodeOld)
+                            {
+                                ViewPopup.frmLyDoHuyPhieuThu frmCancel = new ViewPopup.frmLyDoHuyPhieuThu();
+                                frmCancel.ShowDialog();
+
+                                if (string.IsNullOrEmpty(frmCancel.reason))
+                                    return;
+                                else
+                                {
+                                    if (BanksAccountBLL.DelBanksAccount(this.bankEntryCode, this.txtMabn.Text.TrimEnd(), this.dPatientReceiveID, this.shiftWork, this.userid, frmCancel.reason) >= 1)
+                                    {
+                                        if (this.tableDetailPayment != null && this.tableDetailPayment.Rows.Count > 0)
+                                        {
+                                            DateTime dtserverTemp = Utils.DateTimeServer();
+                                            foreach (DataRow row in this.tableDetailPayment.Rows)
+                                            {
+                                                Fee_Advance_PaymentBLL.UpdPaidFee_AdvancePayment(Convert.ToDecimal(row["RowID"]), this.dPatientReceiveID, bankEntryCode, 0, true, this.userid, dtserverTemp.ToString("dd/MM/yyyy HH:mm:ss"));
+                                            }
+
+                                        }
+                                        XtraMessageBox.Show(" Hoàn trả phiếu thu thành công!", "Bệnh viện điện tử .NET", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                                        this.iCancel = 0;
+                                        this.EnableButton(true);
+                                        this.ClearData();
+                                    }
+                                    else
+                                    {
+                                        XtraMessageBox.Show(" Việc hoàn trả thất bại!", "Bệnh viện điện tử .NET", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                                        return;
+                                    }
+                                }
+                            }
+                            else
+                            {
+                                XtraMessageBox.Show("User không có quyền hủy phiếu thu này! Vui lòng liên hệ quản trị hệ thống.", "Bệnh viện điện tử .NET", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                                return;
+                            }
                         }
+                        
                     }
                     catch { return; }
                 }
@@ -1795,6 +1807,28 @@ namespace Ps.Clinic.Entry
                 this.tstripOptions_MenuInTH.Checked = this.tstripOptions_MenuInChiTiet.Checked = this.tstripOptions_MenuInTongDotDieuTri.Checked = false;
 
             }
+        }
+
+        private void gridView_ListBanksAccount_PopupMenuShowing(object sender, PopupMenuShowingEventArgs e)
+        {
+        
+            if (e.HitInfo.HitTest == DevExpress.XtraGrid.Views.Grid.ViewInfo.GridHitTest.RowCell)
+            {
+                e.Allow = false;
+                popupMenuListBankAccount.ShowPopup(gridControl_ListBanksAccount.PointToScreen(e.Point));
+            }
+            //else
+            //{
+            //    e.Allow = false;
+              
+            //    PopupMenuRowGV.ShowPopup(GCDanhSachTiepNhan.PointToScreen(e.Point));
+            //}
+
+        }
+
+        private void gridView_BankList_MouseDown(object sender, MouseEventArgs e)
+        {
+            
         }
 
         private decimal GetAmountDiscountMedical()

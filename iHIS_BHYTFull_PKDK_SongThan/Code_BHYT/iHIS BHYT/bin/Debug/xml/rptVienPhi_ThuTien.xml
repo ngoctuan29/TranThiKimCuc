@@ -19,842 +19,133 @@
     <PassWord_TC />
   </Table1>
   <Table2>
-    <BanksAccountCode>20170728141243697</BanksAccountCode>
-    <ReferenceCode>226371</ReferenceCode>
-    <PatientCode>17047729</PatientCode>
-    <BHYTPay>2376.00</BHYTPay>
-    <PatientPay>39000.00</PatientPay>
-    <PatientName>TRẦN THỊ HÒA</PatientName>
-    <PatientGendername>Nữ</PatientGendername>
-    <PatientBirthday>1999-04-08T00:00:00+07:00</PatientBirthday>
-    <PatientBirthyear>1999</PatientBirthyear>
-    <PatientAge>18</PatientAge>
+    <BanksAccountCode>20170810143431727</BanksAccountCode>
+    <ReferenceCode>236381</ReferenceCode>
+    <PatientCode>17047743</PatientCode>
+    <BHYTPay>0.00</BHYTPay>
+    <PatientPay>643700.00</PatientPay>
+    <PatientName>TEST10</PatientName>
+    <PatientGendername>Nam</PatientGendername>
+    <PatientBirthday>1994-01-01T00:00:00+07:00</PatientBirthday>
+    <PatientBirthyear>1994</PatientBirthyear>
+    <PatientAge>23</PatientAge>
     <PatientMobile />
     <PatientEmail />
     <MedicalHistory />
     <Allergy />
-    <Serial>DN4740759508229</Serial>
-    <KCBBDName>Tổng Công ty Hàng Hải Việt Nam (YTCQ)</KCBBDName>
-    <StartDate>2017-07-01T00:00:00+07:00</StartDate>
-    <EndDate>2017-09-30T00:00:00+07:00</EndDate>
-    <TraiTuyen>0</TraiTuyen>
-    <PatientAddress>Quảng Văn-Ba Đồn-Quảng Bình_Cty Winning - May 29, </PatientAddress>
-    <TotalAmount>41376.00</TotalAmount>
-    <TotalReal>39000.00</TotalReal>
+    <PatientAddress>Số 1, Phường Cầu Ông Lãnh, Quận 1, Thành phố Hồ Chí Minh</PatientAddress>
+    <TotalAmount>643700.00</TotalAmount>
+    <TotalReal>643700.00</TotalReal>
     <Exemptions>0.00</Exemptions>
     <TotalSurcharge>0.0000</TotalSurcharge>
-    <SerialNumber>20170728-00005</SerialNumber>
-    <PatientReceiveClinic>20170002-17047729</PatientReceiveClinic>
+    <SerialNumber>20170810-00021</SerialNumber>
+    <PatientReceiveClinic>20170006-17047743</PatientReceiveClinic>
     <EmployeeName>Quản trị hệ thống</EmployeeName>
     <CashierName>Quản trị hệ thống</CashierName>
-    <RateBHYT>80 %</RateBHYT>
-    <Postingdate>2017-07-28T14:12:43.777+07:00</Postingdate>
-  </Table2>
-  <Table2>
-    <BanksAccountCode>20170728141243697</BanksAccountCode>
-    <ReferenceCode>226371</ReferenceCode>
-    <PatientCode>17047729</PatientCode>
-    <BHYTPay>2376.00</BHYTPay>
-    <PatientPay>39000.00</PatientPay>
-    <PatientName>TRẦN THỊ HÒA</PatientName>
-    <PatientGendername>Nữ</PatientGendername>
-    <PatientBirthday>1999-04-08T00:00:00+07:00</PatientBirthday>
-    <PatientBirthyear>1999</PatientBirthyear>
-    <PatientAge>18</PatientAge>
-    <PatientMobile />
-    <PatientEmail />
-    <MedicalHistory />
-    <Allergy />
-    <Serial>DN4740759508229</Serial>
-    <KCBBDName>TYT xã Đông Thành</KCBBDName>
-    <StartDate>2017-07-01T00:00:00+07:00</StartDate>
-    <EndDate>2017-09-30T00:00:00+07:00</EndDate>
-    <TraiTuyen>0</TraiTuyen>
-    <PatientAddress>Quảng Văn-Ba Đồn-Quảng Bình_Cty Winning - May 29, </PatientAddress>
-    <TotalAmount>41376.00</TotalAmount>
-    <TotalReal>39000.00</TotalReal>
-    <Exemptions>0.00</Exemptions>
-    <TotalSurcharge>0.0000</TotalSurcharge>
-    <SerialNumber>20170728-00005</SerialNumber>
-    <PatientReceiveClinic>20170002-17047729</PatientReceiveClinic>
-    <EmployeeName>Quản trị hệ thống</EmployeeName>
-    <CashierName>Quản trị hệ thống</CashierName>
-    <RateBHYT>80 %</RateBHYT>
-    <Postingdate>2017-07-28T14:12:43.777+07:00</Postingdate>
-  </Table2>
-  <Table2>
-    <BanksAccountCode>20170728141243697</BanksAccountCode>
-    <ReferenceCode>226371</ReferenceCode>
-    <PatientCode>17047729</PatientCode>
-    <BHYTPay>2376.00</BHYTPay>
-    <PatientPay>39000.00</PatientPay>
-    <PatientName>TRẦN THỊ HÒA</PatientName>
-    <PatientGendername>Nữ</PatientGendername>
-    <PatientBirthday>1999-04-08T00:00:00+07:00</PatientBirthday>
-    <PatientBirthyear>1999</PatientBirthyear>
-    <PatientAge>18</PatientAge>
-    <PatientMobile />
-    <PatientEmail />
-    <MedicalHistory />
-    <Allergy />
-    <Serial>DN4740759508229</Serial>
-    <KCBBDName>TYT xã Thành Công</KCBBDName>
-    <StartDate>2017-07-01T00:00:00+07:00</StartDate>
-    <EndDate>2017-09-30T00:00:00+07:00</EndDate>
-    <TraiTuyen>0</TraiTuyen>
-    <PatientAddress>Quảng Văn-Ba Đồn-Quảng Bình_Cty Winning - May 29, </PatientAddress>
-    <TotalAmount>41376.00</TotalAmount>
-    <TotalReal>39000.00</TotalReal>
-    <Exemptions>0.00</Exemptions>
-    <TotalSurcharge>0.0000</TotalSurcharge>
-    <SerialNumber>20170728-00005</SerialNumber>
-    <PatientReceiveClinic>20170002-17047729</PatientReceiveClinic>
-    <EmployeeName>Quản trị hệ thống</EmployeeName>
-    <CashierName>Quản trị hệ thống</CashierName>
-    <RateBHYT>80 %</RateBHYT>
-    <Postingdate>2017-07-28T14:12:43.777+07:00</Postingdate>
-  </Table2>
-  <Table2>
-    <BanksAccountCode>20170728141243697</BanksAccountCode>
-    <ReferenceCode>226371</ReferenceCode>
-    <PatientCode>17047729</PatientCode>
-    <BHYTPay>2376.00</BHYTPay>
-    <PatientPay>39000.00</PatientPay>
-    <PatientName>TRẦN THỊ HÒA</PatientName>
-    <PatientGendername>Nữ</PatientGendername>
-    <PatientBirthday>1999-04-08T00:00:00+07:00</PatientBirthday>
-    <PatientBirthyear>1999</PatientBirthyear>
-    <PatientAge>18</PatientAge>
-    <PatientMobile />
-    <PatientEmail />
-    <MedicalHistory />
-    <Allergy />
-    <Serial>DN4740759508229</Serial>
-    <KCBBDName>TYT xã Phiêng Pằn</KCBBDName>
-    <StartDate>2017-07-01T00:00:00+07:00</StartDate>
-    <EndDate>2017-09-30T00:00:00+07:00</EndDate>
-    <TraiTuyen>0</TraiTuyen>
-    <PatientAddress>Quảng Văn-Ba Đồn-Quảng Bình_Cty Winning - May 29, </PatientAddress>
-    <TotalAmount>41376.00</TotalAmount>
-    <TotalReal>39000.00</TotalReal>
-    <Exemptions>0.00</Exemptions>
-    <TotalSurcharge>0.0000</TotalSurcharge>
-    <SerialNumber>20170728-00005</SerialNumber>
-    <PatientReceiveClinic>20170002-17047729</PatientReceiveClinic>
-    <EmployeeName>Quản trị hệ thống</EmployeeName>
-    <CashierName>Quản trị hệ thống</CashierName>
-    <RateBHYT>80 %</RateBHYT>
-    <Postingdate>2017-07-28T14:12:43.777+07:00</Postingdate>
-  </Table2>
-  <Table2>
-    <BanksAccountCode>20170728141243697</BanksAccountCode>
-    <ReferenceCode>226371</ReferenceCode>
-    <PatientCode>17047729</PatientCode>
-    <BHYTPay>2376.00</BHYTPay>
-    <PatientPay>39000.00</PatientPay>
-    <PatientName>TRẦN THỊ HÒA</PatientName>
-    <PatientGendername>Nữ</PatientGendername>
-    <PatientBirthday>1999-04-08T00:00:00+07:00</PatientBirthday>
-    <PatientBirthyear>1999</PatientBirthyear>
-    <PatientAge>18</PatientAge>
-    <PatientMobile />
-    <PatientEmail />
-    <MedicalHistory />
-    <Allergy />
-    <Serial>DN4740759508229</Serial>
-    <KCBBDName>TYT xã Tân Lập</KCBBDName>
-    <StartDate>2017-07-01T00:00:00+07:00</StartDate>
-    <EndDate>2017-09-30T00:00:00+07:00</EndDate>
-    <TraiTuyen>0</TraiTuyen>
-    <PatientAddress>Quảng Văn-Ba Đồn-Quảng Bình_Cty Winning - May 29, </PatientAddress>
-    <TotalAmount>41376.00</TotalAmount>
-    <TotalReal>39000.00</TotalReal>
-    <Exemptions>0.00</Exemptions>
-    <TotalSurcharge>0.0000</TotalSurcharge>
-    <SerialNumber>20170728-00005</SerialNumber>
-    <PatientReceiveClinic>20170002-17047729</PatientReceiveClinic>
-    <EmployeeName>Quản trị hệ thống</EmployeeName>
-    <CashierName>Quản trị hệ thống</CashierName>
-    <RateBHYT>80 %</RateBHYT>
-    <Postingdate>2017-07-28T14:12:43.777+07:00</Postingdate>
-  </Table2>
-  <Table2>
-    <BanksAccountCode>20170728141243697</BanksAccountCode>
-    <ReferenceCode>226371</ReferenceCode>
-    <PatientCode>17047729</PatientCode>
-    <BHYTPay>2376.00</BHYTPay>
-    <PatientPay>39000.00</PatientPay>
-    <PatientName>TRẦN THỊ HÒA</PatientName>
-    <PatientGendername>Nữ</PatientGendername>
-    <PatientBirthday>1999-04-08T00:00:00+07:00</PatientBirthday>
-    <PatientBirthyear>1999</PatientBirthyear>
-    <PatientAge>18</PatientAge>
-    <PatientMobile />
-    <PatientEmail />
-    <MedicalHistory />
-    <Allergy />
-    <Serial>DN4740759508229</Serial>
-    <KCBBDName>TYT Thị trấn Đồng Mỏ</KCBBDName>
-    <StartDate>2017-07-01T00:00:00+07:00</StartDate>
-    <EndDate>2017-09-30T00:00:00+07:00</EndDate>
-    <TraiTuyen>0</TraiTuyen>
-    <PatientAddress>Quảng Văn-Ba Đồn-Quảng Bình_Cty Winning - May 29, </PatientAddress>
-    <TotalAmount>41376.00</TotalAmount>
-    <TotalReal>39000.00</TotalReal>
-    <Exemptions>0.00</Exemptions>
-    <TotalSurcharge>0.0000</TotalSurcharge>
-    <SerialNumber>20170728-00005</SerialNumber>
-    <PatientReceiveClinic>20170002-17047729</PatientReceiveClinic>
-    <EmployeeName>Quản trị hệ thống</EmployeeName>
-    <CashierName>Quản trị hệ thống</CashierName>
-    <RateBHYT>80 %</RateBHYT>
-    <Postingdate>2017-07-28T14:12:43.777+07:00</Postingdate>
-  </Table2>
-  <Table2>
-    <BanksAccountCode>20170728141243697</BanksAccountCode>
-    <ReferenceCode>226371</ReferenceCode>
-    <PatientCode>17047729</PatientCode>
-    <BHYTPay>2376.00</BHYTPay>
-    <PatientPay>39000.00</PatientPay>
-    <PatientName>TRẦN THỊ HÒA</PatientName>
-    <PatientGendername>Nữ</PatientGendername>
-    <PatientBirthday>1999-04-08T00:00:00+07:00</PatientBirthday>
-    <PatientBirthyear>1999</PatientBirthyear>
-    <PatientAge>18</PatientAge>
-    <PatientMobile />
-    <PatientEmail />
-    <MedicalHistory />
-    <Allergy />
-    <Serial>DN4740759508229</Serial>
-    <KCBBDName>TYT xã Hồng Phong- Đông Triều</KCBBDName>
-    <StartDate>2017-07-01T00:00:00+07:00</StartDate>
-    <EndDate>2017-09-30T00:00:00+07:00</EndDate>
-    <TraiTuyen>0</TraiTuyen>
-    <PatientAddress>Quảng Văn-Ba Đồn-Quảng Bình_Cty Winning - May 29, </PatientAddress>
-    <TotalAmount>41376.00</TotalAmount>
-    <TotalReal>39000.00</TotalReal>
-    <Exemptions>0.00</Exemptions>
-    <TotalSurcharge>0.0000</TotalSurcharge>
-    <SerialNumber>20170728-00005</SerialNumber>
-    <PatientReceiveClinic>20170002-17047729</PatientReceiveClinic>
-    <EmployeeName>Quản trị hệ thống</EmployeeName>
-    <CashierName>Quản trị hệ thống</CashierName>
-    <RateBHYT>80 %</RateBHYT>
-    <Postingdate>2017-07-28T14:12:43.777+07:00</Postingdate>
-  </Table2>
-  <Table2>
-    <BanksAccountCode>20170728141243697</BanksAccountCode>
-    <ReferenceCode>226371</ReferenceCode>
-    <PatientCode>17047729</PatientCode>
-    <BHYTPay>2376.00</BHYTPay>
-    <PatientPay>39000.00</PatientPay>
-    <PatientName>TRẦN THỊ HÒA</PatientName>
-    <PatientGendername>Nữ</PatientGendername>
-    <PatientBirthday>1999-04-08T00:00:00+07:00</PatientBirthday>
-    <PatientBirthyear>1999</PatientBirthyear>
-    <PatientAge>18</PatientAge>
-    <PatientMobile />
-    <PatientEmail />
-    <MedicalHistory />
-    <Allergy />
-    <Serial>DN4740759508229</Serial>
-    <KCBBDName>TYT Xã Tiền Phong</KCBBDName>
-    <StartDate>2017-07-01T00:00:00+07:00</StartDate>
-    <EndDate>2017-09-30T00:00:00+07:00</EndDate>
-    <TraiTuyen>0</TraiTuyen>
-    <PatientAddress>Quảng Văn-Ba Đồn-Quảng Bình_Cty Winning - May 29, </PatientAddress>
-    <TotalAmount>41376.00</TotalAmount>
-    <TotalReal>39000.00</TotalReal>
-    <Exemptions>0.00</Exemptions>
-    <TotalSurcharge>0.0000</TotalSurcharge>
-    <SerialNumber>20170728-00005</SerialNumber>
-    <PatientReceiveClinic>20170002-17047729</PatientReceiveClinic>
-    <EmployeeName>Quản trị hệ thống</EmployeeName>
-    <CashierName>Quản trị hệ thống</CashierName>
-    <RateBHYT>80 %</RateBHYT>
-    <Postingdate>2017-07-28T14:12:43.777+07:00</Postingdate>
-  </Table2>
-  <Table2>
-    <BanksAccountCode>20170728141243697</BanksAccountCode>
-    <ReferenceCode>226371</ReferenceCode>
-    <PatientCode>17047729</PatientCode>
-    <BHYTPay>2376.00</BHYTPay>
-    <PatientPay>39000.00</PatientPay>
-    <PatientName>TRẦN THỊ HÒA</PatientName>
-    <PatientGendername>Nữ</PatientGendername>
-    <PatientBirthday>1999-04-08T00:00:00+07:00</PatientBirthday>
-    <PatientBirthyear>1999</PatientBirthyear>
-    <PatientAge>18</PatientAge>
-    <PatientMobile />
-    <PatientEmail />
-    <MedicalHistory />
-    <Allergy />
-    <Serial>DN4740759508229</Serial>
-    <KCBBDName>TYT xã Phúc Khánh</KCBBDName>
-    <StartDate>2017-07-01T00:00:00+07:00</StartDate>
-    <EndDate>2017-09-30T00:00:00+07:00</EndDate>
-    <TraiTuyen>0</TraiTuyen>
-    <PatientAddress>Quảng Văn-Ba Đồn-Quảng Bình_Cty Winning - May 29, </PatientAddress>
-    <TotalAmount>41376.00</TotalAmount>
-    <TotalReal>39000.00</TotalReal>
-    <Exemptions>0.00</Exemptions>
-    <TotalSurcharge>0.0000</TotalSurcharge>
-    <SerialNumber>20170728-00005</SerialNumber>
-    <PatientReceiveClinic>20170002-17047729</PatientReceiveClinic>
-    <EmployeeName>Quản trị hệ thống</EmployeeName>
-    <CashierName>Quản trị hệ thống</CashierName>
-    <RateBHYT>80 %</RateBHYT>
-    <Postingdate>2017-07-28T14:12:43.777+07:00</Postingdate>
-  </Table2>
-  <Table2>
-    <BanksAccountCode>20170728141243697</BanksAccountCode>
-    <ReferenceCode>226371</ReferenceCode>
-    <PatientCode>17047729</PatientCode>
-    <BHYTPay>2376.00</BHYTPay>
-    <PatientPay>39000.00</PatientPay>
-    <PatientName>TRẦN THỊ HÒA</PatientName>
-    <PatientGendername>Nữ</PatientGendername>
-    <PatientBirthday>1999-04-08T00:00:00+07:00</PatientBirthday>
-    <PatientBirthyear>1999</PatientBirthyear>
-    <PatientAge>18</PatientAge>
-    <PatientMobile />
-    <PatientEmail />
-    <MedicalHistory />
-    <Allergy />
-    <Serial>DN4740759508229</Serial>
-    <KCBBDName>TYT xã Tân Tiến</KCBBDName>
-    <StartDate>2017-07-01T00:00:00+07:00</StartDate>
-    <EndDate>2017-09-30T00:00:00+07:00</EndDate>
-    <TraiTuyen>0</TraiTuyen>
-    <PatientAddress>Quảng Văn-Ba Đồn-Quảng Bình_Cty Winning - May 29, </PatientAddress>
-    <TotalAmount>41376.00</TotalAmount>
-    <TotalReal>39000.00</TotalReal>
-    <Exemptions>0.00</Exemptions>
-    <TotalSurcharge>0.0000</TotalSurcharge>
-    <SerialNumber>20170728-00005</SerialNumber>
-    <PatientReceiveClinic>20170002-17047729</PatientReceiveClinic>
-    <EmployeeName>Quản trị hệ thống</EmployeeName>
-    <CashierName>Quản trị hệ thống</CashierName>
-    <RateBHYT>80 %</RateBHYT>
-    <Postingdate>2017-07-28T14:12:43.777+07:00</Postingdate>
-  </Table2>
-  <Table2>
-    <BanksAccountCode>20170728141243697</BanksAccountCode>
-    <ReferenceCode>226371</ReferenceCode>
-    <PatientCode>17047729</PatientCode>
-    <BHYTPay>2376.00</BHYTPay>
-    <PatientPay>39000.00</PatientPay>
-    <PatientName>TRẦN THỊ HÒA</PatientName>
-    <PatientGendername>Nữ</PatientGendername>
-    <PatientBirthday>1999-04-08T00:00:00+07:00</PatientBirthday>
-    <PatientBirthyear>1999</PatientBirthyear>
-    <PatientAge>18</PatientAge>
-    <PatientMobile />
-    <PatientEmail />
-    <MedicalHistory />
-    <Allergy />
-    <Serial>DN4740759508229</Serial>
-    <KCBBDName>TYT xã Tân Viên</KCBBDName>
-    <StartDate>2017-07-01T00:00:00+07:00</StartDate>
-    <EndDate>2017-09-30T00:00:00+07:00</EndDate>
-    <TraiTuyen>0</TraiTuyen>
-    <PatientAddress>Quảng Văn-Ba Đồn-Quảng Bình_Cty Winning - May 29, </PatientAddress>
-    <TotalAmount>41376.00</TotalAmount>
-    <TotalReal>39000.00</TotalReal>
-    <Exemptions>0.00</Exemptions>
-    <TotalSurcharge>0.0000</TotalSurcharge>
-    <SerialNumber>20170728-00005</SerialNumber>
-    <PatientReceiveClinic>20170002-17047729</PatientReceiveClinic>
-    <EmployeeName>Quản trị hệ thống</EmployeeName>
-    <CashierName>Quản trị hệ thống</CashierName>
-    <RateBHYT>80 %</RateBHYT>
-    <Postingdate>2017-07-28T14:12:43.777+07:00</Postingdate>
-  </Table2>
-  <Table2>
-    <BanksAccountCode>20170728141243697</BanksAccountCode>
-    <ReferenceCode>226371</ReferenceCode>
-    <PatientCode>17047729</PatientCode>
-    <BHYTPay>2376.00</BHYTPay>
-    <PatientPay>39000.00</PatientPay>
-    <PatientName>TRẦN THỊ HÒA</PatientName>
-    <PatientGendername>Nữ</PatientGendername>
-    <PatientBirthday>1999-04-08T00:00:00+07:00</PatientBirthday>
-    <PatientBirthyear>1999</PatientBirthyear>
-    <PatientAge>18</PatientAge>
-    <PatientMobile />
-    <PatientEmail />
-    <MedicalHistory />
-    <Allergy />
-    <Serial>DN4740759508229</Serial>
-    <KCBBDName>TYT xã Thái Phúc</KCBBDName>
-    <StartDate>2017-07-01T00:00:00+07:00</StartDate>
-    <EndDate>2017-09-30T00:00:00+07:00</EndDate>
-    <TraiTuyen>0</TraiTuyen>
-    <PatientAddress>Quảng Văn-Ba Đồn-Quảng Bình_Cty Winning - May 29, </PatientAddress>
-    <TotalAmount>41376.00</TotalAmount>
-    <TotalReal>39000.00</TotalReal>
-    <Exemptions>0.00</Exemptions>
-    <TotalSurcharge>0.0000</TotalSurcharge>
-    <SerialNumber>20170728-00005</SerialNumber>
-    <PatientReceiveClinic>20170002-17047729</PatientReceiveClinic>
-    <EmployeeName>Quản trị hệ thống</EmployeeName>
-    <CashierName>Quản trị hệ thống</CashierName>
-    <RateBHYT>80 %</RateBHYT>
-    <Postingdate>2017-07-28T14:12:43.777+07:00</Postingdate>
-  </Table2>
-  <Table2>
-    <BanksAccountCode>20170728141243697</BanksAccountCode>
-    <ReferenceCode>226371</ReferenceCode>
-    <PatientCode>17047729</PatientCode>
-    <BHYTPay>2376.00</BHYTPay>
-    <PatientPay>39000.00</PatientPay>
-    <PatientName>TRẦN THỊ HÒA</PatientName>
-    <PatientGendername>Nữ</PatientGendername>
-    <PatientBirthday>1999-04-08T00:00:00+07:00</PatientBirthday>
-    <PatientBirthyear>1999</PatientBirthyear>
-    <PatientAge>18</PatientAge>
-    <PatientMobile />
-    <PatientEmail />
-    <MedicalHistory />
-    <Allergy />
-    <Serial>DN4740759508229</Serial>
-    <KCBBDName>TYT xã Thành Mỹ</KCBBDName>
-    <StartDate>2017-07-01T00:00:00+07:00</StartDate>
-    <EndDate>2017-09-30T00:00:00+07:00</EndDate>
-    <TraiTuyen>0</TraiTuyen>
-    <PatientAddress>Quảng Văn-Ba Đồn-Quảng Bình_Cty Winning - May 29, </PatientAddress>
-    <TotalAmount>41376.00</TotalAmount>
-    <TotalReal>39000.00</TotalReal>
-    <Exemptions>0.00</Exemptions>
-    <TotalSurcharge>0.0000</TotalSurcharge>
-    <SerialNumber>20170728-00005</SerialNumber>
-    <PatientReceiveClinic>20170002-17047729</PatientReceiveClinic>
-    <EmployeeName>Quản trị hệ thống</EmployeeName>
-    <CashierName>Quản trị hệ thống</CashierName>
-    <RateBHYT>80 %</RateBHYT>
-    <Postingdate>2017-07-28T14:12:43.777+07:00</Postingdate>
-  </Table2>
-  <Table2>
-    <BanksAccountCode>20170728141243697</BanksAccountCode>
-    <ReferenceCode>226371</ReferenceCode>
-    <PatientCode>17047729</PatientCode>
-    <BHYTPay>2376.00</BHYTPay>
-    <PatientPay>39000.00</PatientPay>
-    <PatientName>TRẦN THỊ HÒA</PatientName>
-    <PatientGendername>Nữ</PatientGendername>
-    <PatientBirthday>1999-04-08T00:00:00+07:00</PatientBirthday>
-    <PatientBirthyear>1999</PatientBirthyear>
-    <PatientAge>18</PatientAge>
-    <PatientMobile />
-    <PatientEmail />
-    <MedicalHistory />
-    <Allergy />
-    <Serial>DN4740759508229</Serial>
-    <KCBBDName>TYT xã Nghĩa Lộc</KCBBDName>
-    <StartDate>2017-07-01T00:00:00+07:00</StartDate>
-    <EndDate>2017-09-30T00:00:00+07:00</EndDate>
-    <TraiTuyen>0</TraiTuyen>
-    <PatientAddress>Quảng Văn-Ba Đồn-Quảng Bình_Cty Winning - May 29, </PatientAddress>
-    <TotalAmount>41376.00</TotalAmount>
-    <TotalReal>39000.00</TotalReal>
-    <Exemptions>0.00</Exemptions>
-    <TotalSurcharge>0.0000</TotalSurcharge>
-    <SerialNumber>20170728-00005</SerialNumber>
-    <PatientReceiveClinic>20170002-17047729</PatientReceiveClinic>
-    <EmployeeName>Quản trị hệ thống</EmployeeName>
-    <CashierName>Quản trị hệ thống</CashierName>
-    <RateBHYT>80 %</RateBHYT>
-    <Postingdate>2017-07-28T14:12:43.777+07:00</Postingdate>
-  </Table2>
-  <Table2>
-    <BanksAccountCode>20170728141243697</BanksAccountCode>
-    <ReferenceCode>226371</ReferenceCode>
-    <PatientCode>17047729</PatientCode>
-    <BHYTPay>2376.00</BHYTPay>
-    <PatientPay>39000.00</PatientPay>
-    <PatientName>TRẦN THỊ HÒA</PatientName>
-    <PatientGendername>Nữ</PatientGendername>
-    <PatientBirthday>1999-04-08T00:00:00+07:00</PatientBirthday>
-    <PatientBirthyear>1999</PatientBirthyear>
-    <PatientAge>18</PatientAge>
-    <PatientMobile />
-    <PatientEmail />
-    <MedicalHistory />
-    <Allergy />
-    <Serial>DN4740759508229</Serial>
-    <KCBBDName>Bệnh viện đa khoa Vĩnh toàn</KCBBDName>
-    <StartDate>2017-07-01T00:00:00+07:00</StartDate>
-    <EndDate>2017-09-30T00:00:00+07:00</EndDate>
-    <TraiTuyen>0</TraiTuyen>
-    <PatientAddress>Quảng Văn-Ba Đồn-Quảng Bình_Cty Winning - May 29, </PatientAddress>
-    <TotalAmount>41376.00</TotalAmount>
-    <TotalReal>39000.00</TotalReal>
-    <Exemptions>0.00</Exemptions>
-    <TotalSurcharge>0.0000</TotalSurcharge>
-    <SerialNumber>20170728-00005</SerialNumber>
-    <PatientReceiveClinic>20170002-17047729</PatientReceiveClinic>
-    <EmployeeName>Quản trị hệ thống</EmployeeName>
-    <CashierName>Quản trị hệ thống</CashierName>
-    <RateBHYT>80 %</RateBHYT>
-    <Postingdate>2017-07-28T14:12:43.777+07:00</Postingdate>
-  </Table2>
-  <Table2>
-    <BanksAccountCode>20170728141243697</BanksAccountCode>
-    <ReferenceCode>226371</ReferenceCode>
-    <PatientCode>17047729</PatientCode>
-    <BHYTPay>2376.00</BHYTPay>
-    <PatientPay>39000.00</PatientPay>
-    <PatientName>TRẦN THỊ HÒA</PatientName>
-    <PatientGendername>Nữ</PatientGendername>
-    <PatientBirthday>1999-04-08T00:00:00+07:00</PatientBirthday>
-    <PatientBirthyear>1999</PatientBirthyear>
-    <PatientAge>18</PatientAge>
-    <PatientMobile />
-    <PatientEmail />
-    <MedicalHistory />
-    <Allergy />
-    <Serial>DN4740759508229</Serial>
-    <KCBBDName>TYT xã Ba Chùa</KCBBDName>
-    <StartDate>2017-07-01T00:00:00+07:00</StartDate>
-    <EndDate>2017-09-30T00:00:00+07:00</EndDate>
-    <TraiTuyen>0</TraiTuyen>
-    <PatientAddress>Quảng Văn-Ba Đồn-Quảng Bình_Cty Winning - May 29, </PatientAddress>
-    <TotalAmount>41376.00</TotalAmount>
-    <TotalReal>39000.00</TotalReal>
-    <Exemptions>0.00</Exemptions>
-    <TotalSurcharge>0.0000</TotalSurcharge>
-    <SerialNumber>20170728-00005</SerialNumber>
-    <PatientReceiveClinic>20170002-17047729</PatientReceiveClinic>
-    <EmployeeName>Quản trị hệ thống</EmployeeName>
-    <CashierName>Quản trị hệ thống</CashierName>
-    <RateBHYT>80 %</RateBHYT>
-    <Postingdate>2017-07-28T14:12:43.777+07:00</Postingdate>
-  </Table2>
-  <Table2>
-    <BanksAccountCode>20170728141243697</BanksAccountCode>
-    <ReferenceCode>226371</ReferenceCode>
-    <PatientCode>17047729</PatientCode>
-    <BHYTPay>2376.00</BHYTPay>
-    <PatientPay>39000.00</PatientPay>
-    <PatientName>TRẦN THỊ HÒA</PatientName>
-    <PatientGendername>Nữ</PatientGendername>
-    <PatientBirthday>1999-04-08T00:00:00+07:00</PatientBirthday>
-    <PatientBirthyear>1999</PatientBirthyear>
-    <PatientAge>18</PatientAge>
-    <PatientMobile />
-    <PatientEmail />
-    <MedicalHistory />
-    <Allergy />
-    <Serial>DN4740759508229</Serial>
-    <KCBBDName>Trung tâm chăm sóc sức khỏe sinh sản Bình Định</KCBBDName>
-    <StartDate>2017-07-01T00:00:00+07:00</StartDate>
-    <EndDate>2017-09-30T00:00:00+07:00</EndDate>
-    <TraiTuyen>0</TraiTuyen>
-    <PatientAddress>Quảng Văn-Ba Đồn-Quảng Bình_Cty Winning - May 29, </PatientAddress>
-    <TotalAmount>41376.00</TotalAmount>
-    <TotalReal>39000.00</TotalReal>
-    <Exemptions>0.00</Exemptions>
-    <TotalSurcharge>0.0000</TotalSurcharge>
-    <SerialNumber>20170728-00005</SerialNumber>
-    <PatientReceiveClinic>20170002-17047729</PatientReceiveClinic>
-    <EmployeeName>Quản trị hệ thống</EmployeeName>
-    <CashierName>Quản trị hệ thống</CashierName>
-    <RateBHYT>80 %</RateBHYT>
-    <Postingdate>2017-07-28T14:12:43.777+07:00</Postingdate>
-  </Table2>
-  <Table2>
-    <BanksAccountCode>20170728141243697</BanksAccountCode>
-    <ReferenceCode>226371</ReferenceCode>
-    <PatientCode>17047729</PatientCode>
-    <BHYTPay>2376.00</BHYTPay>
-    <PatientPay>39000.00</PatientPay>
-    <PatientName>TRẦN THỊ HÒA</PatientName>
-    <PatientGendername>Nữ</PatientGendername>
-    <PatientBirthday>1999-04-08T00:00:00+07:00</PatientBirthday>
-    <PatientBirthyear>1999</PatientBirthyear>
-    <PatientAge>18</PatientAge>
-    <PatientMobile />
-    <PatientEmail />
-    <MedicalHistory />
-    <Allergy />
-    <Serial>DN4740759508229</Serial>
-    <KCBBDName>TYT Trung tâm xã Bờ Ngoong (11)</KCBBDName>
-    <StartDate>2017-07-01T00:00:00+07:00</StartDate>
-    <EndDate>2017-09-30T00:00:00+07:00</EndDate>
-    <TraiTuyen>0</TraiTuyen>
-    <PatientAddress>Quảng Văn-Ba Đồn-Quảng Bình_Cty Winning - May 29, </PatientAddress>
-    <TotalAmount>41376.00</TotalAmount>
-    <TotalReal>39000.00</TotalReal>
-    <Exemptions>0.00</Exemptions>
-    <TotalSurcharge>0.0000</TotalSurcharge>
-    <SerialNumber>20170728-00005</SerialNumber>
-    <PatientReceiveClinic>20170002-17047729</PatientReceiveClinic>
-    <EmployeeName>Quản trị hệ thống</EmployeeName>
-    <CashierName>Quản trị hệ thống</CashierName>
-    <RateBHYT>80 %</RateBHYT>
-    <Postingdate>2017-07-28T14:12:43.777+07:00</Postingdate>
-  </Table2>
-  <Table2>
-    <BanksAccountCode>20170728141243697</BanksAccountCode>
-    <ReferenceCode>226371</ReferenceCode>
-    <PatientCode>17047729</PatientCode>
-    <BHYTPay>2376.00</BHYTPay>
-    <PatientPay>39000.00</PatientPay>
-    <PatientName>TRẦN THỊ HÒA</PatientName>
-    <PatientGendername>Nữ</PatientGendername>
-    <PatientBirthday>1999-04-08T00:00:00+07:00</PatientBirthday>
-    <PatientBirthyear>1999</PatientBirthyear>
-    <PatientAge>18</PatientAge>
-    <PatientMobile />
-    <PatientEmail />
-    <MedicalHistory />
-    <Allergy />
-    <Serial>DN4740759508229</Serial>
-    <KCBBDName>TYT xã Ea Na</KCBBDName>
-    <StartDate>2017-07-01T00:00:00+07:00</StartDate>
-    <EndDate>2017-09-30T00:00:00+07:00</EndDate>
-    <TraiTuyen>0</TraiTuyen>
-    <PatientAddress>Quảng Văn-Ba Đồn-Quảng Bình_Cty Winning - May 29, </PatientAddress>
-    <TotalAmount>41376.00</TotalAmount>
-    <TotalReal>39000.00</TotalReal>
-    <Exemptions>0.00</Exemptions>
-    <TotalSurcharge>0.0000</TotalSurcharge>
-    <SerialNumber>20170728-00005</SerialNumber>
-    <PatientReceiveClinic>20170002-17047729</PatientReceiveClinic>
-    <EmployeeName>Quản trị hệ thống</EmployeeName>
-    <CashierName>Quản trị hệ thống</CashierName>
-    <RateBHYT>80 %</RateBHYT>
-    <Postingdate>2017-07-28T14:12:43.777+07:00</Postingdate>
-  </Table2>
-  <Table2>
-    <BanksAccountCode>20170728141243697</BanksAccountCode>
-    <ReferenceCode>226371</ReferenceCode>
-    <PatientCode>17047729</PatientCode>
-    <BHYTPay>2376.00</BHYTPay>
-    <PatientPay>39000.00</PatientPay>
-    <PatientName>TRẦN THỊ HÒA</PatientName>
-    <PatientGendername>Nữ</PatientGendername>
-    <PatientBirthday>1999-04-08T00:00:00+07:00</PatientBirthday>
-    <PatientBirthyear>1999</PatientBirthyear>
-    <PatientAge>18</PatientAge>
-    <PatientMobile />
-    <PatientEmail />
-    <MedicalHistory />
-    <Allergy />
-    <Serial>DN4740759508229</Serial>
-    <KCBBDName>TYT Phường 13 - Quận Phú Nhuận</KCBBDName>
-    <StartDate>2017-07-01T00:00:00+07:00</StartDate>
-    <EndDate>2017-09-30T00:00:00+07:00</EndDate>
-    <TraiTuyen>0</TraiTuyen>
-    <PatientAddress>Quảng Văn-Ba Đồn-Quảng Bình_Cty Winning - May 29, </PatientAddress>
-    <TotalAmount>41376.00</TotalAmount>
-    <TotalReal>39000.00</TotalReal>
-    <Exemptions>0.00</Exemptions>
-    <TotalSurcharge>0.0000</TotalSurcharge>
-    <SerialNumber>20170728-00005</SerialNumber>
-    <PatientReceiveClinic>20170002-17047729</PatientReceiveClinic>
-    <EmployeeName>Quản trị hệ thống</EmployeeName>
-    <CashierName>Quản trị hệ thống</CashierName>
-    <RateBHYT>80 %</RateBHYT>
-    <Postingdate>2017-07-28T14:12:43.777+07:00</Postingdate>
-  </Table2>
-  <Table2>
-    <BanksAccountCode>20170728141243697</BanksAccountCode>
-    <ReferenceCode>226371</ReferenceCode>
-    <PatientCode>17047729</PatientCode>
-    <BHYTPay>2376.00</BHYTPay>
-    <PatientPay>39000.00</PatientPay>
-    <PatientName>TRẦN THỊ HÒA</PatientName>
-    <PatientGendername>Nữ</PatientGendername>
-    <PatientBirthday>1999-04-08T00:00:00+07:00</PatientBirthday>
-    <PatientBirthyear>1999</PatientBirthyear>
-    <PatientAge>18</PatientAge>
-    <PatientMobile />
-    <PatientEmail />
-    <MedicalHistory />
-    <Allergy />
-    <Serial>DN4740759508229</Serial>
-    <KCBBDName>Trạm y tế Xã Long An</KCBBDName>
-    <StartDate>2017-07-01T00:00:00+07:00</StartDate>
-    <EndDate>2017-09-30T00:00:00+07:00</EndDate>
-    <TraiTuyen>0</TraiTuyen>
-    <PatientAddress>Quảng Văn-Ba Đồn-Quảng Bình_Cty Winning - May 29, </PatientAddress>
-    <TotalAmount>41376.00</TotalAmount>
-    <TotalReal>39000.00</TotalReal>
-    <Exemptions>0.00</Exemptions>
-    <TotalSurcharge>0.0000</TotalSurcharge>
-    <SerialNumber>20170728-00005</SerialNumber>
-    <PatientReceiveClinic>20170002-17047729</PatientReceiveClinic>
-    <EmployeeName>Quản trị hệ thống</EmployeeName>
-    <CashierName>Quản trị hệ thống</CashierName>
-    <RateBHYT>80 %</RateBHYT>
-    <Postingdate>2017-07-28T14:12:43.777+07:00</Postingdate>
-  </Table2>
-  <Table2>
-    <BanksAccountCode>20170728141243697</BanksAccountCode>
-    <ReferenceCode>226371</ReferenceCode>
-    <PatientCode>17047729</PatientCode>
-    <BHYTPay>2376.00</BHYTPay>
-    <PatientPay>39000.00</PatientPay>
-    <PatientName>TRẦN THỊ HÒA</PatientName>
-    <PatientGendername>Nữ</PatientGendername>
-    <PatientBirthday>1999-04-08T00:00:00+07:00</PatientBirthday>
-    <PatientBirthyear>1999</PatientBirthyear>
-    <PatientAge>18</PatientAge>
-    <PatientMobile />
-    <PatientEmail />
-    <MedicalHistory />
-    <Allergy />
-    <Serial>DN4740759508229</Serial>
-    <KCBBDName>Phòng khám đa khoa Dân lập Mỹ Tho</KCBBDName>
-    <StartDate>2017-07-01T00:00:00+07:00</StartDate>
-    <EndDate>2017-09-30T00:00:00+07:00</EndDate>
-    <TraiTuyen>0</TraiTuyen>
-    <PatientAddress>Quảng Văn-Ba Đồn-Quảng Bình_Cty Winning - May 29, </PatientAddress>
-    <TotalAmount>41376.00</TotalAmount>
-    <TotalReal>39000.00</TotalReal>
-    <Exemptions>0.00</Exemptions>
-    <TotalSurcharge>0.0000</TotalSurcharge>
-    <SerialNumber>20170728-00005</SerialNumber>
-    <PatientReceiveClinic>20170002-17047729</PatientReceiveClinic>
-    <EmployeeName>Quản trị hệ thống</EmployeeName>
-    <CashierName>Quản trị hệ thống</CashierName>
-    <RateBHYT>80 %</RateBHYT>
-    <Postingdate>2017-07-28T14:12:43.777+07:00</Postingdate>
-  </Table2>
-  <Table2>
-    <BanksAccountCode>20170728141243697</BanksAccountCode>
-    <ReferenceCode>226371</ReferenceCode>
-    <PatientCode>17047729</PatientCode>
-    <BHYTPay>2376.00</BHYTPay>
-    <PatientPay>39000.00</PatientPay>
-    <PatientName>TRẦN THỊ HÒA</PatientName>
-    <PatientGendername>Nữ</PatientGendername>
-    <PatientBirthday>1999-04-08T00:00:00+07:00</PatientBirthday>
-    <PatientBirthyear>1999</PatientBirthyear>
-    <PatientAge>18</PatientAge>
-    <PatientMobile />
-    <PatientEmail />
-    <MedicalHistory />
-    <Allergy />
-    <Serial>DN4740759508229</Serial>
-    <KCBBDName>Phòng khám đa khoa Châu Thành</KCBBDName>
-    <StartDate>2017-07-01T00:00:00+07:00</StartDate>
-    <EndDate>2017-09-30T00:00:00+07:00</EndDate>
-    <TraiTuyen>0</TraiTuyen>
-    <PatientAddress>Quảng Văn-Ba Đồn-Quảng Bình_Cty Winning - May 29, </PatientAddress>
-    <TotalAmount>41376.00</TotalAmount>
-    <TotalReal>39000.00</TotalReal>
-    <Exemptions>0.00</Exemptions>
-    <TotalSurcharge>0.0000</TotalSurcharge>
-    <SerialNumber>20170728-00005</SerialNumber>
-    <PatientReceiveClinic>20170002-17047729</PatientReceiveClinic>
-    <EmployeeName>Quản trị hệ thống</EmployeeName>
-    <CashierName>Quản trị hệ thống</CashierName>
-    <RateBHYT>80 %</RateBHYT>
-    <Postingdate>2017-07-28T14:12:43.777+07:00</Postingdate>
+    <RateBHYT />
+    <Postingdate>2017-08-10T14:34:31.76+07:00</Postingdate>
   </Table2>
   <Table3>
-    <PatientCode>17047729</PatientCode>
-    <BHYTPay>2376.00</BHYTPay>
-    <PatientPay>39000.00</PatientPay>
-    <TotalAmount>41376.00</TotalAmount>
-    <TotalReal>39000.00</TotalReal>
-    <PostingDate>2017-07-28T14:12:43.777+07:00</PostingDate>
-    <ServiceName>Acemuc 200mg</ServiceName>
-    <ServiceModuleCode>THUOC</ServiceModuleCode>
-    <ServicePrice>3000.00</ServicePrice>
+    <PatientCode>17047743</PatientCode>
+    <BHYTPay>0.00</BHYTPay>
+    <PatientPay>643700.00</PatientPay>
+    <TotalAmount>643700.00</TotalAmount>
+    <TotalReal>643700.00</TotalReal>
+    <PostingDate>2017-08-10T14:34:31.76+07:00</PostingDate>
+    <ServiceName>Khám Nội</ServiceName>
+    <ServiceModuleCode>KCB</ServiceModuleCode>
+    <ServicePrice>40000.00</ServicePrice>
     <DisparityPrice>0.00</DisparityPrice>
-    <ServicePrice_Disparity>3000.00</ServicePrice_Disparity>
-    <Quantity>3</Quantity>
-    <Amount>9000.00</Amount>
+    <ServicePrice_Disparity>40000.00</ServicePrice_Disparity>
+    <Quantity>1</Quantity>
+    <Amount>40000.00</Amount>
+    <Exemptions>0.00</Exemptions>
+    <TotalSurcharge>0.0000</TotalSurcharge>
+    <ServiceModuleName>Khám bệnh/Cấp cứu</ServiceModuleName>
+    <DVT>Lần</DVT>
+    <STT>1</STT>
+    <ObjectName>Thu phí</ObjectName>
+    <STTKham>6</STTKham>
+    <ServicePriceSalesOff>0.00</ServicePriceSalesOff>
+    <TotalBHYTPay>0.00</TotalBHYTPay>
+    <TotalPatientPay>0.00</TotalPatientPay>
+    <GroupName>Khám Bệnh</GroupName>
+  </Table3>
+  <Table3>
+    <PatientCode>17047743</PatientCode>
+    <BHYTPay>0.00</BHYTPay>
+    <PatientPay>643700.00</PatientPay>
+    <TotalAmount>643700.00</TotalAmount>
+    <TotalReal>643700.00</TotalReal>
+    <PostingDate>2017-08-10T14:34:31.76+07:00</PostingDate>
+    <ServiceName>Alvesin 10E 250ml</ServiceName>
+    <ServiceModuleCode>THUOC</ServiceModuleCode>
+    <ServicePrice>150000.00</ServicePrice>
+    <DisparityPrice>0.00</DisparityPrice>
+    <ServicePrice_Disparity>150000.00</ServicePrice_Disparity>
+    <Quantity>4</Quantity>
+    <Amount>600000.00</Amount>
     <Exemptions>0.00</Exemptions>
     <TotalSurcharge>0.0000</TotalSurcharge>
     <ServiceModuleName>Thuốc - vật tư y tế</ServiceModuleName>
-    <DVT>Gói</DVT>
+    <DVT>Chai</DVT>
     <STT>6</STT>
-    <ObjectName>BHYT</ObjectName>
+    <ObjectName>Thu phí</ObjectName>
     <STTKham />
     <ServicePriceSalesOff>0.00</ServicePriceSalesOff>
-    <TotalBHYTPay>2376.00</TotalBHYTPay>
+    <TotalBHYTPay>0.00</TotalBHYTPay>
     <TotalPatientPay>0.00</TotalPatientPay>
     <GroupName>Thuốc</GroupName>
   </Table3>
   <Table3>
-    <PatientCode>17047729</PatientCode>
-    <BHYTPay>2376.00</BHYTPay>
-    <PatientPay>39000.00</PatientPay>
-    <TotalAmount>41376.00</TotalAmount>
-    <TotalReal>39000.00</TotalReal>
-    <PostingDate>2017-07-28T14:12:43.777+07:00</PostingDate>
-    <ServiceName>Acemuc 200mg</ServiceName>
+    <PatientCode>17047743</PatientCode>
+    <BHYTPay>0.00</BHYTPay>
+    <PatientPay>643700.00</PatientPay>
+    <TotalAmount>643700.00</TotalAmount>
+    <TotalReal>643700.00</TotalReal>
+    <PostingDate>2017-08-10T14:34:31.76+07:00</PostingDate>
+    <ServiceName>Amoxicilin 500mg</ServiceName>
     <ServiceModuleCode>THUOC</ServiceModuleCode>
-    <ServicePrice>3000.00</ServicePrice>
+    <ServicePrice>800.00</ServicePrice>
     <DisparityPrice>0.00</DisparityPrice>
-    <ServicePrice_Disparity>3000.00</ServicePrice_Disparity>
-    <Quantity>7</Quantity>
-    <Amount>21000.00</Amount>
-    <Exemptions>0.00</Exemptions>
-    <TotalSurcharge>0.0000</TotalSurcharge>
-    <ServiceModuleName>Thuốc - vật tư y tế</ServiceModuleName>
-    <DVT>Gói</DVT>
-    <STT>6</STT>
-    <ObjectName>BHYT</ObjectName>
-    <STTKham />
-    <ServicePriceSalesOff>0.00</ServicePriceSalesOff>
-    <TotalBHYTPay>2376.00</TotalBHYTPay>
-    <TotalPatientPay>0.00</TotalPatientPay>
-    <GroupName>Thuốc</GroupName>
-  </Table3>
-  <Table3>
-    <PatientCode>17047729</PatientCode>
-    <BHYTPay>2376.00</BHYTPay>
-    <PatientPay>39000.00</PatientPay>
-    <TotalAmount>41376.00</TotalAmount>
-    <TotalReal>39000.00</TotalReal>
-    <PostingDate>2017-07-28T14:12:43.777+07:00</PostingDate>
-    <ServiceName>Acenac 100mg</ServiceName>
-    <ServiceModuleCode>THUOC</ServiceModuleCode>
-    <ServicePrice>216.00</ServicePrice>
-    <DisparityPrice>0.00</DisparityPrice>
-    <ServicePrice_Disparity>216.00</ServicePrice_Disparity>
-    <Quantity>11</Quantity>
-    <Amount>2376.00</Amount>
+    <ServicePrice_Disparity>800.00</ServicePrice_Disparity>
+    <Quantity>4</Quantity>
+    <Amount>3200.00</Amount>
     <Exemptions>0.00</Exemptions>
     <TotalSurcharge>0.0000</TotalSurcharge>
     <ServiceModuleName>Thuốc - vật tư y tế</ServiceModuleName>
     <DVT>Viên</DVT>
     <STT>6</STT>
-    <ObjectName>BHYT</ObjectName>
+    <ObjectName>Thu phí</ObjectName>
     <STTKham />
     <ServicePriceSalesOff>0.00</ServicePriceSalesOff>
-    <TotalBHYTPay>2376.00</TotalBHYTPay>
+    <TotalBHYTPay>0.00</TotalBHYTPay>
     <TotalPatientPay>0.00</TotalPatientPay>
     <GroupName>Thuốc</GroupName>
   </Table3>
   <Table3>
-    <PatientCode>17047729</PatientCode>
-    <BHYTPay>2376.00</BHYTPay>
-    <PatientPay>39000.00</PatientPay>
-    <TotalAmount>41376.00</TotalAmount>
-    <TotalReal>39000.00</TotalReal>
-    <PostingDate>2017-07-28T14:12:43.777+07:00</PostingDate>
-    <ServiceName>ACICLOVIR 800mg DV</ServiceName>
+    <PatientCode>17047743</PatientCode>
+    <BHYTPay>0.00</BHYTPay>
+    <PatientPay>643700.00</PatientPay>
+    <TotalAmount>643700.00</TotalAmount>
+    <TotalReal>643700.00</TotalReal>
+    <PostingDate>2017-08-10T14:34:31.76+07:00</PostingDate>
+    <ServiceName>ASPIRIN 81mg.</ServiceName>
     <ServiceModuleCode>THUOC</ServiceModuleCode>
-    <ServicePrice>4500.00</ServicePrice>
+    <ServicePrice>500.00</ServicePrice>
     <DisparityPrice>0.00</DisparityPrice>
-    <ServicePrice_Disparity>4500.00</ServicePrice_Disparity>
-    <Quantity>2</Quantity>
-    <Amount>9000.00</Amount>
+    <ServicePrice_Disparity>500.00</ServicePrice_Disparity>
+    <Quantity>1</Quantity>
+    <Amount>500.00</Amount>
     <Exemptions>0.00</Exemptions>
     <TotalSurcharge>0.0000</TotalSurcharge>
     <ServiceModuleName>Thuốc - vật tư y tế</ServiceModuleName>
     <DVT>Viên</DVT>
     <STT>6</STT>
-    <ObjectName>BHYT</ObjectName>
+    <ObjectName>Thu phí</ObjectName>
     <STTKham />
     <ServicePriceSalesOff>0.00</ServicePriceSalesOff>
-    <TotalBHYTPay>2376.00</TotalBHYTPay>
+    <TotalBHYTPay>0.00</TotalBHYTPay>
     <TotalPatientPay>0.00</TotalPatientPay>
     <GroupName>Thuốc</GroupName>
   </Table3>

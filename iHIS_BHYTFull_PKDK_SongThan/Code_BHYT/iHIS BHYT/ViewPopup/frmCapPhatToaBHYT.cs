@@ -30,7 +30,7 @@ namespace Ps.Clinic.ViewPopup
         private decimal dReceiveID = 0;
         private string sUserid = string.Empty, sTheBHYT = string.Empty;
         private DataTable dtMedicalDetail = new DataTable();
-        private bool bcheckInventory = true;
+      //  private bool bcheckInventory = true;
         private bool bImportDate = false;
         private bool bShipment = false;
         private bool bDateEnd = false;
@@ -107,7 +107,7 @@ namespace Ps.Clinic.ViewPopup
                 {
                     this.butOK.Enabled = false;
                     this.butCancel.Enabled = false;
-                    this.gridControl_WaitingList.DataSource = MedicalRecord_BLL.ListPatient_WaitingBrowseForBHYT(1, this.sRepositoryCode, this.typeMedical, this.rdDone.Checked ? 1 : 0, Convert.ToDateTime(this.dtimeFrom.EditValue), Convert.ToDateTime(this.dtimeTo.EditValue), objectCodeWhere);
+                    this.gridControl_WaitingList.DataSource = MedicalRecord_BLL.ListPatient_WaitingBrowseForBHYTCAPPHAT(1, this.sRepositoryCode, this.typeMedical, this.rdDone.Checked ? 1 : 0, Convert.ToDateTime(this.dtimeFrom.EditValue), Convert.ToDateTime(this.dtimeTo.EditValue), objectCodeWhere);
                     this.gridView_WaitingList.Columns["Done"].Visible = true;
                     this.gridView_WaitingList.Columns["Done"].Caption = "Cấp phát";
                 }
@@ -115,7 +115,7 @@ namespace Ps.Clinic.ViewPopup
                 {
                     this.butOK.Enabled = true;
                     this.butCancel.Enabled = false;
-                    this.gridControl_WaitingList.DataSource = MedicalRecord_BLL.ListPatient_WaitingBrowseForBHYT(0, this.sRepositoryCode, this.typeMedical, this.rdDone.Checked ? 1 : 0, Convert.ToDateTime(this.dtimeFrom.EditValue), Convert.ToDateTime(this.dtimeTo.EditValue), objectCodeWhere);
+                    this.gridControl_WaitingList.DataSource = MedicalRecord_BLL.ListPatient_WaitingBrowseForBHYTCAPPHAT(0, this.sRepositoryCode, this.typeMedical, this.rdDone.Checked ? 1 : 0, Convert.ToDateTime(this.dtimeFrom.EditValue), Convert.ToDateTime(this.dtimeTo.EditValue), objectCodeWhere);
                     this.gridView_WaitingList.Columns["Done"].Visible = false;
                 }
                 else
@@ -276,6 +276,11 @@ namespace Ps.Clinic.ViewPopup
                 }
             }
             catch { }
+        }
+
+        private void gridControl_WaitingList_Click(object sender, EventArgs e)
+        {
+
         }
 
         private void gridView_WaitingList_DoubleClick(object sender, EventArgs e)

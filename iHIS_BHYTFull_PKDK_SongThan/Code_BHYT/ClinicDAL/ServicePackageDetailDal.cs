@@ -71,7 +71,7 @@ namespace ClinicDAL
             List<Model_Chidinh> list = new List<Model_Chidinh>();
             try
             {
-                string sql = " Select a.ServiceCode,b.ServiceName,c.ObjectCode,c.UnitPrice,c.DisparityPrice,b.DepartmentCode,c.RowID,a.ServicePackageCode,a.EmployeeCode,a.RowID,b.UnitOfMeasureCode,a.ServicePrice from ServicePackageDetail a inner join [Service] b on a.ServiceCode=b.ServiceCode inner join ServicePrice c on b.ServiceCode=c.ServiceCode where a.ServicePackageCode in('{0}') and b.Hide=0 order by b.ServiceCode asc ";
+                string sql = "  Select a.ServiceCode,b.ServiceName,c.ObjectCode,c.UnitPrice,c.DisparityPrice,b.DepartmentCode,c.RowID,a.ServicePackageCode,a.EmployeeCode,a.RowID,b.UnitOfMeasureCode,a.ServicePrice from ServicePackageDetail a inner join [Service] b on a.ServiceCode = b.ServiceCode inner join ServicePrice c on b.ServiceCode = c.ServiceCode where a.ServicePackageCode in('{0}') and b.Hide = 0 and c.ObjectCode = 2 order by b.ServiceCode asc";
                 IDataReader ireader = cn.ExecuteReader(CommandType.Text, string.Format(sql, sPackageCode), null);
                 while (ireader.Read())
                 {
