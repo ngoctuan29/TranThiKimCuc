@@ -46,6 +46,13 @@ namespace Ps.Clinic.Entry
         private decimal amountBHYTtemp = 0;
         private DataTable dtotalBHYT = new DataTable();
         private DataTable tableDetailPayment = new DataTable();
+        private int maRowIDFocusHandle = 0;
+        private int maReceiveIDFocusHandle = 0;
+        private string maPatientCodeFocusHandle = string.Empty;
+        private string maServiceCodeFocusHandle = string.Empty;
+        private int maRowID2FocusHandle = 0;
+        private string maMedicalRecordCodeFocusHandle = string.Empty;
+        private string maItemCodeFocusHandle = string.Empty;
         public frmPhieuThuTien(string _userid, string _shiftWork)
         {
             InitializeComponent();
@@ -1815,20 +1822,155 @@ namespace Ps.Clinic.Entry
             if (e.HitInfo.HitTest == DevExpress.XtraGrid.Views.Grid.ViewInfo.GridHitTest.RowCell)
             {
                 e.Allow = false;
-                popupMenuListBankAccount.ShowPopup(gridControl_ListBanksAccount.PointToScreen(e.Point));
+                PopupMenuRowAccount.ShowPopup(gridControl_ListBanksAccount.PointToScreen(e.Point));
             }
-            //else
-            //{
-            //    e.Allow = false;
-              
-            //    PopupMenuRowGV.ShowPopup(GCDanhSachTiepNhan.PointToScreen(e.Point));
-            //}
+           
 
         }
 
         private void gridView_BankList_MouseDown(object sender, MouseEventArgs e)
         {
             
+        }
+
+        private void gridView_ListBanksAccount_MouseDown(object sender, MouseEventArgs e)
+        {
+            int maRowID = 0;
+            int maReceiveID = 0;
+            string maPatientCode = string.Empty;
+            string maServiceCode = string.Empty;
+            GridView view = sender as GridView;
+            GridViewInfo viewInfo = view.GetViewInfo() as GridViewInfo;
+            GridHitInfo hitInfo = view.CalcHitInfo(e.Location);
+            if (hitInfo.InRow)
+            {
+                if (hitInfo.Column == this.col_ReceiptID)
+                {
+                    int a = 2;
+                }
+                try
+                {
+                    var tempRowID = Convert.ToInt32(view.GetRowCellValue(hitInfo.RowHandle, view.Columns["RowID"]).ToString());
+                    if (tempRowID != 0)
+                        maRowID = tempRowID;
+                    var tempReceiveID = Convert.ToInt32(view.GetRowCellValue(hitInfo.RowHandle, view.Columns["ReceiveID"]).ToString());
+                    if (tempReceiveID != 0)
+                        maReceiveID = tempReceiveID;
+                    var tempPatientCode = view.GetRowCellValue(hitInfo.RowHandle, view.Columns["PatientCode"]).ToString();
+                    if (tempPatientCode != null)
+                        maPatientCode = tempPatientCode;
+                    var tempServiceCode = view.GetRowCellValue(hitInfo.RowHandle, view.Columns["ServiceCode"]).ToString();
+                    if (tempServiceCode != null)
+                        maServiceCode = tempServiceCode;
+                }
+                catch { }
+            }
+            if ((maRowID != 0) && (maReceiveID != 0) && !string.IsNullOrEmpty(maPatientCode) && !string.IsNullOrEmpty(maServiceCode))
+            {
+                this.maRowIDFocusHandle = maRowID;
+                this.maReceiveIDFocusHandle = maReceiveID;
+                this.maPatientCodeFocusHandle = maPatientCode;
+                this.maServiceCodeFocusHandle = maServiceCode;
+            }
+        }
+
+        private void btnDelService_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            if (XtraMessageBox.Show("Bạn chắn chắn muốn xóa dịch vụ này ra khỏi danh sách tiếp nhận chứ ?", "BioNet - Chương trình sàng lọc sơ sinh", MessageBoxButtons.YesNo, MessageBoxIcon.Warning) == DialogResult.Yes)
+            {
+                try
+                {
+                    if (ObjectBLL.Del(maRowIDFocusHandle, maReceiveIDFocusHandle, maPatientCodeFocusHandle, maServiceCodeFocusHandle) == 1)
+                    {
+                        XtraMessageBox.Show("Xoá dịch vụ thành công!", "Bệnh viện điện tử .NET");
+                        this.ClearData();
+                        //if (!string.IsNullOrEmpty(this.txtMabn.Text.Trim()))
+                        //    this.GetNumberReceive(this.txtMabn.Text.Trim(), false);
+                        return;
+                    }
+                    else
+                    {
+                        XtraMessageBox.Show(" Dịch vụ đã được thực hiện! Không được xóa.", "Bệnh viện điện tử .NET");
+
+                        //if (!string.IsNullOrEmpty(this.txtMabn.Text.Trim()))
+                        //    this.GetNumberReceive(this.txtMabn.Text.Trim(), false);
+                        return;
+                    }
+
+                }
+                catch (Exception ex) { return; }
+
+            }
+        }
+
+
+        private void gridView_List_PopupMenuShowing(object sender, PopupMenuShowingEventArgs e)
+        {
+            if (e.HitInfo.HitTest == DevExpress.XtraGrid.Views.Grid.ViewInfo.GridHitTest.RowCell)
+            {
+                e.Allow = false;
+                popupMenuThuoc.ShowPopup(gridControl_List.PointToScreen(e.Point));
+            }
+        }
+
+        private void btnDelThuoc_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            if (XtraMessageBox.Show("Bạn chắn chắn muốn xóa thuốc ra khỏi danh sách chứ ?", "BioNet - Chương trình sàng lọc sơ sinh", MessageBoxButtons.YesNo, MessageBoxIcon.Warning) == DialogResult.Yes)
+            {
+                try
+                {
+                    if (ObjectBLL.DelThuoc(maRowID2FocusHandle, maMedicalRecordCodeFocusHandle, maItemCodeFocusHandle) == 1)
+                    {
+                        XtraMessageBox.Show("Xoá thuốc ra khỏi danh sách thành công!", "Bệnh viện điện tử .NET");
+                        this.ClearData();
+                        return;
+                    }
+                    else
+                    {
+                        XtraMessageBox.Show(" Thuốc đã được sữa dụng! Không được xóa.", "Bệnh viện điện tử .NET");
+                        return;
+                    }
+                }
+                catch (Exception ex) { return; }
+
+            }
+        }
+
+        private void gridView_List_MouseDown(object sender, MouseEventArgs e)
+        {
+            int maRowID2 = 0;
+            string maMedicalRecordCode = string.Empty;
+            string maItemCode = string.Empty;
+            GridView view = sender as GridView;
+            GridViewInfo viewInfo = view.GetViewInfo() as GridViewInfo;
+            GridHitInfo hitInfo = view.CalcHitInfo(e.Location);
+            if (hitInfo.InRow)
+            {
+                if (hitInfo.Column == this.col_Medical_RowID)
+                {
+                    int a = 2;
+                }
+                try
+                {
+                    var tempRowID2 = Convert.ToInt32(view.GetRowCellValue(hitInfo.RowHandle, view.Columns["RowID"]).ToString());
+                    if (tempRowID2 != 0)
+                        maRowID2 = tempRowID2;
+                    var tempMedicalCode = view.GetRowCellValue(hitInfo.RowHandle, view.Columns["MedicalRecordCode"]).ToString();
+                    if (tempMedicalCode != null)
+                        maMedicalRecordCode = tempMedicalCode;
+                    var tempItemCode = view.GetRowCellValue(hitInfo.RowHandle, view.Columns["ItemCode"]).ToString();
+                    if (tempItemCode != null)
+                        maItemCode = tempItemCode;
+                }
+                catch { }
+            }
+            if ((maRowID2 != 0) && !string.IsNullOrEmpty(maMedicalRecordCode) && !string.IsNullOrEmpty(maItemCode))
+            {
+                this.maRowID2FocusHandle = maRowID2;
+                this.maMedicalRecordCodeFocusHandle = maMedicalRecordCode;
+                this.maItemCodeFocusHandle = maItemCode;
+
+            }
         }
 
         private decimal GetAmountDiscountMedical()

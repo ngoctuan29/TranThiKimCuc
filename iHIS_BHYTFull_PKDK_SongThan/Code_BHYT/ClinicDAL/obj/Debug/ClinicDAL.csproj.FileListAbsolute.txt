@@ -390,3 +390,16 @@ D:\Lai\proj_songthan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicD
 D:\Lai\proj_songthan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
 D:\Lai\proj_songthan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.dll
 D:\Lai\proj_songthan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.pdb
+C:\Users\DEV09\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicDAL.dll
+C:\Users\DEV09\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicDAL.pdb
+C:\Users\DEV09\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicModel.dll
+C:\Users\DEV09\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\DEV09\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\DEV09\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\DEV09\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\DEV09\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\DEV09\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\DEV09\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicModel.pdb
+C:\Users\DEV09\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+C:\Users\DEV09\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.dll
+C:\Users\DEV09\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.pdb
