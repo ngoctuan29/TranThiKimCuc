@@ -2027,9 +2027,9 @@ namespace ClinicDAL
                         where b.status in({0}) and CONVERT(date,a.PostingDate,103) between CONVERT(date,'{1}',103) and CONVERT(date,'{5}',103) and b.RepositoryCode in('{2}') and a.typeMedical in({3}) and f.Done in({4}) and b.ObjectCode in({6})
                         group by a.MedicalRecordCode,a.PatientReceiveID,c.DepartmentName,a.PatientCode,d.PatientName,d.PatientAge,d.PatientBirthyear,d.PatientGender,
                         a.ObjectCode,e.ObjectName,f.RowID,f.DateApproved,convert(date,a.PostingDate,103),a1.Address,b1.WardName,b2.DistrictName,b3.ProvincialName,a3.EmployeeName
-                        order by f.RowID desc ";
+                        order by f.RowID desc";
                 }
-                IDataReader ireader = cn.ExecuteReader(CommandType.Text, string.Format(sql, istatus, dateFrom.ToShortDateString(), sRepCode, typeMedical, done, dateTo.ToShortDateString(), objectCode), null);
+                IDataReader ireader = cn.ExecuteReader(CommandType.Text, string.Format(sql, istatus, dateFrom.ToString("dd/MM/yyyy"), sRepCode, typeMedical, done, dateTo.ToString("dd/MM/yyyy"), objectCode), null);
                 while (ireader.Read())
                 {
                     MedicalRecord_WaitingBrowseModel inf = new MedicalRecord_WaitingBrowseModel();
@@ -2057,7 +2057,7 @@ namespace ClinicDAL
                     ireader.Dispose();
                 }
             }
-            catch { list = null; }
+            catch (Exception ex) { list = null; }
             return list;
         }
         public static List<MedicalRecord_WaitingBrowseModel> ListPatient_WaitingBrowseForBHYTCAPPHAT(Int32 istatus, string sRepCode, Int32 typeMedical, Int32 done, DateTime dateFrom, DateTime dateTo, string objectCode)

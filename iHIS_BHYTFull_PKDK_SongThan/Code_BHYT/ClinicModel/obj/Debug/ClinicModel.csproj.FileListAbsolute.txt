@@ -166,3 +166,7 @@ D:\work\Tuan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\bin\Debug\ClinicM
 D:\work\Tuan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\bin\Debug\ClinicModel.pdb
 D:\work\Tuan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.dll
 D:\work\Tuan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.pdb
+C:\Users\DEV09\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\bin\Debug\ClinicModel.dll
+C:\Users\DEV09\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\bin\Debug\ClinicModel.pdb
+C:\Users\DEV09\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.dll
+C:\Users\DEV09\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.pdb

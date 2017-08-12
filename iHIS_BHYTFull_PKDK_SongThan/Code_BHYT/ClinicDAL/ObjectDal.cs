@@ -123,5 +123,47 @@ namespace ClinicDAL
             catch { return -1; }
         }
 
+
+        public static Int32 Del(int sRowID, int sReceiveID, string sPatientCode, string sServiceCode)
+        {
+            ConnectDB cn = new ConnectDB();
+            try
+            {
+                SqlParameter[] param = new SqlParameter[5];
+                param[0] = new SqlParameter("@iresult", SqlDbType.Int);
+                param[0].Direction = ParameterDirection.Output;
+                param[1] = new SqlParameter("@RowID", SqlDbType.Int);
+                param[1].Value = sRowID;
+                param[2] = new SqlParameter("@ReceiveID", SqlDbType.Int);
+                param[2].Value = sReceiveID;
+                param[3] = new SqlParameter("@PatientCode", SqlDbType.VarChar);
+                param[3].Value = sPatientCode;
+                param[4] = new SqlParameter("@ServiceCode", SqlDbType.VarChar);
+                param[4].Value = sServiceCode;
+                return cn.ExecuteNonQuery(CommandType.StoredProcedure, "prDel_PhieuThuTien", param);
+            }
+            catch { return -1; }
+        }
+
+        public static Int32 DelThuoc(int sRowID2, string sMedicalRecordCode, string sItemCode)
+        {
+            ConnectDB cn = new ConnectDB();
+            try
+            {
+                SqlParameter[] param = new SqlParameter[4];
+                param[0] = new SqlParameter("@iresult", SqlDbType.Int);
+                param[0].Direction = ParameterDirection.Output;
+                param[1] = new SqlParameter("@RowID", SqlDbType.Int);
+                param[1].Value = sRowID2;
+                param[2] = new SqlParameter("@MedicalRecordCode", SqlDbType.VarChar);
+                param[2].Value = sMedicalRecordCode;
+                param[3] = new SqlParameter("@ItemCode", SqlDbType.VarChar);
+                param[3].Value = sItemCode;
+                int status = Convert.ToInt32(cn.ExecuteReaderProcedure(CommandType.StoredProcedure, "prDel_Thuoc", param));
+                return status;
+            }
+            catch (Exception ex) { return -1; }
+        }
+
     }
 }
