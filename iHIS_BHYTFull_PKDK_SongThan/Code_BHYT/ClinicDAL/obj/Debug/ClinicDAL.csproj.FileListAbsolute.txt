@@ -390,3 +390,16 @@ D:\Lai\proj_songthan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicD
 D:\Lai\proj_songthan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
 D:\Lai\proj_songthan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.dll
 D:\Lai\proj_songthan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.pdb
+D:\GitHub\PKDK SongThan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicDAL.dll
+D:\GitHub\PKDK SongThan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicDAL.pdb
+D:\GitHub\PKDK SongThan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicModel.dll
+D:\GitHub\PKDK SongThan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\GitHub\PKDK SongThan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\GitHub\PKDK SongThan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\GitHub\PKDK SongThan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\GitHub\PKDK SongThan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\GitHub\PKDK SongThan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\GitHub\PKDK SongThan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicModel.pdb
+D:\GitHub\PKDK SongThan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+D:\GitHub\PKDK SongThan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.dll
+D:\GitHub\PKDK SongThan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.pdb
