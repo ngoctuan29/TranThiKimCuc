@@ -19,39 +19,39 @@
     <PassWord_TC />
   </Table1>
   <Table2>
-    <BanksAccountCode>20170811162307543</BanksAccountCode>
-    <ReferenceCode>236397</ReferenceCode>
-    <PatientCode>17000120</PatientCode>
+    <BanksAccountCode>20170812092139797</BanksAccountCode>
+    <ReferenceCode>236404</ReferenceCode>
+    <PatientCode>17000052</PatientCode>
     <BHYTPay>0.00</BHYTPay>
-    <PatientPay>40000.00</PatientPay>
-    <PatientName>LÊ VĂN HẬU</PatientName>
-    <PatientGendername>Nam</PatientGendername>
-    <PatientBirthday>1995-05-10T00:00:00+07:00</PatientBirthday>
-    <PatientBirthyear>1995</PatientBirthyear>
-    <PatientAge>22</PatientAge>
+    <PatientPay>157000.00</PatientPay>
+    <PatientName>LÊ TÍN NHIỆM</PatientName>
+    <PatientGendername>Nữ</PatientGendername>
+    <PatientBirthday>1977-01-01T00:00:00+07:00</PatientBirthday>
+    <PatientBirthyear>1977</PatientBirthyear>
+    <PatientAge>40</PatientAge>
     <PatientMobile />
     <PatientEmail />
     <MedicalHistory />
     <Allergy />
-    <PatientAddress>TT Cờ Đỏ, Cờ Đỏ, TP Cần Thơ_cty Kinh Đô_BKD-BD-1104-13059, </PatientAddress>
-    <TotalAmount>40000.00</TotalAmount>
-    <TotalReal>40000.00</TotalReal>
+    <PatientAddress>lương tâm, long mỹ, hậu giang_Cty L &amp; S - L150123, </PatientAddress>
+    <TotalAmount>157000.00</TotalAmount>
+    <TotalReal>157000.00</TotalReal>
     <Exemptions>0.00</Exemptions>
     <TotalSurcharge>0.0000</TotalSurcharge>
-    <SerialNumber>20170811-00001</SerialNumber>
-    <PatientReceiveClinic>20170005-17000120</PatientReceiveClinic>
+    <SerialNumber>20170812-00004</SerialNumber>
+    <PatientReceiveClinic>20170005-17000052</PatientReceiveClinic>
     <EmployeeName>Quản trị hệ thống</EmployeeName>
     <CashierName>Quản trị hệ thống</CashierName>
     <RateBHYT />
-    <Postingdate>2017-08-11T16:23:07.603+07:00</Postingdate>
+    <Postingdate>2017-08-12T09:21:39.843+07:00</Postingdate>
   </Table2>
   <Table3>
-    <PatientCode>17000120</PatientCode>
+    <PatientCode>17000052</PatientCode>
     <BHYTPay>0.00</BHYTPay>
-    <PatientPay>40000.00</PatientPay>
-    <TotalAmount>40000.00</TotalAmount>
-    <TotalReal>40000.00</TotalReal>
-    <PostingDate>2017-08-11T16:23:07.603+07:00</PostingDate>
+    <PatientPay>157000.00</PatientPay>
+    <TotalAmount>157000.00</TotalAmount>
+    <TotalReal>157000.00</TotalReal>
+    <PostingDate>2017-08-12T09:21:39.843+07:00</PostingDate>
     <ServiceName>Khám Nội</ServiceName>
     <ServiceModuleCode>KCB</ServiceModuleCode>
     <ServicePrice>40000.00</ServicePrice>
@@ -70,5 +70,83 @@
     <TotalBHYTPay>0.00</TotalBHYTPay>
     <TotalPatientPay>0.00</TotalPatientPay>
     <GroupName>Khám Bệnh</GroupName>
+  </Table3>
+  <Table3>
+    <PatientCode>17000052</PatientCode>
+    <BHYTPay>0.00</BHYTPay>
+    <PatientPay>157000.00</PatientPay>
+    <TotalAmount>157000.00</TotalAmount>
+    <TotalReal>157000.00</TotalReal>
+    <PostingDate>2017-08-12T09:21:39.843+07:00</PostingDate>
+    <ServiceName>Acemuc 200mg</ServiceName>
+    <ServiceModuleCode>THUOC</ServiceModuleCode>
+    <ServicePrice>3000.00</ServicePrice>
+    <DisparityPrice>0.00</DisparityPrice>
+    <ServicePrice_Disparity>3000.00</ServicePrice_Disparity>
+    <Quantity>2</Quantity>
+    <Amount>6000.00</Amount>
+    <Exemptions>0.00</Exemptions>
+    <TotalSurcharge>0.0000</TotalSurcharge>
+    <ServiceModuleName>Thuốc - vật tư y tế</ServiceModuleName>
+    <DVT>Gói</DVT>
+    <STT>6</STT>
+    <ObjectName>Thu phí</ObjectName>
+    <STTKham />
+    <ServicePriceSalesOff>0.00</ServicePriceSalesOff>
+    <TotalBHYTPay>0.00</TotalBHYTPay>
+    <TotalPatientPay>0.00</TotalPatientPay>
+    <GroupName>Thuốc</GroupName>
+  </Table3>
+  <Table3>
+    <PatientCode>17000052</PatientCode>
+    <BHYTPay>0.00</BHYTPay>
+    <PatientPay>157000.00</PatientPay>
+    <TotalAmount>157000.00</TotalAmount>
+    <TotalReal>157000.00</TotalReal>
+    <PostingDate>2017-08-12T09:21:39.843+07:00</PostingDate>
+    <ServiceName>Acenac 100mg</ServiceName>
+    <ServiceModuleCode>THUOC</ServiceModuleCode>
+    <ServicePrice>500.00</ServicePrice>
+    <DisparityPrice>0.00</DisparityPrice>
+    <ServicePrice_Disparity>500.00</ServicePrice_Disparity>
+    <Quantity>2</Quantity>
+    <Amount>1000.00</Amount>
+    <Exemptions>0.00</Exemptions>
+    <TotalSurcharge>0.0000</TotalSurcharge>
+    <ServiceModuleName>Thuốc - vật tư y tế</ServiceModuleName>
+    <DVT>Viên</DVT>
+    <STT>6</STT>
+    <ObjectName>Thu phí</ObjectName>
+    <STTKham />
+    <ServicePriceSalesOff>0.00</ServicePriceSalesOff>
+    <TotalBHYTPay>0.00</TotalBHYTPay>
+    <TotalPatientPay>0.00</TotalPatientPay>
+    <GroupName>Thuốc</GroupName>
+  </Table3>
+  <Table3>
+    <PatientCode>17000052</PatientCode>
+    <BHYTPay>0.00</BHYTPay>
+    <PatientPay>157000.00</PatientPay>
+    <TotalAmount>157000.00</TotalAmount>
+    <TotalReal>157000.00</TotalReal>
+    <PostingDate>2017-08-12T09:21:39.843+07:00</PostingDate>
+    <ServiceName>Alphachymotrypin Tiêm</ServiceName>
+    <ServiceModuleCode>THUOC</ServiceModuleCode>
+    <ServicePrice>55000.00</ServicePrice>
+    <DisparityPrice>0.00</DisparityPrice>
+    <ServicePrice_Disparity>55000.00</ServicePrice_Disparity>
+    <Quantity>2</Quantity>
+    <Amount>110000.00</Amount>
+    <Exemptions>0.00</Exemptions>
+    <TotalSurcharge>0.0000</TotalSurcharge>
+    <ServiceModuleName>Thuốc - vật tư y tế</ServiceModuleName>
+    <DVT>Lọ</DVT>
+    <STT>6</STT>
+    <ObjectName>Thu phí</ObjectName>
+    <STTKham />
+    <ServicePriceSalesOff>0.00</ServicePriceSalesOff>
+    <TotalBHYTPay>0.00</TotalBHYTPay>
+    <TotalPatientPay>0.00</TotalPatientPay>
+    <GroupName>Thuốc</GroupName>
   </Table3>
 </Result>

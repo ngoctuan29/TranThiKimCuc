@@ -16,7 +16,9 @@ begin
 			begin 
 				delete from MedicinesForPatientsDetail where MedicalRecordCode=@MedicalRecordCode and ItemCode=@ItemCode and Paid=0
 				set @iresult = 1
-					update MedicalPrescriptionDetail set Status=0 where MedicalRecordCode=@MedicalRecordCode 
+					update MedicalPrescriptionDetail set Status=0 where MedicalRecordCode=@MedicalRecordCode and ItemCode=@ItemCode
+				if not exists (select ItemCode from MedicalPrescriptionDetail where MedicalRecordCode=@MedicalRecordCode and Status=1)
+					update MedicalRecord set Status=0 where MedicalRecordCode=@MedicalRecordCode
 				if not exists(select MD.RowID from MedicinesForPatientsDetail MD, MedicinesForPatients MP where MD.MedicalRecordCode=@MedicalRecordCode and MD.MedicalRecordCode=MP.MedicalRecordCode)
 					delete from MedicinesForPatients where MedicalRecordCode=@MedicalRecordCode
 			end
@@ -30,6 +32,10 @@ begin
 		set @iresult =-2
 	end
 end
+
+select * from MedicalPrescriptionDetail
+select * from MedicinesForPatientsDetail
+select * from MedicalRecord
 
 
 

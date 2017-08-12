@@ -2102,7 +2102,7 @@ namespace ClinicDAL
                         a.ObjectCode,e.ObjectName,f.RowID,f.DateApproved,convert(date,a.PostingDate,103),a1.Address,b1.WardName,b2.DistrictName,b3.ProvincialName,a3.EmployeeName
                         order by f.RowID desc";
                 }
-                IDataReader ireader = cn.ExecuteReader(CommandType.Text, string.Format(sql, istatus, dateFrom.ToShortDateString(), sRepCode, typeMedical, done, dateTo.ToShortDateString(), objectCode), null);
+                IDataReader ireader = cn.ExecuteReader(CommandType.Text, string.Format(sql, istatus, dateFrom.ToString("dd/MM/yyyy"), sRepCode, typeMedical, done, dateFrom.ToString("dd/MM/yyyy"), objectCode), null);
                 while (ireader.Read())
                 {
                     MedicalRecord_WaitingBrowseModel inf = new MedicalRecord_WaitingBrowseModel();
