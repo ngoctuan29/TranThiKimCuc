@@ -377,16 +377,3 @@ D:\work\Tuan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicMod
 D:\work\Tuan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
 D:\work\Tuan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.dll
 D:\work\Tuan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.pdb
-D:\Lai\proj_songthan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicDAL.dll
-D:\Lai\proj_songthan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicDAL.pdb
-D:\Lai\proj_songthan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicModel.dll
-D:\Lai\proj_songthan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Smo.dll
-D:\Lai\proj_songthan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
-D:\Lai\proj_songthan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
-D:\Lai\proj_songthan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
-D:\Lai\proj_songthan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Dmf.dll
-D:\Lai\proj_songthan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
-D:\Lai\proj_songthan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicModel.pdb
-D:\Lai\proj_songthan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
-D:\Lai\proj_songthan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.dll
-D:\Lai\proj_songthan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.pdb
