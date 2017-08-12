@@ -377,6 +377,8 @@ D:\work\Tuan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicMod
 D:\work\Tuan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
 D:\work\Tuan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.dll
 D:\work\Tuan\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.pdb
+<<<<<<< HEAD
+=======
 D:\Lai\proj_songthan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicDAL.dll
 D:\Lai\proj_songthan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicDAL.pdb
 D:\Lai\proj_songthan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicModel.dll
@@ -390,6 +392,7 @@ D:\Lai\proj_songthan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicD
 D:\Lai\proj_songthan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
 D:\Lai\proj_songthan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.dll
 D:\Lai\proj_songthan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.pdb
+<<<<<<< HEAD
 D:\GitHub\PKDK SongThan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicDAL.dll
 D:\GitHub\PKDK SongThan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicDAL.pdb
 D:\GitHub\PKDK SongThan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicModel.dll
@@ -403,3 +406,19 @@ D:\GitHub\PKDK SongThan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\Clin
 D:\GitHub\PKDK SongThan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
 D:\GitHub\PKDK SongThan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.dll
 D:\GitHub\PKDK SongThan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.pdb
+=======
+C:\Users\DEV09\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicDAL.dll
+C:\Users\DEV09\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicDAL.pdb
+C:\Users\DEV09\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicModel.dll
+C:\Users\DEV09\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\DEV09\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\DEV09\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\DEV09\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\DEV09\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\DEV09\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\DEV09\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\bin\Debug\ClinicModel.pdb
+C:\Users\DEV09\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.csprojResolveAssemblyReference.cache
+C:\Users\DEV09\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.dll
+C:\Users\DEV09\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicDAL\obj\Debug\ClinicDAL.pdb
+>>>>>>> 3c78436d16505aeb5f399332d290bd04b05b44ce
+>>>>>>> 9b6b22a3041b24a83c4f20bb110f56400fceabc1

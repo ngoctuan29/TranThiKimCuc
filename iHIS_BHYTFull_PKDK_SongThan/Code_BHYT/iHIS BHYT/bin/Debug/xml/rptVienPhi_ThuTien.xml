@@ -19,39 +19,39 @@
     <PassWord_TC />
   </Table1>
   <Table2>
-    <BanksAccountCode>20170810143431727</BanksAccountCode>
-    <ReferenceCode>236381</ReferenceCode>
-    <PatientCode>17047743</PatientCode>
+    <BanksAccountCode>20170811162307543</BanksAccountCode>
+    <ReferenceCode>236397</ReferenceCode>
+    <PatientCode>17000120</PatientCode>
     <BHYTPay>0.00</BHYTPay>
-    <PatientPay>643700.00</PatientPay>
-    <PatientName>TEST10</PatientName>
+    <PatientPay>40000.00</PatientPay>
+    <PatientName>LÊ VĂN HẬU</PatientName>
     <PatientGendername>Nam</PatientGendername>
-    <PatientBirthday>1994-01-01T00:00:00+07:00</PatientBirthday>
-    <PatientBirthyear>1994</PatientBirthyear>
-    <PatientAge>23</PatientAge>
+    <PatientBirthday>1995-05-10T00:00:00+07:00</PatientBirthday>
+    <PatientBirthyear>1995</PatientBirthyear>
+    <PatientAge>22</PatientAge>
     <PatientMobile />
     <PatientEmail />
     <MedicalHistory />
     <Allergy />
-    <PatientAddress>Số 1, Phường Cầu Ông Lãnh, Quận 1, Thành phố Hồ Chí Minh</PatientAddress>
-    <TotalAmount>643700.00</TotalAmount>
-    <TotalReal>643700.00</TotalReal>
+    <PatientAddress>TT Cờ Đỏ, Cờ Đỏ, TP Cần Thơ_cty Kinh Đô_BKD-BD-1104-13059, </PatientAddress>
+    <TotalAmount>40000.00</TotalAmount>
+    <TotalReal>40000.00</TotalReal>
     <Exemptions>0.00</Exemptions>
     <TotalSurcharge>0.0000</TotalSurcharge>
-    <SerialNumber>20170810-00021</SerialNumber>
-    <PatientReceiveClinic>20170006-17047743</PatientReceiveClinic>
+    <SerialNumber>20170811-00001</SerialNumber>
+    <PatientReceiveClinic>20170005-17000120</PatientReceiveClinic>
     <EmployeeName>Quản trị hệ thống</EmployeeName>
     <CashierName>Quản trị hệ thống</CashierName>
     <RateBHYT />
-    <Postingdate>2017-08-10T14:34:31.76+07:00</Postingdate>
+    <Postingdate>2017-08-11T16:23:07.603+07:00</Postingdate>
   </Table2>
   <Table3>
-    <PatientCode>17047743</PatientCode>
+    <PatientCode>17000120</PatientCode>
     <BHYTPay>0.00</BHYTPay>
-    <PatientPay>643700.00</PatientPay>
-    <TotalAmount>643700.00</TotalAmount>
-    <TotalReal>643700.00</TotalReal>
-    <PostingDate>2017-08-10T14:34:31.76+07:00</PostingDate>
+    <PatientPay>40000.00</PatientPay>
+    <TotalAmount>40000.00</TotalAmount>
+    <TotalReal>40000.00</TotalReal>
+    <PostingDate>2017-08-11T16:23:07.603+07:00</PostingDate>
     <ServiceName>Khám Nội</ServiceName>
     <ServiceModuleCode>KCB</ServiceModuleCode>
     <ServicePrice>40000.00</ServicePrice>
@@ -65,88 +65,10 @@
     <DVT>Lần</DVT>
     <STT>1</STT>
     <ObjectName>Thu phí</ObjectName>
-    <STTKham>6</STTKham>
+    <STTKham>5</STTKham>
     <ServicePriceSalesOff>0.00</ServicePriceSalesOff>
     <TotalBHYTPay>0.00</TotalBHYTPay>
     <TotalPatientPay>0.00</TotalPatientPay>
     <GroupName>Khám Bệnh</GroupName>
-  </Table3>
-  <Table3>
-    <PatientCode>17047743</PatientCode>
-    <BHYTPay>0.00</BHYTPay>
-    <PatientPay>643700.00</PatientPay>
-    <TotalAmount>643700.00</TotalAmount>
-    <TotalReal>643700.00</TotalReal>
-    <PostingDate>2017-08-10T14:34:31.76+07:00</PostingDate>
-    <ServiceName>Alvesin 10E 250ml</ServiceName>
-    <ServiceModuleCode>THUOC</ServiceModuleCode>
-    <ServicePrice>150000.00</ServicePrice>
-    <DisparityPrice>0.00</DisparityPrice>
-    <ServicePrice_Disparity>150000.00</ServicePrice_Disparity>
-    <Quantity>4</Quantity>
-    <Amount>600000.00</Amount>
-    <Exemptions>0.00</Exemptions>
-    <TotalSurcharge>0.0000</TotalSurcharge>
-    <ServiceModuleName>Thuốc - vật tư y tế</ServiceModuleName>
-    <DVT>Chai</DVT>
-    <STT>6</STT>
-    <ObjectName>Thu phí</ObjectName>
-    <STTKham />
-    <ServicePriceSalesOff>0.00</ServicePriceSalesOff>
-    <TotalBHYTPay>0.00</TotalBHYTPay>
-    <TotalPatientPay>0.00</TotalPatientPay>
-    <GroupName>Thuốc</GroupName>
-  </Table3>
-  <Table3>
-    <PatientCode>17047743</PatientCode>
-    <BHYTPay>0.00</BHYTPay>
-    <PatientPay>643700.00</PatientPay>
-    <TotalAmount>643700.00</TotalAmount>
-    <TotalReal>643700.00</TotalReal>
-    <PostingDate>2017-08-10T14:34:31.76+07:00</PostingDate>
-    <ServiceName>Amoxicilin 500mg</ServiceName>
-    <ServiceModuleCode>THUOC</ServiceModuleCode>
-    <ServicePrice>800.00</ServicePrice>
-    <DisparityPrice>0.00</DisparityPrice>
-    <ServicePrice_Disparity>800.00</ServicePrice_Disparity>
-    <Quantity>4</Quantity>
-    <Amount>3200.00</Amount>
-    <Exemptions>0.00</Exemptions>
-    <TotalSurcharge>0.0000</TotalSurcharge>
-    <ServiceModuleName>Thuốc - vật tư y tế</ServiceModuleName>
-    <DVT>Viên</DVT>
-    <STT>6</STT>
-    <ObjectName>Thu phí</ObjectName>
-    <STTKham />
-    <ServicePriceSalesOff>0.00</ServicePriceSalesOff>
-    <TotalBHYTPay>0.00</TotalBHYTPay>
-    <TotalPatientPay>0.00</TotalPatientPay>
-    <GroupName>Thuốc</GroupName>
-  </Table3>
-  <Table3>
-    <PatientCode>17047743</PatientCode>
-    <BHYTPay>0.00</BHYTPay>
-    <PatientPay>643700.00</PatientPay>
-    <TotalAmount>643700.00</TotalAmount>
-    <TotalReal>643700.00</TotalReal>
-    <PostingDate>2017-08-10T14:34:31.76+07:00</PostingDate>
-    <ServiceName>ASPIRIN 81mg.</ServiceName>
-    <ServiceModuleCode>THUOC</ServiceModuleCode>
-    <ServicePrice>500.00</ServicePrice>
-    <DisparityPrice>0.00</DisparityPrice>
-    <ServicePrice_Disparity>500.00</ServicePrice_Disparity>
-    <Quantity>1</Quantity>
-    <Amount>500.00</Amount>
-    <Exemptions>0.00</Exemptions>
-    <TotalSurcharge>0.0000</TotalSurcharge>
-    <ServiceModuleName>Thuốc - vật tư y tế</ServiceModuleName>
-    <DVT>Viên</DVT>
-    <STT>6</STT>
-    <ObjectName>Thu phí</ObjectName>
-    <STTKham />
-    <ServicePriceSalesOff>0.00</ServicePriceSalesOff>
-    <TotalBHYTPay>0.00</TotalBHYTPay>
-    <TotalPatientPay>0.00</TotalPatientPay>
-    <GroupName>Thuốc</GroupName>
   </Table3>
 </Result>

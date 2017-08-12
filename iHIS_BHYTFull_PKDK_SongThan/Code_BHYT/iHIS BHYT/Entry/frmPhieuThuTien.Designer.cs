@@ -323,6 +323,10 @@
             this.barDockControlBottom = new DevExpress.XtraBars.BarDockControl();
             this.barDockControlLeft = new DevExpress.XtraBars.BarDockControl();
             this.barDockControlRight = new DevExpress.XtraBars.BarDockControl();
+            this.btnDelService = new DevExpress.XtraBars.BarButtonItem();
+            this.btnDelThuoc = new DevExpress.XtraBars.BarButtonItem();
+            this.PopupMenuRowAccount = new DevExpress.XtraBars.PopupMenu(this.components);
+            this.popupMenuThuoc = new DevExpress.XtraBars.PopupMenu(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.rep_Check)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.refCheck)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.panelControl1)).BeginInit();
@@ -411,6 +415,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.gridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.popupMenuListBankAccount)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.barManager1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.PopupMenuRowAccount)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.popupMenuThuoc)).BeginInit();
             this.SuspendLayout();
             // 
             // rep_Check
@@ -593,6 +599,7 @@
             this.gridView_ListBanksAccount.OptionsView.ShowGroupPanel = false;
             this.gridView_ListBanksAccount.PopupMenuShowing += new DevExpress.XtraGrid.Views.Grid.PopupMenuShowingEventHandler(this.gridView_ListBanksAccount_PopupMenuShowing);
             this.gridView_ListBanksAccount.CellValueChanging += new DevExpress.XtraGrid.Views.Base.CellValueChangedEventHandler(this.gridView_ListBanksAccount_CellValueChanging);
+            this.gridView_ListBanksAccount.MouseDown += new System.Windows.Forms.MouseEventHandler(this.gridView_ListBanksAccount_MouseDown);
             // 
             // col_Check
             // 
@@ -942,7 +949,7 @@
             this.tabpageItems.Controls.Add(this.gridControl_List);
             this.tabpageItems.Image = ((System.Drawing.Image)(resources.GetObject("tabpageItems.Image")));
             this.tabpageItems.Name = "tabpageItems";
-            this.tabpageItems.Size = new System.Drawing.Size(855, 316);
+            this.tabpageItems.Size = new System.Drawing.Size(855, 314);
             this.tabpageItems.Text = "Thuốc";
             // 
             // gridControl_List
@@ -955,7 +962,7 @@
             this.gridControl_List.RepositoryItems.AddRange(new DevExpress.XtraEditors.Repository.RepositoryItem[] {
             this.rep_RepositoryCode,
             this.repCheckMedical});
-            this.gridControl_List.Size = new System.Drawing.Size(855, 316);
+            this.gridControl_List.Size = new System.Drawing.Size(855, 314);
             this.gridControl_List.TabIndex = 2;
             this.gridControl_List.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.gridView_List});
@@ -986,7 +993,9 @@
             this.gridView_List.Name = "gridView_List";
             this.gridView_List.OptionsView.ShowFooter = true;
             this.gridView_List.OptionsView.ShowGroupPanel = false;
+            this.gridView_List.PopupMenuShowing += new DevExpress.XtraGrid.Views.Grid.PopupMenuShowingEventHandler(this.gridView_List_PopupMenuShowing);
             this.gridView_List.CellValueChanging += new DevExpress.XtraGrid.Views.Base.CellValueChangedEventHandler(this.gridView_List_CellValueChanging);
+            this.gridView_List.MouseDown += new System.Windows.Forms.MouseEventHandler(this.gridView_List_MouseDown);
             // 
             // col_Medical_ItemName
             // 
@@ -1256,7 +1265,7 @@
             this.tabFeePayment.Controls.Add(this.gridControl_FeePayment);
             this.tabFeePayment.Image = ((System.Drawing.Image)(resources.GetObject("tabFeePayment.Image")));
             this.tabFeePayment.Name = "tabFeePayment";
-            this.tabFeePayment.Size = new System.Drawing.Size(855, 316);
+            this.tabFeePayment.Size = new System.Drawing.Size(855, 314);
             this.tabFeePayment.Text = "Tạm ứng";
             // 
             // gridControl_FeePayment
@@ -1268,7 +1277,7 @@
             this.gridControl_FeePayment.Name = "gridControl_FeePayment";
             this.gridControl_FeePayment.RepositoryItems.AddRange(new DevExpress.XtraEditors.Repository.RepositoryItem[] {
             this.repLKupPayment_Employee});
-            this.gridControl_FeePayment.Size = new System.Drawing.Size(855, 316);
+            this.gridControl_FeePayment.Size = new System.Drawing.Size(855, 314);
             this.gridControl_FeePayment.TabIndex = 3;
             this.gridControl_FeePayment.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.gridView_FeePayment});
@@ -4086,8 +4095,10 @@
             this.barManager1.DockControls.Add(this.barDockControlRight);
             this.barManager1.Form = this;
             this.barManager1.Items.AddRange(new DevExpress.XtraBars.BarItem[] {
-            this.barButtonItem1});
-            this.barManager1.MaxItemId = 1;
+            this.barButtonItem1,
+            this.btnDelService,
+            this.btnDelThuoc});
+            this.barManager1.MaxItemId = 3;
             // 
             // barDockControlTop
             // 
@@ -4120,6 +4131,38 @@
             this.barDockControlRight.Location = new System.Drawing.Point(1194, 0);
             this.barDockControlRight.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.barDockControlRight.Size = new System.Drawing.Size(0, 600);
+            // 
+            // btnDelService
+            // 
+            this.btnDelService.Caption = "Xoá dịch vụ";
+            this.btnDelService.Glyph = ((System.Drawing.Image)(resources.GetObject("btnDelService.Glyph")));
+            this.btnDelService.Id = 1;
+            this.btnDelService.LargeGlyph = ((System.Drawing.Image)(resources.GetObject("btnDelService.LargeGlyph")));
+            this.btnDelService.Name = "btnDelService";
+            this.btnDelService.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.btnDelService_ItemClick);
+            // 
+            // btnDelThuoc
+            // 
+            this.btnDelThuoc.Caption = "Xoá thuốc";
+            this.btnDelThuoc.Glyph = ((System.Drawing.Image)(resources.GetObject("btnDelThuoc.Glyph")));
+            this.btnDelThuoc.Id = 2;
+            this.btnDelThuoc.LargeGlyph = ((System.Drawing.Image)(resources.GetObject("btnDelThuoc.LargeGlyph")));
+            this.btnDelThuoc.Name = "btnDelThuoc";
+            this.btnDelThuoc.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.btnDelThuoc_ItemClick);
+            // 
+            // PopupMenuRowAccount
+            // 
+            this.PopupMenuRowAccount.LinksPersistInfo.AddRange(new DevExpress.XtraBars.LinkPersistInfo[] {
+            new DevExpress.XtraBars.LinkPersistInfo(this.btnDelService)});
+            this.PopupMenuRowAccount.Manager = this.barManager1;
+            this.PopupMenuRowAccount.Name = "PopupMenuRowAccount";
+            // 
+            // popupMenuThuoc
+            // 
+            this.popupMenuThuoc.LinksPersistInfo.AddRange(new DevExpress.XtraBars.LinkPersistInfo[] {
+            new DevExpress.XtraBars.LinkPersistInfo(this.btnDelThuoc)});
+            this.popupMenuThuoc.Manager = this.barManager1;
+            this.popupMenuThuoc.Name = "popupMenuThuoc";
             // 
             // frmPhieuThuTien
             // 
@@ -4234,6 +4277,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.gridView1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.popupMenuListBankAccount)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.barManager1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.PopupMenuRowAccount)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.popupMenuThuoc)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -4535,5 +4580,9 @@
         private DevExpress.XtraBars.BarDockControl barDockControlBottom;
         private DevExpress.XtraBars.BarDockControl barDockControlLeft;
         private DevExpress.XtraBars.BarDockControl barDockControlRight;
+        private DevExpress.XtraBars.BarButtonItem btnDelService;
+        private DevExpress.XtraBars.PopupMenu PopupMenuRowAccount;
+        private DevExpress.XtraBars.PopupMenu popupMenuThuoc;
+        private DevExpress.XtraBars.BarButtonItem btnDelThuoc;
     }
 }

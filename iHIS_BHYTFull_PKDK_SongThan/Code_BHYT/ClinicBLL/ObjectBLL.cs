@@ -46,5 +46,15 @@ namespace ClinicBLL
             catch { return -2; }
         }
 
+        public static Int32 Del(int sRowID, int sReceiveID, string sPatientCode, string sServiceCode)
+        {
+            return ObjectDal.Del(sRowID, sReceiveID, sPatientCode, sServiceCode);
+        }
+
+        public static Int32 DelThuoc(int sRowID2, string sMedicalRecordCode, string sItemCode)
+        {
+            return ObjectDal.DelThuoc(sRowID2, sMedicalRecordCode, sItemCode);
+        }
+
     }
 }
