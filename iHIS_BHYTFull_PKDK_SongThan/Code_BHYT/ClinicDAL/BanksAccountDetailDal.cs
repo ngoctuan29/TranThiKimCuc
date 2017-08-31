@@ -114,7 +114,28 @@ namespace ClinicDAL
             }
             catch { return -2; }
         }
-
+        public static Int32 Upd_Paid_SuggestedForObjectCode(string patientCode, decimal datientReceiveID, Int32 iPaid, string bankCode)
+        {
+            ConnectDB cn = new ConnectDB();
+            try
+            {
+                string sql = " update SuggestedServiceReceipt set Paid=@Paid,BanksAccountCode=@BanksAccountCode where RefID=@RefID and ObjectCode =5 and Paid =0 and PatientCode=@PatientCode";
+                SqlParameter[] param = new SqlParameter[4];
+                param[0] = new SqlParameter("@Paid", SqlDbType.Int);
+                param[0].Value = iPaid;
+                param[1] = new SqlParameter("@BanksAccountCode", SqlDbType.VarChar);
+                param[1].Value = bankCode;
+                param[2] = new SqlParameter("@RefID", SqlDbType.Decimal);
+                param[2].Value = datientReceiveID;
+                param[3] = new SqlParameter("@PatientCode", SqlDbType.VarChar);
+                param[3].Value = patientCode;
+                if (cn.ExecuteNonQuery(CommandType.Text, sql, param) >= 1)
+                    return 1;
+                else
+                    return 0;
+            }
+            catch { return -2; }
+        }
         public static DataTable TableBanksTotal(string banksAccountCode, Int32 cancel, decimal patientReceiveID)
         {
             ConnectDB cn = new ConnectDB();//02/08/2016

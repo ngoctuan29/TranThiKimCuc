@@ -46,12 +46,12 @@ namespace ClinicDAL
             return list;
         }
 
-        public static Int32 Ins(TemplateItemNormsInf info, ref string refsCode)
+        public static Int32 Ins(TemplateItemNormsInf info)
         {
             ConnectDB cn = new ConnectDB();
             try
             {
-                SqlParameter[] param = new SqlParameter[5];
+                SqlParameter[] param = new SqlParameter[4];
                 param[0] = new SqlParameter("@NormsCode", SqlDbType.VarChar, 15);
                 param[0].Value = info.NormsCode;
                 param[1] = new SqlParameter("@ServiceCode", SqlDbType.VarChar, 50);
@@ -60,15 +60,7 @@ namespace ClinicDAL
                 param[2].Value = info.EmployeeCode;
                 param[3] = new SqlParameter("@EmployeeCodeUpd", SqlDbType.VarChar, 50);
                 param[3].Value = info.EmployeeCodeUpd;
-                param[4] = new SqlParameter("@ResultCode", SqlDbType.VarChar, 15);
-                param[4].Direction = ParameterDirection.Output;
-                refsCode = cn.ExecuteReaderProcedure(CommandType.StoredProcedure, "pro_Ins_TemplateItemNorms", param);
-                if (refsCode != string.Empty)
-                {
-                    return 1;
-                }
-                else
-                    return -1;
+                return cn.ExecuteNonQuery(CommandType.StoredProcedure, "pro_Ins_TemplateItemNorms", param);
             }
             catch { return -2; }
         }
@@ -105,10 +97,14 @@ namespace ClinicDAL
             dtResult.Columns.Add("BHYTPrice", typeof(decimal));
             dtResult.Columns.Add("Instruction", typeof(string));
             dtResult.Columns.Add("UnitOfMeasureCode", typeof(string));
+            dtResult.Columns.Add("ObjectCode", typeof(int));
+            dtResult.Columns.Add("ItemName", typeof(string));
+            dtResult.Columns.Add("ObjectName", typeof(string));
+            dtResult.Columns.Add("Checks", typeof(int));
             try
             {
                 string sql = "";
-                sql = " select a.RowID,a.NormsCode,a.ItemCode,a.Quantity,a.UnitPrice,a.SalesPrice,a.BHYTPrice,a.Instruction,b.UnitOfMeasureCode  from TemplateItemNormsDetail a inner join Items b on a.ItemCode=b.ItemCode inner join TemplateItemNorms a1 on a.NormsCode=a1.NormsCode where a1.ServiceCode=@ServiceCode order by a.ItemCode asc ";
+                sql = " select a.RowID,a.NormsCode,a.ItemCode,a.Quantity,a.UnitPrice,a.SalesPrice,a.BHYTPrice,a.Instruction,b.UnitOfMeasureCode, a.ObjectCode,b.ItemName,o.ObjectName, 1 as Checks  from TemplateItemNormsDetail a inner join Items b on a.ItemCode=b.ItemCode inner join TemplateItemNorms a1 on a.NormsCode=a1.NormsCode inner join Object o on o.ObjectCode=a.ObjectCode where a1.ServiceCode=@ServiceCode order by a.ItemCode asc ";
                 SqlParameter[] param = new SqlParameter[1];
                 param[0] = new SqlParameter("@ServiceCode", SqlDbType.VarChar, 15);
                 param[0].Value = sCode;
@@ -125,6 +121,10 @@ namespace ClinicDAL
                     dr[6] = ireader.GetDecimal(6).ToString();
                     dr[7] = ireader.GetValue(7).ToString();
                     dr[8] = ireader.GetValue(8).ToString();
+                    dr[9] = ireader.GetInt32(9).ToString();
+                    dr[10] = ireader.GetValue(10).ToString();
+                    dr[11] = ireader.GetValue(11).ToString();
+                    dr[12] = ireader.GetInt32(12).ToString();
                     dtResult.Rows.Add(dr);
                 }
                 if (!ireader.IsClosed)
@@ -142,7 +142,7 @@ namespace ClinicDAL
             ConnectDB cn = new ConnectDB();
             try
             {
-                SqlParameter[] param = new SqlParameter[8];
+                SqlParameter[] param = new SqlParameter[9];
                 param[0] = new SqlParameter("@RowID", SqlDbType.Decimal);
                 param[0].Value = info.RowID;
                 param[1] = new SqlParameter("@NormsCode", SqlDbType.VarChar, 15);
@@ -159,6 +159,8 @@ namespace ClinicDAL
                 param[6].Value = info.BHYTPrice;
                 param[7] = new SqlParameter("@Instruction", SqlDbType.NVarChar, 250);
                 param[7].Value = info.Instruction;
+                param[8] = new SqlParameter("@ObjectCode", SqlDbType.Int);
+                param[8].Value = info.ObjectCode;
                 Int32 iresult = cn.ExecuteNonQuery(CommandType.StoredProcedure, "pro_Ins_TemplateItemNormsDetail", param);
                 return iresult;
             }
@@ -186,5 +188,30 @@ namespace ClinicDAL
             }
         }
 
+
+        public static TemplateItemNormsInf ObjItemNormsForService(string serviceCode)
+        {
+            ConnectDB cn = new ConnectDB();
+            TemplateItemNormsInf inf = new TemplateItemNormsInf();
+            try
+            {
+                string sql = "select NormsCode,ServiceCode,EmployeeCode,EmployeeCodeUpd  from TemplateItemNorms where ServiceCode ='{0}' ";
+                IDataReader ireader = cn.ExecuteReader(CommandType.Text, string.Format(sql, serviceCode), null);
+                if (ireader.Read())
+                {
+                    inf.NormsCode = ireader.GetString(0);
+                    inf.ServiceCode = ireader.GetString(1);
+                    inf.EmployeeCode = ireader.GetValue(2).ToString();
+                    inf.EmployeeCodeUpd = ireader.GetValue(3).ToString();
+                }
+                if (!ireader.IsClosed)
+                {
+                    ireader.Close();
+                    ireader.Dispose();
+                }
+            }
+            catch { inf = null; }
+            return inf;
+        }
     }
 }

@@ -12,6 +12,30 @@ namespace ClinicDAL
     public class ServiceDal
     {
 
+
+        public static DataTable DTServiceList(int iServiceCode)
+        {
+            ConnectDB cn = new ConnectDB();
+            DataTable table = new DataTable();
+            try
+            {
+                table.Columns.Add(new DataColumn("ServiceCode", typeof(Int32)));
+                table.Columns.Add(new DataColumn("ServiceName", typeof(string)));
+                string sql = string.Empty;
+                if (iServiceCode != 0)
+                {
+                    sql = "select ServiceCode,ServiceName from Service where ServiceCode in({0}) order by ServiceCode asc";
+                }
+                else
+                {
+                    sql = "select ServiceCode,ServiceName from Service order by ServiceCode asc";
+                }
+                table = cn.ExecuteQuery(string.Format(sql, iServiceCode));
+            }
+            catch { }
+            return table;
+        }
+
         public static List<ServiceInf> ListService(string sGroup, string sCateCode, int hide)
         {
             ConnectDB cn = new ConnectDB();
@@ -430,19 +454,19 @@ namespace ClinicDAL
                 return null;
             }
         }
-        public static List<Service_Item_AttachInf> ListViewServiceItemAttach(string serviceCode)
+        public static List<Service_Item_AttachInf2> ListViewServiceItemAttach(string serviceCode)
         {
             ConnectDB cn = new ConnectDB();
-            List<Service_Item_AttachInf> lst = new List<Service_Item_AttachInf>();
+            List<Service_Item_AttachInf2> lst = new List<Service_Item_AttachInf2>();
             try
             {
-                string sql = @" select s.ServiceCode,s.ItemCode,s.ObjectCode,s.Quantity,s.EmployeeCode,s.STT,it.UsageCode,it.UnitOfMeasureCode,s.Note
+                string sql = @" select s.ServiceCode,s.ItemCode,s.ObjectCode,s.Quantity,s.EmployeeCode,s.STT,it.UsageCode,it.UnitOfMeasureCode,s.Note,it.ItemName
                     from Service_Item_Attach s inner join Items it on s.ItemCode=it.ItemCode
                     where s.ServiceCode='{0}' ";
                 IDataReader ireader = cn.ExecuteReader(CommandType.Text, string.Format(sql, serviceCode), null);
                 while (ireader.Read())
                 {
-                    Service_Item_AttachInf inf = new Service_Item_AttachInf();
+                    Service_Item_AttachInf2 inf = new Service_Item_AttachInf2();
                     inf.ServiceCode = ireader.GetValue(0).ToString();
                     inf.ItemCode = ireader.GetValue(1).ToString();
                     inf.ObjectCode = ireader.GetInt32(2);
@@ -452,6 +476,46 @@ namespace ClinicDAL
                     inf.UsageCode = ireader.GetValue(6).ToString();
                     inf.UnitOfMeasureCode = ireader.GetValue(7).ToString();
                     inf.Note = ireader.GetValue(8).ToString();
+                    inf.Note = ireader.GetValue(9).ToString();
+                    lst.Add(inf);
+                }
+                if (!ireader.IsClosed)
+                {
+                    ireader.Close();
+                    ireader.Dispose();
+                }
+                return lst;
+            }
+            catch(Exception ex)
+            {
+                return null;
+            }
+        }
+
+
+
+        public static List<Attach_ServiceINF> ListViewAttach_Service(string ItemCode)
+        {
+            ConnectDB cn = new ConnectDB();
+            List<Attach_ServiceINF> lst = new List<Attach_ServiceINF>();
+            try
+            {
+                string sql = @" select RowID,AttachServiceCode,ItemCode,ObjectCode,IDate,Quantity,EmployeeCode,STT,Note,Is_Service_Auto,AttachServiceCode as AttachServiceCodeOld 
+                    from Attach_Service where ItemCode='{0}' ";
+                IDataReader ireader = cn.ExecuteReader(CommandType.Text, string.Format(sql, ItemCode), null);
+                while (ireader.Read())
+                {
+                    Attach_ServiceINF inf = new Attach_ServiceINF();
+                    inf.RowID = Convert.ToInt32(ireader.GetValue(0).ToString());
+                    inf.AttachServiceCode = ireader.GetValue(1).ToString();
+                    inf.ItemCode = ireader.GetValue(2).ToString();
+                    inf.ObjectCode = ireader.GetInt32(3);
+                    inf.IDate = ireader.GetDateTime(4);
+                    inf.Quantity = Convert.ToInt32(ireader.GetValue(5).ToString());
+                    inf.EmployeeCode = ireader.GetValue(6).ToString();
+                    inf.STT = Convert.ToInt32(ireader.GetValue(7).ToString());
+                    inf.Note = ireader.GetValue(8).ToString();
+                    inf.Is_Service_Auto = Convert.ToInt32(ireader.GetValue(9).ToString());
                     lst.Add(inf);
                 }
                 if (!ireader.IsClosed)
@@ -466,6 +530,48 @@ namespace ClinicDAL
                 return null;
             }
         }
+
+
+        public static Int32 InsAttach_Service(Attach_ServiceINF info)
+        {
+            ConnectDB cn = new ConnectDB();
+            try
+            {
+                SqlParameter[] param = new SqlParameter[10];
+                param[0] = new SqlParameter("@RowID", SqlDbType.Int);
+                param[0].Value = info.RowID;
+                param[1] = new SqlParameter("@AttachServiceCode", SqlDbType.VarChar, 50);
+                param[1].Value = info.AttachServiceCode;
+                param[2] = new SqlParameter("@ItemCode", SqlDbType.VarChar, 50);
+                param[2].Value = info.ItemCode;
+                param[3] = new SqlParameter("@ObjectCode", SqlDbType.Int);
+                param[3].Value = info.ObjectCode;
+                param[4] = new SqlParameter("@IDate", SqlDbType.DateTime);
+                param[4].Value = info.IDate;
+                param[5] = new SqlParameter("@Quantity", SqlDbType.Int);
+                param[5].Value = info.Quantity;
+                param[6] = new SqlParameter("@EmployeeCode", SqlDbType.VarChar, 50);
+                param[6].Value = info.EmployeeCode;
+                param[7] = new SqlParameter("@STT", SqlDbType.Int);
+                param[7].Value = info.STT;
+                param[8] = new SqlParameter("@Note", SqlDbType.NVarChar);
+                param[8].Value = info.Note;
+                param[9] = new SqlParameter("@Is_Service_Auto", SqlDbType.Int);
+                param[9].Value = info.Is_Service_Auto;
+                //param[9] = new SqlParameter("@AttachServiceCodeOld", SqlDbType.NVarChar);
+                //param[9].Value = info.Note;
+                if (cn.ExecuteNonQuery(CommandType.StoredProcedure, "proIU_Attach_Service", param) >= 1)
+                    return 1;
+                else
+                    return -1;
+            }
+            catch(Exception ex) { return -2; }
+        }
+
+
+
+
+
         public static Int32 InsServiceItemAttach(Service_Item_AttachInf info)
         {
             ConnectDB cn = new ConnectDB();
@@ -493,6 +599,9 @@ namespace ClinicDAL
             }
             catch { return -2; }
         }
+
+
+
         public static Int32 DelServiceItemAttachAll(string servicecode, string itemcode)
         {
             ConnectDB cn = new ConnectDB();
@@ -511,6 +620,29 @@ namespace ClinicDAL
             }
             catch { return -2; }
         }
+
+
+
+
+        public static Int32 DelAttach_ServiceAll(string attachServiceCode, string itemcode)
+        {
+            ConnectDB cn = new ConnectDB();
+            try
+            {
+                string query = "delete from Attach_Service where AttachServiceCode=@AttachServiceCode and ItemCode=@ItemCode";
+                SqlParameter[] param = new SqlParameter[2];
+                param[0] = new SqlParameter("@AttachServiceCode", SqlDbType.VarChar, 50);
+                param[0].Value = attachServiceCode;
+                param[1] = new SqlParameter("@ItemCode", SqlDbType.VarChar, 50);
+                param[1].Value = itemcode;
+                if (cn.ExecuteNonQuery(CommandType.Text, query, param) >= 1)
+                    return 1;
+                else
+                    return -1;
+            }
+            catch { return -2; }
+        }
+
         public static Int32 DelServiceItemAttachAll(string servicecode)
         {
             ConnectDB cn = new ConnectDB();

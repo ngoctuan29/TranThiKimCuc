@@ -55,6 +55,81 @@ namespace ClinicDAL
             catch { list = null; }
             return list;
         }
+
+
+        public static DataTable ListItemslist(string sitemcode)
+        {
+            ConnectDB cn = new ConnectDB();
+            DataTable dt = new DataTable();
+            dt.Columns.Add("ServiceCode", typeof(string));
+            dt.Columns.Add("ServiceName", typeof(string));
+            dt.Columns.Add("Check", typeof(int));
+            dt.Columns.Add("ItemCode", typeof(string));
+            dt.Columns.Add("ObjectCode", typeof(int));
+            dt.Columns.Add("Soluong",typeof(int));
+
+            try
+            {
+                SqlParameter[] param = new SqlParameter[1];
+                param[0] = new SqlParameter("@ItemCode", SqlDbType.VarChar);
+                param[0].Value = sitemcode;
+                var irender = cn.ExecuteReader(CommandType.StoredProcedure, "proList_Items", param);
+                while(irender.Read())
+                {
+                    DataRow r = dt.NewRow();
+                    r.BeginEdit();
+                    r[0] = irender.GetValue(0).ToString();
+                    r[1]= irender.GetValue(1).ToString();
+                    r[2] = 0;
+                    r[3]= irender.GetValue(2).ToString();
+                    r[4] = Convert.ToInt32(irender.GetValue(3).ToString());
+                    r[5] = Convert.ToInt32(irender.GetValue(4).ToString());
+                    r.EndEdit();
+                    dt.Rows.Add(r);
+                }
+                return dt;
+            }
+            catch { return null; }
+
+        }
+
+
+        public static DataTable ListItemslistAuto(string sitemcode)
+        {
+            ConnectDB cn = new ConnectDB();
+            DataTable dc = new DataTable();
+            dc.Columns.Add("ServiceCode", typeof(string));
+            dc.Columns.Add("ServiceName", typeof(string));
+            dc.Columns.Add("Check", typeof(int));
+            dc.Columns.Add("ItemCode", typeof(string));
+            dc.Columns.Add("ObjectCode", typeof(int));
+            dc.Columns.Add("Soluong", typeof(int));
+            try
+            {
+                SqlParameter[] param = new SqlParameter[1];
+                param[0] = new SqlParameter("@ItemCode", SqlDbType.VarChar);
+                param[0].Value = sitemcode;
+                var irender = cn.ExecuteReader(CommandType.StoredProcedure, "proList_Items_Auto", param);
+                while (irender.Read())
+                {
+                    DataRow r = dc.NewRow();
+                    r.BeginEdit();
+                    r[0] = irender.GetValue(0).ToString();
+                    r[1] = irender.GetValue(1).ToString();
+                    r[2] = 0;
+                    r[3] = irender.GetValue(2).ToString();
+                    r[4] = Convert.ToInt32(irender.GetValue(3).ToString());
+                    r[5] = Convert.ToInt32(irender.GetValue(4).ToString());
+                    r.EndEdit();
+                    dc.Rows.Add(r);
+                }
+                return dc;
+            }
+            catch  { return null; }
+
+        }
+
+
         public static List<Items_Ref> ListItemsRef(int iStatus, string sDepartCode, Int32 iGroup)
         {
             ConnectDB cn = new ConnectDB();
@@ -130,13 +205,15 @@ namespace ClinicDAL
             dtResult.Columns.Add(new DataColumn("UnitOfMeasureCode_Medi", typeof(string)));
             dtResult.Columns.Add(new DataColumn("Converted_Medi", typeof(bool)));
             dtResult.Columns.Add(new DataColumn("ListService", typeof(Int32)));
+            dtResult.Columns.Add(new DataColumn("Is_Acttach_Service", typeof(int)));
+            dtResult.Columns.Add(new DataColumn("Is_Service_Auto", typeof(int)));
             try
             {
                 string sql = string.Empty;
                 if (isUnitPrice_Menu)
                 {
                     sql = @" Select a.ItemCode,a.ItemName,c.UnitOfMeasureName,a.UnitPrice,b.ItemCategoryName, a.SafelyQuantity,a.BHYTPrice,a.UnitOfMeasureCode,a.Active,a.UsageCode, a.SalesPrice,
-                        d.AmountVirtual,e.RepositoryCode,e.RepositoryName,d.AmountEnd,a.RateBHYT,a.Note,a.ListBHYT,e.RepositoryGroupCode,a.SODKGP,a.UnitOfMeasureCode_Medi,a.Converted_Medi,a.ListService
+                        d.AmountVirtual,e.RepositoryCode,e.RepositoryName,d.AmountEnd,a.RateBHYT,a.Note,a.ListBHYT,e.RepositoryGroupCode,a.SODKGP,a.UnitOfMeasureCode_Medi,a.Converted_Medi,a.ListService,a.Is_Acttach_Service,a.Is_Service_Auto
                         from InventoryGeneral d inner join Items a on d.ItemCode=a.ItemCode
                         inner join ItemCategory b on a.ItemCategoryCode=b.ItemCategoryCode 
                         inner join UnitOfMeasure c on a.UnitOfMeasureCode = c.UnitOfMeasureCode  
@@ -146,7 +223,7 @@ namespace ClinicDAL
                 else
                 {
                     sql = @" Select a.ItemCode,a.ItemName,c.UnitOfMeasureName,d1.UnitPrice,b.ItemCategoryName, a.SafelyQuantity,d1.BHYTPrice,a.UnitOfMeasureCode,a.Active,a.UsageCode, d1.SalesPrice,
-                        d.AmountVirtual,e.RepositoryCode,e.RepositoryName,d.AmountEnd,a.RateBHYT,a.Note,a.ListBHYT,e.RepositoryGroupCode,a.SODKGP,a.UnitOfMeasureCode_Medi,a.Converted_Medi,a.ListService
+                        d.AmountVirtual,e.RepositoryCode,e.RepositoryName,d.AmountEnd,a.RateBHYT,a.Note,a.ListBHYT,e.RepositoryGroupCode,a.SODKGP,a.UnitOfMeasureCode_Medi,a.Converted_Medi,a.ListService,a.Is_Acttach_Service,a.Is_Service_Auto
                         from InventoryGeneral d inner join Items a on d.ItemCode=a.ItemCode inner join InventoryGumshoe d1 on d.ItemCode=d1.ItemCode and d.RepositoryCode=d1.RepositoryCode
                         inner join ItemCategory b on a.ItemCategoryCode=b.ItemCategoryCode 
                         inner join UnitOfMeasure c on a.UnitOfMeasureCode = c.UnitOfMeasureCode  
@@ -185,7 +262,25 @@ namespace ClinicDAL
                     inf.UnitOfMeasureCode_Medi = ireader.GetValue(20).ToString();
                     inf.Converted_Medi = ireader.GetBoolean(21);
                     inf.ListService = ireader.GetInt32(22);
-                    dtResult.Rows.Add(inf.ItemCode, inf.ItemName, inf.UnitOfMeasureName, inf.UnitOfMeasureCode, inf.ItemCategoryName, inf.UsageCode, inf.UnitPrice, inf.SalesPrice, inf.SafelyQuantity, inf.BHYTPrice, inf.Active, inf.AmountVirtual, inf.RepositoryCode, inf.RepositoryName, inf.AmountEnd, inf.RateBHYT, inf.Note, inf.ListBHYT, inf.RepositoryGroupCode, inf.SODKGP, inf.UnitOfMeasureCode_Medi, inf.Converted_Medi, inf.ListService);
+                    if (ireader.GetValue(23).ToString() != null && ireader.GetValue(23).ToString() != "")
+                    {
+                        inf.Is_Acttach_Service = ireader.GetInt32(23);
+                    }
+                    else
+                    {
+                        inf.Is_Acttach_Service = 0;
+                    }
+                    if (ireader.GetValue(24).ToString() != null && ireader.GetValue(24).ToString() != "")
+                    {
+                        inf.Is_Service_Auto = ireader.GetInt32(24);
+                    }
+                    else
+                    {
+                        inf.Is_Service_Auto = 0;
+                    }
+                    
+                    
+                    dtResult.Rows.Add(inf.ItemCode, inf.ItemName, inf.UnitOfMeasureName, inf.UnitOfMeasureCode, inf.ItemCategoryName, inf.UsageCode, inf.UnitPrice, inf.SalesPrice, inf.SafelyQuantity, inf.BHYTPrice, inf.Active, inf.AmountVirtual, inf.RepositoryCode, inf.RepositoryName, inf.AmountEnd, inf.RateBHYT, inf.Note, inf.ListBHYT, inf.RepositoryGroupCode, inf.SODKGP, inf.UnitOfMeasureCode_Medi, inf.Converted_Medi, inf.ListService,inf.Is_Acttach_Service,inf.Is_Service_Auto);
                 }
                 if (!ireader.IsClosed)
                 {
@@ -438,9 +533,9 @@ namespace ClinicDAL
             {
                 string sql = string.Empty;
                 if (status == -1)
-                    sql = "select ItemCode,ItemName,Active,UsageCode,UnitOfMeasureCode,ItemCategoryCode,UnitPrice,Status,SalesPrice,SafelyQuantity, RepositoryCode,EmployeeCode,BHYTPrice,ListBHYT,RateBHYT,CountryCode,ProducerCode,Note,DisparityPrice,ListService,VendorCode,Packed,QtyOfMeasure,ItemContent,STTBCBHYT,SODKGP,STTQDPK,QUYCACH,Generic_BD,VENCode,Active_TT40,SalesPrice_Retail,UnitOfMeasureCode_Medi,Converted_Medi from Items order by ItemName asc ";
+                    sql = "select ItemCode,ItemName,Active,UsageCode,UnitOfMeasureCode,ItemCategoryCode,UnitPrice,Status,SalesPrice,SafelyQuantity, RepositoryCode,EmployeeCode,BHYTPrice,ListBHYT,RateBHYT,CountryCode,ProducerCode,Note,DisparityPrice,ListService,VendorCode,Packed,QtyOfMeasure,ItemContent,STTBCBHYT,SODKGP,STTQDPK,QUYCACH,Generic_BD,VENCode,Active_TT40,SalesPrice_Retail,UnitOfMeasureCode_Medi,Converted_Medi,Is_Acttach_Service,Is_Service_Auto from Items order by ItemName asc ";
                 else
-                    sql = "select ItemCode,ItemName,Active,UsageCode,UnitOfMeasureCode,ItemCategoryCode,UnitPrice,Status,SalesPrice,SafelyQuantity, RepositoryCode,EmployeeCode,BHYTPrice,ListBHYT,RateBHYT,CountryCode,ProducerCode,Note,DisparityPrice,ListService,VendorCode,Packed,QtyOfMeasure,ItemContent,STTBCBHYT,SODKGP,STTQDPK,QUYCACH,Generic_BD,VENCode,Active_TT40,SalesPrice_Retail,UnitOfMeasureCode_Medi,Converted_Medi from Items where Status={0} order by ItemName asc ";
+                    sql = "select ItemCode,ItemName,Active,UsageCode,UnitOfMeasureCode,ItemCategoryCode,UnitPrice,Status,SalesPrice,SafelyQuantity, RepositoryCode,EmployeeCode,BHYTPrice,ListBHYT,RateBHYT,CountryCode,ProducerCode,Note,DisparityPrice,ListService,VendorCode,Packed,QtyOfMeasure,ItemContent,STTBCBHYT,SODKGP,STTQDPK,QUYCACH,Generic_BD,VENCode,Active_TT40,SalesPrice_Retail,UnitOfMeasureCode_Medi,Converted_Medi,Is_Acttach_Service,Is_Service_Auto from Items where Status={0} order by ItemName asc ";
                 IDataReader ireader = cn.ExecuteReader(CommandType.Text, string.Format(sql, status), null);
                 while (ireader.Read())
                 {
@@ -479,6 +574,25 @@ namespace ClinicDAL
                     inf.SalesPrice_Retail = ireader.GetDecimal(31);
                     inf.UnitOfMeasureCode_Medi = ireader.GetValue(32).ToString();
                     inf.Converted_Medi = ireader.GetBoolean(33);
+                    inf.Converted_Medi = ireader.GetBoolean(33);
+                    string s = ireader.GetValue(34).ToString();
+                    if (ireader.GetValue(34).ToString()!=null && ireader.GetValue(34).ToString()!="")
+                    {
+                        inf.Is_Acttach_Service = Convert.ToInt32(ireader.GetValue(34).ToString());
+                    }
+                    else
+                    {
+                        inf.Is_Acttach_Service = 0;
+                    }
+                    if (ireader.GetValue(35) != null && ireader.GetValue(35).ToString() != "")
+                    {
+                        inf.Is_Service_Auto = Convert.ToInt32(ireader.GetValue(35).ToString());
+                    }
+                    else
+                    {
+                        inf.Is_Service_Auto = 0;
+                    }
+                    
                     list.Add(inf);
 
                 }
@@ -552,6 +666,7 @@ namespace ClinicDAL
             }
             catch { list = null; }
             return list;
+
         }
         public static Items_View ListItemsForItemCode(string sItemCode, int iStatus)
         {
@@ -593,7 +708,7 @@ namespace ClinicDAL
             ConnectDB cn = new ConnectDB();
             try
             {
-                SqlParameter[] param = new SqlParameter[35];
+                SqlParameter[] param = new SqlParameter[37];
                 param[0] = new SqlParameter("@ItemCode", SqlDbType.VarChar, 50);
                 param[0].Value = info.ItemCode;
                 param[1] = new SqlParameter("@ItemName", SqlDbType.NVarChar, 500);
@@ -664,6 +779,10 @@ namespace ClinicDAL
                 param[33].Value = info.UnitOfMeasureCode_Medi;
                 param[34] = new SqlParameter("@Converted_Medi", SqlDbType.Bit);
                 param[34].Value = info.Converted_Medi == true ? 1 : 0;
+                param[35] = new SqlParameter("@Is_Acttach_Service", SqlDbType.Int);
+                param[35].Value = info.Is_Acttach_Service;
+                param[36] = new SqlParameter("@Is_Service_Auto", SqlDbType.Int);
+                param[36].Value = info.Is_Service_Auto;
                 if (cn.ExecuteNonQuery(CommandType.StoredProcedure, "pro_Ins_Items", param) >= 1)
                 {
                     return 1;
@@ -671,7 +790,7 @@ namespace ClinicDAL
                 else
                     return -1;
             }
-            catch { return -2; }
+            catch (Exception ex) { return -2; }
         }
         public static Int32 Del(string sCode)
         {

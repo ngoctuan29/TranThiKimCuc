@@ -70,6 +70,11 @@ namespace ClinicBLL
             return EmployeeDal.ListEmployee(sEmployeeCode);
         }
 
+        public static DataTable DTEmployeeList(int iEmployCode)
+        {
+            return EmployeeDal.DTEmployeeList(iEmployCode);
+        }
+
         public static List<EmployeeViewInf> ListEmployeeForPosition(string position)
         {
             return EmployeeDal.ListEmployeeForPosition(position);

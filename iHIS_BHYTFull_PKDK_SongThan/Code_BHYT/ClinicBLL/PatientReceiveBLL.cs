@@ -178,5 +178,9 @@ namespace ClinicBLL
         {
             return PatientReceiveDal.DT_View_PatientReceiveForDate(dtimeFrom, dtimeTo, status);
         }
+        public static DataTable DataWaitingDV(DateTime dateStart, DateTime dateEnd, int status, int ipaid)
+        {
+            return PatientReceiveDal.DataWaitingDV(dateStart, dateEnd, status, ipaid);
+        }
     }
 }

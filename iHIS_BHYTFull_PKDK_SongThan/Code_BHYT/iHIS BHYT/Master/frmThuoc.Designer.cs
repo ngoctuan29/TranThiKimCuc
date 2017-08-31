@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmThuoc));
+            DevExpress.Utils.SerializableAppearanceObject serializableAppearanceObject1 = new DevExpress.Utils.SerializableAppearanceObject();
             this.gridControl_Item = new DevExpress.XtraGrid.GridControl();
             this.gridView_Item = new DevExpress.XtraGrid.Views.Grid.GridView();
             this.col_ItemCode = new DevExpress.XtraGrid.Columns.GridColumn();
@@ -115,6 +116,12 @@
             this.colViewUOMName_Medi = new DevExpress.XtraGrid.Columns.GridColumn();
             this.col_Converted_Medi = new DevExpress.XtraGrid.Columns.GridColumn();
             this.repChk_Converted_Medi = new DevExpress.XtraEditors.Repository.RepositoryItemCheckEdit();
+            this.col_Attach_Service = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.repositoryItemButton = new DevExpress.XtraEditors.Repository.RepositoryItemButtonEdit();
+            this.col_Check_Automatic = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.col_check_Attach_Sevice = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.repositoryItemCheckEdit1 = new DevExpress.XtraEditors.Repository.RepositoryItemCheckEdit();
+            this.repositoryItemCheckEdit2 = new DevExpress.XtraEditors.Repository.RepositoryItemCheckEdit();
             this.groupControl1 = new DevExpress.XtraEditors.GroupControl();
             this.chkHide = new System.Windows.Forms.CheckBox();
             this.btnInGird = new DevExpress.XtraEditors.SimpleButton();
@@ -145,6 +152,9 @@
             ((System.ComponentModel.ISupportInitialize)(this.repSlkup_UnitOfMeasureCode_Medi)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.repSlkup_UnitOfMeasureCode_MediView)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.repChk_Converted_Medi)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.repositoryItemButton)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.repositoryItemCheckEdit1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.repositoryItemCheckEdit2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).BeginInit();
             this.groupControl1.SuspendLayout();
             this.SuspendLayout();
@@ -172,7 +182,10 @@
             this.repSearch_Producer,
             this.repSearch_Country,
             this.repSlkup_UnitOfMeasureCode_Medi,
-            this.repChk_Converted_Medi});
+            this.repChk_Converted_Medi,
+            this.repositoryItemButton,
+            this.repositoryItemCheckEdit1,
+            this.repositoryItemCheckEdit2});
             this.gridControl_Item.Size = new System.Drawing.Size(1251, 575);
             this.gridControl_Item.TabIndex = 2;
             this.gridControl_Item.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
@@ -219,7 +232,10 @@
             this.col_Active_TT40,
             this.col_SalesPrice_Retail,
             this.col_UnitOfMeasureCode_Medi,
-            this.col_Converted_Medi});
+            this.col_Converted_Medi,
+            this.col_Attach_Service,
+            this.col_Check_Automatic,
+            this.col_check_Attach_Sevice});
             this.gridView_Item.GridControl = this.gridControl_Item;
             this.gridView_Item.Name = "gridView_Item";
             this.gridView_Item.NewItemRowText = "Nhập thêm mới mã, tên diễn giải cho danh mục (Thuốc & VTYT).";
@@ -1236,6 +1252,76 @@
             this.repChk_Converted_Medi.AutoHeight = false;
             this.repChk_Converted_Medi.Name = "repChk_Converted_Medi";
             // 
+            // col_Attach_Service
+            // 
+            this.col_Attach_Service.AppearanceCell.Options.UseTextOptions = true;
+            this.col_Attach_Service.AppearanceCell.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Center;
+            this.col_Attach_Service.AppearanceHeader.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Bold);
+            this.col_Attach_Service.AppearanceHeader.Options.UseFont = true;
+            this.col_Attach_Service.AppearanceHeader.Options.UseTextOptions = true;
+            this.col_Attach_Service.AppearanceHeader.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Center;
+            this.col_Attach_Service.Caption = "Thêm DV";
+            this.col_Attach_Service.ColumnEdit = this.repositoryItemButton;
+            this.col_Attach_Service.Name = "col_Attach_Service";
+            this.col_Attach_Service.Visible = true;
+            this.col_Attach_Service.VisibleIndex = 32;
+            this.col_Attach_Service.Width = 68;
+            // 
+            // repositoryItemButton
+            // 
+            this.repositoryItemButton.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.HotFlat;
+            this.repositoryItemButton.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Glyph, "", -1, true, true, false, DevExpress.XtraEditors.ImageLocation.MiddleCenter, ((System.Drawing.Image)(resources.GetObject("repositoryItemButton.Buttons"))), new DevExpress.Utils.KeyShortcut(System.Windows.Forms.Keys.None), serializableAppearanceObject1, "", null, null, true)});
+            this.repositoryItemButton.ButtonsStyle = DevExpress.XtraEditors.Controls.BorderStyles.HotFlat;
+            this.repositoryItemButton.ContextImageAlignment = DevExpress.XtraEditors.ContextImageAlignment.Far;
+            this.repositoryItemButton.Name = "repositoryItemButton";
+            this.repositoryItemButton.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.HideTextEditor;
+            this.repositoryItemButton.Click += new System.EventHandler(this.repositoryItemButton_Click);
+            // 
+            // col_Check_Automatic
+            // 
+            this.col_Check_Automatic.AppearanceHeader.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Bold);
+            this.col_Check_Automatic.AppearanceHeader.Options.UseFont = true;
+            this.col_Check_Automatic.Caption = "Auto Đính Kèm DV ";
+            this.col_Check_Automatic.ColumnEdit = this.ItemCheckEdit_Status;
+            this.col_Check_Automatic.FieldName = "Is_Service_Auto";
+            this.col_Check_Automatic.Name = "col_Check_Automatic";
+            this.col_Check_Automatic.Width = 116;
+            // 
+            // col_check_Attach_Sevice
+            // 
+            this.col_check_Attach_Sevice.AppearanceHeader.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Bold);
+            this.col_check_Attach_Sevice.AppearanceHeader.Options.UseFont = true;
+            this.col_check_Attach_Sevice.Caption = "DV Đính kèm";
+            this.col_check_Attach_Sevice.ColumnEdit = this.ItemCheckEdit_Status;
+            this.col_check_Attach_Sevice.FieldName = "Is_Acttach_Service";
+            this.col_check_Attach_Sevice.Name = "col_check_Attach_Sevice";
+            this.col_check_Attach_Sevice.Visible = true;
+            this.col_check_Attach_Sevice.VisibleIndex = 31;
+            this.col_check_Attach_Sevice.Width = 113;
+            // 
+            // repositoryItemCheckEdit1
+            // 
+            this.repositoryItemCheckEdit1.AutoHeight = false;
+            this.repositoryItemCheckEdit1.DisplayValueChecked = "1";
+            this.repositoryItemCheckEdit1.DisplayValueGrayed = "0";
+            this.repositoryItemCheckEdit1.DisplayValueUnchecked = "0";
+            this.repositoryItemCheckEdit1.Name = "repositoryItemCheckEdit1";
+            this.repositoryItemCheckEdit1.ValueChecked = ((short)(1));
+            this.repositoryItemCheckEdit1.ValueGrayed = ((short)(0));
+            this.repositoryItemCheckEdit1.ValueUnchecked = ((short)(0));
+            // 
+            // repositoryItemCheckEdit2
+            // 
+            this.repositoryItemCheckEdit2.AutoHeight = false;
+            this.repositoryItemCheckEdit2.DisplayValueChecked = "1";
+            this.repositoryItemCheckEdit2.DisplayValueGrayed = "0";
+            this.repositoryItemCheckEdit2.DisplayValueUnchecked = "0";
+            this.repositoryItemCheckEdit2.Name = "repositoryItemCheckEdit2";
+            this.repositoryItemCheckEdit2.ValueChecked = ((short)(1));
+            this.repositoryItemCheckEdit2.ValueGrayed = ((short)(0));
+            this.repositoryItemCheckEdit2.ValueUnchecked = ((short)(0));
+            // 
             // groupControl1
             // 
             this.groupControl1.AppearanceCaption.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Bold);
@@ -1328,6 +1414,9 @@
             ((System.ComponentModel.ISupportInitialize)(this.repSlkup_UnitOfMeasureCode_Medi)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.repSlkup_UnitOfMeasureCode_MediView)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.repChk_Converted_Medi)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.repositoryItemButton)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.repositoryItemCheckEdit1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.repositoryItemCheckEdit2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).EndInit();
             this.groupControl1.ResumeLayout(false);
             this.groupControl1.PerformLayout();
@@ -1427,5 +1516,11 @@
         private DevExpress.XtraGrid.Columns.GridColumn colViewUOMName_Medi;
         private DevExpress.XtraGrid.Columns.GridColumn col_Converted_Medi;
         private DevExpress.XtraEditors.Repository.RepositoryItemCheckEdit repChk_Converted_Medi;
+        private DevExpress.XtraGrid.Columns.GridColumn col_Attach_Service;
+        private DevExpress.XtraEditors.Repository.RepositoryItemButtonEdit repositoryItemButton;
+        private DevExpress.XtraGrid.Columns.GridColumn col_Check_Automatic;
+        private DevExpress.XtraEditors.Repository.RepositoryItemCheckEdit repositoryItemCheckEdit1;
+        private DevExpress.XtraGrid.Columns.GridColumn col_check_Attach_Sevice;
+        private DevExpress.XtraEditors.Repository.RepositoryItemCheckEdit repositoryItemCheckEdit2;
     }
 }

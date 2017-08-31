@@ -74,6 +74,7 @@
             this.col_ItemCode = new DevExpress.XtraGrid.Columns.GridColumn();
             this.repSearchBHYT_ItemCode = new DevExpress.XtraEditors.Repository.RepositoryItemSearchLookUpEdit();
             this.repChkListBHYT = new DevExpress.XtraEditors.Repository.RepositoryItemCheckEdit();
+            this.repositoryItemCheckEdit2 = new DevExpress.XtraEditors.Repository.RepositoryItemCheckEdit();
             this.gridViewBHYT = new DevExpress.XtraGrid.Views.Grid.GridView();
             this.searchBHYT_ItemName = new DevExpress.XtraGrid.Columns.GridColumn();
             this.searchBHYT_Active = new DevExpress.XtraGrid.Columns.GridColumn();
@@ -93,6 +94,8 @@
             this.searchBHYT_RepositoryGroupCode = new DevExpress.XtraGrid.Columns.GridColumn();
             this.searchBHYT_SODKGP = new DevExpress.XtraGrid.Columns.GridColumn();
             this.searchBHYT_Converted_Medi = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.searchBHYT_Is_Acttach_Service = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.searchBHYT_Is_Service_Auto = new DevExpress.XtraGrid.Columns.GridColumn();
             this.col_UnitOfMeasureCode = new DevExpress.XtraGrid.Columns.GridColumn();
             this.refUoM = new DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit();
             this.col_Date_Of_Issues = new DevExpress.XtraGrid.Columns.GridColumn();
@@ -126,6 +129,11 @@
             this.colView_UOMName = new DevExpress.XtraGrid.Columns.GridColumn();
             this.col_Converted_Medi = new DevExpress.XtraGrid.Columns.GridColumn();
             this.repchk_Converted_Medi = new DevExpress.XtraEditors.Repository.RepositoryItemCheckEdit();
+            this.col_Is_Acttach_Service = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.repositoryItemCheckEdit1 = new DevExpress.XtraEditors.Repository.RepositoryItemCheckEdit();
+            this.col_Is_Service_Auto = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.rep_Is_Service_Auto = new DevExpress.XtraEditors.Repository.RepositoryItemCheckEdit();
+            this.col_ItemCodeOld = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gridControl_ICD10 = new DevExpress.XtraGrid.GridControl();
             this.gridView_ICD10 = new DevExpress.XtraGrid.Views.Grid.GridView();
             this.col_ICD10_RowID = new DevExpress.XtraGrid.Columns.GridColumn();
@@ -301,6 +309,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.gridView_Prescription)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.repSearchBHYT_ItemCode)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.repChkListBHYT)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.repositoryItemCheckEdit2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridViewBHYT)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.refUoM)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.refInstruction)).BeginInit();
@@ -309,6 +318,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.repSlkup_UnitOfMeasureCode_Medi)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.repSlkup_UnitOfMeasureCode_MediView)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.repchk_Converted_Medi)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.repositoryItemCheckEdit1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.rep_Is_Service_Auto)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridControl_ICD10)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridView_ICD10)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtCao.Properties)).BeginInit();
@@ -954,7 +965,9 @@
             this.repUsage,
             this.repSlkup_UnitOfMeasureCode_Medi,
             this.repchk_Converted_Medi,
-            this.replkup_ObjectCode});
+            this.replkup_ObjectCode,
+            this.rep_Is_Service_Auto,
+            this.repositoryItemCheckEdit1});
             this.gridControl_Prescription.Size = new System.Drawing.Size(799, 283);
             this.gridControl_Prescription.TabIndex = 8;
             this.gridControl_Prescription.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
@@ -990,7 +1003,10 @@
             this.col_ObjectCode,
             this.col_RateBHYT,
             this.col_UnitOfMeasureCode_Medi,
-            this.col_Converted_Medi});
+            this.col_Converted_Medi,
+            this.col_Is_Acttach_Service,
+            this.col_Is_Service_Auto,
+            this.col_ItemCodeOld});
             this.gridView_Prescription.GridControl = this.gridControl_Prescription;
             this.gridView_Prescription.IndicatorWidth = 30;
             this.gridView_Prescription.Name = "gridView_Prescription";
@@ -1047,10 +1063,12 @@
             this.repSearchBHYT_ItemCode.Name = "repSearchBHYT_ItemCode";
             this.repSearchBHYT_ItemCode.NullText = "";
             this.repSearchBHYT_ItemCode.RepositoryItems.AddRange(new DevExpress.XtraEditors.Repository.RepositoryItem[] {
-            this.repChkListBHYT});
+            this.repChkListBHYT,
+            this.repositoryItemCheckEdit2});
             this.repSearchBHYT_ItemCode.View = this.gridViewBHYT;
             this.repSearchBHYT_ItemCode.Popup += new System.EventHandler(this.repSearchBHYT_ItemCode_Popup);
             this.repSearchBHYT_ItemCode.EditValueChanged += new System.EventHandler(this.repSearchBHYT_ItemCode_EditValueChanged);
+            this.repSearchBHYT_ItemCode.Click += new System.EventHandler(this.repSearchBHYT_ItemCode_Click);
             // 
             // repChkListBHYT
             // 
@@ -1062,6 +1080,11 @@
             this.repChkListBHYT.ValueChecked = 1;
             this.repChkListBHYT.ValueGrayed = 0;
             this.repChkListBHYT.ValueUnchecked = 0;
+            // 
+            // repositoryItemCheckEdit2
+            // 
+            this.repositoryItemCheckEdit2.AutoHeight = false;
+            this.repositoryItemCheckEdit2.Name = "repositoryItemCheckEdit2";
             // 
             // gridViewBHYT
             // 
@@ -1083,7 +1106,9 @@
             this.searchBHYT_RepositoryCode,
             this.searchBHYT_RepositoryGroupCode,
             this.searchBHYT_SODKGP,
-            this.searchBHYT_Converted_Medi});
+            this.searchBHYT_Converted_Medi,
+            this.searchBHYT_Is_Acttach_Service,
+            this.searchBHYT_Is_Service_Auto});
             this.gridViewBHYT.FocusRectStyle = DevExpress.XtraGrid.Views.Grid.DrawFocusRectStyle.RowFocus;
             this.gridViewBHYT.Name = "gridViewBHYT";
             this.gridViewBHYT.OptionsFind.FindFilterColumns = "Active;ItemName";
@@ -1261,6 +1286,22 @@
             this.searchBHYT_Converted_Medi.Caption = "Converted_Medi";
             this.searchBHYT_Converted_Medi.FieldName = "Converted_Medi";
             this.searchBHYT_Converted_Medi.Name = "searchBHYT_Converted_Medi";
+            // 
+            // searchBHYT_Is_Acttach_Service
+            // 
+            this.searchBHYT_Is_Acttach_Service.Caption = "...";
+            this.searchBHYT_Is_Acttach_Service.FieldName = "Is_Acttach_Service";
+            this.searchBHYT_Is_Acttach_Service.Name = "searchBHYT_Is_Acttach_Service";
+            this.searchBHYT_Is_Acttach_Service.Visible = true;
+            this.searchBHYT_Is_Acttach_Service.VisibleIndex = 7;
+            // 
+            // searchBHYT_Is_Service_Auto
+            // 
+            this.searchBHYT_Is_Service_Auto.Caption = "Dịch vụ theo tên thuốc";
+            this.searchBHYT_Is_Service_Auto.FieldName = "Is_Service_Auto";
+            this.searchBHYT_Is_Service_Auto.Name = "searchBHYT_Is_Service_Auto";
+            this.searchBHYT_Is_Service_Auto.Visible = true;
+            this.searchBHYT_Is_Service_Auto.VisibleIndex = 8;
             // 
             // col_UnitOfMeasureCode
             // 
@@ -1688,6 +1729,35 @@
             // 
             this.repchk_Converted_Medi.AutoHeight = false;
             this.repchk_Converted_Medi.Name = "repchk_Converted_Medi";
+            // 
+            // col_Is_Acttach_Service
+            // 
+            this.col_Is_Acttach_Service.ColumnEdit = this.repositoryItemCheckEdit1;
+            this.col_Is_Acttach_Service.FieldName = "Is_Acttach_Service";
+            this.col_Is_Acttach_Service.Name = "col_Is_Acttach_Service";
+            // 
+            // repositoryItemCheckEdit1
+            // 
+            this.repositoryItemCheckEdit1.AutoHeight = false;
+            this.repositoryItemCheckEdit1.Name = "repositoryItemCheckEdit1";
+            // 
+            // col_Is_Service_Auto
+            // 
+            this.col_Is_Service_Auto.Caption = "Dịch vụ đính kèm";
+            this.col_Is_Service_Auto.ColumnEdit = this.rep_Is_Service_Auto;
+            this.col_Is_Service_Auto.FieldName = "Is_Service_Auto";
+            this.col_Is_Service_Auto.Name = "col_Is_Service_Auto";
+            // 
+            // rep_Is_Service_Auto
+            // 
+            this.rep_Is_Service_Auto.AutoHeight = false;
+            this.rep_Is_Service_Auto.Name = "rep_Is_Service_Auto";
+            // 
+            // col_ItemCodeOld
+            // 
+            this.col_ItemCodeOld.Caption = "gridColumn1";
+            this.col_ItemCodeOld.FieldName = "ItemCodeOld";
+            this.col_ItemCodeOld.Name = "col_ItemCodeOld";
             // 
             // gridControl_ICD10
             // 
@@ -3602,6 +3672,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.gridView_Prescription)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.repSearchBHYT_ItemCode)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.repChkListBHYT)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.repositoryItemCheckEdit2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridViewBHYT)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.refUoM)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.refInstruction)).EndInit();
@@ -3610,6 +3681,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.repSlkup_UnitOfMeasureCode_Medi)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.repSlkup_UnitOfMeasureCode_MediView)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.repchk_Converted_Medi)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.repositoryItemCheckEdit1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.rep_Is_Service_Auto)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridControl_ICD10)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridView_ICD10)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtCao.Properties)).EndInit();
@@ -3914,5 +3987,13 @@
         private DevExpress.XtraEditors.CheckEdit chkBlank;
         private DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit replkup_ObjectCode;
         private DevExpress.XtraEditors.CheckEdit chkStatus;
+        private DevExpress.XtraGrid.Columns.GridColumn col_Is_Service_Auto;
+        private DevExpress.XtraEditors.Repository.RepositoryItemCheckEdit rep_Is_Service_Auto;
+        private DevExpress.XtraEditors.Repository.RepositoryItemCheckEdit repositoryItemCheckEdit2;
+        private DevExpress.XtraGrid.Columns.GridColumn searchBHYT_Is_Service_Auto;
+        private DevExpress.XtraGrid.Columns.GridColumn col_Is_Acttach_Service;
+        private DevExpress.XtraEditors.Repository.RepositoryItemCheckEdit repositoryItemCheckEdit1;
+        private DevExpress.XtraGrid.Columns.GridColumn searchBHYT_Is_Acttach_Service;
+        private DevExpress.XtraGrid.Columns.GridColumn col_ItemCodeOld;
     }
 }

@@ -51,5 +51,24 @@ namespace ClinicModel
         public string UnitOfMeasureCode { get; set; }
         public string Note { get; set; }
 
+
+
+    }
+
+    public class Service_Item_AttachInf2
+    {
+        public string ServiceCode { get; set; }
+        public string ItemCode { get; set; }
+        public Int32 ObjectCode { get; set; }
+        public decimal Quantity { get; set; }
+        public string EmployeeCode { get; set; }
+        public int STT { get; set; }
+        public string UsageCode { get; set; }
+        public string UnitOfMeasureCode { get; set; }
+        public string Note { get; set; }
+        public string ItemName { get; set; }
+
+
+
     }
 }

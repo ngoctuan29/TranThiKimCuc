@@ -1173,5 +1173,28 @@ namespace ClinicDAL
             }
         }
 
+        public static DataTable DataWaitingDV(DateTime dateStart, DateTime dateEnd, int status, int paid)
+        {
+            ConnectDB cn = new ConnectDB();
+            DataTable dt = new DataTable();
+            try
+            {
+                SqlParameter[] param = new SqlParameter[4];
+                param[0] = new SqlParameter("@DateStart", SqlDbType.Char, 10);
+                param[0].Value = dateStart.ToString("dd/MM/yyyy");
+                param[1] = new SqlParameter("@DateEnd", SqlDbType.Char, 10);
+                param[1].Value = dateEnd.ToString("dd/MM/yyyy");
+                param[2] = new SqlParameter("@Status", SqlDbType.Int);
+                param[2].Value = status;
+                //param[3] = new SqlParameter("@STT", SqlDbType.VarChar);
+                //param[3].Value = idmauxn;
+                param[3] = new SqlParameter("@Paid", SqlDbType.Int);
+                param[3].Value = paid;
+                dt = cn.CallProcedureTable(CommandType.StoredProcedure, "proWaiting_DuyetVTTH_KemDichVu", param);
+                return dt;
+            }
+            catch { return null; }
+        }
+
     }
 }

@@ -50,6 +50,7 @@
     <Compile Include="Fee_Advance_PaymentDAL.cs" />
     <Compile Include="Fee_NoteBookDAL.cs" />
     <Compile Include="HSBA_SynchronizeDal.cs" />
+    <Compile Include="RealMedicinesForPatients_VTTH_AttachDAL.cs" />
     <Compile Include="ReportDiscountDal.cs" />
     <Compile Include="Rpt_VuDieuTriDAL.cs" />
     <Compile Include="SSTDAL.cs" />

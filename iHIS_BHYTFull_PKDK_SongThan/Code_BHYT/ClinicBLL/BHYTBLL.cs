@@ -23,6 +23,11 @@ namespace ClinicBLL
             return BHYTDal.ListBHYTForPatientReceiveId(dRowid);
         }
 
+        public static List<BHYTInf> ListBHYTForPatientReceiveIdDV(decimal dRowid)
+        {
+            return BHYTDal.ListBHYTForPatientReceiveIdDV(dRowid);
+        }
+
         public static string PatientCodeForSerial(string serial)
         {
             return BHYTDal.PatientCodeForSerial(serial);

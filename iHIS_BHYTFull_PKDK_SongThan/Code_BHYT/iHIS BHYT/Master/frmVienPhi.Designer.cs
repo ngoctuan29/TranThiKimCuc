@@ -108,10 +108,8 @@
             // gridControl_Service
             // 
             this.gridControl_Service.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.gridControl_Service.EmbeddedNavigator.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.gridControl_Service.Location = new System.Drawing.Point(0, 0);
             this.gridControl_Service.MainView = this.gridView_Service;
-            this.gridControl_Service.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.gridControl_Service.Name = "gridControl_Service";
             this.gridControl_Service.RepositoryItems.AddRange(new DevExpress.XtraEditors.Repository.RepositoryItem[] {
             this.ItemGridLookUpEdit_Service_Group,
@@ -126,7 +124,7 @@
             this.replkup_IDGroupPrint,
             this.rep_btnRefItemsAdd,
             this.repChk_Attach_Items});
-            this.gridControl_Service.Size = new System.Drawing.Size(1195, 738);
+            this.gridControl_Service.Size = new System.Drawing.Size(1024, 600);
             this.gridControl_Service.TabIndex = 2;
             this.gridControl_Service.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.gridView_Service});
@@ -692,10 +690,9 @@
             this.btnRefesh.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnRefesh.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.HotFlat;
             this.btnRefesh.Image = ((System.Drawing.Image)(resources.GetObject("btnRefesh.Image")));
-            this.btnRefesh.Location = new System.Drawing.Point(1128, 10);
-            this.btnRefesh.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.btnRefesh.Location = new System.Drawing.Point(967, 8);
             this.btnRefesh.Name = "btnRefesh";
-            this.btnRefesh.Size = new System.Drawing.Size(29, 28);
+            this.btnRefesh.Size = new System.Drawing.Size(25, 23);
             this.btnRefesh.TabIndex = 8;
             this.btnRefesh.Click += new System.EventHandler(this.btnRefesh_Click);
             // 
@@ -703,10 +700,9 @@
             // 
             this.chkKhoa.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.chkKhoa.AutoSize = true;
-            this.chkKhoa.Location = new System.Drawing.Point(1013, 14);
-            this.chkKhoa.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.chkKhoa.Location = new System.Drawing.Point(876, 11);
             this.chkKhoa.Name = "chkKhoa";
-            this.chkKhoa.Size = new System.Drawing.Size(111, 21);
+            this.chkKhoa.Size = new System.Drawing.Size(87, 17);
             this.chkKhoa.TabIndex = 7;
             this.chkKhoa.Text = "Dịch vụ khoá";
             this.chkKhoa.UseVisualStyleBackColor = true;
@@ -716,25 +712,23 @@
             this.butPrint.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.butPrint.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.HotFlat;
             this.butPrint.Image = ((System.Drawing.Image)(resources.GetObject("butPrint.Image")));
-            this.butPrint.Location = new System.Drawing.Point(1157, 10);
-            this.butPrint.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.butPrint.Location = new System.Drawing.Point(992, 8);
             this.butPrint.Name = "butPrint";
-            this.butPrint.Size = new System.Drawing.Size(30, 28);
+            this.butPrint.Size = new System.Drawing.Size(26, 23);
             this.butPrint.TabIndex = 6;
             this.butPrint.Click += new System.EventHandler(this.butPrint_Click);
             // 
             // frmVienPhi
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1195, 738);
+            this.ClientSize = new System.Drawing.Size(1024, 600);
             this.Controls.Add(this.btnRefesh);
             this.Controls.Add(this.butPrint);
             this.Controls.Add(this.chkKhoa);
             this.Controls.Add(this.gridControl_Service);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "frmVienPhi";
             this.ShowIcon = false;
             this.ShowInTaskbar = false;

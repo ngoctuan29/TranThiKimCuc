@@ -617,6 +617,12 @@
     <Compile Include="Entry\frmWaiting.Designer.cs">
       <DependentUpon>frmWaiting.cs</DependentUpon>
     </Compile>
+    <Compile Include="Master\frmDanhMucVTTH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\frmDanhMucVTTH.designer.cs">
+      <DependentUpon>frmDanhMucVTTH.cs</DependentUpon>
+    </Compile>
     <Compile Include="Master\frmVP_DMNhomIn.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -748,12 +754,6 @@
     </Compile>
     <Compile Include="Master\frmDanhMucMay.Designer.cs">
       <DependentUpon>frmDanhMucMay.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Master\frmDanhMucVTTH.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Master\frmDanhMucVTTH.Designer.cs">
-      <DependentUpon>frmDanhMucVTTH.cs</DependentUpon>
     </Compile>
     <Compile Include="Master\frmDDDonViTinh.cs">
       <SubType>Form</SubType>
@@ -2488,6 +2488,12 @@
     <Compile Include="ViewPopup\AsfForm.Designer.cs">
       <DependentUpon>AsfForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="ViewPopup\ChoseService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewPopup\ChoseService.Designer.cs">
+      <DependentUpon>ChoseService.cs</DependentUpon>
+    </Compile>
     <Compile Include="ViewPopup\frmBaoCao_TKeLuotKhamBenh.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -2499,6 +2505,12 @@
     </Compile>
     <Compile Include="ViewPopup\frmCapNhatToaThuocBanLe.Designer.cs">
       <DependentUpon>frmCapNhatToaThuocBanLe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewPopup\frmDuoc_TheoDoiDichTruyen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewPopup\frmDuoc_TheoDoiDichTruyen.Designer.cs">
+      <DependentUpon>frmDuoc_TheoDoiDichTruyen.cs</DependentUpon>
     </Compile>
     <Compile Include="ViewPopup\frmKB_ThuocVTTHKemTheo.cs">
       <SubType>Form</SubType>
@@ -2523,6 +2535,12 @@
     </Compile>
     <Compile Include="ViewPopup\frmKB_ShowHistoryReceive.Designer.cs">
       <DependentUpon>frmKB_ShowHistoryReceive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewPopup\frmTheoDoi_ThuocVTTH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewPopup\frmTheoDoi_ThuocVTTH.designer.cs">
+      <DependentUpon>frmTheoDoi_ThuocVTTH.cs</DependentUpon>
     </Compile>
     <Compile Include="ViewPopup\frmViewImage_Edit.cs">
       <SubType>Form</SubType>
@@ -2746,6 +2764,12 @@
     <Compile Include="ViewPopup\frmXuatTuTruc.designer.cs">
       <DependentUpon>frmXuatTuTruc.cs</DependentUpon>
     </Compile>
+    <Compile Include="ViewPopup\frm_Attach_Service.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewPopup\frm_Attach_Service.Designer.cs">
+      <DependentUpon>frm_Attach_Service.cs</DependentUpon>
+    </Compile>
     <Compile Include="ViewPopup\frm_Baocao_DateEnd.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -2894,6 +2918,9 @@
     <EmbeddedResource Include="Entry\frmWaiting.resx">
       <DependentUpon>frmWaiting.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Master\frmDanhMucVTTH.resx">
+      <DependentUpon>frmDanhMucVTTH.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Master\frmVP_DMNhomIn.resx">
       <DependentUpon>frmVP_DMNhomIn.cs</DependentUpon>
     </EmbeddedResource>
@@ -2959,9 +2986,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Master\frmDanhMucMay.resx">
       <DependentUpon>frmDanhMucMay.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Master\frmDanhMucVTTH.resx">
-      <DependentUpon>frmDanhMucVTTH.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Master\frmDDDonViTinh.resx">
       <DependentUpon>frmDDDonViTinh.cs</DependentUpon>
@@ -3821,11 +3845,17 @@
     <EmbeddedResource Include="ViewPopup\AsfForm.resx">
       <DependentUpon>AsfForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="ViewPopup\ChoseService.resx">
+      <DependentUpon>ChoseService.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ViewPopup\frmBaoCao_TKeLuotKhamBenh.resx">
       <DependentUpon>frmBaoCao_TKeLuotKhamBenh.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ViewPopup\frmCapNhatToaThuocBanLe.resx">
       <DependentUpon>frmCapNhatToaThuocBanLe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewPopup\frmDuoc_TheoDoiDichTruyen.resx">
+      <DependentUpon>frmDuoc_TheoDoiDichTruyen.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ViewPopup\frmKB_ThuocVTTHKemTheo.resx">
       <DependentUpon>frmKB_ThuocVTTHKemTheo.cs</DependentUpon>
@@ -3838,6 +3868,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="ViewPopup\frmKB_ShowHistoryReceive.resx">
       <DependentUpon>frmKB_ShowHistoryReceive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewPopup\frmTheoDoi_ThuocVTTH.resx">
+      <DependentUpon>frmTheoDoi_ThuocVTTH.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ViewPopup\frmViewImage_Edit.resx">
       <DependentUpon>frmViewImage_Edit.cs</DependentUpon>
@@ -3949,6 +3982,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="ViewPopup\frmXuatTuTruc.resx">
       <DependentUpon>frmXuatTuTruc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewPopup\frm_Attach_Service.resx">
+      <DependentUpon>frm_Attach_Service.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ViewPopup\frm_Baocao_DateEnd.resx">
       <DependentUpon>frm_Baocao_DateEnd.cs</DependentUpon>

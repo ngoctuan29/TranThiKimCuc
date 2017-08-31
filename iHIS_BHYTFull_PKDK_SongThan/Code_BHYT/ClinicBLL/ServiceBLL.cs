@@ -19,6 +19,12 @@ namespace ClinicBLL
             return ServiceDal.DTServiceFull();
         }
 
+        public static DataTable DTServiceList(int iObjCode)
+        {
+            return ServiceDal.DTServiceList(iObjCode);
+        }
+
+
         public static List<ServiceInf> ListService(string sGroup, string sCate, int hide)
         {
             return ServiceDal.ListService(sGroup, sCate, hide);
@@ -83,17 +89,37 @@ namespace ClinicBLL
         {
             return ServiceDal.DTServiceRealNotGroupForBHYT();
         }
-        public static List<Service_Item_AttachInf> ListViewServiceItemAttach(string serviceCode)
+        public static List<Service_Item_AttachInf2> ListViewServiceItemAttach(string serviceCode)
         {
             return ServiceDal.ListViewServiceItemAttach(serviceCode);
         }
+
+
+        public static List<Attach_ServiceINF> ListViewAttach_Service(string serviceCode)
+        {
+            return ServiceDal.ListViewAttach_Service(serviceCode);
+        }
+
+
         public static Int32 InsServiceItemAttach(Service_Item_AttachInf info)
         {
             return ServiceDal.InsServiceItemAttach(info);
         }
+
+
+        public static Int32 InsAttach_Service(Attach_ServiceINF info)
+        {
+            return ServiceDal.InsAttach_Service(info);
+        }
+
         public static Int32 DelServiceItemAttachAll(string servicecode, string itemcode)
         {
             return ServiceDal.DelServiceItemAttachAll(servicecode, itemcode);
+        }
+
+        public static Int32 DelAttach_ServiceAll(string attachServiceCode, string itemcode)
+        {
+            return ServiceDal.DelAttach_ServiceAll(attachServiceCode, itemcode);
         }
         public static Int32 DelServiceItemAttachAll(string servicecode)
         {

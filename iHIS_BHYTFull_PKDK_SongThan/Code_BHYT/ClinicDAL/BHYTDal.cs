@@ -102,6 +102,53 @@ namespace ClinicDAL
             return list;
         }
 
+
+
+        public static List<BHYTInf> ListBHYTForPatientReceiveIdDV(decimal dRowID)
+        {
+            ConnectDB cn = new ConnectDB();
+            List<BHYTInf> list = new List<BHYTInf>();
+            try
+            {
+                string sql = string.Empty;
+                sql = "select a.RowID,a.Serial,a.PatientCode,a.KCBBDCode,a.StartDate,a.EndDate,a.Hide,a.EmployeeCode,a.PatientReceiveID,a.TraiTuyen,a.Serial02,a.Serial03,a.Serial04,a.Serial05,a.Serial06,a.Serial01,a.ReferralPaper,b.ProvincialIDBHYT,a.KCBBDCodeFull,a.CapCuu from BHYT a inner join KCBBD b on a.KCBBDCode=b.KCBBDCode where a.PatientReceiveID in({0}) ";
+                IDataReader ireader = cn.ExecuteReader(CommandType.Text, string.Format(sql, dRowID), null);
+                if (ireader.Read())
+                {
+                    BHYTInf inf = new BHYTInf();
+                    inf.RowID = ireader.GetDecimal(0);
+                    inf.Serial = ireader.GetString(1);
+                    inf.PatientCode = ireader.GetString(2);
+                    inf.KCBBDCode = ireader.GetString(3);
+                    inf.StartDate = ireader.GetDateTime(4);
+                    inf.EndDate = ireader.GetDateTime(5);
+                    inf.Hide = ireader.GetInt32(6);
+                    inf.EmployeeCode = ireader.GetString(7);
+                    inf.PatientReceiveID = ireader.GetDecimal(8);
+                    inf.TraiTuyen = ireader.GetInt32(9);
+                    inf.Serial02 = ireader.GetString(10);
+                    inf.Serial03 = ireader.GetString(11);
+                    inf.Serial04 = ireader.GetString(12);
+                    inf.Serial05 = ireader.GetString(13);
+                    inf.Serial06 = ireader.GetString(14);
+                    inf.Serial01 = ireader.GetString(15);
+                    inf.ReferralPaper = ireader.GetInt32(16);
+                    inf.ProvincialIDBHYT = ireader.GetValue(17).ToString();
+                    inf.KCBBDCodeFull = ireader.GetValue(18).ToString();
+                    inf.Capcuu = ireader.GetInt32(19);
+                    list.Add(inf);
+                }
+                if (!ireader.IsClosed)
+                {
+                    ireader.Close();
+                    ireader.Dispose();
+                }
+            }
+            catch { list = null; }
+            return list;
+        }
+
+
         public static string PatientCodeForSerial(string serial)
         {
             ConnectDB cn = new ConnectDB();

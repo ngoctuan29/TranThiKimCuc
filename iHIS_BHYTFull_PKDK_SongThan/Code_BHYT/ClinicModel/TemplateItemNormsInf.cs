@@ -25,6 +25,7 @@ namespace ClinicModel
         public decimal SalesPrice { get; set; }
         public decimal BHYTPrice { get; set; }
         public string Instruction { get; set; }
+        public int ObjectCode { get; set; }
     }
 
 }

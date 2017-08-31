@@ -18,6 +18,11 @@ namespace ClinicBLL
             return ObjectDal.DTObjectList(iObjCode);
         }
 
+        //public static DataTable DTObjectList(int iObjCode)
+        //{
+        //    return ObjectDal.DTObjectList(iObjCode);
+        //}
+
         public static DataTable DTObjectListNotIn(int iObjCode)
         {
             return ObjectDal.DTObjectListNotIn(iObjCode);
@@ -55,6 +60,9 @@ namespace ClinicBLL
         {
             return ObjectDal.DelThuoc(sRowID2, sMedicalRecordCode, sItemCode);
         }
-
+        public static List<ObjectInf> GetObject()
+        {
+            return ObjectDal.GetObject();
+        }
     }
 }

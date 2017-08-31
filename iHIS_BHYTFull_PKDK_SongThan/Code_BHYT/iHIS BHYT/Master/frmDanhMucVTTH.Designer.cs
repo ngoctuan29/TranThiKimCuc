@@ -56,7 +56,11 @@
             this.gridView_Detail = new DevExpress.XtraGrid.Views.Grid.GridView();
             this.col_tem_NormsCode = new DevExpress.XtraGrid.Columns.GridColumn();
             this.col_tem_ItemCode = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.ref_Item = new DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit();
+            this.SearchLookUpEdit_Item = new DevExpress.XtraEditors.Repository.RepositoryItemSearchLookUpEdit();
+            this.repositoryItemSearchLookUpEdit1View = new DevExpress.XtraGrid.Views.Grid.GridView();
+            this.gridColumn1 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gridColumn2 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gridColumn3 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.col_tem_Quantity = new DevExpress.XtraGrid.Columns.GridColumn();
             this.col_tem_Instruction = new DevExpress.XtraGrid.Columns.GridColumn();
             this.col_tem_RowID = new DevExpress.XtraGrid.Columns.GridColumn();
@@ -65,6 +69,14 @@
             this.col_tem_UnitPrice = new DevExpress.XtraGrid.Columns.GridColumn();
             this.col_tem_SalesPrice = new DevExpress.XtraGrid.Columns.GridColumn();
             this.col_tem_BHYTPrice = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.col_tem_ObjectCode = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.rep_Doituong = new DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit();
+            this.ref_Item = new DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit();
+            this.ref_Items = new DevExpress.XtraEditors.Repository.RepositoryItemGridLookUpEdit();
+            this.repositoryItemGridLookUpEdit2View = new DevExpress.XtraGrid.Views.Grid.GridView();
+            this.col_ItemCode = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.col_ItemName = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.col_Active = new DevExpress.XtraGrid.Columns.GridColumn();
             ((System.ComponentModel.ISupportInitialize)(this.pnTemplate)).BeginInit();
             this.pnTemplate.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.groupList)).BeginInit();
@@ -84,8 +96,13 @@
             this.grDetails.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.gridControl_Detail)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridView_Detail)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ref_Item)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.SearchLookUpEdit_Item)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.repositoryItemSearchLookUpEdit1View)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.rep_UoM)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.rep_Doituong)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ref_Item)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ref_Items)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.repositoryItemGridLookUpEdit2View)).BeginInit();
             this.SuspendLayout();
             // 
             // pnTemplate
@@ -98,7 +115,7 @@
             this.pnTemplate.Panel2.Controls.Add(this.grDetails);
             this.pnTemplate.Panel2.Text = "Panel2";
             this.pnTemplate.Size = new System.Drawing.Size(1024, 600);
-            this.pnTemplate.SplitterPosition = 417;
+            this.pnTemplate.SplitterPosition = 374;
             this.pnTemplate.TabIndex = 5;
             this.pnTemplate.Text = "splitContainerControl1";
             // 
@@ -111,7 +128,7 @@
             this.groupList.Dock = System.Windows.Forms.DockStyle.Fill;
             this.groupList.Location = new System.Drawing.Point(0, 0);
             this.groupList.Name = "groupList";
-            this.groupList.Size = new System.Drawing.Size(417, 600);
+            this.groupList.Size = new System.Drawing.Size(374, 600);
             this.groupList.TabIndex = 0;
             this.groupList.Text = "Danh sách dịch vụ";
             // 
@@ -128,7 +145,7 @@
             this.repositoryItemGridLookUpEdit1,
             this.rep_DepartmentCode,
             this.rep_PatientType});
-            this.gridControl_Service.Size = new System.Drawing.Size(413, 575);
+            this.gridControl_Service.Size = new System.Drawing.Size(370, 575);
             this.gridControl_Service.TabIndex = 4;
             this.gridControl_Service.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.gridView_Service});
@@ -149,12 +166,13 @@
             this.gridView_Service.Name = "gridView_Service";
             this.gridView_Service.OptionsBehavior.AllowAddRows = DevExpress.Utils.DefaultBoolean.False;
             this.gridView_Service.OptionsBehavior.AllowDeleteRows = DevExpress.Utils.DefaultBoolean.False;
+            this.gridView_Service.OptionsBehavior.Editable = false;
             this.gridView_Service.OptionsFind.AlwaysVisible = true;
             this.gridView_Service.OptionsFind.FindFilterColumns = "ServiceName";
             this.gridView_Service.OptionsSelection.EnableAppearanceFocusedCell = false;
             this.gridView_Service.OptionsView.ShowFooter = true;
+            this.gridView_Service.RowClick += new DevExpress.XtraGrid.Views.Grid.RowClickEventHandler(this.gridView_Service_RowClick);
             this.gridView_Service.KeyDown += new System.Windows.Forms.KeyEventHandler(this.gridView_Service_KeyDown);
-            this.gridView_Service.Click += new System.EventHandler(this.gridView_Service_Click);
             // 
             // col_lst_ServiceGroupName
             // 
@@ -162,6 +180,7 @@
             this.col_lst_ServiceGroupName.FieldName = "ServiceGroupName";
             this.col_lst_ServiceGroupName.Name = "col_lst_ServiceGroupName";
             this.col_lst_ServiceGroupName.OptionsColumn.AllowEdit = false;
+            this.col_lst_ServiceGroupName.OptionsColumn.AllowFocus = false;
             this.col_lst_ServiceGroupName.OptionsColumn.ReadOnly = true;
             this.col_lst_ServiceGroupName.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
             new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Count, "ServiceGroupCode", "Count: {0:#,#}")});
@@ -174,6 +193,9 @@
             this.col_lst_ServiceCategoryName.Caption = "Loại viện phí";
             this.col_lst_ServiceCategoryName.FieldName = "ServiceCategoryName";
             this.col_lst_ServiceCategoryName.Name = "col_lst_ServiceCategoryName";
+            this.col_lst_ServiceCategoryName.OptionsColumn.AllowEdit = false;
+            this.col_lst_ServiceCategoryName.OptionsColumn.AllowFocus = false;
+            this.col_lst_ServiceCategoryName.OptionsColumn.ReadOnly = true;
             this.col_lst_ServiceCategoryName.Visible = true;
             this.col_lst_ServiceCategoryName.VisibleIndex = 1;
             this.col_lst_ServiceCategoryName.Width = 115;
@@ -183,16 +205,18 @@
             this.col_lst_ServiceCode.Caption = "Mã viện phí";
             this.col_lst_ServiceCode.FieldName = "ServiceCode";
             this.col_lst_ServiceCode.Name = "col_lst_ServiceCode";
-            this.col_lst_ServiceCode.OptionsColumn.AllowMove = false;
-            this.col_lst_ServiceCode.OptionsColumn.AllowShowHide = false;
+            this.col_lst_ServiceCode.OptionsColumn.AllowEdit = false;
+            this.col_lst_ServiceCode.OptionsColumn.AllowFocus = false;
+            this.col_lst_ServiceCode.OptionsColumn.ReadOnly = true;
             // 
             // col_lst_ServiceName
             // 
             this.col_lst_ServiceName.Caption = "Tên dịch vụ";
             this.col_lst_ServiceName.FieldName = "ServiceName";
             this.col_lst_ServiceName.Name = "col_lst_ServiceName";
-            this.col_lst_ServiceName.OptionsColumn.AllowMove = false;
-            this.col_lst_ServiceName.OptionsColumn.AllowShowHide = false;
+            this.col_lst_ServiceName.OptionsColumn.AllowEdit = false;
+            this.col_lst_ServiceName.OptionsColumn.AllowFocus = false;
+            this.col_lst_ServiceName.OptionsColumn.ReadOnly = true;
             this.col_lst_ServiceName.Visible = true;
             this.col_lst_ServiceName.VisibleIndex = 2;
             this.col_lst_ServiceName.Width = 244;
@@ -323,7 +347,7 @@
             this.grDetails.Dock = System.Windows.Forms.DockStyle.Fill;
             this.grDetails.Location = new System.Drawing.Point(0, 0);
             this.grDetails.Name = "grDetails";
-            this.grDetails.Size = new System.Drawing.Size(602, 600);
+            this.grDetails.Size = new System.Drawing.Size(645, 600);
             this.grDetails.TabIndex = 0;
             this.grDetails.Text = "Chi tiết Thuốc, VTTH ";
             // 
@@ -335,8 +359,11 @@
             this.gridControl_Detail.Name = "gridControl_Detail";
             this.gridControl_Detail.RepositoryItems.AddRange(new DevExpress.XtraEditors.Repository.RepositoryItem[] {
             this.ref_Item,
-            this.rep_UoM});
-            this.gridControl_Detail.Size = new System.Drawing.Size(598, 575);
+            this.rep_UoM,
+            this.rep_Doituong,
+            this.ref_Items,
+            this.SearchLookUpEdit_Item});
+            this.gridControl_Detail.Size = new System.Drawing.Size(641, 575);
             this.gridControl_Detail.TabIndex = 13;
             this.gridControl_Detail.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.gridView_Detail});
@@ -353,7 +380,8 @@
             this.col_tem_UnitOfMeasureCode,
             this.col_tem_UnitPrice,
             this.col_tem_SalesPrice,
-            this.col_tem_BHYTPrice});
+            this.col_tem_BHYTPrice,
+            this.col_tem_ObjectCode});
             this.gridView_Detail.GridControl = this.gridControl_Detail;
             this.gridView_Detail.Name = "gridView_Detail";
             this.gridView_Detail.NewItemRowText = "Nhập chi tiết thuốc cho toa mẫu!";
@@ -375,28 +403,57 @@
             // col_tem_ItemCode
             // 
             this.col_tem_ItemCode.Caption = "Thuốc - VTTH";
-            this.col_tem_ItemCode.ColumnEdit = this.ref_Item;
+            this.col_tem_ItemCode.ColumnEdit = this.SearchLookUpEdit_Item;
             this.col_tem_ItemCode.FieldName = "ItemCode";
             this.col_tem_ItemCode.Name = "col_tem_ItemCode";
             this.col_tem_ItemCode.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
             new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Count)});
             this.col_tem_ItemCode.Visible = true;
             this.col_tem_ItemCode.VisibleIndex = 0;
-            this.col_tem_ItemCode.Width = 253;
+            this.col_tem_ItemCode.Width = 162;
             // 
-            // ref_Item
+            // SearchLookUpEdit_Item
             // 
-            this.ref_Item.AutoHeight = false;
-            this.ref_Item.BestFitMode = DevExpress.XtraEditors.Controls.BestFitMode.BestFitResizePopup;
-            this.ref_Item.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            this.SearchLookUpEdit_Item.AutoHeight = false;
+            this.SearchLookUpEdit_Item.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
-            this.ref_Item.Columns.AddRange(new DevExpress.XtraEditors.Controls.LookUpColumnInfo[] {
-            new DevExpress.XtraEditors.Controls.LookUpColumnInfo("ItemCode", "Mã thuốc", 20, DevExpress.Utils.FormatType.None, "", false, DevExpress.Utils.HorzAlignment.Default),
-            new DevExpress.XtraEditors.Controls.LookUpColumnInfo("ItemName", "Tên thuốc"),
-            new DevExpress.XtraEditors.Controls.LookUpColumnInfo("Active", "Hoạt chất")});
-            this.ref_Item.Name = "ref_Item";
-            this.ref_Item.NullText = "...";
-            this.ref_Item.EditValueChanged += new System.EventHandler(this.ref_Item_EditValueChanged);
+            this.SearchLookUpEdit_Item.Name = "SearchLookUpEdit_Item";
+            this.SearchLookUpEdit_Item.NullText = "...";
+            this.SearchLookUpEdit_Item.View = this.repositoryItemSearchLookUpEdit1View;
+            this.SearchLookUpEdit_Item.EditValueChanged += new System.EventHandler(this.SearchLookUpEdit_Item_EditValueChanged);
+            // 
+            // repositoryItemSearchLookUpEdit1View
+            // 
+            this.repositoryItemSearchLookUpEdit1View.Columns.AddRange(new DevExpress.XtraGrid.Columns.GridColumn[] {
+            this.gridColumn1,
+            this.gridColumn2,
+            this.gridColumn3});
+            this.repositoryItemSearchLookUpEdit1View.FocusRectStyle = DevExpress.XtraGrid.Views.Grid.DrawFocusRectStyle.RowFocus;
+            this.repositoryItemSearchLookUpEdit1View.Name = "repositoryItemSearchLookUpEdit1View";
+            this.repositoryItemSearchLookUpEdit1View.OptionsSelection.EnableAppearanceFocusedCell = false;
+            this.repositoryItemSearchLookUpEdit1View.OptionsView.ShowGroupPanel = false;
+            // 
+            // gridColumn1
+            // 
+            this.gridColumn1.Caption = "Mã thuốc";
+            this.gridColumn1.FieldName = "ItemCode";
+            this.gridColumn1.Name = "gridColumn1";
+            // 
+            // gridColumn2
+            // 
+            this.gridColumn2.Caption = "Tên thuốc";
+            this.gridColumn2.FieldName = "ItemName";
+            this.gridColumn2.Name = "gridColumn2";
+            this.gridColumn2.Visible = true;
+            this.gridColumn2.VisibleIndex = 0;
+            // 
+            // gridColumn3
+            // 
+            this.gridColumn3.Caption = "Hoạt chất";
+            this.gridColumn3.FieldName = "Active";
+            this.gridColumn3.Name = "gridColumn3";
+            this.gridColumn3.Visible = true;
+            this.gridColumn3.VisibleIndex = 1;
             // 
             // col_tem_Quantity
             // 
@@ -439,6 +496,7 @@
             this.col_tem_UnitOfMeasureCode.OptionsColumn.ReadOnly = true;
             this.col_tem_UnitOfMeasureCode.Visible = true;
             this.col_tem_UnitOfMeasureCode.VisibleIndex = 1;
+            this.col_tem_UnitOfMeasureCode.Width = 37;
             // 
             // rep_UoM
             // 
@@ -490,6 +548,88 @@
             this.col_tem_BHYTPrice.Visible = true;
             this.col_tem_BHYTPrice.VisibleIndex = 6;
             // 
+            // col_tem_ObjectCode
+            // 
+            this.col_tem_ObjectCode.Caption = "Đối tượng";
+            this.col_tem_ObjectCode.ColumnEdit = this.rep_Doituong;
+            this.col_tem_ObjectCode.FieldName = "ObjectCode";
+            this.col_tem_ObjectCode.Name = "col_tem_ObjectCode";
+            this.col_tem_ObjectCode.Visible = true;
+            this.col_tem_ObjectCode.VisibleIndex = 7;
+            this.col_tem_ObjectCode.Width = 80;
+            // 
+            // rep_Doituong
+            // 
+            this.rep_Doituong.AutoHeight = false;
+            this.rep_Doituong.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.rep_Doituong.Columns.AddRange(new DevExpress.XtraEditors.Controls.LookUpColumnInfo[] {
+            new DevExpress.XtraEditors.Controls.LookUpColumnInfo("ObjectCode", "Mã", 20, DevExpress.Utils.FormatType.None, "", false, DevExpress.Utils.HorzAlignment.Default),
+            new DevExpress.XtraEditors.Controls.LookUpColumnInfo("ObjectName", "Đối tượng")});
+            this.rep_Doituong.Name = "rep_Doituong";
+            this.rep_Doituong.NullText = "...";
+            // 
+            // ref_Item
+            // 
+            this.ref_Item.AutoHeight = false;
+            this.ref_Item.BestFitMode = DevExpress.XtraEditors.Controls.BestFitMode.BestFitResizePopup;
+            this.ref_Item.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.ref_Item.CaseSensitiveSearch = true;
+            this.ref_Item.Columns.AddRange(new DevExpress.XtraEditors.Controls.LookUpColumnInfo[] {
+            new DevExpress.XtraEditors.Controls.LookUpColumnInfo("ItemCode", "Mã thuốc", 20, DevExpress.Utils.FormatType.None, "", false, DevExpress.Utils.HorzAlignment.Default),
+            new DevExpress.XtraEditors.Controls.LookUpColumnInfo("ItemName", "Tên thuốc"),
+            new DevExpress.XtraEditors.Controls.LookUpColumnInfo("Active", "Hoạt chất")});
+            this.ref_Item.Name = "ref_Item";
+            this.ref_Item.NullText = "...";
+            this.ref_Item.SearchMode = DevExpress.XtraEditors.Controls.SearchMode.AutoComplete;
+            this.ref_Item.EditValueChanged += new System.EventHandler(this.ref_Item_EditValueChanged);
+            // 
+            // ref_Items
+            // 
+            this.ref_Items.AutoHeight = false;
+            this.ref_Items.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.ref_Items.Name = "ref_Items";
+            this.ref_Items.NullText = "...";
+            this.ref_Items.View = this.repositoryItemGridLookUpEdit2View;
+            // 
+            // repositoryItemGridLookUpEdit2View
+            // 
+            this.repositoryItemGridLookUpEdit2View.Columns.AddRange(new DevExpress.XtraGrid.Columns.GridColumn[] {
+            this.col_ItemCode,
+            this.col_ItemName,
+            this.col_Active});
+            this.repositoryItemGridLookUpEdit2View.FocusRectStyle = DevExpress.XtraGrid.Views.Grid.DrawFocusRectStyle.RowFocus;
+            this.repositoryItemGridLookUpEdit2View.Name = "repositoryItemGridLookUpEdit2View";
+            this.repositoryItemGridLookUpEdit2View.OptionsBehavior.AllowIncrementalSearch = true;
+            this.repositoryItemGridLookUpEdit2View.OptionsCustomization.CustomizationFormSearchBoxVisible = true;
+            this.repositoryItemGridLookUpEdit2View.OptionsFind.SearchInPreview = true;
+            this.repositoryItemGridLookUpEdit2View.OptionsSelection.EnableAppearanceFocusedCell = false;
+            this.repositoryItemGridLookUpEdit2View.OptionsView.ShowGroupPanel = false;
+            // 
+            // col_ItemCode
+            // 
+            this.col_ItemCode.Caption = "Mã thuốc";
+            this.col_ItemCode.FieldName = "ItemCode";
+            this.col_ItemCode.Name = "col_ItemCode";
+            // 
+            // col_ItemName
+            // 
+            this.col_ItemName.Caption = "Tên thuốc";
+            this.col_ItemName.FieldName = "ItemName";
+            this.col_ItemName.Name = "col_ItemName";
+            this.col_ItemName.Visible = true;
+            this.col_ItemName.VisibleIndex = 0;
+            // 
+            // col_Active
+            // 
+            this.col_Active.Caption = "Hoạt chất";
+            this.col_Active.FieldName = "Active";
+            this.col_Active.Name = "col_Active";
+            this.col_Active.Visible = true;
+            this.col_Active.VisibleIndex = 1;
+            // 
             // frmDanhMucVTTH
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -523,8 +663,13 @@
             this.grDetails.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.gridControl_Detail)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridView_Detail)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ref_Item)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.SearchLookUpEdit_Item)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.repositoryItemSearchLookUpEdit1View)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.rep_UoM)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.rep_Doituong)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ref_Item)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ref_Items)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.repositoryItemGridLookUpEdit2View)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -567,5 +712,17 @@
         private DevExpress.XtraGrid.Columns.GridColumn col_tem_UnitPrice;
         private DevExpress.XtraGrid.Columns.GridColumn col_tem_SalesPrice;
         private DevExpress.XtraGrid.Columns.GridColumn col_tem_BHYTPrice;
+        private DevExpress.XtraGrid.Columns.GridColumn col_tem_ObjectCode;
+        private DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit rep_Doituong;
+        private DevExpress.XtraEditors.Repository.RepositoryItemGridLookUpEdit ref_Items;
+        private DevExpress.XtraGrid.Views.Grid.GridView repositoryItemGridLookUpEdit2View;
+        private DevExpress.XtraGrid.Columns.GridColumn col_ItemCode;
+        private DevExpress.XtraGrid.Columns.GridColumn col_ItemName;
+        private DevExpress.XtraGrid.Columns.GridColumn col_Active;
+        private DevExpress.XtraEditors.Repository.RepositoryItemSearchLookUpEdit SearchLookUpEdit_Item;
+        private DevExpress.XtraGrid.Views.Grid.GridView repositoryItemSearchLookUpEdit1View;
+        private DevExpress.XtraGrid.Columns.GridColumn gridColumn1;
+        private DevExpress.XtraGrid.Columns.GridColumn gridColumn2;
+        private DevExpress.XtraGrid.Columns.GridColumn gridColumn3;
     }
 }

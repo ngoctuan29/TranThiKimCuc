@@ -68,6 +68,11 @@ namespace ClinicBLL
         {
             return MedicalRecord_DAL.DTMedicalRecordApprove(sMedicalCode, objectCode, sRepCode, iStatus, dRowIDMedicines, objectCode_Medical);
         }
+
+        public static DataTable DTMedicalRecordApproveDV(string sMedicalCode, Int32 objectCode, string sRepCode, Int32 iStatus, decimal dRowIDMedicines, int objectCode_Medical)
+        {
+            return MedicalRecord_DAL.DTMedicalRecordApproveDV(sMedicalCode, objectCode, sRepCode, iStatus, dRowIDMedicines, objectCode_Medical);
+        }
         public static DataTable TableMedicalPrescriptionForImmuni(string medicalRecordCode, string patientCode, decimal patientReceiveID)
         {
             return MedicalRecord_DAL.TableMedicalPrescriptionForImmuni(medicalRecordCode, patientCode, patientReceiveID);
@@ -359,7 +364,7 @@ namespace ClinicBLL
         {
             return MedicalRecord_DAL.DelMedicalRecordDetailForItemCode(sMedicalRecordCode, sItemCode);
         }
-        public static Int32 DelMedicalRecordDetailForRowID(string sMedicalRecordCode, int RowID)
+        public static Int32 DelMedicalRecordDetailForRowID(string sMedicalRecordCode, decimal RowID)
         {
             return MedicalRecord_DAL.DelMedicalRecordDetailForRowID(sMedicalRecordCode, RowID);
         }
@@ -431,6 +436,15 @@ namespace ClinicBLL
         public static Int32 UpdMedicalRecordForDoctorPointed(decimal receiptID, decimal discountAmount, string employeeCodeDoing, int per, int status)
         {
             return MedicalRecord_DAL.UpdMedicalRecordForDoctorPointed(receiptID, discountAmount, employeeCodeDoing, per, status);
+        }
+
+        public static List<MedicalRecord_WaitingBrowseModel> ListPatient_WaitingBrowseFor(Int32 iStatus, Int32 done, DateTime dateFrom, DateTime dateTo)
+        {
+            return MedicalRecord_DAL.ListPatient_WaitingBrowseFor(iStatus, done, dateFrom, dateTo);
+        }
+        public static List<MedicalRecord_WaitingBrowseModel> ListPatient_WaitingBrowses(Int32 istatus, Int32 done, DateTime dateFrom, DateTime dateTo)
+        {
+            return MedicalRecord_DAL.ListPatient_WaitingBrowses(istatus, done, dateFrom, dateTo);
         }
     }
 }

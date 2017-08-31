@@ -165,5 +165,26 @@ namespace ClinicDAL
             catch (Exception ex) { return -1; }
         }
 
+        public static List<ObjectInf> GetObject()
+        {
+            ConnectDB cn = new ConnectDB();
+            List<ObjectInf> list = new List<ObjectInf>();
+            try
+            {
+                string sql = string.Empty;
+                sql = "select objectCode, objectName from object where ObjectCode=5";
+                IDataReader ireader = cn.ExecuteReader(CommandType.Text, string.Format(sql), null);
+                while (ireader.Read())
+                {
+                    ObjectInf obj = new ObjectInf();
+                    obj.ObjectCode = ireader.GetInt32(0);
+                    obj.ObjectName = ireader.GetValue(1).ToString();
+                    list.Add(obj);
+                }
+            }
+            catch (Exception ex)
+            { return null; }
+            return list;
+        }
     }
 }

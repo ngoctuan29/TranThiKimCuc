@@ -271,7 +271,6 @@
                             0,
                             0}))});
             this.gridView_Result.Name = "gridView_Result";
-            this.gridView_Result.OptionsFind.AllowFindPanel = false;
             this.gridView_Result.OptionsFind.FindFilterColumns = "";
             this.gridView_Result.OptionsView.ShowFooter = true;
             // 

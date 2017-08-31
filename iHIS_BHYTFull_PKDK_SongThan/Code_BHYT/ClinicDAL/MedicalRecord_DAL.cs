@@ -137,9 +137,12 @@ namespace ClinicDAL
                 tableResult.Columns.Add(new DataColumn("SODKGP", typeof(string)));
                 tableResult.Columns.Add(new DataColumn("UnitOfMeasureCode_Medi", typeof(string)));
                 tableResult.Columns.Add(new DataColumn("Converted_Medi", typeof(Boolean)));
+                tableResult.Columns.Add(new DataColumn("Is_Acttach_Service", typeof(Int32)));
+                tableResult.Columns.Add(new DataColumn("Is_Service_Auto", typeof(Int32)));
+                //,b.Is_Acttach_Service,b.Is_Service_Auto
                 string sql = string.Empty;
                 sql = @" select a.MedicalRecordCode,a.ItemCode,a.DateOfIssues,a.Morning,a.Noon,a.Afternoon,a.Evening,
-                        a.Quantity,a.Instruction,a.UnitPrice,a.Amount,a.Status,b.UnitOfMeasureCode,a.RepositoryCode,d.RepositoryName,b.ItemName,a.RowID,a.DoseOf,a.DoseOfPills,a.ObjectCode,b.RateBHYT,d.RepositoryGroupCode,b.UsageCode,b.SODKGP,a.UnitOfMeasureCode_Medi,b.Converted_Medi
+                        a.Quantity,a.Instruction,a.UnitPrice,a.Amount,a.Status,b.UnitOfMeasureCode,a.RepositoryCode,d.RepositoryName,b.ItemName,a.RowID,a.DoseOf,a.DoseOfPills,a.ObjectCode,b.RateBHYT,d.RepositoryGroupCode,b.UsageCode,b.SODKGP,a.UnitOfMeasureCode_Medi,b.Converted_Medi,b.Is_Acttach_Service,b.Is_Service_Auto
                         from MedicalPrescriptionDetail a inner join Items b on a.ItemCode=b.ItemCode inner join MedicalRecord c on a.MedicalRecordCode=c.MedicalRecordCode inner join RepositoryCatalog d on a.RepositoryCode=d.RepositoryCode
                         where a.MedicalRecordCode in('{0}') and c.ObjectCode in({1}) 
                         and a.RepositoryCode in(
@@ -626,7 +629,7 @@ namespace ClinicDAL
                 if (status == 0)
                 {
                     sql = @" select a.MedicalRecordCode,a.ItemCode,a.DateOfIssues,a.Morning,a.Noon,a.Afternoon,a.Evening,a.Quantity,a.Instruction,a.UnitPrice,a.Amount,a.Status,b.UnitOfMeasureCode,a.RepositoryCode,d.RepositoryName,b.ItemName,
-                        b.SalesPrice,b.BHYTPrice,b.RateBHYT,e.UnitOfMeasureName,a.PostingDate,a.RowID,a.ObjectCode,'' as Shipment,c.Paid,c.BanksAccountCode,c.Paid,c.BanksAccountCode, obj.ObjectName
+                        b.SalesPrice,b.BHYTPrice,b.RateBHYT,e.UnitOfMeasureName,a.PostingDate,a.RowID,a.ObjectCode,'' as Shipment,c.Paid,c.BanksAccountCode,c.BanksAccountCode, obj.ObjectName
                         from MedicalPrescriptionDetail a inner join Items b on a.ItemCode=b.ItemCode 
                         inner join MedicalRecord c on a.MedicalRecordCode=c.MedicalRecordCode inner join RepositoryCatalog d on a.RepositoryCode=d.RepositoryCode inner join UnitOfMeasure e on b.UnitOfMeasureCode=e.UnitOfMeasureCode
                         inner join Object obj on obj.ObjectCode = a.ObjectCode
@@ -655,6 +658,77 @@ namespace ClinicDAL
             catch { }
             return dt;
         }
+
+
+        public static DataTable DTMedicalRecordApproveDV(string medicalCode, Int32 objectCode, string repCode, Int32 status, decimal rowIDMedicines, int objectCode_Medical)
+        {
+            ConnectDB cn = new ConnectDB();
+            DataTable dt = new DataTable();
+            try
+            {
+                dt.Columns.Add(new DataColumn("MedicalRecordCode", typeof(string)));
+                dt.Columns.Add(new DataColumn("ItemCode", typeof(string)));
+                dt.Columns.Add(new DataColumn("DateOfIssues", typeof(Int32)));
+                dt.Columns.Add(new DataColumn("Morning", typeof(string)));
+                dt.Columns.Add(new DataColumn("Noon", typeof(string)));
+                dt.Columns.Add(new DataColumn("Afternoon", typeof(string)));
+                dt.Columns.Add(new DataColumn("Evening", typeof(string)));
+                dt.Columns.Add(new DataColumn("Quantity", typeof(decimal)));
+                dt.Columns.Add(new DataColumn("Instruction", typeof(string)));
+                dt.Columns.Add(new DataColumn("UnitPrice", typeof(decimal)));
+                dt.Columns.Add(new DataColumn("Amount", typeof(decimal)));
+                dt.Columns.Add(new DataColumn("Status", typeof(Int32)));
+                dt.Columns.Add(new DataColumn("UnitOfMeasureCode", typeof(string)));
+                dt.Columns.Add(new DataColumn("RepositoryCode", typeof(string)));
+                dt.Columns.Add(new DataColumn("RepositoryName", typeof(string)));
+                dt.Columns.Add(new DataColumn("ItemName", typeof(string)));
+                dt.Columns.Add(new DataColumn("SalesPrice", typeof(decimal)));
+                dt.Columns.Add(new DataColumn("BHYTPrice", typeof(decimal)));
+                dt.Columns.Add(new DataColumn("RateBHYT", typeof(decimal)));
+                dt.Columns.Add(new DataColumn("UnitOfMeasureName", typeof(string)));
+                dt.Columns.Add(new DataColumn("PostingDate", typeof(DateTime)));
+                dt.Columns.Add(new DataColumn("RowID", typeof(Decimal)));
+                dt.Columns.Add(new DataColumn("ObjectCode", typeof(int)));
+                dt.Columns.Add(new DataColumn("Shipment", typeof(string)));
+                dt.Columns.Add(new DataColumn("Paid", typeof(int)));
+                dt.Columns.Add(new DataColumn("BanksAccountCode", typeof(string)));
+                dt.Columns.Add(new DataColumn("Quantity_Receive", typeof(decimal)));
+                dt.Columns.Add(new DataColumn("Note", typeof(string)));
+                string sql = string.Empty;
+                if (status == 0)
+                {
+                    sql = @" select a.MedicalRecordCode,a.ItemCode,a.DateOfIssues,a.Morning,a.Noon,a.Afternoon,a.Evening,a.Quantity,a.Instruction,a.UnitPrice,a.Amount,a.Status,b.UnitOfMeasureCode,a.RepositoryCode,d.RepositoryName,b.ItemName,
+                                b.SalesPrice,b.BHYTPrice,b.RateBHYT,e.UnitOfMeasureName,a.PostingDate,a.RowID,a.ObjectCode,'' as Shipment,c.Paid,c.BanksAccountCode,c.Paid,c.BanksAccountCode, obj.ObjectName, mr.Quantity_Receive, mr.Note
+                             from MedicalPrescriptionDetail a inner join Items b on a.ItemCode=b.ItemCode and Is_Acttach_Service=1  
+                                inner join MedicalRecord c on a.MedicalRecordCode=c.MedicalRecordCode inner join RepositoryCatalog d on a.RepositoryCode=d.RepositoryCode inner join UnitOfMeasure e on b.UnitOfMeasureCode=e.UnitOfMeasureCode
+                                inner join Object obj on obj.ObjectCode = a.ObjectCode 
+                                left join MedicinesForPatients_Receive mr on mr.ItemCode= a.ItemCode and mr.PatientReceiveID=c.PatientReceiveID
+                             where a.MedicalRecordCode in('{0}') and c.ObjectCode in({1}) and a.RepositoryCode in('{2}')
+                        ";
+                    if (!objectCode_Medical.Equals(-1))
+                        sql += " and a.ObjectCode =" + objectCode_Medical;
+                    dt = cn.ExecuteQuery(string.Format(sql, medicalCode, objectCode, repCode, status));
+                }
+                else
+                {
+                    sql = @" select a.MedicalRecordCode,a.ItemCode,a.DateOfIssues,a.Morning,a.Noon,a.Afternoon,a.Evening,a1.QuantityExport Quantity,a.Instruction,a1.UnitPrice,a1.Amount,a.Status,b.UnitOfMeasureCode,a.RepositoryCode,d.RepositoryName,b.ItemName,
+                                    b.SalesPrice,b.BHYTPrice,b.RateBHYT,e.UnitOfMeasureName,a.PostingDate,a.RowID,a.ObjectCode,a2.Shipment,a1.Paid,c.BanksAccountCode, obj.ObjectName, mr.Quantity_Receive, mr.Note
+                             from MedicalPrescriptionDetail a inner join Items b on a.ItemCode=b.ItemCode and Is_Acttach_Service=1 inner join MedicalRecord c on a.MedicalRecordCode=c.MedicalRecordCode inner join RepositoryCatalog d on a.RepositoryCode=d.RepositoryCode 
+                                    inner join UnitOfMeasure e on b.UnitOfMeasureCode=e.UnitOfMeasureCode inner join MedicinesForPatientsDetail a1 on a.RowID=a1.RowIDMedicalPrescription inner join InventoryGumshoe a2 on a1.RowIDInventoryGumshoe=a2.RowID
+                                    inner join Object obj on obj.ObjectCode = a.ObjectCode
+						            left join MedicinesForPatients_Receive mr on mr.ItemCode= a.ItemCode and mr.PatientReceiveID=c.PatientReceiveID
+                             where a.MedicalRecordCode in('{0}') and c.ObjectCode in({1}) and a.RepositoryCode in('{2}') and a1.RowIDMedicines={4}
+                        ";
+                    if (!objectCode_Medical.Equals(-1))
+                        sql += " and a.ObjectCode =" + objectCode_Medical;
+                    dt = cn.ExecuteQuery(string.Format(sql, medicalCode, objectCode, repCode, status, rowIDMedicines));
+                }
+
+            }
+            catch { }
+            return dt;
+        }
+
         public static List<MedicalRecordHistoryModel> ListHistoryMedical(string sPatientCode, Int32 iPatientType)
         {
             ConnectDB cn = new ConnectDB();
@@ -1618,7 +1692,7 @@ namespace ClinicDAL
             catch { iResult = -2; }
             return iResult;
         }
-        public static Int32 DelMedicalRecordDetailForRowID(string sMedicalRecordCode, int sItemCode)
+        public static Int32 DelMedicalRecordDetailForRowID(string sMedicalRecordCode, decimal sItemCode)
         {
             Int32 iResult = 0;
             ConnectDB cn = new ConnectDB();
@@ -1628,7 +1702,7 @@ namespace ClinicDAL
                 SqlParameter[] param = new SqlParameter[2];
                 param[0] = new SqlParameter("@MedicalRecordCode", SqlDbType.VarChar, 50);
                 param[0].Value = sMedicalRecordCode;
-                param[1] = new SqlParameter("@RowID", SqlDbType.Int, 50);
+                param[1] = new SqlParameter("@RowID", SqlDbType.Decimal);
                 param[1].Value = sItemCode;
                 iResult = cn.ExecuteNonQuery(CommandType.Text, sql, param);
             }
@@ -2001,33 +2075,58 @@ namespace ClinicDAL
             try
             {
                 string sql = string.Empty;
+
+                //sql = @" select a.MedicalRecordCode,a.PatientReceiveID,c.DepartmentName,a.PatientCode,d.PatientName,
+                //        d.PatientAge,d.PatientBirthyear,(case when d.PatientGender=0 then N'Nữ' else N'Nam' end)PatientGenderName,
+                //        a.ObjectCode,e.ObjectName,0 RowIDMedicinesFor, '' as DateApproved,convert(date,a.PostingDate,103) PostingDate,[dbo].func_PatientOfAddressFull(a1.Address,b1.WardName,b2.DistrictName,b3.ProvincialName) PatientAddress, 0 as Printer,'' EmployeeName
+                //        from MedicalRecord a inner join MedicalPrescriptionDetail b on a.MedicalRecordCode=b.MedicalRecordCode
+                //        inner join Department c on a.DepartmentCode=c.DepartmentCode inner join Patients d on a.PatientCode=d.PatientCode inner join Object e on a.ObjectCode=e.ObjectCode 
+                //        inner join PatientReceive a1 on a.PatientReceiveID=a1.PatientReceiveID left join Catalog_Ward b1 on a1.WardCode=b1.WardCode left join Catalog_District b2 on a1.DistrictCode=b2.DistrictCode left join Catalog_Provincial b3 on a1.ProvincialCode=b3.ProvincialCode
+                //        where CONVERT(date,a.PostingDate,103) between CONVERT(date,'{1}',103) and CONVERT(date,'{5}',103) and b.RepositoryCode in('{2}')  and a.typeMedical in({3}) and b.ObjectCode in({6})
+                //        group by a.MedicalRecordCode,a.PatientReceiveID,c.DepartmentName,a.PatientCode,d.PatientName,d.PatientAge,d.PatientBirthyear,d.PatientGender,
+                //        a.ObjectCode,e.ObjectName,convert(date,a.PostingDate,103),a1.Address,b1.WardName,b2.DistrictName,b3.ProvincialName
+                //        order by a.MedicalRecordCode asc ";
+
                 if (istatus == 0)
                 {
                     sql = @" select a.MedicalRecordCode,a.PatientReceiveID,c.DepartmentName,a.PatientCode,d.PatientName,
-                        d.PatientAge,d.PatientBirthyear,(case when d.PatientGender=0 then N'Nữ' else N'Nam' end)PatientGenderName,
-                        a.ObjectCode,e.ObjectName,0 RowIDMedicinesFor, '' as DateApproved,convert(date,a.PostingDate,103) PostingDate,[dbo].func_PatientOfAddressFull(a1.Address,b1.WardName,b2.DistrictName,b3.ProvincialName) PatientAddress, 0 as Printer,'' EmployeeName
-                        from MedicalRecord a inner join MedicalPrescriptionDetail b on a.MedicalRecordCode=b.MedicalRecordCode
-                        inner join Department c on a.DepartmentCode=c.DepartmentCode inner join Patients d on a.PatientCode=d.PatientCode inner join Object e on a.ObjectCode=e.ObjectCode 
-                        inner join PatientReceive a1 on a.PatientReceiveID=a1.PatientReceiveID left join Catalog_Ward b1 on a1.WardCode=b1.WardCode left join Catalog_District b2 on a1.DistrictCode=b2.DistrictCode left join Catalog_Provincial b3 on a1.ProvincialCode=b3.ProvincialCode
-                        where b.status in({0}) and CONVERT(date,a.PostingDate,103) between CONVERT(date,'{1}',103) and CONVERT(date,'{5}',103) and b.RepositoryCode in('{2}')  and a.typeMedical in({3}) and b.ObjectCode in({6})
-                        group by a.MedicalRecordCode,a.PatientReceiveID,c.DepartmentName,a.PatientCode,d.PatientName,d.PatientAge,d.PatientBirthyear,d.PatientGender,
-                        a.ObjectCode,e.ObjectName,convert(date,a.PostingDate,103),a1.Address,b1.WardName,b2.DistrictName,b3.ProvincialName
-                        order by a.MedicalRecordCode asc ";
+                                  d.PatientAge,d.PatientBirthyear,(case when d.PatientGender=0 then N'Nữ' else N'Nam' end)PatientGenderName,
+                                  a.ObjectCode,e.ObjectName,0 RowIDMedicinesFor, '' as DateApproved,convert(date,a.PostingDate,103) PostingDate,[dbo].func_PatientOfAddressFull(a1.Address,b1.WardName,b2.DistrictName,b3.ProvincialName) PatientAddress, 0 as Printer,'' EmployeeName
+                                  from MedicalRecord a 
+                inner join MedicalPrescriptionDetail b on a.MedicalRecordCode=b.MedicalRecordCode
+                                  inner join Department c on a.DepartmentCode=c.DepartmentCode 
+                inner join Patients d on a.PatientCode=d.PatientCode 
+                inner join Object e on a.ObjectCode=e.ObjectCode 
+                                  inner join PatientReceive a1 on a.PatientReceiveID=a1.PatientReceiveID 
+                left join Catalog_Ward b1 on a1.WardCode=b1.WardCode 
+                left join Catalog_District b2 on a1.DistrictCode=b2.DistrictCode 
+                left join Catalog_Provincial b3 on a1.ProvincialCode=b3.ProvincialCode
+                inner join Items i on i.ItemCode= b.ItemCode 
+                                  where CONVERT(date,a.PostingDate,103) between CONVERT(date,'{1}',103) and CONVERT(date,'{5}',103) and b.RepositoryCode in('{2}')  and a.typeMedical in({3}) and b.ObjectCode in({6})
+                                  --and i.Is_Acttach_Service=1
+                                    and b.Status ={0}
+                                  group by a.MedicalRecordCode,a.PatientReceiveID,c.DepartmentName,a.PatientCode,d.PatientName,d.PatientAge,d.PatientBirthyear,d.PatientGender,
+                                  a.ObjectCode,e.ObjectName,convert(date,a.PostingDate,103),a1.Address,b1.WardName,b2.DistrictName,b3.ProvincialName
+                                  order by a.MedicalRecordCode asc ";
                 }
                 else
                 {
                     sql = @"  select a.MedicalRecordCode,a.PatientReceiveID,c.DepartmentName,a.PatientCode,d.PatientName,
-                        d.PatientAge,d.PatientBirthyear,(case when d.PatientGender=0 then N'Nữ' else N'Nam' end)PatientGenderName,
-                        a.ObjectCode,e.ObjectName,f.RowID RowIDMedicinesFor,f.DateApproved,convert(date,a.PostingDate,103) PostingDate,[dbo].func_PatientOfAddressFull(a1.Address,b1.WardName,b2.DistrictName,b3.ProvincialName) PatientAddress,0 as Printer,a3.EmployeeName
-                        from MedicalRecord a inner join MedicalPrescriptionDetail b on a.MedicalRecordCode=b.MedicalRecordCode
-                        inner join Department c on a.DepartmentCode=c.DepartmentCode inner join Patients d on a.PatientCode=d.PatientCode
-                        inner join Object e on a.ObjectCode=e.ObjectCode inner join MedicinesForPatients f on a.MedicalRecordCode=f.MedicalRecordCode and a.PatientReceiveID=f.PatientReceiveID
-                        inner join PatientReceive a1 on a.PatientReceiveID=a1.PatientReceiveID left join Catalog_Ward b1 on a1.WardCode=b1.WardCode left join Catalog_District b2 on a1.DistrictCode=b2.DistrictCode left join Catalog_Provincial b3 on a1.ProvincialCode=b3.ProvincialCode
-                        left join MedicinesForPatients a2 on a.MedicalRecordCode=a2.MedicalRecordCode and a2.PatientReceiveID=a1.PatientReceiveID left join Employee a3 on a2.EmployeeCode=a3.EmployeeCode
-                        where b.status in({0}) and CONVERT(date,a.PostingDate,103) between CONVERT(date,'{1}',103) and CONVERT(date,'{5}',103) and b.RepositoryCode in('{2}') and a.typeMedical in({3}) and f.Done in({4}) and b.ObjectCode in({6})
-                        group by a.MedicalRecordCode,a.PatientReceiveID,c.DepartmentName,a.PatientCode,d.PatientName,d.PatientAge,d.PatientBirthyear,d.PatientGender,
-                        a.ObjectCode,e.ObjectName,f.RowID,f.DateApproved,convert(date,a.PostingDate,103),a1.Address,b1.WardName,b2.DistrictName,b3.ProvincialName,a3.EmployeeName
-                        order by f.RowID desc";
+                                          d.PatientAge,d.PatientBirthyear,(case when d.PatientGender=0 then N'Nữ' else N'Nam' end)PatientGenderName,
+                                          a.ObjectCode,e.ObjectName,f.RowID RowIDMedicinesFor,f.DateApproved,convert(date,a.PostingDate,103) PostingDate,[dbo].func_PatientOfAddressFull(a1.Address,b1.WardName,b2.DistrictName,b3.ProvincialName) PatientAddress,0 as Printer,a3.EmployeeName
+                                       from MedicalRecord a inner 
+                                          join MedicalPrescriptionDetail b on a.MedicalRecordCode=b.MedicalRecordCode
+                                          inner join Department c on a.DepartmentCode=c.DepartmentCode inner join Patients d on a.PatientCode=d.PatientCode
+                                          inner join Object e on a.ObjectCode=e.ObjectCode inner join MedicinesForPatients f on a.MedicalRecordCode=f.MedicalRecordCode and a.PatientReceiveID=f.PatientReceiveID
+                                          inner join PatientReceive a1 on a.PatientReceiveID=a1.PatientReceiveID left join Catalog_Ward b1 on a1.WardCode=b1.WardCode left join Catalog_District b2 on a1.DistrictCode=b2.DistrictCode left join Catalog_Provincial b3 on a1.ProvincialCode=b3.ProvincialCode
+                                          left join MedicinesForPatients a2 on a.MedicalRecordCode=a2.MedicalRecordCode and a2.PatientReceiveID=a1.PatientReceiveID left join Employee a3 on a2.EmployeeCode=a3.EmployeeCode
+                                          inner join Items i on i.ItemCode= b.ItemCode
+                                       where CONVERT(date,a.PostingDate,103) between CONVERT(date,'{1}',103) and CONVERT(date,'{5}',103) and b.RepositoryCode in('{2}') and a.typeMedical ={3} and f.Done in({4}) and b.ObjectCode in({6}) 
+                                      --and i.Is_Acttach_Service=1
+                                        and b.Status ={0}
+                                       group by a.MedicalRecordCode,a.PatientReceiveID,c.DepartmentName,a.PatientCode,d.PatientName,d.PatientAge,d.PatientBirthyear,d.PatientGender,
+                                          a.ObjectCode,e.ObjectName,f.RowID,f.DateApproved,convert(date,a.PostingDate,103),a1.Address,b1.WardName,b2.DistrictName,b3.ProvincialName,a3.EmployeeName
+                                       order by f.RowID desc";
                 }
                 IDataReader ireader = cn.ExecuteReader(CommandType.Text, string.Format(sql, istatus, dateFrom.ToString("dd/MM/yyyy"), sRepCode, typeMedical, done, dateTo.ToString("dd/MM/yyyy"), objectCode), null);
                 while (ireader.Read())
@@ -2660,6 +2759,122 @@ namespace ClinicDAL
                 return cn.ExecuteNonQuery(CommandType.Text, string.Format(query, per, discountAmount, employeeCodeDoing, status, receiptID));
             }
             catch { return -2; }
+        }
+
+        public static List<MedicalRecord_WaitingBrowseModel> ListPatient_WaitingBrowseFor(Int32 istatus, Int32 done, DateTime dateFrom, DateTime dateTo)
+        {
+            ConnectDB cn = new ConnectDB();
+            List<MedicalRecord_WaitingBrowseModel> list = new List<MedicalRecord_WaitingBrowseModel>();
+            try
+            {
+                string sql = string.Empty;
+                if (istatus == 0)
+                {
+                    sql = @"select a.PatientCode, b.PatientBirthyear, b.PatientName, b.PatientAddress, (case when b.PatientGender=0 then N'Nữ' else N'Nam' end)PatientGenderName, c.DepartmentName
+                            from PatientReceive a inner join Patients b on a.PatientCode = b.PatientCode
+						inner join Department c on a.DepartmentCode = c.DepartmentCode
+						 where a.status = '{0}' CONVERT(date,a.IDate,103) between CONVERT(date,'{1}',103) and CONVERT(date,'{3}',103)
+						group by a.PatientCode, b.PatientBirthyear, b.PatientName, b.PatientAddress, (case when b.PatientGender=0 then N'Nữ' else N'Nam' end), c.DepartmentName ";
+                }
+                else
+                {
+                    sql = @"  select a.PatientCode, b.PatientBirthyear, b.PatientName, b.PatientAddress, (case when b.PatientGender=0 then N'Nữ' else N'Nam' end)PatientGenderName, c.DepartmentName
+                                from PatientReceive a inner join Patients b on a.PatientCode = b.PatientCode
+						inner join Department c on a.DepartmentCode = c.DepartmentCode
+						 where a.status = '{0}' and CONVERT(date,a.IDate,103) between CONVERT(date,'{1}',103) and CONVERT(date,'{3}',103)
+						group by a.PatientCode, b.PatientBirthyear, b.PatientName, b.PatientAddress, (case when b.PatientGender=0 then N'Nữ' else N'Nam' end), c.DepartmentName ";
+                }
+                IDataReader ireader = cn.ExecuteReader(CommandType.Text, string.Format(sql, istatus, dateFrom, done, dateTo), null);
+                while (ireader.Read())
+                {
+                    MedicalRecord_WaitingBrowseModel inf = new MedicalRecord_WaitingBrowseModel();
+
+
+                    inf.PatientCode = ireader.GetValue(0).ToString();
+                    inf.PatientBirthyear = ireader.GetInt32(1);
+                    inf.PatientName = ireader.GetValue(2).ToString();
+                    inf.PatientAddress = ireader.GetValue(3).ToString();
+                    inf.PatientGenderName = ireader.GetValue(4).ToString();
+                    inf.DepartmentName = ireader.GetValue(5).ToString();
+                    //inf.MedicalRecordCode = ireader.GetString(0);
+                    //inf.PatientReceiveID = ireader.GetDecimal(1);
+                    //inf.PatientAge = ireader.GetInt32(5);
+                    //inf.ObjectCode = ireader.GetInt32(8);
+                    ///inf.ObjectName = ireader.GetValue(9).ToString();
+                    //inf.RowIDMedicinesFor = Convert.ToDecimal(ireader.GetValue(10));
+                    //inf.DateApproved = ireader.GetValue(11).ToString();
+                    //inf.PostingDate = ireader.GetValue(12).ToString();
+                    //inf.Printer = ireader.GetInt32(14);
+                    //inf.EmployeeName = ireader.GetValue(15).ToString();
+                    list.Add(inf);
+                }
+                if (!ireader.IsClosed)
+                {
+                    ireader.Close();
+                    ireader.Dispose();
+                }
+            }
+            catch (Exception ex) { list = null; }
+            return list;
+        }
+
+
+
+        public static List<MedicalRecord_WaitingBrowseModel> ListPatient_WaitingBrowses(Int32 istatus, Int32 done, DateTime dateFrom, DateTime dateTo)
+        {
+            ConnectDB cn = new ConnectDB();
+            List<MedicalRecord_WaitingBrowseModel> list = new List<MedicalRecord_WaitingBrowseModel>();
+            try
+            {
+                string sql = string.Empty;
+                if (istatus == 0)
+                {
+                    sql = @"select a.PatientCode, b.PatientBirthyear, b.PatientName, b.PatientAddress, (case when b.PatientGender=0 then N'Nữ' else N'Nam' end)PatientGenderName, c.DepartmentName
+                            from PatientReceive a inner join Patients b on a.PatientCode = b.PatientCode
+						inner join Department c on a.DepartmentCode = c.DepartmentCode
+						 where a.status = '{0}' CONVERT(date,a.IDate,103) between CONVERT(date,'{1}',103) and CONVERT(date,'{3}',103)
+						group by a.PatientCode, b.PatientBirthyear, b.PatientName, b.PatientAddress, (case when b.PatientGender=0 then N'Nữ' else N'Nam' end), c.DepartmentName ";
+                }
+                else
+                {
+                    sql = @"  select a.PatientCode, b.PatientBirthyear, b.PatientName, b.PatientAddress, (case when b.PatientGender=0 then N'Nữ' else N'Nam' end)PatientGenderName, c.DepartmentName
+                                from PatientReceive a inner join Patients b on a.PatientCode = b.PatientCode
+						inner join Department c on a.DepartmentCode = c.DepartmentCode
+						 where a.status = '{0}' and CONVERT(date,a.IDate,103) between CONVERT(date,'{1}',103) and CONVERT(date,'{3}',103)
+						group by a.PatientCode, b.PatientBirthyear, b.PatientName, b.PatientAddress, (case when b.PatientGender=0 then N'Nữ' else N'Nam' end), c.DepartmentName ";
+                }
+                IDataReader ireader = cn.ExecuteReader(CommandType.Text, string.Format(sql, istatus, dateFrom, done, dateTo), null);
+                while (ireader.Read())
+                {
+                    MedicalRecord_WaitingBrowseModel inf = new MedicalRecord_WaitingBrowseModel();
+
+
+                    inf.PatientCode = ireader.GetValue(0).ToString();
+                    inf.PatientBirthyear = ireader.GetInt32(1);
+                    inf.PatientName = ireader.GetValue(2).ToString();
+                    inf.PatientAddress = ireader.GetValue(3).ToString();
+                    inf.PatientGenderName = ireader.GetValue(4).ToString();
+                    inf.DepartmentName = ireader.GetValue(5).ToString();
+                    //inf.MedicalRecordCode = ireader.GetString(0);
+                    //inf.PatientReceiveID = ireader.GetDecimal(1);
+                    //inf.PatientAge = ireader.GetInt32(5);
+                    //inf.ObjectCode = ireader.GetInt32(8);
+                    ///inf.ObjectName = ireader.GetValue(9).ToString();
+                    //inf.RowIDMedicinesFor = Convert.ToDecimal(ireader.GetValue(10));
+                    //inf.DateApproved = ireader.GetValue(11).ToString();
+                    //inf.PostingDate = ireader.GetValue(12).ToString();
+                    //inf.Printer = ireader.GetInt32(14);
+                    //inf.EmployeeName = ireader.GetValue(15).ToString();
+                    list.Add(inf);
+                }
+                if (!ireader.IsClosed)
+                {
+                    ireader.Close();
+                    ireader.Dispose();
+                }
+            }
+            catch (Exception ex) { list = null; }
+            return list;
         }
     }
 }

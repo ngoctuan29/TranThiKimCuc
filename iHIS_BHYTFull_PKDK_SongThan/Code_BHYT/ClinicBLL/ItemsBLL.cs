@@ -22,6 +22,15 @@ namespace ClinicBLL
             return Items_Dal.ListItemsForItemCode(sItemCode, iStatus);
         }
 
+        public static DataTable ListItemsCode(string sitemCode)
+        {
+            return Items_Dal.ListItemslist(sitemCode);
+        }
+
+        public static DataTable ListItemslistAuto(string sitemCode)
+        {
+            return Items_Dal.ListItemslistAuto(sitemCode);
+        }
         public static List<Items_Ref> ListItemsRef(Int32 iStatus, string repositoryCode)
         {
             return Items_Dal.ListItemsRef(iStatus, repositoryCode);

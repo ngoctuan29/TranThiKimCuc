@@ -41,6 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ADRInf.cs" />
+    <Compile Include="Attach_ServiceINF.cs" />
     <Compile Include="CaptureInf.cs" />
     <Compile Include="Fee_Advance_PaymentInf.cs" />
     <Compile Include="Fee_NoteBookInf.cs" />
@@ -67,8 +68,10 @@
     <Compile Include="HospitalTransferINF.cs" />
     <Compile Include="iHISHospitalInfo.cs" />
     <Compile Include="ListVitualPacs_DemoInf.cs" />
+    <Compile Include="MedicinesForPatients_ReceiveINF.cs" />
     <Compile Include="PatientsSendSMSInf.cs" />
     <Compile Include="PictureInf.cs" />
+    <Compile Include="RealMedicinesForPatients_VTTH_AttachInf.cs" />
     <Compile Include="ReportBHYTInf.cs" />
     <Compile Include="CountryInf.cs" />
     <Compile Include="DepartmentInf.cs" />

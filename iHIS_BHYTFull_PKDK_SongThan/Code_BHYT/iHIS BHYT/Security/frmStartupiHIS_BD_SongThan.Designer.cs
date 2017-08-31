@@ -75,6 +75,7 @@
             this.barSubQuanHuyen = new DevExpress.XtraBars.BarButtonItem();
             this.barSubPhuongXa = new DevExpress.XtraBars.BarButtonItem();
             this.barItem_Diagnosis = new DevExpress.XtraBars.BarButtonItem();
+            this.barItem_DinhMucVTTH = new DevExpress.XtraBars.BarButtonItem();
             this.barItem_ThongTinPK = new DevExpress.XtraBars.BarButtonItem();
             this.barItem_PhanQuyen = new DevExpress.XtraBars.BarButtonItem();
             this.barItem_ThongSoHeThong = new DevExpress.XtraBars.BarButtonItem();
@@ -100,7 +101,6 @@
             this.barItem_BoXN = new DevExpress.XtraBars.BarButtonItem();
             this.barItem_ThongSoXN = new DevExpress.XtraBars.BarButtonItem();
             this.barItem_DonViDo = new DevExpress.XtraBars.BarButtonItem();
-            this.barItem_DinhMucVTTH = new DevExpress.XtraBars.BarButtonItem();
             this.barItem_MapTypeResult = new DevExpress.XtraBars.BarButtonItem();
             this.barItem_CategoryAttach = new DevExpress.XtraBars.BarButtonItem();
             this.subItem_QLCongNo = new DevExpress.XtraBars.BarSubItem();
@@ -255,8 +255,10 @@
             this.subItem_DuyetCapBHYT = new DevExpress.XtraBars.BarButtonItem();
             this.subItem_DuyetCapThuPhi = new DevExpress.XtraBars.BarButtonItem();
             this.subItem_CapPhatToaBHYT = new DevExpress.XtraBars.BarButtonItem();
+            this.barButtonItem10 = new DevExpress.XtraBars.BarButtonItem();
             this.barSub_Management = new DevExpress.XtraBars.BarSubItem();
             this.barUserInfo = new DevExpress.XtraBars.BarStaticItem();
+            this.subItem_Theodoitruyendich = new DevExpress.XtraBars.BarButtonItem();
             this.rib_NghiepVu = new DevExpress.XtraBars.Ribbon.RibbonPage();
             this.PageGroup_NVu01 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
             this.PageGroup_NVu02 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
@@ -302,6 +304,7 @@
             this.barButtonItem3 = new DevExpress.XtraBars.BarButtonItem();
             this.barStaticItem3 = new DevExpress.XtraBars.BarStaticItem();
             this.timer_Working = new System.Windows.Forms.Timer(this.components);
+            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             ((System.ComponentModel.ISupportInitialize)(this.ribbonMenu)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.PsClinicMenu)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.popupMenu1)).BeginInit();
@@ -429,7 +432,6 @@
             this.subItem_BenhNhanInfo,
             this.barSub_UpdateBN,
             this.barSub_ListReceive,
-            this.barItem_DinhMucVTTH,
             this.subItem_HoanTraNCC,
             this.barItem_TKeDaily,
             this.barToggleSwitchItem1,
@@ -546,9 +548,12 @@
             this.barSub_Management,
             this.barUserInfo,
             this.barItemVP_PrintGroup,
-            this.barButtonItem9});
+            this.barButtonItem9,
+            this.subItem_Theodoitruyendich,
+            this.barButtonItem10,
+            this.barItem_DinhMucVTTH});
             this.ribbonMenu.Location = new System.Drawing.Point(0, 0);
-            this.ribbonMenu.MaxItemId = 153;
+            this.ribbonMenu.MaxItemId = 213;
             this.ribbonMenu.Name = "ribbonMenu";
             this.ribbonMenu.PageHeaderItemLinks.Add(this.ribbonGalleryBarItem);
             this.ribbonMenu.Pages.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPage[] {
@@ -559,7 +564,7 @@
             this.ribbonMenu.RibbonStyle = DevExpress.XtraBars.Ribbon.RibbonControlStyle.OfficeUniversal;
             this.ribbonMenu.ShowFullScreenButton = DevExpress.Utils.DefaultBoolean.False;
             this.ribbonMenu.ShowPageHeadersMode = DevExpress.XtraBars.Ribbon.ShowPageHeadersMode.Show;
-            this.ribbonMenu.Size = new System.Drawing.Size(1257, 95);
+            this.ribbonMenu.Size = new System.Drawing.Size(1257, 82);
             this.ribbonMenu.StatusBar = this.ribbonStatusBar;
             // 
             // PsClinicMenu
@@ -881,7 +886,8 @@
             new DevExpress.XtraBars.LinkPersistInfo(this.barItem_Machine),
             new DevExpress.XtraBars.LinkPersistInfo(this.barListMenuRelation),
             new DevExpress.XtraBars.LinkPersistInfo(this.barListTQPXa),
-            new DevExpress.XtraBars.LinkPersistInfo(this.barItem_Diagnosis)});
+            new DevExpress.XtraBars.LinkPersistInfo(this.barItem_Diagnosis),
+            new DevExpress.XtraBars.LinkPersistInfo(this.barItem_DinhMucVTTH)});
             this.subItem_QLPhongKham.Name = "subItem_QLPhongKham";
             this.subItem_QLPhongKham.RibbonStyle = ((DevExpress.XtraBars.Ribbon.RibbonItemStyles)(((DevExpress.XtraBars.Ribbon.RibbonItemStyles.Large | DevExpress.XtraBars.Ribbon.RibbonItemStyles.SmallWithText) 
             | DevExpress.XtraBars.Ribbon.RibbonItemStyles.SmallWithoutText)));
@@ -1091,6 +1097,15 @@
             this.barItem_Diagnosis.Name = "barItem_Diagnosis";
             this.barItem_Diagnosis.Visibility = DevExpress.XtraBars.BarItemVisibility.Never;
             this.barItem_Diagnosis.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barItem_Diagnosis_ItemClick);
+            // 
+            // barItem_DinhMucVTTH
+            // 
+            this.barItem_DinhMucVTTH.Caption = "Định mức Thuốc-VTTH";
+            this.barItem_DinhMucVTTH.Glyph = ((System.Drawing.Image)(resources.GetObject("barItem_DinhMucVTTH.Glyph")));
+            this.barItem_DinhMucVTTH.Id = 212;
+            this.barItem_DinhMucVTTH.LargeGlyph = ((System.Drawing.Image)(resources.GetObject("barItem_DinhMucVTTH.LargeGlyph")));
+            this.barItem_DinhMucVTTH.Name = "barItem_DinhMucVTTH";
+            this.barItem_DinhMucVTTH.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barItem_DinhMucVTTH_ItemClick);
             // 
             // barItem_ThongTinPK
             // 
@@ -1368,7 +1383,6 @@
             new DevExpress.XtraBars.LinkPersistInfo(this.barItem_BoXN, true),
             new DevExpress.XtraBars.LinkPersistInfo(this.barItem_ThongSoXN),
             new DevExpress.XtraBars.LinkPersistInfo(this.barItem_DonViDo),
-            new DevExpress.XtraBars.LinkPersistInfo(this.barItem_DinhMucVTTH),
             new DevExpress.XtraBars.LinkPersistInfo(this.barItem_MapTypeResult),
             new DevExpress.XtraBars.LinkPersistInfo(this.barItem_CategoryAttach)});
             this.subItem_QLXN.Name = "subItem_QLXN";
@@ -1421,18 +1435,6 @@
             this.barItem_DonViDo.Name = "barItem_DonViDo";
             this.barItem_DonViDo.Visibility = DevExpress.XtraBars.BarItemVisibility.Never;
             this.barItem_DonViDo.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barItem_DonViDo_ItemClick);
-            // 
-            // barItem_DinhMucVTTH
-            // 
-            this.barItem_DinhMucVTTH.Caption = "Định mức thuốc - VTTH";
-            this.barItem_DinhMucVTTH.Glyph = ((System.Drawing.Image)(resources.GetObject("barItem_DinhMucVTTH.Glyph")));
-            this.barItem_DinhMucVTTH.Id = 328;
-            this.barItem_DinhMucVTTH.ItemAppearance.Normal.Font = new System.Drawing.Font("Tahoma", 8.5F);
-            this.barItem_DinhMucVTTH.ItemAppearance.Normal.Options.UseFont = true;
-            this.barItem_DinhMucVTTH.LargeGlyph = ((System.Drawing.Image)(resources.GetObject("barItem_DinhMucVTTH.LargeGlyph")));
-            this.barItem_DinhMucVTTH.Name = "barItem_DinhMucVTTH";
-            this.barItem_DinhMucVTTH.Visibility = DevExpress.XtraBars.BarItemVisibility.Never;
-            this.barItem_DinhMucVTTH.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barItem_DinhMucVTTH_ItemClick);
             // 
             // barItem_MapTypeResult
             // 
@@ -2633,6 +2635,7 @@
             this.ribbonGalleryBarItem.Gallery.ShowItemText = true;
             this.ribbonGalleryBarItem.Id = 17;
             this.ribbonGalleryBarItem.Name = "ribbonGalleryBarItem";
+            this.ribbonGalleryBarItem.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.ribbonGalleryBarItem_ItemClick);
             // 
             // barItem_NoiSoi
             // 
@@ -3292,7 +3295,8 @@
             this.subItem_ExpMedicines.LinksPersistInfo.AddRange(new DevExpress.XtraBars.LinkPersistInfo[] {
             new DevExpress.XtraBars.LinkPersistInfo(this.subItem_DuyetCapBHYT),
             new DevExpress.XtraBars.LinkPersistInfo(this.subItem_DuyetCapThuPhi),
-            new DevExpress.XtraBars.LinkPersistInfo(this.subItem_CapPhatToaBHYT)});
+            new DevExpress.XtraBars.LinkPersistInfo(this.subItem_CapPhatToaBHYT),
+            new DevExpress.XtraBars.LinkPersistInfo(this.barButtonItem10)});
             this.subItem_ExpMedicines.Name = "subItem_ExpMedicines";
             this.subItem_ExpMedicines.Visibility = DevExpress.XtraBars.BarItemVisibility.Never;
             // 
@@ -3341,6 +3345,14 @@
             this.subItem_CapPhatToaBHYT.Visibility = DevExpress.XtraBars.BarItemVisibility.Never;
             this.subItem_CapPhatToaBHYT.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.subItem_CapPhatToaBHYT_ItemClick);
             // 
+            // barButtonItem10
+            // 
+            this.barButtonItem10.Caption = "Theo dõi Cấp phát_VTTH";
+            this.barButtonItem10.Glyph = ((System.Drawing.Image)(resources.GetObject("barButtonItem10.Glyph")));
+            this.barButtonItem10.Id = 154;
+            this.barButtonItem10.Name = "barButtonItem10";
+            this.barButtonItem10.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barButtonItem10_ItemClick);
+            // 
             // barSub_Management
             // 
             this.barSub_Management.Caption = "Quản trị hệ thống";
@@ -3366,6 +3378,15 @@
             this.barUserInfo.Id = 150;
             this.barUserInfo.Name = "barUserInfo";
             this.barUserInfo.TextAlignment = System.Drawing.StringAlignment.Near;
+            // 
+            // subItem_Theodoitruyendich
+            // 
+            this.subItem_Theodoitruyendich.Caption = "Theo dõi dịch truyền";
+            this.subItem_Theodoitruyendich.Glyph = ((System.Drawing.Image)(resources.GetObject("subItem_Theodoitruyendich.Glyph")));
+            this.subItem_Theodoitruyendich.Id = 153;
+            this.subItem_Theodoitruyendich.Name = "subItem_Theodoitruyendich";
+            this.subItem_Theodoitruyendich.Visibility = DevExpress.XtraBars.BarItemVisibility.Never;
+            this.subItem_Theodoitruyendich.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.subItem_Theodoitruyendich_ItemClick);
             // 
             // rib_NghiepVu
             // 
@@ -3610,10 +3631,10 @@
             this.ribbonStatusBar.ItemLinks.Add(this.barStatic_Website, true);
             this.ribbonStatusBar.ItemLinks.Add(this.barStatic_Mobile, true);
             this.ribbonStatusBar.ItemLinks.Add(this.barbt_Sales);
-            this.ribbonStatusBar.Location = new System.Drawing.Point(0, 501);
+            this.ribbonStatusBar.Location = new System.Drawing.Point(0, 506);
             this.ribbonStatusBar.Name = "ribbonStatusBar";
             this.ribbonStatusBar.Ribbon = this.ribbonMenu;
-            this.ribbonStatusBar.Size = new System.Drawing.Size(1257, 36);
+            this.ribbonStatusBar.Size = new System.Drawing.Size(1257, 31);
             // 
             // submenu_xuatchuyenkho
             // 
@@ -3645,10 +3666,10 @@
             this.xTabMain.ClosePageButtonShowMode = DevExpress.XtraTab.ClosePageButtonShowMode.InActiveTabPageHeader;
             this.xTabMain.Dock = System.Windows.Forms.DockStyle.Fill;
             this.xTabMain.HeaderLocation = DevExpress.XtraTab.TabHeaderLocation.Bottom;
-            this.xTabMain.Location = new System.Drawing.Point(0, 95);
+            this.xTabMain.Location = new System.Drawing.Point(0, 82);
             this.xTabMain.Name = "xTabMain";
             this.xTabMain.SelectedTabPage = this.mainPage;
-            this.xTabMain.Size = new System.Drawing.Size(1257, 406);
+            this.xTabMain.Size = new System.Drawing.Size(1257, 424);
             this.xTabMain.TabIndex = 11;
             this.xTabMain.TabPages.AddRange(new DevExpress.XtraTab.XtraTabPage[] {
             this.mainPage});
@@ -3667,16 +3688,16 @@
             this.mainPage.Image = ((System.Drawing.Image)(resources.GetObject("mainPage.Image")));
             this.mainPage.Name = "mainPage";
             this.mainPage.ShowCloseButton = DevExpress.Utils.DefaultBoolean.False;
-            this.mainPage.Size = new System.Drawing.Size(1250, 371);
+            this.mainPage.Size = new System.Drawing.Size(1251, 393);
             this.mainPage.Text = "Trang chủ";
             // 
             // labelControl1
             // 
             this.labelControl1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.labelControl1.Appearance.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.labelControl1.Location = new System.Drawing.Point(878, 343);
+            this.labelControl1.Location = new System.Drawing.Point(878, 361);
             this.labelControl1.Name = "labelControl1";
-            this.labelControl1.Size = new System.Drawing.Size(180, 17);
+            this.labelControl1.Size = new System.Drawing.Size(139, 13);
             this.labelControl1.TabIndex = 29;
             this.labelControl1.Text = "Điện thoại: (0274) 3 799 769";
             // 
@@ -3684,9 +3705,9 @@
             // 
             this.labelControl2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.labelControl2.Appearance.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.labelControl2.Location = new System.Drawing.Point(878, 326);
+            this.labelControl2.Location = new System.Drawing.Point(878, 344);
             this.labelControl2.Name = "labelControl2";
-            this.labelControl2.Size = new System.Drawing.Size(366, 17);
+            this.labelControl2.Size = new System.Drawing.Size(285, 13);
             this.labelControl2.TabIndex = 28;
             this.labelControl2.Text = "Đc: 244/1 KP Thạnh Hòa B, P. An Thạnh, TX. Thuận An, BD";
             // 
@@ -3696,9 +3717,9 @@
             this.labelControl3.Appearance.BackColor = System.Drawing.SystemColors.ControlLightLight;
             this.labelControl3.Appearance.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Bold);
             this.labelControl3.Appearance.ForeColor = System.Drawing.Color.Green;
-            this.labelControl3.Location = new System.Drawing.Point(878, 301);
+            this.labelControl3.Location = new System.Drawing.Point(878, 319);
             this.labelControl3.Name = "labelControl3";
-            this.labelControl3.Size = new System.Drawing.Size(365, 24);
+            this.labelControl3.Size = new System.Drawing.Size(297, 19);
             this.labelControl3.TabIndex = 27;
             this.labelControl3.Text = "PHÒNG KHÁM ĐA KHOA SÓNG THẦN";
             // 
@@ -3708,9 +3729,9 @@
             this.labelControl4.Appearance.BackColor = System.Drawing.SystemColors.ControlLightLight;
             this.labelControl4.Appearance.Font = new System.Drawing.Font("Tahoma", 9F, System.Drawing.FontStyle.Bold);
             this.labelControl4.Appearance.ForeColor = System.Drawing.Color.Red;
-            this.labelControl4.Location = new System.Drawing.Point(878, 283);
+            this.labelControl4.Location = new System.Drawing.Point(878, 301);
             this.labelControl4.Name = "labelControl4";
-            this.labelControl4.Size = new System.Drawing.Size(167, 18);
+            this.labelControl4.Size = new System.Drawing.Size(129, 14);
             this.labelControl4.TabIndex = 26;
             this.labelControl4.Text = "SỞ Y TẾ BÌNH DƯƠNG";
             // 
@@ -3719,7 +3740,7 @@
             this.pictureBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.InitialImage = null;
-            this.pictureBox1.Location = new System.Drawing.Point(733, 283);
+            this.pictureBox1.Location = new System.Drawing.Point(733, 301);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(139, 77);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -3733,7 +3754,7 @@
             this.picBackground.Image = ((System.Drawing.Image)(resources.GetObject("picBackground.Image")));
             this.picBackground.Location = new System.Drawing.Point(0, 0);
             this.picBackground.Name = "picBackground";
-            this.picBackground.Size = new System.Drawing.Size(1250, 371);
+            this.picBackground.Size = new System.Drawing.Size(1251, 393);
             this.picBackground.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picBackground.TabIndex = 0;
             this.picBackground.TabStop = false;
@@ -3764,7 +3785,7 @@
             // frmStartupiHIS_BD_SongThan
             // 
             this.Appearance.Options.UseFont = true;
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 17F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1257, 537);
             this.Controls.Add(this.xTabMain);
@@ -3943,7 +3964,6 @@
         private DevExpress.XtraBars.BarSubItem subItem_BenhNhanInfo;
         private DevExpress.XtraBars.BarButtonItem barSub_UpdateBN;
         private DevExpress.XtraBars.BarButtonItem barSub_ListReceive;
-        private DevExpress.XtraBars.BarButtonItem barItem_DinhMucVTTH;
         private DevExpress.XtraBars.BarButtonItem subItem_HoanTraNCC;
         private DevExpress.XtraBars.BarButtonItem barItem_TKeDaily;
         private DevExpress.XtraBars.BarToggleSwitchItem barToggleSwitchItem1;
@@ -4079,5 +4099,9 @@
         private DevExpress.XtraBars.BarButtonItem barItemVP_PrintGroup;
         private System.Windows.Forms.Timer timer_Working;
         private DevExpress.XtraBars.BarButtonItem barButtonItem9;
+        private DevExpress.XtraBars.BarButtonItem subItem_Theodoitruyendich;
+        private System.ComponentModel.BackgroundWorker backgroundWorker1;
+        private DevExpress.XtraBars.BarButtonItem barButtonItem10;
+        private DevExpress.XtraBars.BarButtonItem barItem_DinhMucVTTH;
     }
 }

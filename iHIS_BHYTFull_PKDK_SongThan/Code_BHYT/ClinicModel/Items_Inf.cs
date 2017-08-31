@@ -41,6 +41,8 @@ namespace ClinicModel
         public decimal SalesPrice_Retail { get; set; }
         public string UnitOfMeasureCode_Medi { get; set; }
         public Boolean Converted_Medi { get; set; }
+        public int Is_Acttach_Service { get; set; }
+        public int Is_Service_Auto { get; set; }
     }
 
     public class Items_Ins
@@ -82,7 +84,19 @@ namespace ClinicModel
         public decimal SalesPrice_Retail { get; set; }
         public string UnitOfMeasureCode_Medi { get; set; }
         public Boolean Converted_Medi { get; set; }
+        public int Is_Acttach_Service { get; set; }
+        public int Is_Service_Auto { get; set; }
     }
+
+
+    public class Items_List
+    {
+        public string ItemCode { get; set; }
+        public string ItemName { get; set; }
+        public int Is_Acttach_Service { get; set; }
+        public int Is_Service_Auto { get; set; }
+    }
+
     public class Items_Ref
     {
         public string ItemCode { get; set; }
@@ -115,5 +129,7 @@ namespace ClinicModel
         public decimal SalesPrice_Retail { get; set; }
         public string UnitOfMeasureCode_Medi { get; set; }
         public Boolean Converted_Medi { get; set; }
+        public int Is_Acttach_Service { get; set; }
+        public int Is_Service_Auto { get; set; }
     }
 }

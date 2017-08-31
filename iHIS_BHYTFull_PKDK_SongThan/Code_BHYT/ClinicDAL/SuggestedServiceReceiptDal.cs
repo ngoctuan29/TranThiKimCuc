@@ -259,6 +259,104 @@ namespace ClinicDAL
             return dt;
         }
 
+
+        public static DataTable Gia(string serviceCode)
+        {
+            
+            ConnectDB cn = new ConnectDB();
+            try
+            {
+                DataTable dt = new DataTable();
+                dt.Columns.Add("RowID", typeof(decimal));
+                dt.Columns.Add("UnitPrice", typeof(decimal));
+                SqlParameter[] param = new SqlParameter[1];
+                param[0] = new SqlParameter("@ServiceCode", SqlDbType.VarChar, 50);
+                param[0].Value = serviceCode;
+                var render = cn.ExecuteReader(CommandType.StoredProcedure, "pro_LayGia", param);
+                while(render.Read())
+                {
+                    DataRow r = dt.NewRow();
+                    r.BeginEdit();
+                    r[0] = render.GetDecimal(0);
+                    r[1] = render.GetDecimal(1);
+                    r.EndEdit();
+                    dt.Rows.Add(r);
+                }
+                return dt;
+                
+              }
+              catch (Exception ex)
+              {
+                return null;
+              }
+           }
+
+
+
+        public static Int32 Lanthuchien(string svitemCode, string severcode)
+        {
+
+            ConnectDB cn = new ConnectDB();
+            int solan = 1;
+            try
+            {
+                //string query = "update SuggestedServiceReceipt set EmployeeCodeDoctor=@EmployeeCodeDoctor where ReceiptID=@ReceiptID";
+                
+                string query = "select Quantity from Attach_Service where ItemCode=@ItemCode and AttachServiceCode=@Servicode ";
+                SqlParameter[] param = new SqlParameter[2];
+                param[0] = new SqlParameter("@ItemCode", SqlDbType.VarChar,50);
+                param[0].Value = svitemCode;
+                param[1] = new SqlParameter("@Servicode ", SqlDbType.VarChar, 50);
+                param[1].Value = severcode;
+                var render = cn.ExecuteReader(CommandType.Text, query, param);
+                while(render.Read())
+                {
+                    solan = render.GetInt32(0);
+                }
+                if (solan > 1)
+                {
+                    return solan;
+                }
+                else
+                    return solan = 1;
+ 
+            }
+            catch
+            {
+                return solan;
+            }
+            //ConnectDB cn = new ConnectDB();
+            //try
+            //{
+            //    DataTable dk = new DataTable();
+            //    dk.Columns.Add("Quantity", typeof(int));
+            //    SqlParameter[] param = new SqlParameter[2];
+
+            //    param[0] = new SqlParameter("@ItemCode", SqlDbType.VarChar, 50);
+            //    param[0].Value = svitemCode;
+            //    param[1] = new SqlParameter("@Servicode", SqlDbType.VarChar, 50);
+            //    param[1].Value = severcode;
+            //    var render = cn.ExecuteReader(CommandType.StoredProcedure, "pro_Lanthuchien", param);
+            //    while (render.Read())
+            //    {
+            //        DataRow r = dk.NewRow();
+            //        r.BeginEdit();
+            //        r[0] = render.GetInt32(0);
+            //        r.EndEdit();
+            //        dk.Rows.Add(r);
+            //    }
+            //    return dk;
+
+            //}
+            //catch (Exception ex)
+            //{
+            //    return null;
+            //}
+
+
+        }
+
+
         public static Int32 Ins(SuggestedServiceReceiptInf info)
         {
             ConnectDB cn = new ConnectDB();

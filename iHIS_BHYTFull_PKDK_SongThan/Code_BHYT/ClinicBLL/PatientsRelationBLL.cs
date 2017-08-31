@@ -31,5 +31,10 @@ namespace ClinicBLL
             return relation.InsPatientsRelation(info);
         }
 
+        public static DataTable DataWaitingDV(DateTime dateStart, DateTime dateEnd, int status, int ipaid)
+        {
+            return PatientReceiveDal.DataWaitingDV(dateStart, dateEnd, status, ipaid);
+        }
+
     }
 }

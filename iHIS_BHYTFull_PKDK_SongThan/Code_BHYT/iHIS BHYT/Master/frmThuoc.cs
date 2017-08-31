@@ -23,6 +23,8 @@ namespace Ps.Clinic.Master
         private string codeTemp = string.Empty; 
         private string sUserid = string.Empty;
         private bool bHide = false;
+        private DataTable dtAttach_Service = new DataTable();
+        private string itemCode =string.Empty;
         public frmThuoc(string _Userid)
         {
             InitializeComponent();
@@ -254,6 +256,8 @@ namespace Ps.Clinic.Master
                         model.SalesPrice_Retail = 0;
                     model.UnitOfMeasureCode_Medi = this.gridView_Item.GetRowCellValue(e.RowHandle, "UnitOfMeasureCode_Medi").ToString();
                     model.Converted_Medi = gridView_Item.GetRowCellValue(e.RowHandle, "Converted_Medi").ToString() == "True" ? true : false;
+                    model.Is_Service_Auto = Convert.ToInt32(this.gridView_Item.GetRowCellValue(e.RowHandle, "Is_Service_Auto").ToString());
+                    model.Is_Acttach_Service = Convert.ToInt32(this.gridView_Item.GetRowCellValue(e.RowHandle, "Is_Acttach_Service").ToString());
                     if (e.RowHandle < 0)
                     {
                         model.udate = model.idate = Utils.DateTimeServer();
@@ -355,6 +359,29 @@ namespace Ps.Clinic.Master
             else
                 this.chkHide.Text = "DM đang dùng";
             this.LoadDataItem();
+        }
+        //private void GetDataServiceItems()
+        //{
+        //    this.dtAttach_Service = Utils.ListToDataTable(ServiceBLL.ListViewAttach_Service(this.itemCode));
+        //    this.gridControl_Item.DataSource = this.dtAttach_Service;
+        //}
+        private void repositoryItemButton_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                string serviceCodeTemp = this.gridView_Item.GetFocusedRowCellValue("ItemCode").ToString();
+                ////ViewPopup.frmVP_VTTHKemTheo frm = new ViewPopup.frmVP_VTTHKemTheo(this.s_userid, serviceCodeTemp, this.dtWorking);
+                ViewPopup.frm_Attach_Service frm = new ViewPopup.frm_Attach_Service(serviceCodeTemp);
+
+                this.itemCode = serviceCodeTemp;
+                //GetDataServiceItems();
+                frm.ShowDialog();
+            }
+            catch (Exception ex)
+            {
+                XtraMessageBox.Show(" Error: " + ex.ToString(), "Bệnh viện điện tử .NET", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
         }
     }
 }

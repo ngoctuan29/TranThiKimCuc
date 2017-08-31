@@ -50,6 +50,11 @@ namespace ClinicBLL
             return MedicinesForPatientsDal.TablePrintMedicinesForPatients(rowid);
         }
 
+        public static Int32 MedicinesForPatients_ReceiveIns(MedicinesForPatients_ReceiveINF info)
+        {
+            return MedicinesForPatientsDal.MedicinesForPatients_ReceiveIns(info);
+        }
+
         public static bool UpdateDone(decimal patientRe, int done)
         {
             return MedicinesForPatientsDal.UpdateDone(patientRe,done);

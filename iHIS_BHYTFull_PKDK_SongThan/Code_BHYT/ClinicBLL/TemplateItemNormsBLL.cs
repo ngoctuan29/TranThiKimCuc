@@ -17,9 +17,13 @@ namespace ClinicBLL
         {
             return TemplateItemNormsDal.ListItemNorms(sCode);
         }
-        public static Int32 Ins(TemplateItemNormsInf info, ref string refsCode)
+        //public static Int32 Ins(TemplateItemNormsInf info, ref string refsCode)
+        //{
+        //    return TemplateItemNormsDal.Ins(info, ref refsCode);
+        //}
+        public static Int32 Ins(TemplateItemNormsInf info)
         {
-            return TemplateItemNormsDal.Ins(info, ref refsCode);
+            return TemplateItemNormsDal.Ins(info);
         }
         public static Int32 Del(string sCode)
         {
@@ -36,6 +40,10 @@ namespace ClinicBLL
         public static Int32 DelDetail(string sCode, decimal dRowID)
         {
             return TemplateItemNormsDal.DelDetail(sCode, dRowID);
+        }
+        public static TemplateItemNormsInf ObjItemNormsForService(string serviceCode)
+        {
+            return TemplateItemNormsDal.ObjItemNormsForService(serviceCode);
         }
     }
 }

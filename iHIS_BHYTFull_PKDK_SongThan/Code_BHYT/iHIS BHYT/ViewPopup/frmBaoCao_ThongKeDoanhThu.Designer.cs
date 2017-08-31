@@ -29,18 +29,18 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmBaoCao_ThongKeDoanhThu));
-            DevExpress.XtraCharts.XYDiagram xyDiagram1 = new DevExpress.XtraCharts.XYDiagram();
-            DevExpress.XtraCharts.Series series1 = new DevExpress.XtraCharts.Series();
-            DevExpress.XtraCharts.SideBySideBarSeriesLabel sideBySideBarSeriesLabel1 = new DevExpress.XtraCharts.SideBySideBarSeriesLabel();
-            DevExpress.XtraCharts.Series series2 = new DevExpress.XtraCharts.Series();
-            DevExpress.XtraCharts.SideBySideBarSeriesLabel sideBySideBarSeriesLabel2 = new DevExpress.XtraCharts.SideBySideBarSeriesLabel();
-            DevExpress.XtraCharts.SideBySideBarSeriesLabel sideBySideBarSeriesLabel3 = new DevExpress.XtraCharts.SideBySideBarSeriesLabel();
-            DevExpress.XtraCharts.ChartTitle chartTitle1 = new DevExpress.XtraCharts.ChartTitle();
-            DevExpress.XtraCharts.XYDiagram xyDiagram2 = new DevExpress.XtraCharts.XYDiagram();
-            DevExpress.XtraCharts.Series series3 = new DevExpress.XtraCharts.Series();
-            DevExpress.XtraCharts.SideBySideStackedBarSeriesView sideBySideStackedBarSeriesView1 = new DevExpress.XtraCharts.SideBySideStackedBarSeriesView();
-            DevExpress.XtraCharts.SideBySideStackedBarSeriesView sideBySideStackedBarSeriesView2 = new DevExpress.XtraCharts.SideBySideStackedBarSeriesView();
-            DevExpress.XtraCharts.ChartTitle chartTitle2 = new DevExpress.XtraCharts.ChartTitle();
+            DevExpress.XtraCharts.XYDiagram xyDiagram3 = new DevExpress.XtraCharts.XYDiagram();
+            DevExpress.XtraCharts.Series series4 = new DevExpress.XtraCharts.Series();
+            DevExpress.XtraCharts.SideBySideBarSeriesLabel sideBySideBarSeriesLabel4 = new DevExpress.XtraCharts.SideBySideBarSeriesLabel();
+            DevExpress.XtraCharts.Series series5 = new DevExpress.XtraCharts.Series();
+            DevExpress.XtraCharts.SideBySideBarSeriesLabel sideBySideBarSeriesLabel5 = new DevExpress.XtraCharts.SideBySideBarSeriesLabel();
+            DevExpress.XtraCharts.SideBySideBarSeriesLabel sideBySideBarSeriesLabel6 = new DevExpress.XtraCharts.SideBySideBarSeriesLabel();
+            DevExpress.XtraCharts.ChartTitle chartTitle3 = new DevExpress.XtraCharts.ChartTitle();
+            DevExpress.XtraCharts.XYDiagram xyDiagram4 = new DevExpress.XtraCharts.XYDiagram();
+            DevExpress.XtraCharts.Series series6 = new DevExpress.XtraCharts.Series();
+            DevExpress.XtraCharts.SideBySideStackedBarSeriesView sideBySideStackedBarSeriesView3 = new DevExpress.XtraCharts.SideBySideStackedBarSeriesView();
+            DevExpress.XtraCharts.SideBySideStackedBarSeriesView sideBySideStackedBarSeriesView4 = new DevExpress.XtraCharts.SideBySideStackedBarSeriesView();
+            DevExpress.XtraCharts.ChartTitle chartTitle4 = new DevExpress.XtraCharts.ChartTitle();
             this.groupControl2 = new DevExpress.XtraEditors.GroupControl();
             this.btnExcel = new DevExpress.XtraEditors.SimpleButton();
             this.btClear = new DevExpress.XtraEditors.SimpleButton();
@@ -60,6 +60,7 @@
             this.col_List_PatientCode = new DevExpress.XtraGrid.Columns.GridColumn();
             this.col_List_TotalRad = new DevExpress.XtraGrid.Columns.GridColumn();
             this.col_List_TotalLab = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.col_List_TotalDisparity = new DevExpress.XtraGrid.Columns.GridColumn();
             this.col_List_TotalDrug = new DevExpress.XtraGrid.Columns.GridColumn();
             this.col_List_TotalAll = new DevExpress.XtraGrid.Columns.GridColumn();
             this.col_List_TotalPTTT = new DevExpress.XtraGrid.Columns.GridColumn();
@@ -80,6 +81,8 @@
             this.col_De_PatientCode = new DevExpress.XtraGrid.Columns.GridColumn();
             this.col_Del_ServiceName = new DevExpress.XtraGrid.Columns.GridColumn();
             this.col_De_PostingTime = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.col_AmountDisparity = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.col_AmountTotal = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gridView1 = new DevExpress.XtraGrid.Views.Grid.GridView();
             this.pageDashboard = new DevExpress.XtraTab.XtraTabPage();
             this.groupForMonth = new DevExpress.XtraEditors.GroupControl();
@@ -95,8 +98,6 @@
             this.cbList = new System.Windows.Forms.RadioButton();
             this.butPrint = new DevExpress.XtraEditors.SimpleButton();
             this.butOK = new DevExpress.XtraEditors.SimpleButton();
-            this.col_AmountDisparity = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.col_AmountTotal = new DevExpress.XtraGrid.Columns.GridColumn();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl2)).BeginInit();
             this.groupControl2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.chkList_Service)).BeginInit();
@@ -113,19 +114,19 @@
             ((System.ComponentModel.ISupportInitialize)(this.groupForMonth)).BeginInit();
             this.groupForMonth.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.chartforMonth)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(xyDiagram1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(series1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(sideBySideBarSeriesLabel1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(series2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(sideBySideBarSeriesLabel2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(sideBySideBarSeriesLabel3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(xyDiagram3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(series4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(sideBySideBarSeriesLabel4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(series5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(sideBySideBarSeriesLabel5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(sideBySideBarSeriesLabel6)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.groupForDate)).BeginInit();
             this.groupForDate.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.chartforDate)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(xyDiagram2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(series3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(sideBySideStackedBarSeriesView1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(sideBySideStackedBarSeriesView2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(xyDiagram4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(series6)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(sideBySideStackedBarSeriesView3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(sideBySideStackedBarSeriesView4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.cbCategory.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.cbGroup.Properties)).BeginInit();
             this.SuspendLayout();
@@ -212,7 +213,7 @@
             // 
             this.dllNgay.BackColor = System.Drawing.Color.Transparent;
             this.dllNgay.Location = new System.Drawing.Point(5, 22);
-            this.dllNgay.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.dllNgay.Margin = new System.Windows.Forms.Padding(4);
             this.dllNgay.Name = "dllNgay";
             this.dllNgay.Size = new System.Drawing.Size(308, 73);
             this.dllNgay.TabIndex = 1044;
@@ -262,6 +263,7 @@
             this.col_List_PatientCode,
             this.col_List_TotalRad,
             this.col_List_TotalLab,
+            this.col_List_TotalDisparity,
             this.col_List_TotalDrug,
             this.col_List_TotalAll,
             this.col_List_TotalPTTT,
@@ -417,6 +419,25 @@
             this.col_List_TotalLab.VisibleIndex = 6;
             this.col_List_TotalLab.Width = 96;
             // 
+            // col_List_TotalDisparity
+            // 
+            this.col_List_TotalDisparity.AppearanceCell.Options.UseTextOptions = true;
+            this.col_List_TotalDisparity.AppearanceCell.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Far;
+            this.col_List_TotalDisparity.AppearanceHeader.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Bold);
+            this.col_List_TotalDisparity.AppearanceHeader.Options.UseFont = true;
+            this.col_List_TotalDisparity.AppearanceHeader.Options.UseTextOptions = true;
+            this.col_List_TotalDisparity.AppearanceHeader.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Far;
+            this.col_List_TotalDisparity.Caption = "Phụ Thu";
+            this.col_List_TotalDisparity.DisplayFormat.FormatString = "#,#";
+            this.col_List_TotalDisparity.DisplayFormat.FormatType = DevExpress.Utils.FormatType.Numeric;
+            this.col_List_TotalDisparity.FieldName = "TotalDisparity";
+            this.col_List_TotalDisparity.Name = "col_List_TotalDisparity";
+            this.col_List_TotalDisparity.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Sum, "TotalDisparity", "{0:#,#}")});
+            this.col_List_TotalDisparity.Visible = true;
+            this.col_List_TotalDisparity.VisibleIndex = 13;
+            this.col_List_TotalDisparity.Width = 88;
+            // 
             // col_List_TotalDrug
             // 
             this.col_List_TotalDrug.AppearanceCell.Options.UseTextOptions = true;
@@ -458,8 +479,8 @@
             this.col_List_TotalAll.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
             new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Sum, "TotalAll", "{0:#,#}")});
             this.col_List_TotalAll.Visible = true;
-            this.col_List_TotalAll.VisibleIndex = 13;
-            this.col_List_TotalAll.Width = 113;
+            this.col_List_TotalAll.VisibleIndex = 14;
+            this.col_List_TotalAll.Width = 98;
             // 
             // col_List_TotalPTTT
             // 
@@ -737,6 +758,36 @@
             this.col_De_PostingTime.Visible = true;
             this.col_De_PostingTime.VisibleIndex = 1;
             // 
+            // col_AmountDisparity
+            // 
+            this.col_AmountDisparity.AppearanceHeader.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Bold);
+            this.col_AmountDisparity.AppearanceHeader.Options.UseFont = true;
+            this.col_AmountDisparity.Caption = "Số tiền phụ thu";
+            this.col_AmountDisparity.DisplayFormat.FormatString = "#,#";
+            this.col_AmountDisparity.DisplayFormat.FormatType = DevExpress.Utils.FormatType.Numeric;
+            this.col_AmountDisparity.FieldName = "AmountDisparity";
+            this.col_AmountDisparity.Name = "col_AmountDisparity";
+            this.col_AmountDisparity.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Sum, "AmountDisparity", "{0:#,#}")});
+            this.col_AmountDisparity.Visible = true;
+            this.col_AmountDisparity.VisibleIndex = 10;
+            this.col_AmountDisparity.Width = 83;
+            // 
+            // col_AmountTotal
+            // 
+            this.col_AmountTotal.AppearanceHeader.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Bold);
+            this.col_AmountTotal.AppearanceHeader.Options.UseFont = true;
+            this.col_AmountTotal.Caption = "Tổng tiền";
+            this.col_AmountTotal.DisplayFormat.FormatString = "#,#";
+            this.col_AmountTotal.DisplayFormat.FormatType = DevExpress.Utils.FormatType.Numeric;
+            this.col_AmountTotal.FieldName = "AmountTotal";
+            this.col_AmountTotal.Name = "col_AmountTotal";
+            this.col_AmountTotal.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
+            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Sum, "AmountTotal", "{0:#,#}")});
+            this.col_AmountTotal.Visible = true;
+            this.col_AmountTotal.VisibleIndex = 11;
+            this.col_AmountTotal.Width = 97;
+            // 
             // gridView1
             // 
             this.gridView1.GridControl = this.gridControl_result;
@@ -761,32 +812,32 @@
             // 
             // chartforMonth
             // 
-            xyDiagram1.AxisX.Label.TextPattern = "{A:G}";
-            xyDiagram1.AxisX.VisibleInPanesSerializable = "-1";
-            xyDiagram1.AxisY.Label.TextPattern = "{V:G}";
-            xyDiagram1.AxisY.VisibleInPanesSerializable = "-1";
-            this.chartforMonth.Diagram = xyDiagram1;
+            xyDiagram3.AxisX.Label.TextPattern = "{A:G}";
+            xyDiagram3.AxisX.VisibleInPanesSerializable = "-1";
+            xyDiagram3.AxisY.Label.TextPattern = "{V:G}";
+            xyDiagram3.AxisY.VisibleInPanesSerializable = "-1";
+            this.chartforMonth.Diagram = xyDiagram3;
             this.chartforMonth.Dock = System.Windows.Forms.DockStyle.Fill;
             this.chartforMonth.Location = new System.Drawing.Point(2, 20);
             this.chartforMonth.Name = "chartforMonth";
-            sideBySideBarSeriesLabel1.LineVisibility = DevExpress.Utils.DefaultBoolean.True;
-            series1.Label = sideBySideBarSeriesLabel1;
-            series1.Name = "Series 1";
-            sideBySideBarSeriesLabel2.LineVisibility = DevExpress.Utils.DefaultBoolean.True;
-            series2.Label = sideBySideBarSeriesLabel2;
-            series2.Name = "Series 2";
+            sideBySideBarSeriesLabel4.LineVisibility = DevExpress.Utils.DefaultBoolean.True;
+            series4.Label = sideBySideBarSeriesLabel4;
+            series4.Name = "Series 1";
+            sideBySideBarSeriesLabel5.LineVisibility = DevExpress.Utils.DefaultBoolean.True;
+            series5.Label = sideBySideBarSeriesLabel5;
+            series5.Name = "Series 2";
             this.chartforMonth.SeriesSerializable = new DevExpress.XtraCharts.Series[] {
-        series1,
-        series2};
-            sideBySideBarSeriesLabel3.LineVisibility = DevExpress.Utils.DefaultBoolean.True;
-            this.chartforMonth.SeriesTemplate.Label = sideBySideBarSeriesLabel3;
+        series4,
+        series5};
+            sideBySideBarSeriesLabel6.LineVisibility = DevExpress.Utils.DefaultBoolean.True;
+            this.chartforMonth.SeriesTemplate.Label = sideBySideBarSeriesLabel6;
             this.chartforMonth.Size = new System.Drawing.Size(430, 243);
             this.chartforMonth.TabIndex = 0;
-            chartTitle1.Font = new System.Drawing.Font("Tahoma", 11F);
-            chartTitle1.Text = "Thống Kê Doanh Thu Tháng";
-            chartTitle1.TextColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
+            chartTitle3.Font = new System.Drawing.Font("Tahoma", 11F);
+            chartTitle3.Text = "Thống Kê Doanh Thu Tháng";
+            chartTitle3.TextColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
             this.chartforMonth.Titles.AddRange(new DevExpress.XtraCharts.ChartTitle[] {
-            chartTitle1});
+            chartTitle3});
             // 
             // groupForDate
             // 
@@ -800,27 +851,27 @@
             // chartforDate
             // 
             this.chartforDate.AppearanceNameSerializable = "Chameleon";
-            xyDiagram2.AxisX.Label.TextPattern = "{A:G}";
-            xyDiagram2.AxisX.VisibleInPanesSerializable = "-1";
-            xyDiagram2.AxisY.Label.TextPattern = "{V:G}";
-            xyDiagram2.AxisY.VisibleInPanesSerializable = "-1";
-            this.chartforDate.Diagram = xyDiagram2;
+            xyDiagram4.AxisX.Label.TextPattern = "{A:G}";
+            xyDiagram4.AxisX.VisibleInPanesSerializable = "-1";
+            xyDiagram4.AxisY.Label.TextPattern = "{V:G}";
+            xyDiagram4.AxisY.VisibleInPanesSerializable = "-1";
+            this.chartforDate.Diagram = xyDiagram4;
             this.chartforDate.Dock = System.Windows.Forms.DockStyle.Fill;
             this.chartforDate.Location = new System.Drawing.Point(2, 20);
             this.chartforDate.Name = "chartforDate";
-            series3.Name = "Ngày";
-            sideBySideStackedBarSeriesView1.StackedGroupSerializable = "Group 1";
-            series3.View = sideBySideStackedBarSeriesView1;
+            series6.Name = "Ngày";
+            sideBySideStackedBarSeriesView3.StackedGroupSerializable = "Group 1";
+            series6.View = sideBySideStackedBarSeriesView3;
             this.chartforDate.SeriesSerializable = new DevExpress.XtraCharts.Series[] {
-        series3};
-            this.chartforDate.SeriesTemplate.View = sideBySideStackedBarSeriesView2;
+        series6};
+            this.chartforDate.SeriesTemplate.View = sideBySideStackedBarSeriesView4;
             this.chartforDate.Size = new System.Drawing.Size(442, 243);
             this.chartforDate.TabIndex = 0;
-            chartTitle2.Font = new System.Drawing.Font("Tahoma", 11F);
-            chartTitle2.Text = "Thống Kê Doanh Thu Ngày";
-            chartTitle2.TextColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
+            chartTitle4.Font = new System.Drawing.Font("Tahoma", 11F);
+            chartTitle4.Text = "Thống Kê Doanh Thu Ngày";
+            chartTitle4.TextColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
             this.chartforDate.Titles.AddRange(new DevExpress.XtraCharts.ChartTitle[] {
-            chartTitle2});
+            chartTitle4});
             // 
             // cbCategory
             // 
@@ -917,36 +968,6 @@
             this.butOK.Text = "Lấy số liệu";
             this.butOK.Click += new System.EventHandler(this.butOK_Click);
             // 
-            // col_AmountDisparity
-            // 
-            this.col_AmountDisparity.AppearanceHeader.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Bold);
-            this.col_AmountDisparity.AppearanceHeader.Options.UseFont = true;
-            this.col_AmountDisparity.Caption = "Số tiền phụ thu";
-            this.col_AmountDisparity.DisplayFormat.FormatString = "#,#";
-            this.col_AmountDisparity.DisplayFormat.FormatType = DevExpress.Utils.FormatType.Numeric;
-            this.col_AmountDisparity.FieldName = "AmountDisparity";
-            this.col_AmountDisparity.Name = "col_AmountDisparity";
-            this.col_AmountDisparity.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
-            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Sum, "AmountDisparity", "{0:#,#}")});
-            this.col_AmountDisparity.Visible = true;
-            this.col_AmountDisparity.VisibleIndex = 10;
-            this.col_AmountDisparity.Width = 83;
-            // 
-            // col_AmountTotal
-            // 
-            this.col_AmountTotal.AppearanceHeader.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Bold);
-            this.col_AmountTotal.AppearanceHeader.Options.UseFont = true;
-            this.col_AmountTotal.Caption = "Tổng tiền";
-            this.col_AmountTotal.DisplayFormat.FormatString = "#,#";
-            this.col_AmountTotal.DisplayFormat.FormatType = DevExpress.Utils.FormatType.Numeric;
-            this.col_AmountTotal.FieldName = "AmountTotal";
-            this.col_AmountTotal.Name = "col_AmountTotal";
-            this.col_AmountTotal.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
-            new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Sum, "AmountTotal", "{0:#,#}")});
-            this.col_AmountTotal.Visible = true;
-            this.col_AmountTotal.VisibleIndex = 11;
-            this.col_AmountTotal.Width = 97;
-            // 
             // frmBaoCao_ThongKeDoanhThu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -977,19 +998,19 @@
             this.pageDashboard.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.groupForMonth)).EndInit();
             this.groupForMonth.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(xyDiagram1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(sideBySideBarSeriesLabel1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(series1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(sideBySideBarSeriesLabel2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(series2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(sideBySideBarSeriesLabel3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(xyDiagram3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(sideBySideBarSeriesLabel4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(series4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(sideBySideBarSeriesLabel5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(series5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(sideBySideBarSeriesLabel6)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.chartforMonth)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.groupForDate)).EndInit();
             this.groupForDate.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(xyDiagram2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(sideBySideStackedBarSeriesView1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(series3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(sideBySideStackedBarSeriesView2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(xyDiagram4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(sideBySideStackedBarSeriesView3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(series6)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(sideBySideStackedBarSeriesView4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.chartforDate)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.cbCategory.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.cbGroup.Properties)).EndInit();
@@ -1055,5 +1076,6 @@
         private DevExpress.XtraGrid.Columns.GridColumn col_De_PostingTime;
         private DevExpress.XtraGrid.Columns.GridColumn col_AmountDisparity;
         private DevExpress.XtraGrid.Columns.GridColumn col_AmountTotal;
+        private DevExpress.XtraGrid.Columns.GridColumn col_List_TotalDisparity;
     }
 }

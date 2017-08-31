@@ -122,7 +122,7 @@
             // 
             this.col_Material_ItemCode.Caption = "Tên thuốc";
             this.col_Material_ItemCode.ColumnEdit = this.repsearchMaterial_Item;
-            this.col_Material_ItemCode.FieldName = "ItemCode";
+            this.col_Material_ItemCode.FieldName = "ItemName";
             this.col_Material_ItemCode.Name = "col_Material_ItemCode";
             this.col_Material_ItemCode.OptionsColumn.AllowSort = DevExpress.Utils.DefaultBoolean.False;
             this.col_Material_ItemCode.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {

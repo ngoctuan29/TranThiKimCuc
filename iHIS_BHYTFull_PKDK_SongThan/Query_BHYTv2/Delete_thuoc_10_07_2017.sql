@@ -33,9 +33,6 @@ begin
 	end
 end
 
-select * from MedicalPrescriptionDetail
-select * from MedicinesForPatientsDetail
-select * from MedicalRecord
 
 
 

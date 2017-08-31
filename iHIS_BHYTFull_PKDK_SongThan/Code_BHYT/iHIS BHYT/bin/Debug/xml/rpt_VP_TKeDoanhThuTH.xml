@@ -7,6 +7,7 @@
           <xs:complexType>
             <xs:sequence>
               <xs:element name="PostingDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="PostingTime" type="xs:dateTime" minOccurs="0" />
               <xs:element name="PatientCode" type="xs:string" minOccurs="0" />
               <xs:element name="PatientName" type="xs:string" minOccurs="0" />
               <xs:element name="PatientBirthyear" type="xs:int" default="0" minOccurs="0" />
@@ -17,6 +18,11 @@
               <xs:element name="TotalPTTT" type="xs:decimal" default="0" minOccurs="0" />
               <xs:element name="TotalTC" type="xs:decimal" default="0" minOccurs="0" />
               <xs:element name="TotalAll" type="xs:decimal" default="0" minOccurs="0" />
+              <xs:element name="TotalVC" type="xs:decimal" default="0" minOccurs="0" />
+              <xs:element name="TotalGIUONG" type="xs:decimal" default="0" minOccurs="0" />
+              <xs:element name="TotalNHAKHOA" type="xs:decimal" default="0" minOccurs="0" />
+              <xs:element name="TotalPHUTHU" type="xs:decimal" default="0" minOccurs="0" />
+              <xs:element name="TotalDisparity" type="xs:decimal" default="0" minOccurs="0" />
             </xs:sequence>
           </xs:complexType>
         </xs:element>

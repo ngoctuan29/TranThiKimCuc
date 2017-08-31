@@ -170,3 +170,19 @@ C:\Users\DEV09\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\Clini
 C:\Users\DEV09\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\bin\Debug\ClinicModel.pdb
 C:\Users\DEV09\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.dll
 C:\Users\DEV09\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.pdb
+C:\Users\DEV05\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\bin\Debug\ClinicModel.dll
+C:\Users\DEV05\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\bin\Debug\ClinicModel.pdb
+C:\Users\DEV05\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.csprojResolveAssemblyReference.cache
+C:\Users\DEV05\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.dll
+C:\Users\DEV05\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.pdb
+C:\Users\DEV09\Desktop\New folder\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\bin\Debug\ClinicModel.dll
+C:\Users\DEV09\Desktop\New folder\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\bin\Debug\ClinicModel.pdb
+C:\Users\DEV09\Desktop\New folder\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.csprojResolveAssemblyReference.cache
+C:\Users\DEV09\Desktop\New folder\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.dll
+C:\Users\DEV09\Desktop\New folder\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.pdb
+C:\Users\DEV09\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.csprojResolveAssemblyReference.cache
+C:\Users\DEV09\Desktop\nguyenvansung\Ngay_24082017\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\bin\Debug\ClinicModel.dll
+C:\Users\DEV09\Desktop\nguyenvansung\Ngay_24082017\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\bin\Debug\ClinicModel.pdb
+C:\Users\DEV09\Desktop\nguyenvansung\Ngay_24082017\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.csprojResolveAssemblyReference.cache
+C:\Users\DEV09\Desktop\nguyenvansung\Ngay_24082017\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.dll
+C:\Users\DEV09\Desktop\nguyenvansung\Ngay_24082017\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\ClinicModel\obj\Debug\ClinicModel.pdb

@@ -29,6 +29,8 @@ namespace Ps.Clinic.Entry
 {
     public partial class frmKhamBenh : DevExpress.XtraBars.Ribbon.RibbonForm
     {
+        private string ItemCodeOld = string.Empty;
+        private string sitemCode = string.Empty;
         private string s_userCode = string.Empty;
         private string patientCode = string.Empty;
         private string sServiceName = string.Empty, sServiceCode = string.Empty;
@@ -64,6 +66,9 @@ namespace Ps.Clinic.Entry
         private bool isTuongTacThuoc = false;
         private List<DiagnosisInf> lstDiagnosis = new List<DiagnosisInf>();
         private string employeeCodeDoctorRpository = string.Empty;
+        private DataTable dtServiceCode = new DataTable();
+        private Int32 Is_Acttach_Service = 0;
+        private Int32 Is_Service_Auto = 0;
         public frmKhamBenh(string smakp, string suserCode, string _DepartmentName, string _employeeCodeDoctor, string _shiftWork, string _employeeCodeDoing, DateTime _dtimePosting)
         {
             InitializeComponent();
@@ -111,6 +116,11 @@ namespace Ps.Clinic.Entry
         {
             try
             {
+                dtServiceCode.Columns.Add("ServiceCode", typeof(string));
+                dtServiceCode.Columns.Add("ServiceName", typeof(string));
+                dtServiceCode.Columns.Add("Check", typeof(int));
+                dtServiceCode.Columns.Add("ItemCode", typeof(string));
+                dtServiceCode.Columns.Add("Soluong", typeof(int));
                 this.butNew.Enabled = this.butSave.Enabled = this.butSoKB.Enabled = this.butEdit.Enabled = this.butEdit.Enabled = this.picTotal.Enabled = false;
                 this.ref_Department.DataSource = DepartmentBLL.ListDepartment(string.Empty);
                 this.ref_Department.ValueMember = "DepartmentCode";
@@ -241,7 +251,7 @@ namespace Ps.Clinic.Entry
             this.butNew.Enabled = this.butEdit.Enabled = this.picTotal.Enabled = this.butPrintResult.Enabled = this.butCancel.Enabled = this.butPrintBHYT.Enabled = this.chkBV01.Properties.ReadOnly = b;
             this.butSave.Enabled = this.butUndo.Enabled = this.picHSBA.Enabled = this.butHandPoint.Enabled = this.picXuatTuTruc.Enabled = this.butSoKB.Enabled = !b;
         }
-        
+
         private decimal ParseQuantity(string qty)
         {
             decimal sl1 = 0;
@@ -263,13 +273,13 @@ namespace Ps.Clinic.Entry
                     }
                     else
                         if (arr.Length > 0)
+                    {
+                        try
                         {
-                            try
-                            {
-                                sl1 = decimal.Parse(arr[0].Trim() == "" ? "0" : arr[0].Trim());
-                            }
-                            catch { }
+                            sl1 = decimal.Parse(arr[0].Trim() == "" ? "0" : arr[0].Trim());
                         }
+                        catch { }
+                    }
                 }
             }
             catch { }
@@ -280,60 +290,213 @@ namespace Ps.Clinic.Entry
         {
             try
             {
+
                 GridView view = sender as GridView;
                 int rowfocus = e.RowHandle;
+
+                //kiem tra truong is_service_auto neu = true thi add danh sach list dv vao 
+                //neu khac true thi thi danh sach dv cho bs chon dv dinh kem theo sau do add cac dv dc chon vao list dv. 
+                
                 if (ISDBNULL2STRING(Convert.ToString(view.GetRowCellValue(rowfocus, this.col_ItemCode)).ToString(), string.Empty) == string.Empty)
                 {
                     e.Valid = false;
                     view.SetColumnError(col_ItemCode, "Nhập tên thuốc! ");
                 }
-                if (ISDBNULL2DECIMAL(Convert.ToDecimal(view.GetRowCellValue(rowfocus, this.col_Quantity)), 1) <= 0)
-                {
-                    e.Valid = false;
-                    view.SetColumnError(col_Quantity, "Số lượng yêu cầu lớn hơn 0 !");
-                }
+               
                 if (ISDBNULL2DECIMAL(Convert.ToDecimal(view.GetRowCellValue(rowfocus, this.col_Unit_Price)), 1) < 0)
                 {
                     e.Valid = false;
                     view.SetColumnError(col_Unit_Price, "Chưa khai đơn giá cho thuốc!");
                 }
-                if (e.Valid && this.isTuongTacThuoc)
+                 
+                if (ISDBNULL2DECIMAL(Convert.ToDecimal(view.GetRowCellValue(rowfocus, this.col_Quantity)), 1) <= 0)
                 {
-                    DataTable tableTemp = new DataTable();
-                    tableTemp = this.dtMedicalRecord.Copy();
-                    DataRow rowNew = tableTemp.NewRow();
-                    rowNew["MedicalRecordCode"] = this.medicalCode;
-                    rowNew["ItemCode"] = view.GetRowCellValue(rowfocus, this.col_ItemCode);
-                    rowNew["DateOfIssues"] = Convert.ToInt32(view.GetRowCellValue(rowfocus, this.col_Date_Of_Issues));
-                    rowNew["Morning"] = view.GetRowCellValue(rowfocus, this.col_Morning).ToString();
-                    rowNew["Noon"] = view.GetRowCellValue(rowfocus, this.col_Noon).ToString();
-                    rowNew["Afternoon"] = view.GetRowCellValue(rowfocus, this.col_Afternoon).ToString();
-                    rowNew["Evening"] = view.GetRowCellValue(rowfocus, this.col_Evening).ToString();
-                    rowNew["Quantity"] = Convert.ToDecimal(view.GetRowCellValue(rowfocus, this.col_Quantity).ToString());
-                    rowNew["Instruction"] = view.GetRowCellValue(rowfocus, this.col_Instruction).ToString();
-                    rowNew["UnitPrice"] = Convert.ToDecimal(view.GetRowCellValue(rowfocus, this.col_Unit_Price).ToString());
-                    rowNew["Amount"] = Convert.ToDecimal(view.GetRowCellValue(rowfocus, this.col_Amount).ToString());
-                    rowNew["Status"] = Convert.ToInt32(view.GetRowCellValue(rowfocus, this.col_Stutus).ToString());
-                    rowNew["UnitOfMeasureCode"] = view.GetRowCellValue(rowfocus, this.col_UnitOfMeasureCode).ToString();
-                    rowNew["RepositoryCode"] = view.GetRowCellValue(rowfocus, this.col_RepositoryCode).ToString();
-                    rowNew["RepositoryName"] = view.GetRowCellValue(rowfocus, this.col_RepositoryName).ToString();
-                    rowNew["ItemName"] = view.GetRowCellValue(rowfocus, this.col_ItemName).ToString();
-                    if (!string.IsNullOrEmpty(view.GetRowCellValue(rowfocus, this.col_RowID).ToString()))
-                        rowNew["RowID"] = Convert.ToDecimal(view.GetRowCellValue(rowfocus, this.col_RowID));
-                    else
-                        rowNew["RowID"] = 0;
-                    rowNew["DoseOf"] = 0;
-                    rowNew["DoseOfPills"] = view.GetRowCellValue(rowfocus, this.col_DoseOfPills).ToString();
-                    rowNew["ObjectCode"] = this.iObjectCode;
-                    rowNew["RateBHYT"] = Convert.ToInt32(view.GetRowCellValue(rowfocus, this.col_RateBHYT));
-                    rowNew["RepositoryGroupCode"] = view.GetRowCellValue(rowfocus, this.col_RepositoryGroupCode).ToString();
-                    rowNew["UsageCode"] = view.GetRowCellValue(rowfocus, this.col_UsageCode).ToString();
-                    rowNew["SODKGP"] = view.GetRowCellValue(rowfocus, this.col_SODKGP).ToString();
-                    tableTemp.Rows.Add(rowNew);
-                    if (tableTemp.Rows.Count > 1)
-                        this.CheckTuongTacThuoc(tableTemp);
+                    e.Valid = false;
+                    view.SetColumnError(col_Quantity, "Số lượng yêu cầu lớn hơn 0 !");
                 }
-            }
+                if(ISDBNULL2DECIMAL(Convert.ToDecimal(view.GetRowCellValue(rowfocus, this.col_Quantity)), 1) > 0 && ISDBNULL2DECIMAL(Convert.ToDecimal(view.GetRowCellValue(rowfocus, this.col_Unit_Price)), 1) > 0 && ISDBNULL2STRING(Convert.ToString(view.GetRowCellValue(rowfocus, this.col_ItemCode)).ToString(), string.Empty) != string.Empty)
+                {
+                    if (ItemCodeOld != null && ItemCodeOld != "")
+                    {
+                        for (int i = 0; i < dtServiceCode.Rows.Count; i++)
+                        {
+                            if (dtServiceCode.Rows[i][3].ToString() == ItemCodeOld)
+                            {
+
+                                DataRow r = dtServiceCode.Rows[i];
+                                dtServiceCode.Rows.Remove(r);
+                                i--;
+                            }
+                        }
+                    }
+
+                    int soluong = Convert.ToInt32(view.GetRowCellValue(rowfocus, this.col_Quantity));
+
+                    if (this.Is_Acttach_Service == 1)
+                    {
+
+                        this.sitemCode = Convert.ToString(view.GetFocusedRowCellValue("ItemCode")).ToString();
+                        DataTable tam = ItemsBLL.ListItemsCode(this.sitemCode);
+
+                        if (tam.Rows.Count > 0 && tam != null)
+                        {
+                            ViewPopup.ChoseService frm = new ChoseService();
+                            frm.dt = tam;
+                            frm.ShowDialog();
+                            for (int i = 0; i < tam.Rows.Count; i++)
+                            {
+
+                                if (dtServiceCode.Rows.Count > 0)
+                                {
+                                    foreach (DataRow dr in dtServiceCode.Rows)
+                                    {
+                                        if (dr["ItemCode"].ToString() == this.sitemCode)
+                                        {
+
+                                            int lan = SuggestedServiceReceiptBLL.Lanthuchien(this.sitemCode, dr["ServiceCode"].ToString());
+
+                                            dr["Soluong"] = soluong * lan;
+                                        }
+                                    }
+                                }
+
+                                int k = 0;
+                                if (int.Parse(tam.Rows[i][2].ToString()) == 1)
+                                {
+                                    DataRow r = dtServiceCode.NewRow();
+                                    r.BeginEdit();
+                                    r[0] = tam.Rows[i][0];
+                                    r[1] = tam.Rows[i][1];
+                                    r[2] = 1;
+                                    r[3] = tam.Rows[i][3];
+                                    r[4] = Convert.ToInt32(tam.Rows[i][4]) * soluong;
+                                    r.EndEdit();
+                                    if (dtServiceCode.Rows.Count > 0)
+                                    {
+                                        for (int j = 0; j < dtServiceCode.Rows.Count; j++)
+                                        {
+                                            if (dtServiceCode.Rows[j][0].ToString() == tam.Rows[i][0].ToString())
+                                            {
+                                                k = 1;
+                                            }
+                                        }
+                                    }
+                                    else
+                                    {
+                                        k = 0;
+
+                                    }
+                                    if (k == 0)
+                                    {
+                                        this.dtServiceCode.Rows.Add(r);
+                                    }
+                                }
+                                
+                            }
+                        }
+
+                        this.sitemCode = Convert.ToString(view.GetFocusedRowCellValue("ItemCode")).ToString();
+                        DataTable tem = ItemsBLL.ListItemslistAuto(this.sitemCode);
+
+
+                        //if (tam.Rows.Count > 1)
+                        //{
+                        //ViewPopup.ChoseService frmauto = new ChoseService();
+                        //frm.ShowDialog();
+
+                        //int k = 0;
+                        for (int i = 0; i < tem.Rows.Count; i++)
+                        {
+
+
+                            if (dtServiceCode.Rows.Count > 0)
+                            {
+                                foreach (DataRow dr in dtServiceCode.Rows)
+                                {
+                                    if (dr["ItemCode"].ToString() == this.sitemCode)
+                                    {
+                                        //int solan = 1;
+                                        int lan = SuggestedServiceReceiptBLL.Lanthuchien(this.sitemCode,dr["ServiceCode"].ToString());
+
+                                        dr["Soluong"] = soluong * lan;
+                                    }
+                                }
+                            }
+                            int k = 0;
+                            if (int.Parse(tem.Rows[i][2].ToString()) == 0)
+                            {
+                                DataRow r = dtServiceCode.NewRow();
+                                r.BeginEdit();
+                                r[0] = tem.Rows[i][0];
+                                r[1] = tem.Rows[i][1];
+                                r[2] = 1;
+                                r[3] = tem.Rows[i][3];
+                                r[4] = Convert.ToInt32(tem.Rows[i][5]) * soluong;
+                                r.EndEdit();
+                                if(dtServiceCode.Rows.Count>0)
+                                {
+                                    for (int j = 0; j < dtServiceCode.Rows.Count; j++)
+                                    {
+                                        if (dtServiceCode.Rows[j][0].ToString() == tem.Rows[i][0].ToString())
+                                        {
+                                            k = 1;
+                                        }
+                                    }
+                                }
+                                else
+                                {
+                                    k = 0;
+                                  
+                                }
+                                if (k == 0)
+                                {
+                                    this.dtServiceCode.Rows.Add(r);
+                                }
+                            }
+                        }
+                        
+                    }
+                }
+                
+                    if (e.Valid && this.isTuongTacThuoc)
+                    {
+                        DataTable tableTemp = new DataTable();
+                        tableTemp = this.dtMedicalRecord.Copy();
+                        DataRow rowNew = tableTemp.NewRow();
+                        rowNew["MedicalRecordCode"] = this.medicalCode;
+                        rowNew["ItemCode"] = view.GetRowCellValue(rowfocus, this.col_ItemCode);
+                        rowNew["DateOfIssues"] = Convert.ToInt32(view.GetRowCellValue(rowfocus, this.col_Date_Of_Issues));
+                        rowNew["Morning"] = view.GetRowCellValue(rowfocus, this.col_Morning).ToString();
+                        rowNew["Noon"] = view.GetRowCellValue(rowfocus, this.col_Noon).ToString();
+                        rowNew["Afternoon"] = view.GetRowCellValue(rowfocus, this.col_Afternoon).ToString();
+                        rowNew["Evening"] = view.GetRowCellValue(rowfocus, this.col_Evening).ToString();
+                        rowNew["Quantity"] = Convert.ToDecimal(view.GetRowCellValue(rowfocus, this.col_Quantity).ToString());
+                        rowNew["Instruction"] = view.GetRowCellValue(rowfocus, this.col_Instruction).ToString();
+                        rowNew["UnitPrice"] = Convert.ToDecimal(view.GetRowCellValue(rowfocus, this.col_Unit_Price).ToString());
+                        rowNew["Amount"] = Convert.ToDecimal(view.GetRowCellValue(rowfocus, this.col_Amount).ToString());
+                        rowNew["Status"] = Convert.ToInt32(view.GetRowCellValue(rowfocus, this.col_Stutus).ToString());
+                        rowNew["UnitOfMeasureCode"] = view.GetRowCellValue(rowfocus, this.col_UnitOfMeasureCode).ToString();
+                        rowNew["RepositoryCode"] = view.GetRowCellValue(rowfocus, this.col_RepositoryCode).ToString();
+                        rowNew["RepositoryName"] = view.GetRowCellValue(rowfocus, this.col_RepositoryName).ToString();
+                        rowNew["ItemName"] = view.GetRowCellValue(rowfocus, this.col_ItemName).ToString();
+                        if (!string.IsNullOrEmpty(view.GetRowCellValue(rowfocus, this.col_RowID).ToString()))
+                            rowNew["RowID"] = Convert.ToDecimal(view.GetRowCellValue(rowfocus, this.col_RowID));
+                        else
+                            rowNew["RowID"] = 0;
+                        rowNew["DoseOf"] = 0;
+                        rowNew["DoseOfPills"] = view.GetRowCellValue(rowfocus, this.col_DoseOfPills).ToString();
+                        rowNew["ObjectCode"] = this.iObjectCode;
+                        rowNew["RateBHYT"] = Convert.ToInt32(view.GetRowCellValue(rowfocus, this.col_RateBHYT));
+                        rowNew["RepositoryGroupCode"] = view.GetRowCellValue(rowfocus, this.col_RepositoryGroupCode).ToString();
+                        rowNew["UsageCode"] = view.GetRowCellValue(rowfocus, this.col_UsageCode).ToString();
+                        rowNew["SODKGP"] = view.GetRowCellValue(rowfocus, this.col_SODKGP).ToString();
+                        rowNew["Is_Service_Auto"] = view.GetRowCellValue(rowfocus, this.col_Is_Service_Auto).ToString();
+                        tableTemp.Rows.Add(rowNew);
+
+                        if (tableTemp.Rows.Count > 1)
+                            this.CheckTuongTacThuoc(tableTemp);
+                    }
+                }
             catch (Exception ex)
             {
                 XtraMessageBox.Show("Error: " + ex.Message, "Bệnh viện điện tử .NET", MessageBoxButtons.OK, MessageBoxIcon.Warning);
@@ -353,7 +516,7 @@ namespace Ps.Clinic.Entry
                 tr = Convert.ToString(view.GetFocusedRowCellValue("Noon"));
                 c = Convert.ToString(view.GetFocusedRowCellValue("Afternoon"));
                 t = Convert.ToString(view.GetFocusedRowCellValue("Evening"));
-                
+
                 if (view.FocusedColumn.FieldName == "Morning")
                 {
                     if (view.GetFocusedRowCellValue(col_ItemCode) != null)
@@ -526,10 +689,14 @@ namespace Ps.Clinic.Entry
                         }
                     }
                 }
+                if(view.FocusedColumn.FieldName == "ItemCode")
+                {
+                    
+                }
             }
             catch { }
         }
-        
+
         private void gridView_Prescription_KeyPress(object sender, KeyPressEventArgs e)
         {
             try
@@ -573,7 +740,7 @@ namespace Ps.Clinic.Entry
             }
             catch { }
         }
-        
+
         private void gridView_Prescription_InitNewRow(object sender, InitNewRowEventArgs e)
         {
             try
@@ -592,13 +759,13 @@ namespace Ps.Clinic.Entry
                     return;
                 }
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 XtraMessageBox.Show("Error_gridView_Prescription_InitNewRow : " + ex.Message, "Bệnh viện điện tử .NET", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
         }
-        
+
         private void txtToacu_EditValueChanged(object sender, EventArgs e)
         {
             try
@@ -668,13 +835,13 @@ namespace Ps.Clinic.Entry
             if (e.KeyCode == Keys.Enter || e.KeyCode == Keys.Tab)
                 this.memoTreatments.Focus();
         }
-        
+
         private void txtLoidan_KeyDown(object sender, KeyEventArgs e)
         {
             if (e.KeyCode == Keys.Enter || e.KeyCode == Keys.Tab)
             {
                 SendKeys.Send("{Tab}{F4}");
-            } 
+            }
         }
 
         private void txtNgayTaiKham_KeyDown(object sender, KeyEventArgs e)
@@ -743,24 +910,51 @@ namespace Ps.Clinic.Entry
 
         private void gridView_Prescription_KeyDown(object sender, KeyEventArgs e)
         {
+            GridView view = sender as GridView;
             try
             {
                 if (e.KeyCode == Keys.Delete)
                 {
                     if (XtraMessageBox.Show(" Bạn có muốn xóa thuốc này hay không? ", "Bệnh viện điện tử .NET", MessageBoxButtons.YesNo, MessageBoxIcon.Warning) != DialogResult.No)
-                    {
+                     {
                         string status = ISDBNULL2STRING(this.gridView_Prescription.GetRowCellValue(this.gridView_Prescription.FocusedRowHandle, this.col_Stutus).ToString(), string.Empty);
                         // string itemCodeTemp = this.gridView_Prescription.GetRowCellValue(this.gridView_Prescription.FocusedRowHandle, this.col_ItemCode).ToString();
-                        int rowID = 0;
-                        rowID = Convert.ToInt32(this.gridView_Prescription.GetRowCellValue(this.gridView_Prescription.FocusedRowHandle, this.col_RowID) ?? "0");
+                        decimal rowID = 0;
+                        string tesst = this.gridView_Prescription.GetRowCellValue(this.gridView_Prescription.FocusedRowHandle, this.col_RowID).ToString();
+                        if ((this.gridView_Prescription.GetRowCellValue(this.gridView_Prescription.FocusedRowHandle, this.col_RowID) != null) && (this.gridView_Prescription.GetRowCellValue(this.gridView_Prescription.FocusedRowHandle, this.col_RowID).ToString() != ""))
+                        {
+                            rowID = Convert.ToDecimal(this.gridView_Prescription.GetRowCellValue(this.gridView_Prescription.FocusedRowHandle, this.col_RowID) ?? "0");
+                        }
+                        
                         if (status != "1")
                         {
                             Int32 rowIndex = this.gridView_Prescription.GetVisibleIndex(this.gridView_Prescription.FocusedRowHandle);
                             //   MedicalRecord_BLL.DelMedicalRecordDetailForItemCode(this.medicalCode, itemCodeTemp);
-                            MedicalRecord_BLL.DelMedicalRecordDetailForRowID(this.medicalCode, rowID);
-                            this.gridView_Prescription.DeleteSelectedRows();
-                          // this.dtMedicalRecord.DefaultView.Delete(rowIndex);
-                            this.dtMedicalRecord.AcceptChanges();
+                            
+                            int result = MedicalRecord_BLL.DelMedicalRecordDetailForRowID(this.medicalCode, rowID);
+                            if (result > 0)
+                            {
+                                this.gridView_Prescription.DeleteSelectedRows();
+                                string itemcode = Convert.ToString(view.GetFocusedRowCellValue("ItemCode")).ToString();
+                                if (itemcode != null && itemcode != "")
+                                {
+                                    for (int i = 0; i < dtServiceCode.Rows.Count; i++)
+                                    {
+                                        if (dtServiceCode.Rows[i][3].ToString() == itemcode)
+                                        {
+                                            DataRow r = dtServiceCode.Rows[i];
+                                            dtServiceCode.Rows.Remove(r);
+                                            i--;
+                                        }
+                                    }
+                                }
+                                this.dtMedicalRecord.AcceptChanges();
+                            }
+                            else
+                            {
+                                XtraMessageBox.Show("Xoá không thành công!", "Bệnh viện điện tử .NET", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                                return;
+                            }
                         }
                         else
                         {
@@ -770,9 +964,9 @@ namespace Ps.Clinic.Entry
                     }
                 }
             }
-            catch
+            catch (Exception ex)
             {
-                XtraMessageBox.Show("Lỗi phát sinh khi xóa thuốc", "Bệnh viện điện tử .NET", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                XtraMessageBox.Show("Error: " + ex.Message, "Bệnh viện điện tử .NET", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
         }
@@ -858,7 +1052,7 @@ namespace Ps.Clinic.Entry
                     //if (this.lkupICD10.EditValue != null)
                     //    modelRecord.DiagnosisCode = Convert.ToDecimal(this.lkupICD10.EditValue.ToString());
                     //else
-                        modelRecord.DiagnosisCode = 0;
+                    modelRecord.DiagnosisCode = 0;
                     modelRecord.DescriptionNode = this.txtGhichu.Text;
                     modelRecord.PostingDate = Convert.ToDateTime(this.dtWorking.ToString("dd/MM/yyyy") + " " + Utils.TimeServer());
                     if (!string.IsNullOrEmpty(txtNgayTaiKham.Text))
@@ -1083,15 +1277,15 @@ namespace Ps.Clinic.Entry
                     }
                     return resultSave;
                 }
-                
+
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 sMsg = ex.Message + "! \t\n Đề nghị xem lại thông tin khám bệnh.";
                 return false;
             }
         }
-        
+
         private void PrintPrescription(int objectCode, string repositoryGroup)
         {
             try
@@ -1158,7 +1352,7 @@ namespace Ps.Clinic.Entry
                 XtraMessageBox.Show("Error: " + ex.Message, "Bệnh viện điện tử .NET", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
         }
-        
+
         private void butEdit_Click(object sender, EventArgs e)
         {
             try
@@ -1252,7 +1446,7 @@ namespace Ps.Clinic.Entry
 
         private void butSave_Click(object sender, EventArgs e)
         {
-           try
+            try
             {
                 string sError = string.Empty;
                 //if (this.txtTrieuChung.EditValue == null || this.txtTrieuChung.Text.Trim().ToString() == "")
@@ -1302,8 +1496,75 @@ namespace Ps.Clinic.Entry
                     repositoryGroup = "4";
                 this.dtMedicalRecord = MedicalRecord_BLL.DTMedicalRecord(this.medicalCode, this.iObjectCode, this.s_makp, repositoryGroup);
                 this.gridControl_Prescription.DataSource = this.dtMedicalRecord;
+                //lưu ds dv theo thuốc vào bảng SuggestedServiceReceipt;
+
+
+                if (dtServiceCode != null && dtServiceCode.Rows.Count > 0)
+                {
+                    foreach (DataRow dr in dtServiceCode.Rows)
+                    {
+                        
+                        SuggestedServiceReceiptInf inf = new SuggestedServiceReceiptInf();
+                       
+                        inf.ReceiptID = 0;
+                        inf.DepartmentCode = this.s_makp;
+                        inf.ServiceCode = dr["ServiceCode"].ToString();
+                        DataTable dt = SuggestedServiceReceiptBLL.Gia(dr["ServiceCode"].ToString());
+                        if(dt!=null)
+                        {
+                            if (this.iObjectCode == 1)
+                            {
+                                inf.ServicePrice = Convert.ToDecimal(dt.Rows[0][1].ToString());
+                                inf.RowIDPrice = Convert.ToDecimal(dt.Rows[0][0].ToString());
+                            }
+                            else
+                            {
+                                this.iObjectCode = 5;
+                                inf.ServicePrice = 0;
+                                inf.RowIDPrice = 0;
+                            }
+                            
+                            
+                        }
+                        else
+                        {
+                            inf.ServicePrice =0;
+                            inf.RowIDPrice = 0;
+                        }
+                        inf.DisparityPrice = 0;
+                        inf.PatientCode = this.patientCode;
+                        inf.Status = 0;
+                        inf.Paid = 0;
+                        inf.ServicePackageCode = string.Empty;
+                        inf.EmployeeCode = this.s_userCode;
+                        inf.Note = string.Empty;
+                        inf.RefID = this.patientReceiveID;
+                        inf.ObjectCode = this.iObjectCode == 1 ? 2 : this.iObjectCode;
+                        inf.PatientType = 1;
+                        inf.WorkDate = Convert.ToDateTime(this.dtWorking.ToString("dd/MM/yyyy") + " " + Utils.TimeServer());
+                        inf.ReferenceCode = "";
+                        inf.DepartmentCodeOder = "KP0000";
+                        inf.ShiftWork = this.shiftWork;
+                        inf.Quantity = Convert.ToInt32(dr[4]);
+                        inf.Content = "";
+                        inf.Check_ = 0;
+                        inf.EmployeeCodeDoctor = this.employeeCodeDoctor;
+                        SuggestedServiceReceiptBLL.Ins(inf);
+                        //if (this.lkupEmployee.EditValue != null)
+                        //    inf.EmployeeCodeDoctor = this.lkupEmployee.EditValue.ToString();
+                        //else
+                        //    inf.EmployeeCodeDoctor = this.sUserid;
+                        //if (SuggestedServiceReceiptBLL.Ins(inf) >= 1)
+                        //    {
+                        //        iresult += 1;
+                        //    }
+
+                    }
+
+                }
             }
-            catch(Exception ex) {
+            catch (Exception ex)
+            {
                 XtraMessageBox.Show("Error: " + ex.Message, "Bệnh viện điện tử .NET", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
@@ -1373,11 +1634,17 @@ namespace Ps.Clinic.Entry
                 this.dtMedicalRecord = MedicalRecord_BLL.DTMedicalRecord(this.medicalCode, this.iObjectCode, this.s_makp, repositoryGroup);
                 this.gridControl_Prescription.DataSource = this.dtMedicalRecord;
             }
-            catch (Exception){ return; }
+            catch (Exception) { return; }
         }
 
         private void butContinues_Click(object sender, EventArgs e)
         {
+            dtServiceCode = new DataTable();
+            dtServiceCode.Columns.Add("ServiceCode", typeof(string));
+            dtServiceCode.Columns.Add("ServiceName", typeof(string));
+            dtServiceCode.Columns.Add("Check", typeof(int));
+            dtServiceCode.Columns.Add("ItemCode", typeof(string));
+            dtServiceCode.Columns.Add("Soluong", typeof(string));
             this.grWaitingList.Visible = true;
             this.grWaitingList.Dock = DockStyle.Fill;
             this.panelControl3.Visible = false;
@@ -1387,9 +1654,9 @@ namespace Ps.Clinic.Entry
             this.dtICD10KT.Clear();
             if (this.rdWaiting.Checked)
                 this.LoadListPatientWaitingCompleted(0);
-            else if(this.rdCompleted.Checked)
+            else if (this.rdCompleted.Checked)
                 this.LoadListPatientWaitingCompleted(1);
-            else if(this.rdClose.Checked)
+            else if (this.rdClose.Checked)
                 this.LoadListPatientWaitingCompleted(2);
             Bitmap b = new Bitmap("NoImgPatient.jpeg");
             this.picPatient.Image = (Bitmap)b;
@@ -1453,7 +1720,7 @@ namespace Ps.Clinic.Entry
                 return;
             }
         }
-        
+
         private void butReload_Click(object sender, EventArgs e)
         {
             if (this.rdWaiting.Checked == true)
@@ -1719,7 +1986,7 @@ namespace Ps.Clinic.Entry
                 RateBHYTInf model = RateBHYTBLL.objectRateBHYT(sMaBHYT);
                 if (model != null || model.RateCard != string.Empty)
                 {
-                    if (this.chkTraiTuyen.Checked )
+                    if (this.chkTraiTuyen.Checked)
                     {
                         if (this.chkGiayChuyenVien.Checked || this.chkCapCuu.Checked)
                             this.lbTileBHYT.Text = "BHYT " + model.RateTrue + "%";
@@ -1744,7 +2011,7 @@ namespace Ps.Clinic.Entry
                     lbHoten01.Text = objPatient.PatientName;
                     lbNamsinh01.Text = objPatient.PatientBirthday.ToString().Substring(0, 10); //objPatient.PatientBirthyear.ToString();
                     lbTuoi01.Text = objPatient.PatientAge.ToString();
-                    if(objPatient.PatientAge <= 3)
+                    if (objPatient.PatientAge <= 3)
                         lbThang01.Text = objPatient.PatientMonth;
                     else
                     {
@@ -1805,7 +2072,8 @@ namespace Ps.Clinic.Entry
                     gridControl_ICD10.DataSource = this.dtICD10KT;
                 }
             }
-            catch (Exception ex){
+            catch (Exception ex)
+            {
                 XtraMessageBox.Show(" Error: " + ex.Message, "iHIS Bệnh Viện Điện Tử", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
         }
@@ -1848,7 +2116,7 @@ namespace Ps.Clinic.Entry
                 e.Handled = true;
             }
         }
-       
+
         private void ProcessBMI()
         {
             try
@@ -1933,7 +2201,7 @@ namespace Ps.Clinic.Entry
             chkGiayChuyenVien.Visible = b;
             lbNoiDKKCB.Visible = b;
             lbDenngay.Visible = b;
-            
+
         }
 
         private void txtCao_KeyDown(object sender, KeyEventArgs e)
@@ -1941,7 +2209,7 @@ namespace Ps.Clinic.Entry
             if (e.KeyCode == Keys.Enter || e.KeyCode == Keys.Tab)
                 this.txtNang.Focus();
         }
-                        
+
         private void txtChandoankemtheo_KeyDown(object sender, KeyEventArgs e)
         {
             if (e.KeyCode == Keys.Enter || e.KeyCode == Keys.Tab)
@@ -1984,7 +2252,7 @@ namespace Ps.Clinic.Entry
                 this.txtNhietdo.Focus();
             //SendKeys.Send("{Tab}{F4}");
         }
-        
+
         private void txtNhietdo_Validated(object sender, EventArgs e)
         {
             if (this.txtNhietdo.Text.Trim() != string.Empty)
@@ -1997,7 +2265,7 @@ namespace Ps.Clinic.Entry
                 }
             }
         }
-        
+
         private void Total_Treatment_Costs()
         {
             try
@@ -2068,7 +2336,7 @@ namespace Ps.Clinic.Entry
                     {
                         servicePrice = Convert.ToDecimal(dr["ServicePrice"].ToString());
                         quantity = Convert.ToDecimal(dr["Quantity"].ToString());
-                        dr["PatientPay"] = servicePrice* quantity;
+                        dr["PatientPay"] = servicePrice * quantity;
                         dr["BHYTPay"] = 0;
                     }
                 }
@@ -2531,7 +2799,7 @@ namespace Ps.Clinic.Entry
             frmChuyenVien frm = new frmChuyenVien(this.s_userCode, this.patientCode, this.patientReceiveID, this.s_makp, this.dtWorking, this.txtTrieuChung.Text.TrimEnd(), this.medicalCode, this.cboxDiagnosis.Text.Trim(), this.employeeCodeDoctor);
             frm.ShowDialog();
         }
-        
+
         private void txtLoidan_Validated(object sender, EventArgs e)
         {
             this.txtLoidan.Text = Utils.ToUpperCharacterFisrtString(this.txtLoidan.Text);
@@ -2571,13 +2839,13 @@ namespace Ps.Clinic.Entry
         {
             this.txtTiensubenh.Text = Utils.ToUpperCharacterFisrtString(this.txtTiensubenh.Text);
         }
-        
+
         private void cboxDiagnosis_KeyDown(object sender, KeyEventArgs e)
         {
             if (e.KeyCode == Keys.Enter || e.KeyCode == Keys.Tab)
                 this.txtMaICD10.Focus();
         }
-        
+
         private void gridView_WaitingList_Click(object sender, EventArgs e)
         {
             /*
@@ -2613,6 +2881,8 @@ namespace Ps.Clinic.Entry
                 string SODKGP = searchEdit.Properties.View.GetFocusedRowCellValue("SODKGP").ToString();
                 string unitOfMeasureCode_MediTemp = searchEdit.Properties.View.GetFocusedRowCellValue("UnitOfMeasureCode_Medi").ToString();
                 bool converted_MediTemp = Convert.ToBoolean(searchEdit.Properties.View.GetFocusedRowCellValue("Converted_Medi"));
+                this.Is_Acttach_Service = Convert.ToInt32(searchEdit.Properties.View.GetFocusedRowCellValue("Is_Acttach_Service"));
+                this.Is_Service_Auto = Convert.ToInt32(searchEdit.Properties.View.GetFocusedRowCellValue("Is_Service_Auto"));
                 DataRow r = Utils.GetPriceRowbyCode(this.dtMedicalRecord, "ItemCode='" + itemCodeTemp + "' and RepositoryCode='" + repositoryCodeTemp + "' and Status=0");
                 if (this.bCheckActice)
                 {
@@ -2683,7 +2953,7 @@ namespace Ps.Clinic.Entry
                     }
                     else
                     {
-                        this.gridView_Prescription.SetFocusedRowCellValue(this.col_UnitOfMeasureCode, unitOfMeasureCodeTemp);                        
+                        this.gridView_Prescription.SetFocusedRowCellValue(this.col_UnitOfMeasureCode, unitOfMeasureCodeTemp);
                         this.gridView_Prescription.SetFocusedRowCellValue(this.col_RepositoryCode, repositoryCodeTemp);
                         this.gridView_Prescription.SetFocusedRowCellValue(this.col_RepositoryName, repositoryNameTemp);
                         this.gridView_Prescription.SetFocusedRowCellValue(this.col_ItemName, itemNameTemp);
@@ -2927,17 +3197,17 @@ namespace Ps.Clinic.Entry
             {
                 str = DateTime.Now.Date.ToString("yyyyMMddhhmmss");
             }
-                return str;
+            return str;
         }
         private ThongTinThuocModel.patient Get_DataPatient() //lấy dữ liệu bệnh nhân
         {
             ThongTinThuocModel.patient data = new ThongTinThuocModel.patient();
             //Lấy thông tin bệnh nhân
-            data.height = string.IsNullOrEmpty(this.txtCao.Text)?0:int.Parse(this.txtCao.Text);
+            data.height = string.IsNullOrEmpty(this.txtCao.Text) ? 0 : int.Parse(this.txtCao.Text);
             data.name = this.lbHoten01.Text;
             data.sex = this.lbGioitinh01.Text == "Nam" ? "M" : "F";
             data.weight = string.IsNullOrEmpty(this.txtNang.Text) ? 0 : int.Parse(this.txtNang.Text);
-            data.age = string.IsNullOrEmpty(this.lbTuoi01.Text)?0:int.Parse(this.lbTuoi01.Text);
+            data.age = string.IsNullOrEmpty(this.lbTuoi01.Text) ? 0 : int.Parse(this.lbTuoi01.Text);
             data.code = this.lbMabn01.Text;
             data.dob = this.lbNamsinh01.Text;
             data.base_diseases = this.Get_BaseDiseases();
@@ -2945,14 +3215,14 @@ namespace Ps.Clinic.Entry
             data.allergic_drugs = this.Get_AllergicDrugs();
             data.allergic_uniis = this.Get_AllergicUnii();
             data.pregnant = this.chkTT_PNMangThai.Checked ? 1 : 0;
-            data.pulse = string.IsNullOrEmpty(this.txtHuyetap.Text)?0:int.Parse(this.txtHuyetap.Text);
+            data.pulse = string.IsNullOrEmpty(this.txtHuyetap.Text) ? 0 : int.Parse(this.txtHuyetap.Text);
             data.diastolic = string.IsNullOrEmpty(this.txtHuyetap.Text) ? 0 : int.Parse(this.txtHuyetap.Text);
             data.systolic = string.IsNullOrEmpty(this.txtHuyetap1.Text) ? 0 : int.Parse(this.txtHuyetap1.Text);
             data.smoking = this.chkTT_HutThuoc.Checked ? true : false;
             data.alcohol = this.chkTT_ChatCoCon.Checked ? true : false;
             return data;
         }
-        
+
         private void txtChandoankemtheo_Popup(object sender, EventArgs e)
         {
             PopupSearchLookUpEditForm f = (sender as DevExpress.Utils.Win.IPopupControl).PopupWindow as PopupSearchLookUpEditForm;
@@ -3061,7 +3331,7 @@ namespace Ps.Clinic.Entry
             }
             return lst;
         }
-        
+
         private string Get_DoctorName()
         {
             string doctorName = string.Empty;
@@ -3076,12 +3346,12 @@ namespace Ps.Clinic.Entry
         private string Get_OwnerID() // lấy Owner ID bên Thongtinthuoc.com cung cấp
         {
             string ID = "VNM-BVPK-HCM-00001"; // set cứng để test thôi, lúc chạy thì nhờ bên thongtinthuoc.com cung cấp
-                                                // mỗi OwnerID sẽ đi kèm với 1 token -> sửa lại thư viện DrugCheck
+                                              // mỗi OwnerID sẽ đi kèm với 1 token -> sửa lại thư viện DrugCheck
             return ID;
         }
-        
+
         private string msg = string.Empty;
-        
+
         private string strAlcohol = @"- Cảnh báo mức độ {0} :Thuốc {1} khi người bệnh sử dụng với chất có cồn. {2} ";
         private string strcontraindications = @"- Thuốc {0} chống chỉ định {1}{2}";
         private string strdrug_interactions = @"- Tương tác thuốc giữa {0} và {1} ở mức độ{2}. {3} ";
@@ -3102,6 +3372,21 @@ namespace Ps.Clinic.Entry
             int statusTemp = (view.GetRowCellValue(view.FocusedRowHandle, "Status") == null || view.GetRowCellValue(view.FocusedRowHandle, "Status").ToString() == string.Empty || view.GetRowCellValue(view.FocusedRowHandle, "Status").ToString() == "0") ? 0 : 1;
             if (statusTemp.Equals(1))
                 e.Cancel = true;
+        }
+
+        private void repSearchBHYT_ItemCode_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                SearchLookUpEdit searchEdit = sender as SearchLookUpEdit;
+                this.ItemCodeOld = searchEdit.Properties.View.GetFocusedRowCellValue("ItemCode").ToString();
+            }
+            catch
+            {
+
+            }
+
+           
         }
 
         private void txtMaICD10_Validated(object sender, EventArgs e)
@@ -3133,7 +3418,7 @@ namespace Ps.Clinic.Entry
             dataDrugCheck.patient = this.Get_DataPatient();
             try
             {
-                ThongTinThuocModel.ResultDrugCheck result =ThongTinThuocFunctions.GetDrugCheck(dataDrugCheck);
+                ThongTinThuocModel.ResultDrugCheck result = ThongTinThuocFunctions.GetDrugCheck(dataDrugCheck);
 
                 if (result != null)
                 {
@@ -3215,7 +3500,7 @@ namespace Ps.Clinic.Entry
                     }
                 }
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 MessageBox.Show("Error: " + ex.Message, "iHis-Bệnh viện điện tử.", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;

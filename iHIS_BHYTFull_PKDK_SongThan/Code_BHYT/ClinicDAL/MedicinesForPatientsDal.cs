@@ -43,6 +43,49 @@ namespace ClinicDAL
             return list;
         }
 
+
+        public static Int32 MedicinesForPatients_ReceiveIns(MedicinesForPatients_ReceiveINF info)
+        {
+            ConnectDB cn = new ConnectDB();
+            try
+            {
+                SqlParameter[] param = new SqlParameter[12];
+                param[0] = new SqlParameter("@PatientCode", SqlDbType.VarChar);
+                param[0].Value = info.PatientCode;
+                param[1] = new SqlParameter("@PatientReceiveID", SqlDbType.Decimal);
+                param[1].Value = info.PatientReceiveID;
+                param[2] = new SqlParameter("@ReferenceCode", SqlDbType.VarChar);
+                param[2].Value = info.ReferenceCode;
+                param[3] = new SqlParameter("@IDate", SqlDbType.DateTime);
+                param[3].Value = info.IDate;
+                param[4] = new SqlParameter("@EmployeeCode", SqlDbType.VarChar);
+                param[4].Value = info.EmployeeCode;
+                param[5] = new SqlParameter("@ItemCode", SqlDbType.VarChar);
+                param[5].Value = info.ItemCode;
+                param[6] = new SqlParameter("@RepositoryCode", SqlDbType.VarChar);
+                param[6].Value = info.RepositoryCode;
+                param[7] = new SqlParameter("@Quantity", SqlDbType.Decimal);
+                param[7].Value = info.Quantity;
+                param[8] = new SqlParameter("@Quantity_Receive", SqlDbType.Decimal);
+                param[8].Value = info.Quantity_Receive;
+                param[9] = new SqlParameter("@WorkDate_Receive", SqlDbType.DateTime);
+                param[9].Value = info.WorkDate_Receive;
+                param[10] = new SqlParameter("@Note", SqlDbType.NVarChar,250);
+                param[10].Value = info.Note;
+                param[11] = new SqlParameter("@RowIDMedicine", SqlDbType.Decimal);
+                param[11].Value = info.RowIDMedicine;
+                if (cn.ExecuteNonQuery(CommandType.StoredProcedure, "pro_Ins_MedicinesForPatients_Receive", param) >= 1)
+                {
+                    return 1;
+                }
+                else
+                    return -1;
+            }
+            catch(Exception ex)
+            { return -2; }
+        }
+
+
         public static Int32 Ins(MedicinesForPatients info, ref decimal dRowIDMedicines)
         {
             ConnectDB cn = new ConnectDB();

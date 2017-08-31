@@ -24,7 +24,10 @@ namespace ClinicBLL
         {
             return BanksAccountDetailDal.Upd_Paid_MedicalRecord(sMedicalCode, iPaid, sBankCode);
         }
-
+        public static Int32 Upd_Paid_SuggestedForObjectCode(string patientCode, decimal datientReceiveID, Int32 iPaid, string bankCode)
+        {
+            return BanksAccountDetailDal.Upd_Paid_SuggestedForObjectCode(patientCode, datientReceiveID, iPaid, bankCode);
+        }
         public static DataTable TableBanksTotal(string banksAccountCode, Int32 cancel, decimal patientReceiveID)
         {
             return BanksAccountDetailDal.TableBanksTotal(banksAccountCode, cancel, patientReceiveID);

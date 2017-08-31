@@ -23,6 +23,8 @@ namespace ClinicBLL
             return CareerDAL.Ins(info);
         }
 
+
+
         public static Int32 Del(string sCareerCode)
         {
             return CareerDAL.Del(sCareerCode);

@@ -3455,7 +3455,7 @@
             this.gridView_BankList.OptionsView.ShowFooter = true;
             this.gridView_BankList.OptionsView.ShowGroupPanel = false;
             this.gridView_BankList.CellValueChanging += new DevExpress.XtraGrid.Views.Base.CellValueChangedEventHandler(this.gridView_BankList_CellValueChanging);
-            this.gridView_BankList.MouseDown += new System.Windows.Forms.MouseEventHandler(this.gridView_BankList_MouseDown);
+            //this.gridView_BankList.MouseDown += new System.Windows.Forms.MouseEventHandler(this.gridView_BankList_MouseDown);
             this.gridView_BankList.DoubleClick += new System.EventHandler(this.gridView_BankList_DoubleClick);
             // 
             // col_BanksCode_Done

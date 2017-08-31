@@ -1828,10 +1828,7 @@ namespace Ps.Clinic.Entry
 
         }
 
-        private void gridView_BankList_MouseDown(object sender, MouseEventArgs e)
-        {
-            
-        }
+
 
         private void gridView_ListBanksAccount_MouseDown(object sender, MouseEventArgs e)
         {
@@ -1882,7 +1879,7 @@ namespace Ps.Clinic.Entry
                 {
                     if (ObjectBLL.Del(maRowIDFocusHandle, maReceiveIDFocusHandle, maPatientCodeFocusHandle, maServiceCodeFocusHandle) == 1)
                     {
-                        XtraMessageBox.Show("Xoá dịch vụ thành công!", "Bệnh viện điện tử .NET");
+                        XtraMessageBox.Show("Xoá dịch vụ thành công!", "Bệnh viện điện tử .NET", MessageBoxButtons.OK, MessageBoxIcon.Information);
                         this.ClearData();
                         //if (!string.IsNullOrEmpty(this.txtMabn.Text.Trim()))
                         //    this.GetNumberReceive(this.txtMabn.Text.Trim(), false);
@@ -1890,7 +1887,7 @@ namespace Ps.Clinic.Entry
                     }
                     else
                     {
-                        XtraMessageBox.Show(" Dịch vụ đã được thực hiện! Không được xóa.", "Bệnh viện điện tử .NET");
+                        XtraMessageBox.Show(" Dịch vụ đã được thực hiện! Không được xóa.", "Bệnh viện điện tử .NET", MessageBoxButtons.OK, MessageBoxIcon.Warning);
 
                         //if (!string.IsNullOrEmpty(this.txtMabn.Text.Trim()))
                         //    this.GetNumberReceive(this.txtMabn.Text.Trim(), false);

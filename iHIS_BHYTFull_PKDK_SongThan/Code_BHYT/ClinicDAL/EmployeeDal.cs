@@ -56,6 +56,31 @@ namespace ClinicDAL
             catch { list = null; }
             return list;
         }
+
+
+        public static DataTable DTEmployeeList(int iEmployCode)
+        {
+            ConnectDB cn = new ConnectDB();
+            DataTable table = new DataTable();
+            try
+            {
+                table.Columns.Add(new DataColumn("EmployeeCode", typeof(Int32)));
+                table.Columns.Add(new DataColumn("EmployeeName", typeof(string)));
+                string sql = string.Empty;
+                if (iEmployCode != 0)
+                {
+                    sql = "select EmployeeCode,EmployeeName from Object where EmployeeCode in({0}) order by EmployeeCode asc";
+                }
+                else
+                {
+                    sql = "select EmployeeCode,EmployeeName from Employee order by EmployeeCode asc";
+                }
+                table = cn.ExecuteQuery(string.Format(sql, iEmployCode));
+            }
+            catch { }
+            return table;
+        }
+
         public static List<EmployeeInf> ListEmployee(string employeeCode, bool offwork)
         {
             ConnectDB cn = new ConnectDB();

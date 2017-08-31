@@ -126,4 +126,8 @@ namespace ClinicModel
         public string ItemCode_PK { get; set; }
         public string SODKGP { get; set; }
     }
+    public class SuggestedServiceReceiptIns
+    {
+
+    }
 }

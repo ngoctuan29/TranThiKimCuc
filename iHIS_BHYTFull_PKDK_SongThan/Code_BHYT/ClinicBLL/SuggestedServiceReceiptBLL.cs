@@ -56,6 +56,17 @@ namespace ClinicBLL
         {
             return SuggestedServiceReceiptDal.Ins(info);
         }
+
+        public static DataTable Gia(string serviceCode)
+        {
+            return SuggestedServiceReceiptDal.Gia(serviceCode);
+        }
+
+        public static Int32 Lanthuchien(string sitemCode, string serviceCode)
+        {
+            return SuggestedServiceReceiptDal.Lanthuchien(sitemCode, serviceCode);
+        }
+
         public static int Ins(SuggestedServiceReceiptInf info, int statusDepartment)
         {
             return SuggestedServiceReceiptDal.Ins(info, statusDepartment);

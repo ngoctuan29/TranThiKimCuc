@@ -1519,14 +1519,6 @@ namespace Ps.Clinic.Security
             Starting.Close();
         }
 
-        private void barItem_DinhMucVTTH_ItemClick(object sender, ItemClickEventArgs e)
-        {
-            Starting = new DevExpress.Utils.WaitDialogForm("Đang tải dữ liệu...", "Bệnh viện điện tử .NET");
-            frmDanhMucVTTH frm = new frmDanhMucVTTH(this.ucLogin);
-            TabCreating(xTabMain, "Định mức Thuốc-VTTH", frm);
-            Starting.Close();
-        }
-
         private void barItem_HoanTraNCC_ItemClick(object sender, ItemClickEventArgs e)
         {
             Starting = new DevExpress.Utils.WaitDialogForm("Đang tải dữ liệu...", "Bệnh viện điện tử .NET");
@@ -2229,6 +2221,48 @@ namespace Ps.Clinic.Security
             Starting = new DevExpress.Utils.WaitDialogForm("Đang tải dữ liệu...", "Bệnh viện điện tử .NET");
             frmVP_BangKeHDChiTiet frm = new frmVP_BangKeHDChiTiet(this.ucLogin);
             TabCreating(xTabMain, "Báo cáo doanh thu chi tiết", frm);
+            Starting.Close();
+        }
+
+        private void ribbonGalleryBarItem_ItemClick(object sender, ItemClickEventArgs e)
+        {
+
+        }
+
+        private void subItem_Theodoitruyendich_ItemClick(object sender, ItemClickEventArgs e)
+        {
+
+            Starting = new DevExpress.Utils.WaitDialogForm("Đang tải dữ liệu...", "Bệnh viện điện tử .NET");
+            Starting.Close();
+            frmChonKho frmkho = new frmChonKho(this.ucLogin, 4);
+            frmkho.ShowDialog(this);
+            if (!string.IsNullOrEmpty(frmkho.s_RepositoryCode))
+            {
+                frmDuoc_TheoDoiDichTruyen frm = new frmDuoc_TheoDoiDichTruyen(this.ucLogin, frmkho.s_RepositoryCode, this.shiftWork);
+                TabCreating(xTabMain, " Theo dõi dịch truyền", frm);
+            }
+
+        }
+
+        private void barButtonItem10_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            Starting = new DevExpress.Utils.WaitDialogForm("Đang tải dữ liệu...", "Bệnh viện điện tử .NET");
+            Starting.Close();
+            frmChonKho frmkho = new frmChonKho(this.ucLogin, 4);
+            frmkho.ShowDialog(this);
+            if (!string.IsNullOrEmpty(frmkho.s_RepositoryCode))
+            {
+                frmTheoDoi_ThuocVTTH frm = new frmTheoDoi_ThuocVTTH(this.ucLogin, frmkho.s_RepositoryCode, this.shiftWork);
+                TabCreating(xTabMain, " Theo dõi cấp phát VTTH", frm);
+            }
+        }
+
+
+        private void barItem_DinhMucVTTH_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            Starting = new DevExpress.Utils.WaitDialogForm("Đang tải dữ liệu...", "Bệnh viện điện tử .NET");
+            frmDanhMucVTTH frm = new frmDanhMucVTTH(this.ucLogin);
+            TabCreating(xTabMain, "Định mức Thuốc-VTTH theo dịch vụ", frm);
             Starting.Close();
         }
     }

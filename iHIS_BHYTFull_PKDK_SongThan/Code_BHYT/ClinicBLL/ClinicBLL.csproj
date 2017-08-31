@@ -48,6 +48,7 @@
     <Compile Include="Fee_Advance_PaymentBLL.cs" />
     <Compile Include="Fee_NoteBookBLL.cs" />
     <Compile Include="HSBA_SynchronizeBLL.cs" />
+    <Compile Include="RealMedicinesForPatients_VTTH_AttachBLL.cs" />
     <Compile Include="ReportDiscountBLL.cs" />
     <Compile Include="Rpt_VuDieuTriBLL.cs" />
     <Compile Include="SSTBLL.cs" />
