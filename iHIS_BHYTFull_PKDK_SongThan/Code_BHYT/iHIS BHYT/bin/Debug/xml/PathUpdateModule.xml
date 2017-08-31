@@ -2,9 +2,18 @@
 <updateModule>
   <path>
     <srcPath>\\SERVERIHIS\Update</srcPath>
+<<<<<<< HEAD
+    <destPath>D:\GitHub\PKDK SongThan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\iHIS BHYT\bin\Debug</destPath>
+    <currentPath>D:\GitHub\PKDK SongThan\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\iHIS BHYT\bin\Debug</currentPath>
+=======
     <destPath>C:\Users\DEV09\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\iHIS BHYT\bin\Debug</destPath>
     <currentPath>C:\Users\DEV09\Desktop\TranThiKimCuc\iHIS_BHYTFull_PKDK_SongThan\Code_BHYT\iHIS BHYT\bin\Debug</currentPath>
+<<<<<<< HEAD
     <version>2017.08.30.05</version>
+=======
+>>>>>>> 9b6b22a3041b24a83c4f20bb110f56400fceabc1
+    <version>2017.07.17.01</version>
+>>>>>>> b54f8261ce47d393b3210395081a889b89a3d5b4
     <auto>1</auto>
     <module>iHIS Solutions</module>
   </path>
